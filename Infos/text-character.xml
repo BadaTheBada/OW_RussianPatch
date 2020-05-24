@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<!-- Title -->
+	<Entry>
+		<zType/>
+		<Russian/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_KING</zType>
+		<Russian><![CDATA[<masculine_0>Король<feminine>Королева<end> {0_name}]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_KING_CONSORT</zType>
+		<Russian><![CDATA[<masculine_0>Король-супруг<feminine>Королева-супруга<end> {0_name}]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_KING_DOWAGER</zType>
+		<Russian><![CDATA[<masculine_0>Король-вдовец<feminine>Королева-вдова<end> {0_name}]]></Russian>
+	</Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_PRINCE</zType>
+    <Russian><![CDATA[<masculine_0>Принц<feminine>Принцесса<end> {0_name}]]></Russian>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_PRINCE_CONSORT</zType>
+    <Russian><![CDATA[<masculine_0>Принц-cупруг<feminine>Принцесса-cупруга<end> {0_name}]]></Russian>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_DUKE</zType>
+    <Russian><![CDATA[<masculine_0>Герцог<feminine>Герцогигня<end> {0_name}]]></Russian>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_DUKE_CONSORT</zType>
+    <Russian><![CDATA[<masculine_0>Герцог-супруг<feminine>Герцогиня-супруга<end> {0_name}]]></Russian>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_COUNCIL</zType>
+    <Russian>{0_title} {1_name}</Russian>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_GENERAL</zType>
+    <Russian>Ген. {0_name}</Russian>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_GOVERNOR</zType>
+    <Russian>Губерн. {0_name}</Russian>
+  </Entry>
+  <!-- Relation -->
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_YOU</zType>
+		<Russian>Вы!</Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_SPOUSE</zType>
+		<Russian><![CDATA[<masculine_0>Ваш<feminine>Ваша <masculine_0>Муж<feminine>Жена<end>]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_CHILD</zType>
+		<Russian><![CDATA[<masculine_0>Ваш<feminine>Ваша <masculine_0>Сын<feminine>Дочь<end>]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_GRANDCHILD</zType>
+		<Russian><![CDATA[<masculine_0>Ваш<feminine>Ваша <masculine_0>Внук<feminine>Внучка<end>]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_DESCENDANT</zType>
+		<Russian>Ваш потомок</Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_PARENT</zType>
+		<Russian><![CDATA[<masculine_0>Ваш<feminine>Ваша <masculine_0>Отец<feminine>Мать<end>]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_GRANDPARENT</zType>
+		<Russian><![CDATA[<masculine_0>Ваш<feminine>Ваша <masculine_0>Дед<feminine>Бабушка<end>]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_ANCESTOR</zType>
+		<Russian>Ваш предок</Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_SIBLING</zType>
+		<Russian><![CDATA[<masculine_0>Ваш<feminine>Ваша <masculine_0>Брат<feminine>Сестра<end>]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_SIBLING_IN_LAW</zType>
+		<Russian><![CDATA[<masculine_0>Ваш<feminine>Ваша <masculine_0>Шурин<feminine>Золовка<end>]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_HALF_SIBLING</zType>
+		<Russian><![CDATA[<masculine_0>Ваш<feminine>Ваша <masculine_0>Сводный брат<feminine>Сводная сестра<end>]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_COUSIN</zType>
+		<Russian><![CDATA[<masculine_0>Ваш<feminine>Ваша <masculine_0>Двоюродный брат<feminine>Двоюродная сестра<end>]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_AUNT_UNCLE</zType>
+		<Russian><![CDATA[<masculine_0>Ваш<feminine>Ваша <masculine_0>Дядя<feminine>Тётя<end>]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_NIECE_NEPHEW</zType>
+		<Russian><![CDATA[<masculine_0>Ваш<feminine>Ваша <masculine_0>Племянник<feminine>Племянница<end>]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_CHILD_IN_LAW</zType>
+		<Russian><![CDATA[<masculine_0>Ваш<feminine>Ваша <masculine_0>Зять<feminine>Невестка<end>]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_PARENT_IN_LAW</zType>
+		<Russian><![CDATA[<masculine_0>Ваш<feminine>Ваша <masculine_0>Тесть<feminine>Свекровь<end>]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_STEPCHILD</zType>
+		<Russian><![CDATA[<masculine_0>Ваш<feminine>Ваша <masculine_0>Пасынок<feminine>Падчерица<end>]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_STEPPARENT</zType>
+		<Russian><![CDATA[<masculine_0>Ваш<feminine>Ваша <masculine_0>Отчим<feminine>Мачеха<end>]]></Russian>
+	</Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_RELATION_RELATIVE</zType>
+    <Russian>Ваши Родственники</Russian>
+  </Entry>
+  <!-- По линии или родной? Your In-Law -->
+  <Entry>
+    <zType>TEXT_CHARACTER_RELATION_IN_LAW</zType>
+    <Russian>Ваша родня</Russian>
+  </Entry>
+  <!-- Heir -->
+	<Entry>
+		<zType>TEXT_CHARACTER_HEIR_ORDER_1</zType>
+		<Russian><![CDATA[<masculine_0>Наследник<feminine>Наследница<end>]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_HEIR_ORDER_2</zType>
+		<Russian>Вторая очередь</Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_HEIR_ORDER_3</zType>
+		<Russian>Третья очередь</Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_HEIR_ORDER_4</zType>
+		<Russian>Четвёртая очередь</Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_HEIR_ORDER_X</zType>
+		<Russian>Дальний преемник</Russian>
+	</Entry>
+	<!-- Misc -->
+	<Entry>
+		<zType>TEXT_CHARACTER_DEAD</zType>
+		<Russian><![CDATA[<icon>skull</icon> {0_name}]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_HAS_COGNOMEN</zType>
+		<Russian>{0_name} {1_cognomen}</Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_GOVERNOR_OF</zType>
+		<Russian>Губернатор {0_city}</Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_GENERAL_OF</zType>
+		<Russian>Генерал {0_unit}</Russian>
+	</Entry>
+	<!-- Name -->
+	<Entry>
+		<zType>TEXT_CHARACTER_FULL_NAME_EXTRA</zType>
+		<Russian> ({0_data})</Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_NAME_WITH_CREST</zType>
+		<Russian>{0_name} {1_crest}</Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_FIRST_AND_LAST_NAME</zType>
+		<Russian>{0_firstname} {1_lastname}</Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_NAME_WITH_SUFFIX</zType>
+		<Russian>{0_name} {1_suffix}</Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_OF_NATION</zType>
+		<Russian>{0_name} {1_nation}</Russian>
+	</Entry>
+	<!--Game Text-->
+	<Entry>
+		<zType>TEXT_CHARACTER_NEW_RULER</zType>
+		<Russian><![CDATA[Наш старый правитель мёртв. Теперь начинается правление {0_newLeader}. Да здравствует <masculine_0>Король<feminine>Королева<end>!]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COUNCIL_HAS_DIED</zType>
+		<Russian><![CDATA[<masculine_0>Ваш<feminine>Ваша {0_council}, {1_character}, <masculine_0>умер<feminine>умерла! <end>!]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_HAS_DIED</zType>
+		<Russian><![CDATA[{0_character} <masculine_0>умерла<feminine>умер! <end>!]]></Russian>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_LEADER_NEW_COGNOMEN</zType>
+		<Russian><![CDATA[<comment variable 0 is leader for gender purposes>Вы теперь известны как {1_cognomen}!]]></Russian>
+	</Entry>
+</Root>
