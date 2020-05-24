@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Root>
+  <Entry>
+    <zType />
+    <Name />
+    <zFieldName />
+    <zISOCode />
+    <iExportColumn />
+    <bPublicBuild />
+    <bDebug />
+    <zSingularExpression />
+    <zPluralExpression />
+    <zThousandsSeparator />
+    <zDecimalSeparator />
+    <zCurrencyPrefix />
+    <zCurrencyPostfix />
+    <zThousandPostfix />
+    <zMillionPostfix />
+  </Entry>
+  <Entry>
+    <zType>LANGUAGE_RUSSIAN</zType>
+    <Name>TEXT_LANGUAGE_RUSSIAN</Name>
+    <zFieldName>Russian</zFieldName>
+    <zISOCode>ru</zISOCode>
+    <iExportColumn>3</iExportColumn>
+    <bPublicBuild>1</bPublicBuild>
+    <zSingularExpression>x==1</zSingularExpression>
+    <zThousandsSeparator></zThousandsSeparator>
+    <zDecimalSeparator>,</zDecimalSeparator>
+    <zCurrencyPrefix>$</zCurrencyPrefix>
+    <zThousandPostfix>K</zThousandPostfix>
+    <zMillionPostfix>M</zMillionPostfix>
+  </Entry>
+</Root>
