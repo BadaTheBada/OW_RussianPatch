@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<Root>
+	<!-- Title -->
+	<Entry>
+		<zType/>
+		<English/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_REBELS</zType>
+		<English>Rebels~Rebel~Rebels</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_ANARCHY</zType>
+		<English>Anarchy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_RAIDERS</zType>
+		<English>Raiders~Raider~Raiders</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_TRIBE</zType>
+		<English>Barbarians~Barbarian~Barbarians</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_GAULS</zType>
+		<English>Gauls~Gallic~Gauls</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_VANDALS</zType>
+		<English>Vandals~Vandal~Vandals</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_DANES</zType>
+		<English>Danes~Danish~Danes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_THRACIANS</zType>
+		<English>Thracians~Thracian~Thracians</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_SCYTHIANS</zType>
+		<English>Scythians~Scythian~Scythians</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_NUMIDIANS</zType>
+		<English>Numidians~Numidian~Numidians</English>
+	</Entry>
+</Root>

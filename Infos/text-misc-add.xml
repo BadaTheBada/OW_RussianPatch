@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<Root>
+	<!-- Barbarian -->
+	<Entry>
+		<zType/>
+		<English/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_PLURAL</zType>
+		<English>{0,0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_SINGULAR</zType>
+		<English>{0,1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_ADJECTIVE</zType>
+		<English>{0,2}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_SITE</zType>
+		<English>{0,2_BarbarianAdjective} Site</English>
+	</Entry>
+	<!-- Nation -->
+	<Entry>
+		<zType>TEXT_NATION_NAME</zType>
+		<English>{0,0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_SINGULAR</zType>
+		<English>{0,1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_PLURAL</zType>
+		<English>{0,2}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_ADJECTIVE</zType>
+		<English>{0,3}</English>
+	</Entry>
+	<!-- Family -->
+	<Entry>
+		<zType>TEXT_FAMILY_SINGULAR</zType>
+		<English>{0,0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILY_PLURAL</zType>
+		<English>{0,1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILY_ADJECTIVE</zType>
+		<English>{0,2}</English>
+	</Entry>
+	<!-- Player -->
+	<Entry>
+		<zType>TEXT_PLAYER_NUMBER</zType>
+		<English>Player {0_number}</English>
+	</Entry>
+	<!-- HotKeys -->
+	<Entry>
+		<zType>TEXT_HOTKEY_PLUS_SPACE_TWO</zType>
+		<English>{0_key} + {1_key}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_PLUS_TWO</zType>
+		<English>{0_key}+{1_key}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_RIGHT_CLICK</zType>
+		<English>[RIGHT-CLICK]</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CTRL_CLICK</zType>
+		<English>[CTRL+CLICK]</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_SHIFT_CLICK</zType>
+		<English>[SHIFT+CLICK]</English>
+	</Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CTRL_SHIFT_CLICK</zType>
+    <English>[CTRL+SHIFT+CLICK]</English>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CTRL_ALT_CLICK</zType>
+    <English>[CTRL+ALT+CLICK]</English>
+  </Entry>
+  <Entry>
+		<zType>TEXT_HOTKEY_SHIFT</zType>
+		<English>[SHIFT]</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CTRL</zType>
+		<English>[CTRL]</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_ALT</zType>
+		<English>[ALT]</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_RESOURCE_DENSITY</zType>
+		<English>Resource Density</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_MIRROR_MAP</zType>
+		<English>Mirror Map</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_SCENARIO_RESOURCES</zType>
+		<English>Resources</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_WATER_SIZE</zType>
+		<English>Water Size</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_WATER_LOCATION</zType>
+		<English>Water Location</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_PLAYER_START_LOCATION</zType>
+		<English>Player Start Location</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_TRIBES</zType>
+		<English>Tribes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_TERRAIN_TYPE_VARIATION</zType>
+		<English>Type of Terrain Variation</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_LOCATION_OF_TRIBAL_LANDS</zType>
+		<English>Location of Tribal Lands</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_TYPE_OF_EXTREME_TERRAIN</zType>
+		<English>Type of Extreme Terrain</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CENTER_BIAS</zType>
+		<English>Center Bias</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENTS</zType>
+		<English>Continents</English>
+	</Entry>
+</Root>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<!--Assets/GameAssets/Resources/Infos/improvement.xml-->
+	<!--NOTE: improvement names that are mass nouns or plural do not need multiple types in English-->
+	<Entry>
+		<zType/>
+		<English/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_FORT</zType>
+		<English>Fort~a Fort~Forts</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_FARM</zType>
+		<English>Farm~a Farm~Farms</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_MINE</zType>
+		<English>Mine~a Mine~Mines</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_LUMBERMILL</zType>
+		<English>Lumbermill~a Lumbermill~Lumbermills</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_QUARRY</zType>
+		<English>Quarry~a Quarry~Quarries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_PASTURE</zType>
+		<English>Pasture~a Pasture~Pastures</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_CAMP</zType>
+		<English>Camp~a Camp~Camps</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_GROVE</zType>
+		<English>Grove~a Grove~Groves</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_NETS</zType>
+		<English>Nets</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_HARBOR</zType>
+		<English>Harbor~a Harbor~Harbors</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_GRANARY</zType>
+		<English>Granary~a Granary~Granaries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_MILL</zType>
+		<English>Mill~a Mill~Mills</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_HAMLET</zType>
+		<English>Hamlet~a Hamlet~Hamlets</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_AQUEDUCT</zType>
+		<English>Aqueduct~an Aqueduct~Aqueducts</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_BARRACKS</zType>
+		<English>Barracks~a Barracks~Barracks</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_RANGE</zType>
+		<English>Range~a Range~Ranges</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_THEATER</zType>
+		<English>Theater~a Theater~Theaters</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_BATHS</zType>
+		<English>Bath~a Bath~Baths</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_MARKET</zType>
+		<English>Market~a Market~Markets</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_LIBRARY</zType>
+		<English>Library~a Library~Libraries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_COURTHOUSE</zType>
+		<English>Courthouse~a Courthouse~Courthouses</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_GARRISON</zType>
+		<English>Garrison~a Garrison~Garrisons</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_SHRINE</zType>
+		<English>Shrine~a Shrine~Shrines</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_MONASTERY</zType>
+		<English>Monastery~a Monastery~Monasteries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_TEMPLE</zType>
+		<English>Temple~a Temple~Temples</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_CATHEDRAL</zType>
+		<English>Cathedral~a Cathedral~Cathedrals</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_HOLY_SITE</zType>
+		<English>Holy Site~a Holy Site~Holy Sites</English>
+	</Entry>
+</Root>

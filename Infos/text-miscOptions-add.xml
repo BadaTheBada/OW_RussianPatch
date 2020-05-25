@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+    <Entry>
+        <zType/>
+        <English/>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_EMAIL_NAME</zType>
+        <English>Email</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_EMAIL_DESC</zType>
+        <English>Your email address will be used for play by cloud games (when they become available), or to contact you if necessary when you submit bugs.</English>
+    </Entry>
+</Root>

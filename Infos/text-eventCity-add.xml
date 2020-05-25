@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType/>
+		<English/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_POPULATION_BOOM</zType>
+		<English>{CITY} has experienced a baby boom</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_CIVICS_BOOM</zType>
+		<English>{CITY} has experienced a civics boom</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_TRAINING_BOOM</zType>
+		<English>{CITY} has experienced a training boom</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_SCIENCE_BOOM</zType>
+		<English>{CITY} has experienced a scientific renaissance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_MONEY_BOOM</zType>
+		<English>{CITY} has experienced an economic boom</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_ORDERS_BOOM</zType>
+		<English>{CITY} has experienced a burst of activity</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_GREAT_SOLDIER</zType>
+		<English>A Great Soldier has emerged from {CITY}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_GREAT_MINISTER</zType>
+		<English>A Great Minister has emerged from {CITY}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_GREAT_MERCHANT</zType>
+		<English>A Great Merchant has emerged from {CITY}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_GREAT_SCIENTIST</zType>
+		<English>A Great Scientist has emerged from {CITY}</English>
+	</Entry>
+	<!--Name-->
+	<Entry>
+		<zType>TEXT_EVENTCITY_POPULATION_BOOM_NAME</zType>
+		<English>Population Boom</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_CIVICS_BOOM_NAME</zType>
+		<English>Civics Boom</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_TRAINING_BOOM_NAME</zType>
+		<English>Training Boom</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_SCIENCE_BOOM_NAME</zType>
+		<English>Science Boom</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_MONEY_BOOM_NAME</zType>
+		<English>Money Boom</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_ORDERS_BOOM_NAME</zType>
+		<English>Orders Boom</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_GREAT_SOLDIER_NAME</zType>
+		<English>Great Soldier</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_GREAT_MINISTER_NAME</zType>
+		<English>Great Minister</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_GREAT_MERCHANT_NAME</zType>
+		<English>Great Merchant</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_GREAT_SCIENTIST_NAME</zType>
+		<English>Great Scientist</English>
+	</Entry>
+</Root>
