@@ -1,18 +1,12 @@
-# OW_RussianPatch
-Russian localization for Old World game
+# Old World Russian localization
+Русификатор для игры Old World.
 
-Feel free to contribute.
+# Установка и использование
+Скачайте мод и поместите файлы в папку: D:\User\Documents\my games\OldWorld\Test\Mods или D:\User\Documents\my games\OldWorld\Mods (или аналогичную). Запустите Old World, выберите New Game, выберите нацию, откройте вкладку Advanced Setup, найдите в списке настроек мод и включите его. Начните игру, затем поменяйте язык в настройках: Options -> вкладка UI -> Languages -> Russian (Russia) -> Save.
 
-Text files references can be found at C:\Program Files\Epic Games\OldWorldTestBranch\Reference\XML or C:\Program Files\Epic Games\OldWorld\Reference\XML
+Если вы хотите включить мод для уже существующей партии, необходимо: нажать New Game -> выбрать нацию -> открыть вкладку Advanced Setup -> включить мод -> вернуться в главное меню -> загрузить сохранение -> поменять язык в настройках.
 
-There the text-something.xml contains the text you need to change. Some text is still hardcoded and not present in these files.
-
-# Installation and use
-Download these files and put them in D:\User\Documents\my games\OldWorld\Test\Mods or D:\User\Documents\my games\OldWorld\Mods (or similar). Launch Old World, set up a new game and go into Advanced Setup to find the mod and enable it. Start the game and go into Options -> UI -> Languages -> Russian (Russia) and save.
-
-Ready to play in Russian!
-
-If you want to load an existing game you need to: Setup a new game -> Go in Advanced Setup -> Enable the mod -> Go back into Main menu -> Load a game and choose your save -> Launch it and set the language in options
-
-# Be aware
-When starting Old World, it will looks for the latest used language. If this one is Russian, because it is not included yet in basegame and mods will not have loaded, Old World won't find it and so switch language to DEBUG. This will cause text to not be localised until you set language to English or another language
+# Помощь переводчикам
+Мы будем рады, если вы:
+* Присоединитесь к процессу перевода. Информация для переводчиков [ЗДЕСЬ.](https://github.com/BadaTheBada/OW_RussianPatch/wiki/Translating)
+* Поможете с тестированием. Поделитесь с нами ошибками и неточностями перевода, описав игровую ситуацию и приложив скриншот во вкладке _Issues_.
