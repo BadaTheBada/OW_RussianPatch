@@ -1,15 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <Root>
+<!--Translated by Elena Davydova (Bada)-->
     <Entry>
         <zType/>
-        <English/>
+        <Russian/>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_EMAIL_NAME</zType>
-        <English>Email</English>
+        <Russian>Email</Russian>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_EMAIL_DESC</zType>
-        <English>Your email address will be used for play by cloud games (when they become available), or to contact you if necessary when you submit bugs.</English>
+        <Russian>Ваш Email будет использован для игр в облаке (когда они станут доступны) или для того, чтобы связаться с вами в случае заявления о багах.</Russian>
     </Entry>
 </Root>
