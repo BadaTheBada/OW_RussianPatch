@@ -1,60 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Root>
+	<!--Translated by Elena Davydova (Bada)-->
 	<!--Name-->
 	<Entry>
 		<zType/>
-		<English/>
+		<Russian/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_GROWTH</zType>
-		<English>Growth</English>
+		<Russian><meta=male>Рост~Роста~Росту~Рост~Ростом~Росте</Russian>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_CIVICS</zType>
-		<English>Civics</English>
+		<Russian>Жители~Жителей~Жителям~Жителей~Жителями~Жителях</Russian>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_TRAINING</zType>
-		<English>Training</English>
+		<Russian><meta=female>Тренировка~Тренировки~Тренировке~Тренировку~Тренировкой~Тренировке</Russian>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_CULTURE</zType>
-		<English>Culture</English>
+		<Russian><meta=female>Культура~Культуры~Культуре~Культуру~Культурой~Культуре</Russian>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_DISCONTENT</zType>
-		<English>Discontent</English>
+		<Russian><meta=neuter>Недовольство~Недовольства~Недовольству~Недовольство~Недовольством~Недовольстве</Russian>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_SCIENCE</zType>
-		<English>Science</English>
+		<Russian><meta=female>Наука~Науки~Науке~Науку~Наукой~Науке</Russian>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_MONEY</zType>
-		<English>Money</English>
+		<Russian>Деньги~Денег~Деньгам~Деньги~Деньгами~Деньгах</Russian>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_MAINTENANCE</zType>
-		<English>Maintenance</English>
+		<Russian><meta=neuter>Содержание~Содержания~Содержанию~Содержание~Содержанием~Содержании</Russian>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_ORDERS</zType>
-		<English>Orders</English>
+		<Russian>Приказы~Приказов~Приказам~Приказы~Приказами~Приказах</Russian>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_FOOD</zType>
-		<English>Food</English>
+		<Russian><meta=female>Еда~Еды~Еде~Еду~Едой~Еде</Russian>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_IRON</zType>
-		<English>Iron</English>
+		<Russian><meta=neuter>Железо~Железа~Железу~Железо~Железом~Железе</Russian>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_WOOD</zType>
-		<English>Wood</English>
+		<Russian><meta=neuter>Дерево~Дерева~Дереву~Дерево~Деревом~Дереве</Russian>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_STONE</zType>
-		<English>Stone</English>
+		<Russian><meta=male>Камень~Камня~Камню~Камень~Камнем~Камне</Russian>
 	</Entry>
 </Root>
