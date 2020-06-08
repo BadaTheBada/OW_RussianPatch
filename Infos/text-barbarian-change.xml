@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<!--Translated by Elena Davydova (Bada)-->
+<Root>
+  <!-- Title -->
+  <Entry>
+    <zType />
+    <Translation />
+  </Entry>
+  <Entry>
+    <zType>TEXT_BARBARIAN_REBELS</zType>
+    <Translation>Мятежники~Мятежников~Мятежникам~Мятежников~Мятежниками~Мятежниках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BARBARIAN_ANARCHY</zType>
+    <Translation>Анархия</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BARBARIAN_RAIDERS</zType>
+    <Translation>Мародеры~Мародеров~Мародерам~Мародеров~Мародерами~Мародерах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BARBARIAN_TRIBE</zType>
+    <Translation>Варвары~Варваров~Варварам~Варваров~Варварами~Варварах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BARBARIAN_GAULS</zType>
+    <Translation>Галлы~Галлов~Галлам~Галлов~Галлами~Галлах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BARBARIAN_VANDALS</zType>
+    <Translation>Вандалы~Вандалов~Вандалам~Вандалов~Вандалами~Вандалах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BARBARIAN_DANES</zType>
+    <Translation>Датчане~Датчан~Датчанам~Датчан~Датчанами~Датчанах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BARBARIAN_THRACIANS</zType>
+    <Translation>Фракийцы~Фракийцев~Фракийцам~Фракийцев~Фракийцами~Фракийцах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BARBARIAN_SCYTHIANS</zType>
+    <Translation>Скифы~Скифов~Скифам~Скифов~Скифами~Скифах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BARBARIAN_NUMIDIANS</zType>
+    <Translation>Нумидийцы~Нумидийцев~Нумидийцам~Нумидийцев~Нумидийцами~Нумидийцах</Translation>
+  </Entry>
+</Root>
