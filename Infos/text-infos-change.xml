@@ -7,13 +7,12 @@
     <Translation />
   </Entry>
   <!-- InfoLanguage -->
-  <Entry>
+  <!-- Is it necessary in new system? -->
+  <!--<Entry>
     <zType>TEXT_LANGUAGE_RUSSIAN_TRANSLATION</zType>
 		<Translation>Russian</Translation>
-  </Entry>
-  
-  <!-- Is it necessary? -->
-  <!--<Entry>
+  </Entry>  
+  <Entry>
     <zType>TEXT_LANGUAGE_DEBUG</zType>
     <Translation>Text Debug</Translation>
   </Entry>-->
