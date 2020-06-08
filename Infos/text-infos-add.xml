@@ -1,420 +1,420 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--Translated by Elena Davydova (Bada)-->
 <Root>
   <!-- InfoEventOption -->
   <Entry>
     <zType />
-    <Russian />
-  </Entry>
-  <Entry>
-    <zType>TEXT_EVENTOPTION_GTEST_COOL</zType>
-    <Russian>{CITY-0} - это классное название для города.</Russian>
+    <Translation />
   </Entry>
   <!-- InfoLanguage -->
   <Entry>
-    <zType>TEXT_LANGUAGE_RUSSIAN</zType>
-    <Russian>Russian (Russia)</Russian>
+    <zType>TEXT_LANGUAGE_RUSSIAN_TRANSLATION</zType>
+		<Translation>Russian</Translation>
   </Entry>
+  
+  <!-- Is it necessary? -->
+  <!--<Entry>
+    <zType>TEXT_LANGUAGE_DEBUG</zType>
+    <Translation>Text Debug</Translation>
+  </Entry>-->
+  
   <!-- InfoTerrain -->
   <Entry>
     <zType>TEXT_TERRAIN_WATER</zType>
-    <Russian>Вода</Russian>
+    <Translation>Вода</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TERRAIN_URBAN</zType>
-    <Russian>Город</Russian>
+    <Translation>Город</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TERRAIN_LUSH</zType>
-    <Russian>Луга</Russian>
+    <Translation>Луга</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TERRAIN_TEMPERATE</zType>
-    <Russian>Равнина</Russian>
+    <Translation>Равнина</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TERRAIN_ARID</zType>
-    <Russian>Пустыня</Russian>
+    <Translation>Пустыня</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TERRAIN_SAND</zType>
-    <Russian>Пески</Russian>
+    <Translation>Пески</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TERRAIN_TUNDRA</zType>
-    <Russian>Тундра</Russian>
+    <Translation>Тундра</Translation>
   </Entry>
   <!--InfoBuild-->
   <Entry>
     <zType>TEXT_BUILD_PROJECT</zType>
-    <Russian>Проект</Russian>
+    <Translation>Проект</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_BUILD_SPECIALIST</zType>
-    <Russian>Специалист</Russian>
+    <Translation>Специалист</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_BUILD_UNIT</zType>
-    <Russian>Юнит</Russian>
+    <Translation>Юнит</Translation>
   </Entry>
   <!--InfoConcept-->
   <Entry>
-    <!--Пример использования?-->
     <zType>TEXT_CONCEPT_ALLIANCE_BARB</zType>
-    <Russian>Союз с варварами</Russian>
+    <Translation>Союз с варварами</Translation>
   </Entry>
   <Entry>
-    <!--Пример использования?-->
     <zType>TEXT_CONCEPT_ALLIANCE_PLAYER</zType>
-    <Russian>Союз с игроком</Russian>
+    <Translation>Союз с игроком</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_BARBARIAN_INVADE</zType>
-    <Russian>Нападение варваров</Russian>
+    <Translation>Нападение варваров</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_BUY_TILE</zType>
-    <Russian>Купить клетки</Russian>
+    <Translation>Купить клетки</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_CULTURE_EVENT</zType>
-    <Russian>Культурное событие</Russian>
+    <Translation>Культурное событие</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_CLEAR</zType>
-    <Russian>Очистить</Russian>
+    <Translation>Очистить</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_CONDUCT_TRADE_MISSION</zType>
-    <Russian>Отправить торговую делегацию</Russian>
+    <Translation>Отправить торговую делегацию</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_CRITICAL_HIT</zType>
-    <Russian>Критический удар</Russian>
+    <Translation>Критический удар</Translation>
   </Entry>
   <Entry>
-    <!--Пример использования?-->
     <zType>TEXT_CONCEPT_ENVY</zType>
-    <Russian>Зависть</Russian>
+    <Translation>Зависть</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_GENERAL</zType>
-    <Russian>Генерал</Russian>
+    <Translation>Генерал</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_GOVERNOR</zType>
-    <Russian>Губернатор</Russian>
+    <Translation>Губернатор</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_HARVEST_RESOURCE</zType>
-    <Russian>Собрать урожай</Russian>
+    <Translation>Собрать урожай</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_JOIN_COURT</zType>
-    <Russian>Присоединиться к двору</Russian>
+    <Translation>Присоединиться к двору</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_IDLE</zType>
-    <Russian>Свободный</Russian>
+    <Translation>Свободный</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_IGNORES_ZOC</zType>
-    <Russian>Игнорировать ЗК</Russian>
+    <Translation>Игнорирует ЗК</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_LUXURY</zType>
-    <Russian>Редкий ресурс</Russian>
+    <Translation>Редкие ресурсы</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_PROJECT_INFO</zType>
-    <Russian>Проект</Russian>
+    <Translation>Проект</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_RAISE_IMPROVEMENTS</zType>
-    <Russian>Возвести сооружение</Russian>
+    <Translation>Возвести сооружения</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_REBEL</zType>
-    <Russian>Мятежник</Russian>
+    <Translation>Мятежник</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_ROUT</zType>
-    <Russian>Разгромить</Russian>
+    <Translation>Громила</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_SETTLEMENT</zType>
-    <Russian>Поселение</Russian>
+    <Translation>Поселение</Translation>
   </Entry>
   <Entry>
-  <!--Все записи с тильдой тщательно проверить-->
     <zType>TEXT_CONCEPT_URBAN</zType>
-    <Russian><![CDATA[Городской~Городской<comment this text is an adjective>]]></Russian>
+    <Translation><![CDATA[Город~Городской<comment this text is an adjective>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_ZOC</zType>
-    <Russian>ЗК</Russian>
+    <Translation>ЗК</Translation>
   </Entry>
   <!--InfoVegetation-->
   <Entry>
     <zType>TEXT_VEGETATION_TREES</zType>
-    <Russian>Деревья</Russian>
+    <Translation>Деревья</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_VEGETATION_TREES_REMOVE</zType>
-    <Russian>Вырубить деревья</Russian>
+    <Translation>Вырубить деревья</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_VEGETATION_TREES_CUT</zType>
-    <Russian>Деревья (вырублены)</Russian>
+    <Translation>Деревья (вырублены)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_VEGETATION_TREES_CUT_REMOVE</zType>
-    <Russian>Очистить от деревьев</Russian>
+    <Translation>Очистить землю</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_VEGETATION_SCRUB</zType>
-    <Russian>Куст~Куст~Кусты</Russian>
+    <Translation>Кусты</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_VEGETATION_SCRUB_REMOVE</zType>
-    <Russian>Вырубить кусты</Russian>
+    <Translation>Вырубить кусты</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_VEGETATION_SCRUB_CUT</zType>
-    <Russian>Куст (вырублен)~Куст (вырублен)~Кусты (вырублены)</Russian>
+    <Translation>Кусты (вырублены)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_VEGETATION_SCRUB_CUT_REMOVE</zType>
-    <Russian>Очистить от кустов</Russian>
+    <Translation>Очистить землю</Translation>
   </Entry>
   <!--InfoSpecialist-->
   <Entry>
     <zType>TEXT_SPECIALIST_FARMER</zType>
-    <Russian>Фермер~Фермер~Фермеры</Russian>
+    <Translation>Фермер~Фермера~Фермеру~Фермера~Фермером~Фермере</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_WOODCUTTER</zType>
-    <Russian>Лесоруб~Лесоруб~Лесорубы</Russian>
+    <Translation>Лесоруб~Лесоруба~Лесорубу~Лесоруба~Лесорубом~Лесорубе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_STONECUTTER</zType>
-    <Russian>Камнерез~Камнерез~Камнерезы</Russian>
+    <Translation>Камнерез~Камнереза~Камнерезу~Камнереза~Камнерезом~Камнерезе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_MINER</zType>
-    <Russian>Рудокоп~Рудокоп~Рудокопы</Russian>
+    <Translation>Рудокоп~Рудокопа~Рудокопу~Рудокопа~Рудокопом~Рудокопе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_RANCHER</zType>
-    <Russian>Пастух~Пастух~Пастухи</Russian>
+    <Translation>Пастух~Пастуха~Пастуху~Пастуха~Пастухом~Пастухе </Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_TRAPPER</zType>
-    <Russian>Охотник~Охотник~Охотники</Russian>
+    <Translation>Охотник~Охотника~Охотнику~Охотника~Охотником~Охотнике</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_GARDENER</zType>
-    <Russian>Садовник~Садовник~Садовники</Russian>
+    <Translation>Садовник~Садовника~Садовнику~Садовника~Садовником~Садовнике</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_FISHER</zType>
-    <Russian>Рыбак~Рыбак~Рыбаки</Russian>
+    <Translation>Рыбак~Рыбака~Рыбаку~Рыбака~Рыбаком~Рыбаке</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_ACOLYTE_1</zType>
-    <Russian>Младший прислужник~Младший прислужник~Младшие прислужники</Russian>
+    <Translation>Младший прислужник~Младшего прислужника~Младшему прислужнику~Младшего прислужника~Младшим прислужником~Младшем прислужнике</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_ACOLYTE_2</zType>
-    <Russian>Прислужник~Прислужник~Прислужники</Russian>
+    <Translation>Прислужник~Прислужника~Прислужнику~Прислужника~Прислужником~Прислужнике</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_ACOLYTE_3</zType>
-    <Russian>Старший прислужник~Старший прислужник~Старшие прислужники</Russian>
+    <Translation>Старший прислужник~Старшего прислужника~Старшему прислужнику~Старшего прислужника~Старшим прислужником~Старшем прислужнике</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_DOCTOR_1</zType>
-    <Russian>Младший целитель~Младший целитель~Младшие целители</Russian>
+    <Translation>Младший целитель~Младшего целителя~Младшему целителю~Младшего целителя~Младшим целителем~Младшем целителе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_DOCTOR_2</zType>
-    <Russian>Целитель~Целитель~Целители</Russian>
+    <Translation>Целитель~Целителя~Целителю~Целителя~Целителем~Целителе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_DOCTOR_3</zType>
-    <Russian>Старший целитель~Старший целитель~Старшие целители</Russian>
+    <Translation>Старший целитель~Старшего целителя~Старшему целителю~Старшего целителя~Старшим целителем~Старшем целителе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_MONK_1</zType>
-    <Russian>Младший монах~Младший монах~Младшие монахи</Russian>
+    <Translation>Младший монах~Младшего монаха~Младшему монаху~Младшего монаха~Младшим монахом~Младшем монахе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_MONK_2</zType>
-    <Russian>Монах~Монах~Монахи</Russian>
+    <Translation>Монах~Монаха~Монаху~Монаха~Монахом~Монахе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_MONK_3</zType>
-    <Russian>Старший монах~Старший монах~Старшие монахи</Russian>
+    <Translation>Старший монах~Старшего монаха~Старшему монаху~Старшего монаха~Старшим монахом~Старшем монахе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_PRIEST_1</zType>
-    <Russian>Младший священник~Младший священник~Младшие священники</Russian>
+    <Translation>Младший священник~Младшего священника~Младшему священнику~Младшего священника~Младшим священником~Младшем священнике</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_PRIEST_2</zType>
-    <Russian>Священник~Священник~Священники</Russian>
+    <Translation>Священник~Священника~Священнику~Священника~Священником~Священнике</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_PRIEST_3</zType>
-    <Russian>Старший священник~Старший священник~Старшие священники</Russian>
+    <Translation>Старший священник~Старшего священника~Старшему священнику~Старшего священника~Старшим священником~Старшем священнике</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_BISHOP_1</zType>
-    <Russian>Младший епископ~Младший епископ~Младшие епископы</Russian>
+    <Translation>Младший епископ~Младшего епископа~Младшему епископу~Младшего епископа~Младшим епископом~Младшем епископе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_BISHOP_2</zType>
-    <Russian>Епископ~Епископ~Епископы</Russian>
+    <Translation>Епископ~Епископа~Епископу~Епископа~Епископом~Епископе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_BISHOP_3</zType>
-    <Russian>Старший епископ~Старший епископ~Старшие епископы</Russian>
+    <Translation>Старший епископ~Старшего епископа~Старшему епископу~Старшего епископа~Старшим епископом~Старшем епископе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_POET_1</zType>
-    <Russian>Младший поэт~Младший поэт~Младшие поэты</Russian>
+    <Translation>Младший поэт~Младшего поэта~Младшему поэту~Младшего поэта~Младшим поэтом~Младшем поэте</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_POET_2</zType>
-    <Russian>Поэт~Поэт~Поэты</Russian>
+    <Translation>Поэт~Поэта~Поэту~Поэта~Поэтом~Поэте</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_POET_3</zType>
-    <Russian>Старший поэт~Старший поэт~Старшие поэты</Russian>
+    <Translation>Старший поэт~Старшего поэта~Старшему поэту~Старшего поэта~Старшим поэтом~Старшем поэте</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_SHOPKEEPER_1</zType>
-    <Russian>Младший торговец~Младший торговец~Младшие торговцы</Russian>
+    <Translation>Младший торговец~Младшего торговца~Младшему торговцу~Младшего торговца~Младшим торговцем~Младшем торговце</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_SHOPKEEPER_2</zType>
-    <Russian>Торговец~Торговец~Торговцы</Russian>
+    <Translation>Торговец~Торговца~Торговцу~Торговца~Торговцем~Торговце</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_SHOPKEEPER_3</zType>
-    <Russian>Старший торговец~Старший торговец~Старшие торговцы</Russian>
+    <Translation>Старший торговец~Старшего торговца~Старшему торговцу~Старшего торговца~Старшим торговцем~Старшем торговце</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_PHILOSOPHER_1</zType>
-    <Russian>Младший философ~Младший философ~Младшие философы</Russian>
+    <Translation>Младший философ~Младшего философа~Младшему философу~Младшего философа~Младшим философом~Младшем философе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_PHILOSOPHER_2</zType>
-    <Russian>Философ~Философ~Философы</Russian>
+    <Translation>Философ~Философа~Философу~Философа~Философом~Философе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_PHILOSOPHER_3</zType>
-    <Russian>Старший философ~Старший философ~Старшие философы</Russian>
+    <Translation> Старший философ~Старшего философа~Старшему философу~Старшего философа~Старшим философом~Старшем философе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_SCRIBE_1</zType>
-    <Russian>Младший секретарь~Младший секретарь~Младшие секретари</Russian>
+    <Translation>Младший секретарь~Младшего секретаря~Младшему секретарю~Младшего секретаря~Младшим секретарем~Младшем секретаре</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_SCRIBE_2</zType>
-    <Russian>Секретарь~Секретарь~Секретари</Russian>
+    <Translation>Секретарь~Секретаря~Секретарю~Секретаря~Секретарем~Секретаре</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_SCRIBE_3</zType>
-    <Russian>Старший секретарь~Старший секретарь~Старшие секретари</Russian>
+    <Translation>Старший секретарь~Старшего секретаря~Старшему секретарю~Старшего секретаря~Старшим секретарем~Старшем секретаре</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_OFFICER_1</zType>
-    <Russian>Младший офицер~Младший офицер~Младшие офицеры</Russian>
+    <Translation>Младший офицер~Младшего офицера~Младшему офицеру~Младшего офицера~Младшим офицером~Младшем офицере</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_OFFICER_2</zType>
-    <Russian>Офицер~Офицер~Офицеры</Russian>
+    <Translation>Офицер~Офицера~Офицеру~Офицера~Офицером~Офицере</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_OFFICER_3</zType>
-    <Russian>Старший офицер~Старший офицер~Старшие офицеры</Russian>
+    <Translation>Старший офицер~Старшего офицера~Старшему офицеру~Старшего офицера~Старшим офицером~Старшем офицере</Translation>
   </Entry>
   <!--InfoOpinionBarbarian-->
   <!--Assets/GameAssets/Resources/Infos/opinionBarbarian.xml-->
   <Entry>
     <zType>TEXT_OPINIONBARBARIAN_FURIOUS</zType>
-    <Russian>В ярости</Russian>
+    <Translation>В ярости</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONBARBARIAN_ANGRY</zType>
-    <Russian>Озлоблены</Russian>
+    <Translation>Озлоблены</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONBARBARIAN_UPSET</zType>
-    <Russian>Расстроены</Russian>
+    <Translation>Расстроены</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONBARBARIAN_CAUTIOUS</zType>
-    <Russian>Осторожны</Russian>
+    <Translation>Осторожны</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONBARBARIAN_PLEASED</zType>
-    <Russian>Довольны</Russian>
+    <Translation>Довольны</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONBARBARIAN_FRIENDLY</zType>
-    <Russian>Дружелюбны</Russian>
+    <Translation>Дружелюбны</Translation>
   </Entry>
   <!--InfoOpinionCharacter-->
   <!--Assets/GameAssets/Resources/Infos/opinionCharacter.xml-->
   <Entry>
     <zType>TEXT_OPINIONCHARACTER_FURIOUS</zType>
-    <Russian>В ярости</Russian>
+    <Translation>В ярости</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONCHARACTER_ANGRY</zType>
-    <Russian>Озлоблены</Russian>
+    <Translation>Озлоблены</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONCHARACTER_UPSET</zType>
-    <Russian>Расстроены</Russian>
+    <Translation>Расстроены</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONCHARACTER_CAUTIOUS</zType>
-    <Russian>Осторожны</Russian>
+    <Translation>Осторожны</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONCHARACTER_PLEASED</zType>
-    <Russian>Довольны</Russian>
+    <Translation>Довольны</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONCHARACTER_FRIENDLY</zType>
-    <Russian>Дружелюбны</Russian>
+    <Translation>Дружелюбны</Translation>
   </Entry>
   <!--InfoOpinionPlayer-->
   <!--Assets/GameAssets/Resources/Infos/opinionPlayer.xml-->
   <Entry>
     <zType>TEXT_OPINIONPLAYER_FURIOUS</zType>
-    <Russian>В ярости</Russian>
+    <Translation>В ярости</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONPLAYER_ANGRY</zType>
-    <Russian>Озлоблены</Russian>
+    <Translation>Озлоблены</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONPLAYER_UPSET</zType>
-    <Russian>Расстроены</Russian>
+    <Translation>Расстроены</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONPLAYER_CAUTIOUS</zType>
-    <Russian>Осторожны</Russian>
+    <Translation>Осторожны</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONPLAYER_PLEASED</zType>
-    <Russian>Довольны</Russian>
+    <Translation>Довольны</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONPLAYER_FRIENDLY</zType>
-    <Russian>Дружелюбны</Russian>
+    <Translation>Дружелюбны</Translation>
   </Entry>
 </Root>
