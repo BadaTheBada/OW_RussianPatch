@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<!--Translated by Elena Davydova (Bada)-->
+<Root>
+	<!--Assets/GameAssets/Resources/Infos/improvement.xml-->
+	<!--NOTE: improvement names that are mass nouns or plural do not need multiple types in Translation-->
+	<!--Проверить и учесть коммент выше-->
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_ANCIENT_RUINS</zType>
+		<Translation>Древние руины~Древних руин~Древним руинам~Древние руины~Древними руинами~Древних руинах</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CITY_SITE</zType>
+		<Translation><![CDATA[<meta=neuter>Место города~Места города~Месту города~Место города~Местом города~Месте города]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_RUINS_1</zType>
+		<Translation>Руины дома~Руин дома~Руинам дома~Руины дома~Руинами дома~Руинах дома</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_RUINS_2</zType>
+		<Translation>Руины заставы~Руин заставы~Руинам заставы~Руины заставы~Руинами заставы~Руинах заставы</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_RUINS_3</zType>
+		<Translation>Руины лагеря~Руин лагеря~Руинам лагеря~Руины лагеря~Руинами лагеря~Руинах лагеря</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_RUINS_4</zType>
+		<Translation>Руины города~Руин города~Руинам города~Руины города~Руинами города~Руинах города</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SETTLEMENT_1</zType>
+		<Translation><![CDATA[<meta=male>Дом~Дома~Дому~Дом~Домом~Доме]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SETTLEMENT_2</zType>
+		<Translation><![CDATA[<meta=female>Застава~Заставы~Заставе~Заставу~Заставой~Заставе]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SETTLEMENT_3</zType>
+		<Translation><![CDATA[<meta=male>Лагерь~Лагеря~Лагерю~Лагерь~Лагерем~Лагере]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SETTLEMENT_4</zType>
+		<Translation><![CDATA[<meta=male>Город~Города~Городу~Город~Городом~Городе]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_FORT</zType>
+		<Translation><![CDATA[<meta=female>Крепость~Крепости~Крепости~Крепость~Крепостью~Крепости]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_FARM</zType>
+		<Translation><![CDATA[<meta=female>Ферма~Фермы~Ферме~Ферму~Фермой~Ферме]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MINE</zType>
+		<Translation><![CDATA[<meta=male>Рудник~Рудника~Руднику~Рудник~Рудником~Руднике]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LUMBERMILL</zType>
+		<Translation><![CDATA[<meta=female>Лесопилка~Лесопилки~Лесопилке~Лесопилку~Лесопилкой~Лесопилке]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_QUARRY</zType>
+		<Translation><![CDATA[<meta=male>Карьер~Карьера~Карьеру~Карьер~Карьером~Карьере]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_PASTURE</zType>
+		<Translation><![CDATA[<meta=male>Выгон~Выгона~Выгону~Выгон~Выгоном~Выгоне]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CAMP</zType>
+		<Translation><![CDATA[<meta=male>Лагерь~Лагеря~Лагерю~Лагерь~Лагерем~Лагере]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GROVE</zType>
+		<Translation><![CDATA[<meta=female>Роща~Рощи~Роще~Рощу~Рощей~Роще]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_NETS</zType>
+		<Translation>Сети~Сетей~Сетям~Сети~Сетями~Сетях</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HARBOR</zType>
+		<Translation><![CDATA[<meta=female>Гавань~Гавани~Гавани~Гавань~Гаванью~Гавани]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GRANARY</zType>
+		<Translation><![CDATA[<meta=male>Амбар~Амбара~Амбару~Амбар~Амбаром~Амбаре]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_WATERMILL</zType>
+		<Translation><![CDATA[<meta=female>Водяная Мельница~Водяной Мельницы~Водяной Мельнице~Водяную Мельницу~Водяной Мельницей~Водяной Мельнице]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_WINDMILL</zType>
+		<Translation><![CDATA[<meta=female>Ветряная Мельница~Ветряной Мельницы~Ветряной Мельнице~Ветряную Мельницу~Ветряной Мельницей~Ветряной Мельнице]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HAMLET</zType>
+		<Translation><![CDATA[<meta=female>Деревня~Деревни~Деревне~Деревню~Деревней~Деревне]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_VILLAGE</zType>
+		<Translation><![CDATA[<meta=male>Поселок~Поселка~Поселку~Поселок~Поселком~Поселке]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_TOWN</zType>
+		<Translation><![CDATA[<meta=male>Город~Города~Городу~Город~Городом~Городе]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GARRISON_1</zType>
+		<Translation><![CDATA[<meta=male>Гарнизон~Гарнизона~Гарнизону~Гарнизон~Гарнизоном~Гарнизоне]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GARRISON_2</zType>
+		<Translation><![CDATA[<meta=neuter>Укрепление~Укрепления~Укреплению~Укрепления~Укреплением~Укреплении]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GARRISON_3</zType>
+		<Translation><![CDATA[<meta=female>Цитадель~Цитадели~Цитадели~Цитадель~Цитаделью~Цитадели]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_AQUEDUCT</zType>
+		<Translation><![CDATA[<meta=male>Акведук~Акведука~Акведуку~Акведук~Акведуком~Акведуке]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_BARRACKS</zType>
+		<Translation>Казармы~Казарм~Казармам~Казармы~Казармами~Казармах </Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_RANGE</zType>
+		<Translation><![CDATA[<meta=male>Полигон~Полигона~Полигону~Полигон~Полигоном~Полигоне]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_THEATER_1</zType>
+		<Translation><![CDATA[<meta=male>Одеон~Одеона~Одеону~Одеон~Одеоном~Одеоне]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_THEATER_2</zType>
+		<Translation><![CDATA[<meta=male>Амфитеатр~Амфитеатра~Амфитеатру~Амфитеатр~Амфитеатром~Амфитеатре]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_THEATER_3</zType>
+		<Translation><![CDATA[<meta=male>Колизей~Колизея~Колизею~Колизей~Колизеем~Колизее]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_BATHS_1</zType>
+		<Translation><![CDATA[<meta=female>Холодные Купальни~Холодных Купален~Холодным Купальням~Холодные Купальни~Холодными Купальнями~Холодных Купальнях]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_BATHS_2</zType>
+		<Translation><![CDATA[<meta=female>Теплые Купальни~Теплых Купален~Теплым Купальням~Теплые Купальни~Теплыми Купальнями~Теплых Купальнях]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_BATHS_3</zType>
+		<Translation><![CDATA[<meta=female>Горячие Купальни~Горячих Купален~Горячим Купальням~Горячие Купальни~Горячими Купальнями~Горячих Купальнях]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MARKET_1</zType>
+		<Translation><![CDATA[<meta=male>Рынок~Рынка~Рынку~Рынок~Рынком~Рынке]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MARKET_2</zType>
+		<Translation><![CDATA[<meta=female>Бакалея~Бакалеи~Бакалее~Бакалею~Бакалеей~Бакалее]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MARKET_3</zType>
+		<Translation><![CDATA[<meta=female>Ярмарка~Ярмарки~Ярмарке~Ярмарку~Ярмаркой~Ярмарке]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LIBRARY_1</zType>
+		<Translation><![CDATA[<meta=female>Библиотека~Библиотеки~Библиотеке~Библиотеку~Библиотекой~Библиотеке]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LIBRARY_2</zType>
+		<Translation><![CDATA[<meta=female>Академия~Академии~Академии~Академию~Академией~Академии]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LIBRARY_3</zType>
+		<Translation><![CDATA[<meta=male>Университет~Университета~Университету~Университет~Университетом~Университете]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_COURTHOUSE_1</zType>
+		<Translation><![CDATA[<meta=neuter>Здание суда~Здания суда~Зданию суда~Здания суда~Зданием суда~Здании суда]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_COURTHOUSE_2</zType>
+		<Translation><![CDATA[<meta=neuter>Министерство~Министерства~Министерству~Министерство~Министерством~Министерстве]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_COURTHOUSE_3</zType>
+		<Translation><![CDATA[<meta=female>Резиденция~Резиденции~Резиденции~Резиденцию~Резиденцией~Резиденции]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_NINURTA</zType>
+		<Translation>Храм Нинурта</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_MARS</zType>
+		<Translation>Храм Марса</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_NUSKA</zType>
+		<Translation>Храм Нуска</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ATAR</zType>
+		<Translation>Храм Атара</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_VULCAN</zType>
+		<Translation>Храм Вулкана</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_NABU</zType>
+		<Translation>Храм Набу</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ATHENA</zType>
+		<Translation>Храм Афины</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_SHAMAHS</zType>
+		<Translation>Храм Шамаса</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_RA</zType>
+		<Translation>Храм Ра</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_MITHRA</zType>
+		<Translation>Храм Митры</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_MELQART</zType>
+		<Translation>Храм Мелькарта</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_POSEIDON</zType>
+		<Translation>Храм Посейдона</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ANAHITA</zType>
+		<Translation>Храм Анахите</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ISHTAR</zType>
+		<Translation>Храм Иштар</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ASTARTE</zType>
+		<Translation>Храм Астарты</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_VENUS</zType>
+		<Translation>Храм Венеры</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ERESHKIGAL</zType>
+		<Translation>Храм Эрешкигаль</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_OSIRIS</zType>
+		<Translation>Храм Осириса</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_HADES</zType>
+		<Translation>Храм Аида</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ESHMUN</zType>
+		<Translation>Храм Эшмуна</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ISIS</zType>
+		<Translation>Храм Исиды</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ASHUR</zType>
+		<Translation>Храм Ашшура</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_MARDUK</zType>
+		<Translation>Храм Мардука</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ZEUS</zType>
+		<Translation>Храм Зевса</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_TANIT</zType>
+		<Translation>Храм Танит</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_TISHTRYA</zType>
+		<Translation>Храм Тиштрии</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_NEITH</zType>
+		<Translation>Храм Нейт</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_DIANA</zType>
+		<Translation>Храм Дианы</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MONASTERY_ZOROASTRIANISM</zType>
+		<Translation>Зороастрийский монастырь~Зороастрийского монастыря~Зороастрийскому монастырю~Зороастрийского монастыря~Зороастрийским монастырем~Зороастрийском монастыре</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MONASTERY_JUDAISM</zType>
+		<Translation>Иудейский монастырь~Иудейского монастыря~Иудейскому монастырю~Иудейского монастыря~Иудейским монастырем~Иудейском монастыре</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MONASTERY_CHRISTIANITY</zType>
+		<Translation>Христианский монастырь~Христианского монастыря~Христианскому монастырю~Христианского монастыря~Христианским монастырем~Христианском монастыре</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MONASTERY_MANICHAEISM</zType>
+		<Translation>Манихейский монастырь~Манихейского монастыря~Манихейскому монастырю~Манихейского монастыря~Манихейским монастырем~Манихейском монастыре</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_TEMPLE_ZOROASTRIANISM</zType>
+		<Translation>Зороастрийский храм~Зороастрийского храма~Зороастрийскому храму~Зороастрийского храма~Зороастрийским храмом~Зороастрийском храме </Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_TEMPLE_JUDAISM</zType>
+		<Translation>Иудейский храм~Иудейского храма~Иудейскому храму~Иудейского храма~Иудейским храмом~Иудейском храме</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_TEMPLE_CHRISTIANITY</zType>
+		<Translation>Христианский храм~Христианского храма~Христианскому храму~Христианского храма~Христианским храмом~Христианском храме</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_TEMPLE_MANICHAEISM</zType>
+		<Translation>Манихейский храм~Манихейского храма~Манихейскому храму~Манихейского храма~Манихейским храмом~Манихейском храме</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CATHEDRAL_ZOROASTRIANISM</zType>
+		<Translation>Зороастрийский собор~Зороастрийского собора~Зороастрийскому собору~Зороастрийского собора~Зороастрийским собором~Зороастрийском соборе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CATHEDRAL_JUDAISM</zType>
+		<Translation>Иудейский собор~Иудейского собора~Иудейскому собору~Иудейского собора~Иудейским собором~Иудейском соборе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CATHEDRAL_CHRISTIANITY</zType>
+		<Translation>Христианский собор~Христианского собора~Христианскому собору~Христианского собора~Христианским собором~Христианском соборе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CATHEDRAL_MANICHAEISM</zType>
+		<Translation>Манихейский собор~Манихейского собора~Манихейскому собору~Манихейского собора~Манихейским собором~Манихейском соборе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zType>
+		<Translation>Адур Бурзен-Михр</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HOLY_SITE_JUDAISM</zType>
+		<Translation>Храм Соломона</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY</zType>
+		<Translation>Храм Гроба Господня</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HOLY_SITE_MANICHAEISM</zType>
+		<Translation>Цаоань</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_PYRAMIDS</zType>
+		<Translation>Пирамиды</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GREAT_ZIGGURAT</zType>
+		<Translation>Великий Зиккурат</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_ORACLE</zType>
+		<Translation>Оракул</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HANGING_GARDENS</zType>
+		<Translation>Висячие сады</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_NECROPOLIS</zType>
+		<Translation>Некрополь</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_ISHTAR_GATE</zType>
+		<Translation>Ворота Иштара</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LIGHTHOUSE</zType>
+		<Translation>Фаросский Маяк</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_APADANA</zType>
+		<Translation>Ападана</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MAUSOLEUM</zType>
+		<Translation>Галикарнасский Мавзолей</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_ACROPOLIS</zType>
+		<Translation>Афинский Акрополь</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_COLOSSUS</zType>
+		<Translation>Колосс</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MUSAEUM</zType>
+		<Translation>Александрийская библиотека</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CIRCUS_MAXIMUS</zType>
+		<Translation>Большой цирк</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_PANTHEON</zType>
+		<Translation>Пантеон</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HAGIA_SOPHIA</zType>
+		<Translation>Собор Святой Софии</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GRAND_BAZAAR</zType>
+		<Translation>Гранд-Базар</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LAURION_MINE</zType>
+		<Translation>Лаврионские рудники~Лаврионских рудников~Лаврионским рудникам~Лавриониские рудники~Лаврионскими рудниками~Лаврионских рудниках</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_FOREST_FIRE_TOMB</zType>
+		<Translation>Древняя гробница~Древней гробницы~Древней гробнице~Древнюю гробницу~Древней гробницей~Древней гробнице</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_FOREST_FIRE_MONUMENT</zType>
+		<Translation>Национальный монумент~Национального монумента~Национальному монументу~Национальный монумент~Национальным монументом~Национальном монументе</Translation>
+	</Entry>
+</Root>
