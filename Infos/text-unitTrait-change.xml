@@ -1,0 +1,48 @@
+<Root>
+<!--Translated by Elena Davydova (Bada)-->
+<!--Проверить и скорректировать-->
+	<Entry>
+		<zType/>
+		<Translation />
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_MELEE</zType>
+		<Translation>Ближний бой</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_RANGED</zType>
+		<Translation>Дальний бой</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_INFANTRY</zType>
+		<Translation>Пехота</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_POLEARM</zType>
+		<Translation>Копейщик</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_MOUNTED</zType>
+		<Translation>Всадник</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_HORSE</zType>
+		<Translation>Конница</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_CAMEL</zType>
+		<Translation>На верблюдах</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_ELEPHANT</zType>
+		<Translation>На слонах</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_SIEGE</zType>
+		<Translation>Осадный</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_SHIP</zType>
+		<Translation>Корабль</Translation>
+	</Entry>
+</Root>
