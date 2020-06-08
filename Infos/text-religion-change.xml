@@ -1,0 +1,29 @@
+<Root>
+  <!--Translated by Elena Davydova (Bada)-->
+	
+	
+  <Entry>
+    <zType />
+    <Translation />
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_ZOROASTRIANISM</zType>
+    <Translation><![CDATA[<meta=male>Зороастризм~Зороастризма~Зороастризму~Зороастризм~Зороастризмом~Зороастризме~Зороастрийский~Зороастрийского~Зороастрийскому~Зороастрийского~Зороастрийским~Зороастрийском~Зороастрийцы~Зороастрийцев~Зороастрийцам~Зороастрийцев~Зороастрийцами~Зороастрийцах]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_JUDAISM</zType>
+    <Translation><![CDATA[<meta=male>Иудаизм~Иудаизма~Иудаизму~Иудаизм~Иудаизмом~Иудаизме~Иудейский~Иудейского~Иудейскому~Иудейского~Иудейским~Иудейском~Иудеи~Иудеев~Иудеям~Иудеев~Иудеями~Иудеях]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_CHRISTIANITY</zType>
+    <Translation><![CDATA[<meta=neuter>Христианство~Христианства~Христианству~Христианство~Христианством~Христианстве~Христианский~Христианского~Христианскому~Христианского~Христианским~Христианском~Христиане~Христиан~Христианам~Христиан~Христианами~Христианах]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_MANICHAEISM</zType>
+    <Translation><![CDATA[<meta=male>Манихеизм~Манихеизма~Манихеизму~Манихеизм~Манихеизмом~Манихеизме~Манихейский~Манихейского~Манихейскому~Манихейского~Манихейским~Манихейском~Манихеи~Манихеев~Манихеям~Манихеев~Манихеями~Манихеях]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_CUSTOM</zType>
+    <Translation>{RELIGION-NOUN}~{RELIGION-ADJECTIVE}~a(n) {RELIGION-ADJECTIVE}~{RELIGION-ADJECTIVE}(s)</Translation>
+  </Entry>
+</Root>
