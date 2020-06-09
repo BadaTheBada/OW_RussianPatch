@@ -3,203 +3,203 @@
 	<!-- Title -->
 	<Entry>
 		<zType/>
-		<English/>
+		<Translation/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_KING</zType>
-		<English><![CDATA[<masculine_0>King<feminine>Queen<end> {0_name}]]></English>
+		<Translation><![CDATA[<masculine_0>King<feminine>Queen<end> {0_name}]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_KING_CONSORT</zType>
-		<English><![CDATA[<masculine_0>King Consort<feminine>Queen Consort<end> {0_name}]]></English>
+		<Translation><![CDATA[<masculine_0>King Consort<feminine>Queen Consort<end> {0_name}]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_KING_DOWAGER</zType>
-		<English><![CDATA[<masculine_0>King Dowager<feminine>Queen Dowager<end> {0_name}]]></English>
+		<Translation><![CDATA[<masculine_0>King Dowager<feminine>Queen Dowager<end> {0_name}]]></Translation>
 	</Entry>
   <Entry>
     <zType>TEXT_CHARACTER_TITLE_PRINCE</zType>
-    <English><![CDATA[<masculine_0>Prince<feminine>Princess<end> {0_name}]]></English>
+    <Translation><![CDATA[<masculine_0>Prince<feminine>Princess<end> {0_name}]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_TITLE_PRINCE_CONSORT</zType>
-    <English><![CDATA[<masculine_0>Prince Consort<feminine>Princess Consort<end> {0_name}]]></English>
+    <Translation><![CDATA[<masculine_0>Prince Consort<feminine>Princess Consort<end> {0_name}]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_TITLE_DUKE</zType>
-    <English><![CDATA[<masculine_0>Duke<feminine>Duchess<end> {0_name}]]></English>
+    <Translation><![CDATA[<masculine_0>Duke<feminine>Duchess<end> {0_name}]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_TITLE_DUKE_CONSORT</zType>
-    <English><![CDATA[<masculine_0>Duke Consort<feminine>Duchess Consort<end> {0_name}]]></English>
+    <Translation><![CDATA[<masculine_0>Duke Consort<feminine>Duchess Consort<end> {0_name}]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_TITLE_COUNCIL</zType>
-    <English>{0_title} {1_name}</English>
+    <Translation>{0_title} {1_name}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_TITLE_GENERAL</zType>
-    <English>Gen. {0_name}</English>
+    <Translation>Gen. {0_name}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_TITLE_GOVERNOR</zType>
-    <English>Gov. {0_name}</English>
+    <Translation>Gov. {0_name}</Translation>
   </Entry>
   <!-- Relation -->
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_YOU</zType>
-		<English>You!</English>
+		<Translation>You!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_SPOUSE</zType>
-		<English><![CDATA[Your <masculine_0>Husband<feminine>Wife<end>]]></English>
+		<Translation><![CDATA[Your <masculine_0>Husband<feminine>Wife<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_CHILD</zType>
-		<English><![CDATA[Your <masculine_0>Son<feminine>Daughter<end>]]></English>
+		<Translation><![CDATA[Your <masculine_0>Son<feminine>Daughter<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_GRANDCHILD</zType>
-		<English><![CDATA[Your <masculine_0>Grandson<feminine>Granddaughter<end>]]></English>
+		<Translation><![CDATA[Your <masculine_0>Grandson<feminine>Granddaughter<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_DESCENDANT</zType>
-		<English>Your Descendant</English>
+		<Translation>Your Descendant</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_PARENT</zType>
-		<English><![CDATA[Your <masculine_0>Father<feminine>Mother<end>]]></English>
+		<Translation><![CDATA[Your <masculine_0>Father<feminine>Mother<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_GRANDPARENT</zType>
-		<English><![CDATA[Your <masculine_0>Grandfather<feminine>Grandmother<end>]]></English>
+		<Translation><![CDATA[Your <masculine_0>Grandfather<feminine>Grandmother<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_ANCESTOR</zType>
-		<English>Your Ancestor</English>
+		<Translation>Your Ancestor</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_SIBLING</zType>
-		<English><![CDATA[Your <masculine_0>Brother<feminine>Sister<end>]]></English>
+		<Translation><![CDATA[Your <masculine_0>Brother<feminine>Sister<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_SIBLING_IN_LAW</zType>
-		<English><![CDATA[Your <masculine_0>Brother-in-Law<feminine>Sister-in-Law<end>]]></English>
+		<Translation><![CDATA[Your <masculine_0>Brother-in-Law<feminine>Sister-in-Law<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_HALF_SIBLING</zType>
-		<English><![CDATA[Your <masculine_0>Half-Brother<feminine>Half-Sister<end>]]></English>
+		<Translation><![CDATA[Your <masculine_0>Half-Brother<feminine>Half-Sister<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_COUSIN</zType>
-		<English>Your Cousin</English>
+		<Translation>Your Cousin</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_AUNT_UNCLE</zType>
-		<English><![CDATA[Your <masculine_0>Uncle<feminine>Aunt<end>]]></English>
+		<Translation><![CDATA[Your <masculine_0>Uncle<feminine>Aunt<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_NIECE_NEPHEW</zType>
-		<English><![CDATA[Your <masculine_0>Nephew<feminine>Niece<end>]]></English>
+		<Translation><![CDATA[Your <masculine_0>Nephew<feminine>Niece<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_CHILD_IN_LAW</zType>
-		<English><![CDATA[Your <masculine_0>Son-in-Law<feminine>Daughter-in-Law<end>]]></English>
+		<Translation><![CDATA[Your <masculine_0>Son-in-Law<feminine>Daughter-in-Law<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_PARENT_IN_LAW</zType>
-		<English><![CDATA[Your <masculine_0>Father-in-Law<feminine>Mother-in-Law<end>]]></English>
+		<Translation><![CDATA[Your <masculine_0>Father-in-Law<feminine>Mother-in-Law<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_STEPCHILD</zType>
-		<English><![CDATA[Your <masculine_0>Stepson<feminine>Stepdaughter<end>]]></English>
+		<Translation><![CDATA[Your <masculine_0>Stepson<feminine>Stepdaughter<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_STEPPARENT</zType>
-		<English><![CDATA[Your <masculine_0>Stepfather<feminine>Stepmother<end>]]></English>
+		<Translation><![CDATA[Your <masculine_0>Stepfather<feminine>Stepmother<end>]]></Translation>
 	</Entry>
   <Entry>
     <zType>TEXT_CHARACTER_RELATION_RELATIVE</zType>
-    <English>Your Relative</English>
+    <Translation>Your Relative</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_RELATION_IN_LAW</zType>
-    <English>Your In-Law</English>
+    <Translation>Your In-Law</Translation>
   </Entry>
   <!-- Heir -->
 	<Entry>
 		<zType>TEXT_CHARACTER_HEIR_ORDER_1</zType>
-		<English>Heir</English>
+		<Translation>Heir</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_HEIR_ORDER_2</zType>
-		<English>Second in Line</English>
+		<Translation>Second in Line</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_HEIR_ORDER_3</zType>
-		<English>Third in Line</English>
+		<Translation>Third in Line</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_HEIR_ORDER_4</zType>
-		<English>Fourth in Line</English>
+		<Translation>Fourth in Line</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_HEIR_ORDER_X</zType>
-		<English>Distant Successor</English>
+		<Translation>Distant Successor</Translation>
 	</Entry>
 	<!-- Misc -->
 	<Entry>
 		<zType>TEXT_CHARACTER_DEAD</zType>
-		<English><![CDATA[<icon>skull</icon> {0_name}]]></English>
+		<Translation><![CDATA[<icon>skull</icon> {0_name}]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_HAS_COGNOMEN</zType>
-		<English>{0_name} {1_cognomen}</English>
+		<Translation>{0_name} {1_cognomen}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_GOVERNOR_OF</zType>
-		<English>Governor of {0_city}</English>
+		<Translation>Governor of {0_city}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_GENERAL_OF</zType>
-		<English>General of {0_unit}</English>
+		<Translation>General of {0_unit}</Translation>
 	</Entry>
 	<!-- Name -->
 	<Entry>
 		<zType>TEXT_CHARACTER_FULL_NAME_EXTRA</zType>
-		<English> ({0_data})</English>
+		<Translation> ({0_data})</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_NAME_WITH_CREST</zType>
-		<English>{0_name} {1_crest}</English>
+		<Translation>{0_name} {1_crest}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_FIRST_AND_LAST_NAME</zType>
-		<English>{0_firstname} {1_lastname}</English>
+		<Translation>{0_firstname} {1_lastname}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_NAME_WITH_SUFFIX</zType>
-		<English>{0_name} {1_suffix}</English>
+		<Translation>{0_name} {1_suffix}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_OF_NATION</zType>
-		<English>{0_name} of {1_nation}</English>
+		<Translation>{0_name} of {1_nation}</Translation>
 	</Entry>
 	<!--Game Text-->
 	<Entry>
 		<zType>TEXT_CHARACTER_NEW_RULER</zType>
-		<English><![CDATA[Our old ruler is dead. Now begins the reign of {0_newLeader}. Long live the <masculine_0>King<feminine>Queen<end>!]]></English>
+		<Translation><![CDATA[Our old ruler is dead. Now begins the reign of {0_newLeader}. Long live the <masculine_0>King<feminine>Queen<end>!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COUNCIL_HAS_DIED</zType>
-		<English>Your {0_council}, {1_character}, has died!</English>
+		<Translation>Your {0_council}, {1_character}, has died!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_HAS_DIED</zType>
-		<English>{0_character} has died!</English>
+		<Translation>{0_character} has died!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_LEADER_NEW_COGNOMEN</zType>
-		<English><![CDATA[<comment variable 0 is leader for gender purposes>You are now known as {1_cognomen}!]]></English>
+		<Translation><![CDATA[<comment variable 0 is leader for gender purposes>You are now known as {1_cognomen}!]]></Translation>
 	</Entry>
 </Root>
