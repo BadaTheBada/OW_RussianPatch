@@ -4,218 +4,222 @@
 	<!--Name-->
 	<Entry>
 		<zType/>
-		<English/>
+		<Translation/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_AMBASSADOR</zType>
-		<English>Make Ambassador</English>
+		<Translation>Make Ambassador</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CHANCELLOR</zType>
-		<English>Make Chancellor</English>
+		<Translation>Make Chancellor</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_SPYMASTER</zType>
-		<English>Make Spymaster</English>
+		<Translation>Make Spymaster</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_PLAYER_ALLIANCE</zType>
-		<English>Player Alliance with</English>
+		<zType>TEXT_MISSION_TEAM_ALLIANCE</zType>
+		<Translation>Player Alliance with</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_PLAYER_ALLIANCE_PLUS</zType>
-		<English>Player Alliance via</English>
+		<zType>TEXT_MISSION_TEAM_ALLIANCE_PLUS</zType>
+		<Translation>Player Alliance via</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE</zType>
-		<English>Player Peace with</English>
+		<Translation>Player Peace with</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE_PLUS</zType>
-		<English>Player Peace via</English>
+		<Translation>Player Peace via</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE</zType>
-		<English>Player Truce with</English>
+		<Translation>Player Truce with</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE_PLUS</zType>
-		<English>Player Truce via</English>
+		<Translation>Player Truce via</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_DECLARE_WAR</zType>
-		<English>Declare War</English>
+		<Translation>Declare War</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_DECLARE_WAR_PLUS</zType>
-		<English>Declare War on</English>
+		<Translation>Declare War on</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_BREAK_PEACE</zType>
-		<English>Break Peace</English>
+		<Translation>Break Peace</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_BREAK_PEACE_PLUS</zType>
-		<English>Break Peace with</English>
+		<Translation>Break Peace with</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_END_ALLIANCE</zType>
-		<English>End Alliance</English>
+		<Translation>End Alliance</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_END_ALLIANCE_PLUS</zType>
-		<English>End Alliance with</English>
+		<Translation>End Alliance with</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_CANCEL_TRADE</zType>
-		<English>Cancel All Trade</English>
+		<Translation>Cancel All Trade</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_CANCEL_TRADE_PLUS</zType>
-		<English>Cancel All Trade with</English>
+		<Translation>Cancel All Trade with</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_ALLIANCE</zType>
-		<English>Barbarian Alliance with</English>
+		<Translation>Barbarian Alliance with</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_ALLIANCE_PLUS</zType>
-		<English>Barbarian Alliance via</English>
+		<Translation>Barbarian Alliance via</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_PEACE</zType>
-		<English>Barbarian Peace with</English>
+		<Translation>Barbarian Peace with</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_PEACE_PLUS</zType>
-		<English>Barbarian Peace via</English>
+		<Translation>Barbarian Peace via</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_TRUCE</zType>
-		<English>Barbarian Truce with</English>
+		<Translation>Barbarian Truce with</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_TRUCE_PLUS</zType>
-		<English>Barbarian Truce via</English>
+		<Translation>Barbarian Truce via</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_DECLARE_WAR</zType>
-		<English>Declare War</English>
+		<Translation>Declare War</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_DECLARE_WAR_PLUS</zType>
-		<English>Declare War on</English>
+		<Translation>Declare War on</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_BREAK_PEACE</zType>
-		<English>Break Peace</English>
+		<Translation>Break Peace</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_BREAK_PEACE_PLUS</zType>
-		<English>Break Peace with</English>
+		<Translation>Break Peace with</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_END_ALLIANCE</zType>
-		<English>End Alliance</English>
+		<Translation>End Alliance</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_END_ALLIANCE_PLUS</zType>
-		<English>End Alliance with</English>
+		<Translation>End Alliance with</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_ADOPT_RELIGION</zType>
+		<Translation>Adopt Religion</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_FAMILY_MARRIAGE</zType>
-		<English>Family Marriage</English>
+		<Translation>Family Marriage</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_MARRY_COURTIER</zType>
-		<English>Marry Courtier</English>
+		<Translation>Marry Courtier</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_MARRY_COURTIER_PLUS</zType>
-		<English>Marry</English>
+		<Translation>Marry</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ABDICATE</zType>
-		<English>Abdicate Throne</English>
+		<Translation>Abdicate Throne</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ADOPT</zType>
-		<English>Adopt Child</English>
+		<Translation>Adopt Child</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ADOPT_PLUS</zType>
-		<English>Adopt by</English>
+		<Translation>Adopt by</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_LEGITIMIZE</zType>
-		<English>Legitimize</English>
+		<Translation>Legitimize</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CHOSEN_HEIR</zType>
-		<English>Make Chosen Heir</English>
+		<Translation>Make Chosen Heir</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INFILTRATE</zType>
-		<English>Infiltrate Nation</English>
+		<Translation>Infiltrate Nation</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INFILTRATE_PLUS</zType>
-		<English>Infiltrate Nation via</English>
+		<Translation>Infiltrate Nation via</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ASSASSINATE</zType>
-		<English>Assassinate</English>
+		<Translation>Assassinate</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ASSASSINATE_PLUS</zType>
-		<English>Assassinate via</English>
+		<Translation>Assassinate via</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRADE_MISSION</zType>
-		<English>Trade Mission with</English>
+		<Translation>Trade Mission with</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRADE_MISSION_PLUS</zType>
-		<English>Trade Mission via</English>
+		<Translation>Trade Mission via</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_FAMILY_GIFT</zType>
-		<English>Family Gifts</English>
+		<Translation>Family Gifts</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_FAMILY_GIFT_PLUS</zType>
-		<English>Family Gifts via</English>
+		<Translation>Family Gifts via</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_IMPRISON</zType>
-		<English>Imprison</English>
+		<Translation>Imprison</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_IMPRISON_PLUS</zType>
-		<English>Imprison via</English>
+		<Translation>Imprison via</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_RELEASE</zType>
-		<English>Release from Prison</English>
+		<Translation>Release from Prison</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CAPTURE</zType>
-		<English>Capture</English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSION_DIVORCE</zType>
-		<English>Divorce Spouse</English>
+		<Translation>Capture</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CAPTURED_RANSOM</zType>
-		<English>Pay Ransom</English>
+		<Translation>Pay Ransom</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_DIVORCE</zType>
+		<Translation>Divorce Spouse</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_BARBARIAN_WAR</zType>
-		<English>Ask to Declare War on</English>
+		<Translation>Ask to Declare War on</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PLAYER_WAR</zType>
-		<English>Ask to Declare War on</English>
+		<Translation>Ask to Declare War on</Translation>
 	</Entry>
 </Root>
