@@ -1,419 +1,1393 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Translated by Elena Davydova (Bada)-->
 <Root>
-  <!-- InfoEventOption -->
-  <Entry>
-    <zType />
-    <Translation />
-  </Entry>
-  <!-- InfoLanguage -->
-  <!-- Is it necessary in new system? -->
-  <!--<Entry>
-    <zType>TEXT_LANGUAGE_RUSSIAN_TRANSLATION</zType>
+	<!-- InfoEventOption -->
+	<Entry>
+		<zType />
+		<Translation />
+	</Entry>
+	<!-- InfoLanguage -->
+	<!-- Is it necessary?-->
+	<Entry>
+		<zType>TEXT_LANGUAGE_RUSSIAN_TRANSLATION</zType>
 		<Translation>Russian</Translation>
-  </Entry>  
-  <Entry>
-    <zType>TEXT_LANGUAGE_DEBUG</zType>
-    <Translation>Text Debug</Translation>
-  </Entry>-->
-  
-  <!-- InfoTerrain -->
-  <Entry>
-    <zType>TEXT_TERRAIN_WATER</zType>
-    <Translation>Вода</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_TERRAIN_URBAN</zType>
-    <Translation>Город</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_TERRAIN_LUSH</zType>
-    <Translation>Луга</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_TERRAIN_TEMPERATE</zType>
-    <Translation>Равнина</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_TERRAIN_ARID</zType>
-    <Translation>Пустыня</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_TERRAIN_SAND</zType>
-    <Translation>Пески</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_TERRAIN_TUNDRA</zType>
-    <Translation>Тундра</Translation>
-  </Entry>
-  <!--InfoBuild-->
-  <Entry>
-    <zType>TEXT_BUILD_PROJECT</zType>
-    <Translation>Проект</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_BUILD_SPECIALIST</zType>
-    <Translation>Специалист</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_BUILD_UNIT</zType>
-    <Translation>Юнит</Translation>
-  </Entry>
-  <!--InfoConcept-->
-  <Entry>
-    <zType>TEXT_CONCEPT_ALLIANCE_BARB</zType>
-    <Translation>Союз с варварами</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_ALLIANCE_PLAYER</zType>
-    <Translation>Союз с игроком</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_BARBARIAN_INVADE</zType>
-    <Translation>Нападение варваров</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_BUY_TILE</zType>
-    <Translation>Купить клетки</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_CULTURE_EVENT</zType>
-    <Translation>Культурное событие</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_CLEAR</zType>
-    <Translation>Очистить</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_CONDUCT_TRADE_MISSION</zType>
-    <Translation>Отправить торговую делегацию</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_CRITICAL_HIT</zType>
-    <Translation>Критический удар</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_ENVY</zType>
-    <Translation>Зависть</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_GENERAL</zType>
-    <Translation>Генерал</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_GOVERNOR</zType>
-    <Translation>Губернатор</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_HARVEST_RESOURCE</zType>
-    <Translation>Собрать урожай</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_JOIN_COURT</zType>
-    <Translation>Присоединиться к двору</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_IDLE</zType>
-    <Translation>Свободный</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_IGNORES_ZOC</zType>
-    <Translation>Игнорирует ЗК</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_LUXURY</zType>
-    <Translation>Редкие ресурсы</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_PROJECT_INFO</zType>
-    <Translation>Проект</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_RAISE_IMPROVEMENTS</zType>
-    <Translation>Возвести сооружения</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_REBEL</zType>
-    <Translation>Мятежник</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_ROUT</zType>
-    <Translation>Громила</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_SETTLEMENT</zType>
-    <Translation>Поселение</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_URBAN</zType>
-    <Translation><![CDATA[Город~Городской<comment this text is an adjective>]]></Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CONCEPT_ZOC</zType>
-    <Translation>ЗК</Translation>
-  </Entry>
-  <!--InfoVegetation-->
-  <Entry>
-    <zType>TEXT_VEGETATION_TREES</zType>
-    <Translation>Деревья</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_VEGETATION_TREES_REMOVE</zType>
-    <Translation>Вырубить деревья</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_VEGETATION_TREES_CUT</zType>
-    <Translation>Деревья (вырублены)</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_VEGETATION_TREES_CUT_REMOVE</zType>
-    <Translation>Очистить землю</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_VEGETATION_SCRUB</zType>
-    <Translation>Кусты</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_VEGETATION_SCRUB_REMOVE</zType>
-    <Translation>Вырубить кусты</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_VEGETATION_SCRUB_CUT</zType>
-    <Translation>Кусты (вырублены)</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_VEGETATION_SCRUB_CUT_REMOVE</zType>
-    <Translation>Очистить землю</Translation>
-  </Entry>
-  <!--InfoSpecialist-->
-  <Entry>
-    <zType>TEXT_SPECIALIST_FARMER</zType>
-    <Translation>Фермер~Фермера~Фермеру~Фермера~Фермером~Фермере</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_WOODCUTTER</zType>
-    <Translation>Лесоруб~Лесоруба~Лесорубу~Лесоруба~Лесорубом~Лесорубе</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_STONECUTTER</zType>
-    <Translation>Камнерез~Камнереза~Камнерезу~Камнереза~Камнерезом~Камнерезе</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_MINER</zType>
-    <Translation>Рудокоп~Рудокопа~Рудокопу~Рудокопа~Рудокопом~Рудокопе</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_RANCHER</zType>
-    <Translation>Пастух~Пастуха~Пастуху~Пастуха~Пастухом~Пастухе </Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_TRAPPER</zType>
-    <Translation>Охотник~Охотника~Охотнику~Охотника~Охотником~Охотнике</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_GARDENER</zType>
-    <Translation>Садовник~Садовника~Садовнику~Садовника~Садовником~Садовнике</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_FISHER</zType>
-    <Translation>Рыбак~Рыбака~Рыбаку~Рыбака~Рыбаком~Рыбаке</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_ACOLYTE_1</zType>
-    <Translation>Младший прислужник~Младшего прислужника~Младшему прислужнику~Младшего прислужника~Младшим прислужником~Младшем прислужнике</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_ACOLYTE_2</zType>
-    <Translation>Прислужник~Прислужника~Прислужнику~Прислужника~Прислужником~Прислужнике</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_ACOLYTE_3</zType>
-    <Translation>Старший прислужник~Старшего прислужника~Старшему прислужнику~Старшего прислужника~Старшим прислужником~Старшем прислужнике</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_DOCTOR_1</zType>
-    <Translation>Младший целитель~Младшего целителя~Младшему целителю~Младшего целителя~Младшим целителем~Младшем целителе</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_DOCTOR_2</zType>
-    <Translation>Целитель~Целителя~Целителю~Целителя~Целителем~Целителе</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_DOCTOR_3</zType>
-    <Translation>Старший целитель~Старшего целителя~Старшему целителю~Старшего целителя~Старшим целителем~Старшем целителе</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_MONK_1</zType>
-    <Translation>Младший монах~Младшего монаха~Младшему монаху~Младшего монаха~Младшим монахом~Младшем монахе</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_MONK_2</zType>
-    <Translation>Монах~Монаха~Монаху~Монаха~Монахом~Монахе</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_MONK_3</zType>
-    <Translation>Старший монах~Старшего монаха~Старшему монаху~Старшего монаха~Старшим монахом~Старшем монахе</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_PRIEST_1</zType>
-    <Translation>Младший священник~Младшего священника~Младшему священнику~Младшего священника~Младшим священником~Младшем священнике</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_PRIEST_2</zType>
-    <Translation>Священник~Священника~Священнику~Священника~Священником~Священнике</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_PRIEST_3</zType>
-    <Translation>Старший священник~Старшего священника~Старшему священнику~Старшего священника~Старшим священником~Старшем священнике</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_BISHOP_1</zType>
-    <Translation>Младший епископ~Младшего епископа~Младшему епископу~Младшего епископа~Младшим епископом~Младшем епископе</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_BISHOP_2</zType>
-    <Translation>Епископ~Епископа~Епископу~Епископа~Епископом~Епископе</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_BISHOP_3</zType>
-    <Translation>Старший епископ~Старшего епископа~Старшему епископу~Старшего епископа~Старшим епископом~Старшем епископе</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_POET_1</zType>
-    <Translation>Младший поэт~Младшего поэта~Младшему поэту~Младшего поэта~Младшим поэтом~Младшем поэте</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_POET_2</zType>
-    <Translation>Поэт~Поэта~Поэту~Поэта~Поэтом~Поэте</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_POET_3</zType>
-    <Translation>Старший поэт~Старшего поэта~Старшему поэту~Старшего поэта~Старшим поэтом~Старшем поэте</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_SHOPKEEPER_1</zType>
-    <Translation>Младший торговец~Младшего торговца~Младшему торговцу~Младшего торговца~Младшим торговцем~Младшем торговце</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_SHOPKEEPER_2</zType>
-    <Translation>Торговец~Торговца~Торговцу~Торговца~Торговцем~Торговце</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_SHOPKEEPER_3</zType>
-    <Translation>Старший торговец~Старшего торговца~Старшему торговцу~Старшего торговца~Старшим торговцем~Старшем торговце</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_PHILOSOPHER_1</zType>
-    <Translation>Младший философ~Младшего философа~Младшему философу~Младшего философа~Младшим философом~Младшем философе</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_PHILOSOPHER_2</zType>
-    <Translation>Философ~Философа~Философу~Философа~Философом~Философе</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_PHILOSOPHER_3</zType>
-    <Translation> Старший философ~Старшего философа~Старшему философу~Старшего философа~Старшим философом~Старшем философе</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_SCRIBE_1</zType>
-    <Translation>Младший секретарь~Младшего секретаря~Младшему секретарю~Младшего секретаря~Младшим секретарем~Младшем секретаре</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_SCRIBE_2</zType>
-    <Translation>Секретарь~Секретаря~Секретарю~Секретаря~Секретарем~Секретаре</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_SCRIBE_3</zType>
-    <Translation>Старший секретарь~Старшего секретаря~Старшему секретарю~Старшего секретаря~Старшим секретарем~Старшем секретаре</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_OFFICER_1</zType>
-    <Translation>Младший офицер~Младшего офицера~Младшему офицеру~Младшего офицера~Младшим офицером~Младшем офицере</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_OFFICER_2</zType>
-    <Translation>Офицер~Офицера~Офицеру~Офицера~Офицером~Офицере</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_OFFICER_3</zType>
-    <Translation>Старший офицер~Старшего офицера~Старшему офицеру~Старшего офицера~Старшим офицером~Старшем офицере</Translation>
-  </Entry>
-  <!--InfoOpinionBarbarian-->
-  <!--Assets/GameAssets/Resources/Infos/opinionBarbarian.xml-->
-  <Entry>
-    <zType>TEXT_OPINIONBARBARIAN_FURIOUS</zType>
-    <Translation>В ярости</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_OPINIONBARBARIAN_ANGRY</zType>
-    <Translation>Озлоблены</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_OPINIONBARBARIAN_UPSET</zType>
-    <Translation>Расстроены</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_OPINIONBARBARIAN_CAUTIOUS</zType>
-    <Translation>Осторожны</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_OPINIONBARBARIAN_PLEASED</zType>
-    <Translation>Довольны</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_OPINIONBARBARIAN_FRIENDLY</zType>
-    <Translation>Дружелюбны</Translation>
-  </Entry>
-  <!--InfoOpinionCharacter-->
-  <!--Assets/GameAssets/Resources/Infos/opinionCharacter.xml-->
-  <Entry>
-    <zType>TEXT_OPINIONCHARACTER_FURIOUS</zType>
-    <Translation>В ярости</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_OPINIONCHARACTER_ANGRY</zType>
-    <Translation>Озлоблены</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_OPINIONCHARACTER_UPSET</zType>
-    <Translation>Расстроены</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_OPINIONCHARACTER_CAUTIOUS</zType>
-    <Translation>Осторожны</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_OPINIONCHARACTER_PLEASED</zType>
-    <Translation>Довольны</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_OPINIONCHARACTER_FRIENDLY</zType>
-    <Translation>Дружелюбны</Translation>
-  </Entry>
-  <!--InfoOpinionPlayer-->
-  <!--Assets/GameAssets/Resources/Infos/opinionPlayer.xml-->
-  <Entry>
-    <zType>TEXT_OPINIONPLAYER_FURIOUS</zType>
-    <Translation>В ярости</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_OPINIONPLAYER_ANGRY</zType>
-    <Translation>Озлоблены</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_OPINIONPLAYER_UPSET</zType>
-    <Translation>Расстроены</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_OPINIONPLAYER_CAUTIOUS</zType>
-    <Translation>Осторожны</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_OPINIONPLAYER_PLEASED</zType>
-    <Translation>Довольны</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_OPINIONPLAYER_FRIENDLY</zType>
-    <Translation>Дружелюбны</Translation>
-  </Entry>
+	</Entry>	
+	<Entry>
+		<zType>TEXT_LANGUAGE_DEBUG</zType>
+		<Translation>Text Debug</Translation>
+	</Entry>
+	
+	<!-- InfoTerrain -->
+	<Entry>
+		<zType>TEXT_TERRAIN_WATER</zType>
+		<Translation>Вода</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_URBAN</zType>
+		<Translation>Город</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_LUSH</zType>
+		<Translation>Луга</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_TEMPERATE</zType>
+		<Translation>Равнина</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_ARID</zType>
+		<Translation>Пустыня</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_SAND</zType>
+		<Translation>Пески</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_TUNDRA</zType>
+		<Translation>Тундра</Translation>
+	</Entry>
+	<!--InfoBuild-->
+	<Entry>
+		<zType>TEXT_BUILD_PROJECT</zType>
+		<Translation>Проект</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BUILD_SPECIALIST</zType>
+		<Translation>Специалист</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BUILD_UNIT</zType>
+		<Translation>Юнит</Translation>
+	</Entry>
+	<!--InfoConcept-->
+	<Entry>
+		<zType>TEXT_CONCEPT_ALLIANCE_BARB</zType>
+		<Translation>Союз с варварами</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_ALLIANCE_PLAYER</zType>
+		<Translation>Союз с игроком</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_BARBARIAN_INVADE</zType>
+		<Translation>Нападение варваров</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_BUY_TILE</zType>
+		<Translation>Купить клетки</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_CULTURE_EVENT</zType>
+		<Translation>Культурное событие</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_CLEAR</zType>
+		<Translation>Очистить</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_CONDUCT_TRADE_MISSION</zType>
+		<Translation>Отправить торговую делегацию</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_CRITICAL_HIT</zType>
+		<Translation>Критический удар</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_ENVY</zType>
+		<Translation>Зависть</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_GENERAL</zType>
+		<Translation>Генерал</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_GOVERNOR</zType>
+		<Translation>Губернатор</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_HARVEST_RESOURCE</zType>
+		<Translation>Собрать урожай</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_JOIN_COURT</zType>
+		<Translation>Присоединиться к двору</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_IDLE</zType>
+		<Translation>Свободный</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_IGNORES_ZOC</zType>
+		<Translation>Игнорирует ЗК</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_LUXURY</zType>
+		<Translation>Редкие ресурсы</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_PROJECT_INFO</zType>
+		<Translation>Проект</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_RAISE_IMPROVEMENTS</zType>
+		<Translation>Возвести сооружения</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_REBEL</zType>
+		<Translation>Мятежник</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_ROUT</zType>
+		<Translation>Громила</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_SETTLEMENT</zType>
+		<Translation>Поселение</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_URBAN</zType>
+		<Translation><![CDATA[Город~Городской<comment this text is an adjective>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_ZOC</zType>
+		<Translation>ЗК</Translation>
+	</Entry>
+	<!--InfoVegetation-->
+	<Entry>
+		<zType>TEXT_VEGETATION_TREES</zType>
+		<Translation>Деревья</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_TREES_REMOVE</zType>
+		<Translation>Вырубить деревья</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_TREES_CUT</zType>
+		<Translation>Деревья (вырублены)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_TREES_CUT_REMOVE</zType>
+		<Translation>Очистить землю</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_SCRUB</zType>
+		<Translation>Кусты</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_SCRUB_REMOVE</zType>
+		<Translation>Вырубить кусты</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_SCRUB_CUT</zType>
+		<Translation>Кусты (вырублены)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_SCRUB_CUT_REMOVE</zType>
+		<Translation>Очистить землю</Translation>
+	</Entry>
+	<!--InfoSpecialist-->
+	<Entry>
+		<zType>TEXT_SPECIALIST_FARMER</zType>
+		<Translation>Фермер~Фермера~Фермеру~Фермера~Фермером~Фермере</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_WOODCUTTER</zType>
+		<Translation>Лесоруб~Лесоруба~Лесорубу~Лесоруба~Лесорубом~Лесорубе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_STONECUTTER</zType>
+		<Translation>Камнерез~Камнереза~Камнерезу~Камнереза~Камнерезом~Камнерезе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_MINER</zType>
+		<Translation>Рудокоп~Рудокопа~Рудокопу~Рудокопа~Рудокопом~Рудокопе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_RANCHER</zType>
+		<Translation>Пастух~Пастуха~Пастуху~Пастуха~Пастухом~Пастухе </Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_TRAPPER</zType>
+		<Translation>Охотник~Охотника~Охотнику~Охотника~Охотником~Охотнике</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_GARDENER</zType>
+		<Translation>Садовник~Садовника~Садовнику~Садовника~Садовником~Садовнике</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_FISHER</zType>
+		<Translation>Рыбак~Рыбака~Рыбаку~Рыбака~Рыбаком~Рыбаке</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_ACOLYTE_1</zType>
+		<Translation>Младший прислужник~Младшего прислужника~Младшему прислужнику~Младшего прислужника~Младшим прислужником~Младшем прислужнике</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_ACOLYTE_2</zType>
+		<Translation>Прислужник~Прислужника~Прислужнику~Прислужника~Прислужником~Прислужнике</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_ACOLYTE_3</zType>
+		<Translation>Старший прислужник~Старшего прислужника~Старшему прислужнику~Старшего прислужника~Старшим прислужником~Старшем прислужнике</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_DOCTOR_1</zType>
+		<Translation>Младший целитель~Младшего целителя~Младшему целителю~Младшего целителя~Младшим целителем~Младшем целителе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_DOCTOR_2</zType>
+		<Translation>Целитель~Целителя~Целителю~Целителя~Целителем~Целителе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_DOCTOR_3</zType>
+		<Translation>Старший целитель~Старшего целителя~Старшему целителю~Старшего целителя~Старшим целителем~Старшем целителе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_MONK_1</zType>
+		<Translation>Младший монах~Младшего монаха~Младшему монаху~Младшего монаха~Младшим монахом~Младшем монахе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_MONK_2</zType>
+		<Translation>Монах~Монаха~Монаху~Монаха~Монахом~Монахе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_MONK_3</zType>
+		<Translation>Старший монах~Старшего монаха~Старшему монаху~Старшего монаха~Старшим монахом~Старшем монахе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_PRIEST_1</zType>
+		<Translation>Младший священник~Младшего священника~Младшему священнику~Младшего священника~Младшим священником~Младшем священнике</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_PRIEST_2</zType>
+		<Translation>Священник~Священника~Священнику~Священника~Священником~Священнике</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_PRIEST_3</zType>
+		<Translation>Старший священник~Старшего священника~Старшему священнику~Старшего священника~Старшим священником~Старшем священнике</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_BISHOP_1</zType>
+		<Translation>Младший епископ~Младшего епископа~Младшему епископу~Младшего епископа~Младшим епископом~Младшем епископе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_BISHOP_2</zType>
+		<Translation>Епископ~Епископа~Епископу~Епископа~Епископом~Епископе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_BISHOP_3</zType>
+		<Translation>Старший епископ~Старшего епископа~Старшему епископу~Старшего епископа~Старшим епископом~Старшем епископе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_POET_1</zType>
+		<Translation>Младший поэт~Младшего поэта~Младшему поэту~Младшего поэта~Младшим поэтом~Младшем поэте</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_POET_2</zType>
+		<Translation>Поэт~Поэта~Поэту~Поэта~Поэтом~Поэте</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_POET_3</zType>
+		<Translation>Старший поэт~Старшего поэта~Старшему поэту~Старшего поэта~Старшим поэтом~Старшем поэте</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SHOPKEEPER_1</zType>
+		<Translation>Младший торговец~Младшего торговца~Младшему торговцу~Младшего торговца~Младшим торговцем~Младшем торговце</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SHOPKEEPER_2</zType>
+		<Translation>Торговец~Торговца~Торговцу~Торговца~Торговцем~Торговце</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SHOPKEEPER_3</zType>
+		<Translation>Старший торговец~Старшего торговца~Старшему торговцу~Старшего торговца~Старшим торговцем~Старшем торговце</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_PHILOSOPHER_1</zType>
+		<Translation>Младший философ~Младшего философа~Младшему философу~Младшего философа~Младшим философом~Младшем философе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_PHILOSOPHER_2</zType>
+		<Translation>Философ~Философа~Философу~Философа~Философом~Философе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_PHILOSOPHER_3</zType>
+		<Translation> Старший философ~Старшего философа~Старшему философу~Старшего философа~Старшим философом~Старшем философе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SCRIBE_1</zType>
+		<Translation>Младший секретарь~Младшего секретаря~Младшему секретарю~Младшего секретаря~Младшим секретарем~Младшем секретаре</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SCRIBE_2</zType>
+		<Translation>Секретарь~Секретаря~Секретарю~Секретаря~Секретарем~Секретаре</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SCRIBE_3</zType>
+		<Translation>Старший секретарь~Старшего секретаря~Старшему секретарю~Старшего секретаря~Старшим секретарем~Старшем секретаре</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_OFFICER_1</zType>
+		<Translation>Младший офицер~Младшего офицера~Младшему офицеру~Младшего офицера~Младшим офицером~Младшем офицере</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_OFFICER_2</zType>
+		<Translation>Офицер~Офицера~Офицеру~Офицера~Офицером~Офицере</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_OFFICER_3</zType>
+		<Translation>Старший офицер~Старшего офицера~Старшему офицеру~Старшего офицера~Старшим офицером~Старшем офицере</Translation>
+	</Entry>
+	<!--InfoOpinionBarbarian-->
+	<!--Assets/GameAssets/Resources/Infos/opinionBarbarian.xml-->
+	<Entry>
+		<zType>TEXT_OPINIONBARBARIAN_FURIOUS</zType>
+		<Translation>В ярости</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONBARBARIAN_ANGRY</zType>
+		<Translation>Озлоблены</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONBARBARIAN_UPSET</zType>
+		<Translation>Расстроены</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONBARBARIAN_CAUTIOUS</zType>
+		<Translation>Осторожны</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONBARBARIAN_PLEASED</zType>
+		<Translation>Довольны</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONBARBARIAN_FRIENDLY</zType>
+		<Translation>Дружелюбны</Translation>
+	</Entry>
+	<!--InfoOpinionCharacter-->
+	<!--Assets/GameAssets/Resources/Infos/opinionCharacter.xml-->
+	<Entry>
+		<zType>TEXT_OPINIONCHARACTER_FURIOUS</zType>
+		<Translation>В ярости</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONCHARACTER_ANGRY</zType>
+		<Translation>Озлоблены</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONCHARACTER_UPSET</zType>
+		<Translation>Расстроены</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONCHARACTER_CAUTIOUS</zType>
+		<Translation>Осторожны</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONCHARACTER_PLEASED</zType>
+		<Translation>Довольны</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONCHARACTER_FRIENDLY</zType>
+		<Translation>Дружелюбны</Translation>
+	</Entry>
+	<!--InfoOpinionPlayer-->
+	<!--Assets/GameAssets/Resources/Infos/opinionPlayer.xml-->
+	<Entry>
+		<zType>TEXT_OPINIONPLAYER_FURIOUS</zType>
+		<Translation>В ярости</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONPLAYER_ANGRY</zType>
+		<Translation>Озлоблены</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONPLAYER_UPSET</zType>
+		<Translation>Расстроены</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONPLAYER_CAUTIOUS</zType>
+		<Translation>Осторожны</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONPLAYER_PLEASED</zType>
+		<Translation>Довольны</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONPLAYER_FRIENDLY</zType>
+		<Translation>Дружелюбны</Translation>
+	</Entry>
+	<!--InfoGoal-->
+	<Entry>
+		<zType>TEXT_GOAL_SLAVERY</zType>
+		<Translation>Принять закон о Рабстве</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FREEDOM</zType>
+		<Translation>Принять закон о Свободе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TYRANNY</zType>
+		<Translation>Принять закон о Тирании</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_CONSTITUTION</zType>
+		<Translation>Принять закон о Конституции</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_EPICS</zType>
+		<Translation>Принять закон о Героизме</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_EXPLORATION</zType>
+		<Translation>Принять закон о Дальней разведке</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_CENTRALIZATION</zType>
+		<Translation>Принять закон о Централизации</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_VASSALAGE</zType>
+		<Translation>Принять закон о Вассальстве</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_COLONIZATION</zType>
+		<Translation>Принять закон о Колонизации</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SERFDOM</zType>
+		<Translation>Принять закон о Крепостном праве</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_PROFESSIONAL_ARMY</zType>
+		<Translation>Принять закон о Профессиональной армии</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_VOLUNTEERS</zType>
+		<Translation>Принять закон о Добровольной службе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_PHILOSOPHY</zType>
+		<Translation>Принять закон о Философии</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ENGINEERING</zType>
+		<Translation>Принять закон об Инженерном деле</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_MONOTHEISM</zType>
+		<Translation>Принять закон о Монотеизме</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_POLYTHEISM</zType>
+		<Translation>Принять закон о Политеизме</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_GUILDS</zType>
+		<Translation>Принять закон о Гильдиях</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ELITES</zType>
+		<Translation>Принять закон о Знати</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TOLERANCE</zType>
+		<Translation>Принять закон о Толерантности</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ORTHODOXY</zType>
+		<Translation>Принять закон о Православии</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ICONOGRAPHY</zType>
+		<Translation>Принять закон об Иконографии</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_CALLIGRAPHY</zType>
+		<Translation>Принять закон о Каллиграфии</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_DIVINE_RULE</zType>
+		<Translation>Принять закон о Божественном происхождении власти</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SECULARISM</zType>
+		<Translation>Принять закон о Секуляризме</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ASCETICISM</zType>
+		<Translation>Принять закон об Аскетизме</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_HOLY_WAR</zType>
+		<Translation>Принять закон о Священной войне</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ISOLATIONISM</zType>
+		<Translation>Принять закон об Изоляционализме</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TRADE_LEAGUE</zType>
+		<Translation>Принять закон о Торговых союзах</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_COIN_DEBASEMENT</zType>
+		<Translation>Принять закон о Порче монет</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_MONETARY_REFORM</zType>
+		<Translation>Принять закон о Денежной реформе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_LAWS</zType>
+		<Translation>Принять 4 закона</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_EIGHT_LAWS</zType>
+		<Translation>Принять 8 законов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ALL_LAWS</zType>
+		<Translation>Принять все законы</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_VENERATION</zType>
+		<Translation>Закрепить Поклонение</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_MYTHOLOGY</zType>
+		<Translation>Закрепить Мифологию</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_LEGALISM</zType>
+		<Translation>Закрепить Легализм</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_DUALISM</zType>
+		<Translation>Закрепить Дуализм</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_REVELATION</zType>
+		<Translation>Закрепить Богооткровение</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ENLIGHTENMENT</zType>
+		<Translation>Закрепить Духовное просвещение</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_REDEMPTION</zType>
+		<Translation>Закрепить Искупление грехов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_CITIES</zType>
+		<Translation>Держать под контролем 4 города</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SEVEN_CITIES</zType>
+		<Translation>Держать под контролем 7 городов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TEN_CITIES</zType>
+		<Translation>Держать под контролем 10 городов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_THREE_CONNECTED_CITIES</zType>
+		<Translation>Держать под контролем 3 соединенных города</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_CONNECTED_CITIES</zType>
+		<Translation>Держать под контролем 6 соединенных городов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_NINE_CONNECTED_CITIES</zType>
+		<Translation>Держать под контролем 9 соединенных городов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TEN_POPULATION</zType>
+		<Translation>Держать под контролем 10 населения</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_30_POPULATION</zType>
+		<Translation>Держать под контролем 30 населения</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_100_POPULATION</zType>
+		<Translation>Держать под контролем 100 населения</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_HIGHEST_POPULATION</zType>
+		<Translation>Наивысшее число населения</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_GAULS_5</zType>
+		<Translation>Убить 5 link(BARBARIAN_GAULS, 1)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_VANDALS_5</zType>
+		<Translation>Убить 5 link(BARBARIAN_VANDALS, 1)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_DANES_5</zType>
+		<Translation>Убить 5 link(BARBARIAN_DANES, 1)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_THRACIANS_5</zType>
+		<Translation>Убить 5 link(BARBARIAN_THRACIANS, 1)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SCYTHIANS_5</zType>
+		<Translation>Убить 5 link(BARBARIAN_SCYTHIANS, 1)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_NUMIDIANS_5</zType>
+		<Translation>Убить 5 link(BARBARIAN_NUMIDIANS, 1)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOOD_400</zType>
+		<Translation>Произвести 400 icon(YIELD_FOOD)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOOD_800</zType>
+		<Translation>Произвести 800 icon(YIELD_FOOD)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_WOOD_400</zType>
+		<Translation>Произвести 400 icon(YIELD_WOOD)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_WOOD_800</zType>
+		<Translation>Произвести 800 icon(YIELD_WOOD)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_STONE_400</zType>
+		<Translation>Произвести 400 icon(YIELD_STONE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_STONE_800</zType>
+		<Translation>Произвести 800 icon(YIELD_STONE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_IRON_400</zType>
+		<Translation>Произвести 400 icon(YIELD_IRON)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_IRON_800</zType>
+		<Translation>Произвести 800 icon(YIELD_IRON)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_20_GOODS_TURN</zType>
+		<Translation>+20 icon(YIELD_FOOD), icon(YIELD_IRON), icon(YIELD_WOOD) и icon(YIELD_STONE) в год</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_50_GOODS_TURN</zType>
+		<Translation>+50 icon(YIELD_FOOD), icon(YIELD_IRON), icon(YIELD_WOOD) и icon(YIELD_STONE) в год</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_CIVICS_2000</zType>
+		<Translation>Накопить 2000 icon(YIELD_CIVICS)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TRAINING_2000</zType>
+		<Translation>Накопить 2000 icon(YIELD_TRAINING)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_MONEY_2000</zType>
+		<Translation>Накопить 2,000 icon(YIELD_MONEY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_MONEY_5000</zType>
+		<Translation>Накопить 5,000 icon(YIELD_MONEY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_MONEY_10000</zType>
+		<Translation>Накопить 10,000 icon(YIELD_MONEY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_500_MONEY_TURN</zType>
+		<Translation>+500icon(YIELD_MONEY) в год</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_WORKERS</zType>
+		<Translation>Держать под контролем 5 link(UNIT_WORKER,7)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_FARMS</zType>
+		<Translation>Держать под контролем 6 link(IMPROVEMENT_FARM,7)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_LUMBERMILLS</zType>
+		<Translation>Держать под контролем 6 link(IMPROVEMENT_LUMBERMILL,7)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_QUARRIES</zType>
+		<Translation>Держать под контролем 6 link(IMPROVEMENT_QUARRY,7)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_MINES</zType>
+		<Translation>Держать под контролем 6 link(IMPROVEMENT_MINE,7)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_PASTURES</zType>
+		<Translation>Держать под контролем 6 link(IMPROVEMENT_PASTURE,7)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_CAMPS</zType>
+		<Translation>Держать под контролем 6 link(IMPROVEMENT_CAMP,7)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_GROVES</zType>
+		<Translation>Держать под контролем 6 link(IMPROVEMENT_GROVE,7)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_NETS</zType>
+		<Translation>Держать под контролем 6 link(IMPROVEMENT_NETS,1)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_HARBORS</zType>
+		<Translation>Держать под контролем 4 Гавани</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_GRANARY</zType>
+		<Translation>Держать под контролем 4 Амбара</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_BARRACKS_RANGES</zType>
+		<Translation>Держать под контролем 6 Казарм или Полигонов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_BATHS_1</zType>
+		<Translation>Держать под контролем 4 Холодные купальни</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_BATHS_2</zType>
+		<Translation>Держать под контролем 4 Теплые купальни</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_BATHS_3</zType>
+		<Translation>Держать под контролем 4 Горячие купальни</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_THEATER_1</zType>
+		<Translation>Держать под контролем 4 Одеона</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_THEATER_2</zType>
+		<Translation>Держать под контролем 4 Амфитеатра</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_THEATER_3</zType>
+		<Translation>Держать под контролем 4 Колизея</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_MARKET_1</zType>
+		<Translation>Держать под контролем 4 Рынка</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_MARKET_2</zType>
+		<Translation>Держать под контролем 4 Бакалеи</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_MARKET_3</zType>
+		<Translation>Держать под контролем 4 Ярмарки</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_LIBRARY_1</zType>
+		<Translation>Держать под контролем 4 Библиотеки</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_LIBRARY_2</zType>
+		<Translation>Держать под контролем 4 Академии</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_LIBRARY_3</zType>
+		<Translation>Держать под контролем 4 Университета</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_COURTHOUSE_1</zType>
+		<Translation>Держать под контролем 4 Здания суда</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_COURTHOUSE_2</zType>
+		<Translation>Держать под контролем 4 Министерства</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_COURTHOUSE_3</zType>
+		<Translation>Держать под контролем 4 Резиденции</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_GARRISON_1</zType>
+		<Translation>Держать под контролем 4 Гарнизона</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_GARRISON_2</zType>
+		<Translation>Держать под контролем 4 Укрепления</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_GARRISON_3</zType>
+		<Translation>Держать под контролем 4 Цитадели</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_EIGHT_SHRINES</zType>
+		<Translation>Держать под контролем 8 Святынь</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_MONASTERY</zType>
+		<Translation>Держать под контролем 4 Монастыря</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_TEMPLE</zType>
+		<Translation>Держать под контролем 4 Храма</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_THREE_CATHEDRAL</zType>
+		<Translation>Держать под контролем 3 Собора</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_EIGHT_TOWNS</zType>
+		<Translation>Держать под контролем 8 городов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_RESOURCE_IMPROVEMENTS</zType>
+		<Translation>6 Выгонов, Лагерей, Рощ или Сетей</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_URBAN_IMPROVEMENTS</zType>
+		<Translation>Держать под контролем 6 городских улучшений</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_REPAIRED</zType>
+		<Translation>Починить 6 улучшений</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_EIGHT_REPAIRED</zType>
+		<Translation>Починить 8 улучшений</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_LEGENDARY_IMPROVEMENTS</zType>
+		<Translation>Построить Колизей, Ярмарку, Университет и Резиденцию</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_PYRAMIDS</zType>
+		<Translation>Держать под контролем Пирамиды</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_GREAT_ZIGGURAT</zType>
+		<Translation>Держать под контролем Великий Зиккурат</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ORACLE</zType>
+		<Translation>Держать под контролем Оракул</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_HANGING_GARDENS</zType>
+		<Translation>Держать под контролем	Висячие сады</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_NECROPOLIS</zType>
+		<Translation>Держать под контролем Некрополис</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ISHTAR_GATE</zType>
+		<Translation>Держать под контролем Ворота Иштара</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_LIGHTHOUSE</zType>
+		<Translation>Держать под контролем Фаросский Маяк</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_APADANA</zType>
+		<Translation>Держать под контролем Ападану</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_MAUSOLEUM</zType>
+		<Translation>Держать под контролем Галикарнасский Мавзолей</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ACROPOLIS</zType>
+		<Translation>Держать под контролем Афинский Акрополь</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_COLOSSUS</zType>
+		<Translation>Держать под контролем Колосса</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_MUSAEUM</zType>
+		<Translation>Держать под контролем Александрийскую библиотеку</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_CIRCUS_MAXIMUS</zType>
+		<Translation>Держать под контролем Большой цирк</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_PANTHEON</zType>
+		<Translation>Держать под контролем Пантеон</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_HAGIA_SOPHIA</zType>
+		<Translation>Держать под контролем Собор Святой Софии</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_GRAND_BAZAAR</zType>
+		<Translation>Держать под контролем Гранд-Базар</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_DEVELOPING</zType>
+		<Translation>Держать под контролем 5 Развивающихся городов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_STRONG</zType>
+		<Translation>Держать под контролем 4 Сильных города</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_THREE_LEGENDARY</zType>
+		<Translation>Держать под контролем 3 Легендарных города</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_LEGENDARY</zType>
+		<Translation>Держать под контролем 6 Легендарных городов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_WONDERS</zType>
+		<Translation>Держать под контролем 2 Чуда (1 Сильное)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_WONDERS</zType>
+		<Translation>Держать под контролем 4 Чуда (1 Легендарное)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SEVEN_WONDERS</zType>
+		<Translation>Держать под контролем 7 Чудес </Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_POETS</zType>
+		<Translation>Держать под контролем 2 Старших поэта</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_OFFICERS</zType>
+		<Translation>Держать под контролем 2 Старших офицера</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_SCRIBES</zType>
+		<Translation>Держать под контролем 2 Старших секретаря</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_MONKS</zType>
+		<Translation>Держать под контролем 2 Старших монаха</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_PRIESTS</zType>
+		<Translation>Держать под контролем 2 Старших священника</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_SHOPKEEPERS</zType>
+		<Translation>Держать под контролем 2 Старших торговца</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_PHILOSOPHERS</zType>
+		<Translation>Держать под контролем 2 Старших философа</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_10_SPECIALISTS</zType>
+		<Translation>Держать под контролем 10 специалистов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_30_SPECIALISTS</zType>
+		<Translation>Держать под контролем 30 специалистов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_10_ELDER_SPECIALISTS</zType>
+		<Translation>Держать под контролем 10 Старших специалистов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_20_ELDER_SPECIALISTS</zType>
+		<Translation>Держать под контролем 20 Старших специалистов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_WALLS</zType>
+		<Translation>Держать под контролем 6 Стен</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_MOATS</zType>
+		<Translation>Держать под контролем 6 Рвов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_TOWERS</zType>
+		<Translation>Держать под контролем 6 Башен</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_TREASURIES</zType>
+		<Translation>Держать под контролем 6 Сокровищниц</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_FORUMS</zType>
+		<Translation>Держать под контролем 6 Форумов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_ARCHIVES</zType>
+		<Translation>Держать под контролем 6 Архивов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_FESTIVALS</zType>
+		<Translation>Держать под контролем 6 Фестивалей</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_CONVOYS</zType>
+		<Translation>Держать под контролем 6 Конвоев</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_LEGENDARY_PROJECTS</zType>
+		<Translation>Легендарные Сокровищница, Форум и Архив</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_THREE_BARB_CLEARED</zType>
+		<Translation>Очистить 3 варварских стоянки</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_BARB_CLEARED</zType>
+		<Translation>Очистить 5 варварских стоянок</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SEVEN_BARB_CLEARED</zType>
+		<Translation>Очистить 7 варварских стоянок</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_BARBARIAN_PEACE</zType>
+		<Translation>Заключить мир с варварами</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_BARBARIAN_ALLIANCE</zType>
+		<Translation>Заключить союз с варварами</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_BARBARIAN_CONVERSION</zType>
+		<Translation>Обратить варваров в религию</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_THREE_PEACE</zType>
+		<Translation>Заключить мир с тремя племенами или империями</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ONE_RECAPTURE_CITY</zType>
+		<Translation>Вновь захватить 1 город</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_RECAPTURE_CITY</zType>
+		<Translation>Вновь захватить 2 города</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_CAPTURE_CITIES</zType>
+		<Translation>Захватить 4 чужеземных города</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ONE_CAPTIAL</zType>
+		<Translation>Захватить чужеземную столицу</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_EIGHT_CAPTURE_CITIES</zType>
+		<Translation>Захватить 8 чужеземных городов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUND_RELIGION</zType>
+		<Translation>Основать религию</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_STATE_RELIGION</zType>
+		<Translation>Закрепить Государственную религию</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ESTABLISH_THEOLOGY</zType>
+		<Translation>Закрепить Теологию</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_RELIGION_SPREAD</zType>
+		<Translation>Распространить религию 4 раза</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_EIGHT_RELIGION_SPREAD</zType>
+		<Translation>Распространить религию 8 раз</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_TECHS</zType>
+		<Translation>Открыть 6 технологий</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SEVEN_TECHS</zType>
+		<Translation>Открыть 7 технологий</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_EIGHT_TECHS</zType>
+		<Translation>Открыть 8 технологий</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SCHOLARSHIP_VAULTING</zType>
+		<Translation>Открыть Научные знания и Систему сводов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_5_KILLS</zType>
+		<Translation>Убить 5 вражеских юнитов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_10_KILLS</zType>
+		<Translation>Убить 10 вражеских юнитов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_15_KILLS</zType>
+		<Translation>Убить 15 вражеских юнитов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_20_KILLS</zType>
+		<Translation>Убить 20 вражеских юнитов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_PROMOTIONS</zType>
+		<Translation>5 повышений</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TEN_PROMOTIONS</zType>
+		<Translation>10 повышений</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_MAX_LEVEL_UNIT</zType>
+		<Translation>2 юнита максимального уровня (ближнего и дальнего боя)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_MILITARY</zType>
+		<Translation>Держать под контролем 5 военных юнитов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_RANGED</zType>
+		<Translation>Держать под контролем 5 юнитов дальнего боя</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_MOUNTED</zType>
+		<Translation>Держать под контролем 5 всадников</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_SIEGE</zType>
+		<Translation>Держать под контролем 5 осадных юнитов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_RANGED_MOUNTED</zType>
+		<Translation>2 юнита дальнего боя и 2 всадника</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_LONGBOWMAN_CROSSBOWMAN</zType>
+		<Translation>5 Лучников или Арбалетчиков</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_POLYBOLOS_CATAPHRACT</zType>
+		<Translation>5 Полиболов или Катафрактарий</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_SWORDSMAN_PIKEMAN</zType>
+		<Translation>5 Мечников или Пикинеров</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_20_UNITS</zType>
+		<Translation>Держать под контролем 20 военных юнитов (5 Катафрактарий)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_HIGHEST_MILITARY</zType>
+		<Translation>Наивысшее число войск</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_BATTERING_RAM</zType>
+		<Translation>Держать под контролем 2 Тарана</Translation>
+	</Entry>
+	<!-- Требуется перевод -->
+	<Entry>
+		<zType>TEXT_GOAL_TWO_SIEGE_TOWER</zType>
+		<Translation>Control Two Siege Towers</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_AKKADIAN_ARCHER</zType>
+		<Translation>Control Two Akkadian Archers</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_CIMMERIAN_ARCHER</zType>
+		<Translation>Control Two Cimmerian Archers</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_AFRICAN_ELEPHANT</zType>
+		<Translation>Control Two Africans Elephants</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_TURRETED_ELEPHANT</zType>
+		<Translation>Control Two Turreted Elephants</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_LIGHT_CHARIOT</zType>
+		<Translation>Control Two Light Chariots</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_KUSHITE_CAVALRY</zType>
+		<Translation>Control Two Kushite Cavalry</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_HOPLITE</zType>
+		<Translation>Control Two Hoplites</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_PHALANGITE</zType>
+		<Translation>Control Two Phalangites</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_PALTON_CAVALRY</zType>
+		<Translation>Control Two Palton Cavalry</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_CATAPHRACT_ARCHER</zType>
+		<Translation>Control Two Cataphract Archers</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_HASTATUS</zType>
+		<Translation>Control Two Hastatus</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_LEGIONARY</zType>
+		<Translation>Control Two Legionaries</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_COURTIERS</zType>
+		<Translation>Add Two Courtiers</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_COURTIERS</zType>
+		<Translation>Add Four Courtiers</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_REVEAL_40</zType>
+		<Translation>Открыть 40% карты</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_REVEAL_60</zType>
+		<Translation>Открыть 60% карты</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_REVEAL_80</zType>
+		<Translation>Открыть 80% карты</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_CAPTURE_THREE_CITIES</zType>
+		<Translation>Захватить 3 города</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_CAPTURE_FOUR_CITIES</zType>
+		<Translation>Захватить 4 города</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_CLEAR_THREE_BARBS</zType>
+		<Translation>Очистить 3 варварских стоянки</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_TEMPLES_ZOROASTRIANISM</zType>
+		<Translation>Держать под контролем 3 Зороастрийских храма</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_TEMPLES_JUDAISM</zType>
+		<Translation>Держать под контролем 3 Иудейских храма</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_THREE_CATHEDRALS_CHRISTIANITY</zType>
+		<Translation>Держать под контролем 3 Христианских Собора</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_THREE_CATHEDRALS_MANICHAEISM</zType>
+		<Translation>Держать под контролем 3 Манихейских Собора</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_QUEST_INQUIRING_MINDS</zType>
+		<Translation>Complete 3 Inquiries</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_QUEST_FOUNDING_SIGNS</zType>
+		<Translation>Основать город</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_QUEST_KILL_5_ENEMIES</zType>
+		<Translation>Убить 5 врагов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_QUEST_KILL_5_BARBS</zType>
+		<Translation>Убить 5 варваров</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_QUEST_PHILOSOPHY</zType>
+		<Translation>Принять закон о Философии</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_QUEST_ENACT_ORTHODOXY</zType>
+		<Translation>Принять закон о Православии</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_QUEST_COLOSSUS</zType>
+		<Translation>Держать под контролем Колосс</Translation>
+	</Entry>
+	<!-- Требуется перевод -->
+	<Entry>
+		<zType>TEXT_NATION_ASSYRIA_STORY</zType>
+		<Translation>			I am Ashurbanipal, king of the universe, descendants of great kings. I was the fourth in line for the succession, but my father, Esarhaddon, picked me to rule Assyria because of my bravery and intelligence while sending an older brother to rule a distant kingdom. Unrest comes from his land, and I need to show him how to be the greatest king of them all.
+
+			While my father was alive, I worked as a spymaster and studied etiquette and military training. I constructed the first systematically organized library of the Old World, containing 30,000 clay tablets. I was known for fluency in languages, especially Akkadian and Sumerian, endearing me to many old families.
+
+			I commissioned reliefs of myself hunting lions, a public event which was reserved for Assyrian royalty.
+		</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_BABYLONIA_STORY</zType>
+		<Translation>		Son of a Mesopotamian king and husband to Amytis of Medea, and forever a worshiper of the god Marduk. In the name of my father, I elevated my city Babylon to be the jewel of the region. I am trained in military tactics, conquered kingdoms, and crushed rebellions.
+
+		I built The Hanging Gardens for my wife so she can feel closer to the hills of Persia, and The Ishtar Gate to honor Marduk. I connected them both with the Processing Way and all visitors were bewildered by the beauty of my empire.
+
+		Under my rule, women had equal rights as men did, we created intellectuals institutes and temples, and my focus was on art, culture, science, mathematics, and craftsmanship. In a decade, I turned Babylon into a city of light.
+
+ I am Nebuchadnezzar.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_CARTHAGE_STORY</zType>
+		<Translation>		I am a Phoenecian princess who fled her home in Tyre, carrying the name Elissa. Escaping my brother Pygmalion who murdered my beloved husband Acerbas, a priest of Hercules, I arrived in North Africa.
+
+		 With my husband’s riches, I bargained with the Berber king Iarbus who wanted to marry me. He mockingly promised me all the land that I could cover with the skin of a dead ox. I cut the skin into the thinnest pieces and, along with my Tyrian settlers, laid out the borders of my beloved city.
+
+		I am ready to become Dido the Wanderer, Queen of Carthage, goddess to my people.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_EGYPT_STORY</zType>
+		<Translation>		I am Hatshepsut, a female Pharoah, though declared myself officially male throughout my reign.
+
+		I had to use my ruse to come to the throne, using my vast knowledge of religion which endeared me to my people and declared me wife of the God Amun. I am, also, of royal blood on both sides. Married to my brother Thutmose II, I bore a female heir, Neferure. After that, I could not bear more children.
+
+		Occasionally I wore a metal beard but it is a fair price to pay in order to drive my people to a better destiny.
+
+		Under my reign, Egypt created many trade networks and re-established itself as a nation of builders. My love for science and education allowed me to befriend the most talented architects who helped the Egyptian Empire spread its buildings throughout the known world.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_GREECE_STORY</zType>
+		<Translation>		I am King Philip II of Macedon, son of King Amyntas III, founder of the Unified Macedonian State.
+
+		I received a diplomatic and military education from Epaminondas and established a federation of Greek states known as the League of Corinth. I reformed the Ancient Macedonian Army and established the Macedon Phalanx.
+
+		As a teen, I may have had an older male lover, a general I lived with named Pammenes.
+
+		Over the course of my life, I married seven times. One of my wives, Olympias, gave me a son, and I named him Alexander. He was born the year my horse won in the Olympic Games. Alexander is now 13.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_PERSIA_STORY</zType>
+		<Translation>		I am Cyrus the Great, second of my name, King of Kings, and son of King Cambyses.
+
+		My grandfather, King Astyages, of the Medean Empire, intended to have me killed upon birth. Instead, I lived to conquer his kingdom and make it mine.
+
+		I founded the first Persian empire. Under my rule, all civilized states are free to worship their Gods. I brought into subjection every nation without exception.
+
+		Isaiah the Prophet refers to me as Messiah, calling me “His Anointed One.” I am the only non-Jewish figure in the Bible to be so called.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_ROME_STORY</zType>
+		<Translation>		Son of the god Mars, I was saved and raised by a she-wolf with my twin brother, Remus. Aware of his cunning ways, I kept my caution around him, and moved on to found my own tribe unwilling to share my power with him. 
+
+		My humble beginnings as an unwanted outcast helped me find hardy men willing to fight alongside me. Unwilling to let us marry their daughters, we kidnapped and married them, anyway. Now, I am allied with powerful tribes.
+
+		The need to recast the narrative is a must, and I will become a righteous leader blessed with divine favor. 
+
+		I am Romulus, and I have founded Roma, the city destined to rule the world.</Translation>
+	</Entry>
 </Root>
