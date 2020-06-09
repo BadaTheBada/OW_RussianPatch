@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
+<!--Translated by Elena Davydova (Bada)-->
 <Root>
     <Entry>
         <zType/>
@@ -6,90 +7,84 @@
     </Entry>
     <Entry>
         <zType>TEXT_GENERIC_CONFIRM</zType>
-        <Translation>Confirm</Translation>
+        <Translation>Подтвердить</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_GENERIC_CANCEL</zType>
-        <Translation>Cancel</Translation>
+        <Translation>Отмена</Translation>
     </Entry>
-
     <!--menu-screens.xml-->
     <Entry>
         <zType>TEXT_MENU_SCREEN_SP_BUTTON</zType>
-        <Translation>Single Player</Translation>
+        <Translation>Одиночная игра</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MENU_SCREEN_MP_BUTTON</zType>
-        <Translation>Multiplayer</Translation>
+        <Translation>Мультиплеер</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MENU_SCREEN_TOOLS_BUTTON</zType>
-        <Translation>Tools</Translation>
+        <Translation>Инструменты</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MENU_SCREEN_OPTIONS_BUTTON</zType>
-        <Translation>Options</Translation>
+        <Translation>Настройки</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MENU_SCREEN_QUIT_BUTTON</zType>
-        <Translation>Quit to Desktop</Translation>
+        <Translation>Выйти на рабочий стол</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MENU_SCREEN_PREVIOUS_BUTTON</zType>
-        <Translation>Previous</Translation>
+        <Translation>Назад</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MENU_SCREEN_NEXT_BUTTON</zType>
-        <Translation>Next</Translation>
+        <Translation>Дальше</Translation>
     </Entry>
-
     <!-- selected-city -->
     <Entry>
         <zType>TEXT_GIFT_CITY_TEAMMATE</zType>
-        <Translation>Gift City</Translation>
+        <Translation>Подарить город</Translation>
     </Entry>
-
     <!-- selected-worker-->
     <Entry>
         <zType>TEXT_WORKER_FILTERS_LABEL</zType>
-        <Translation>Filters</Translation>
+        <Translation>Фильтры</Translation>
     </Entry>
-
     <!-- other selection panels-->
     <Entry>
         <zType>TEXT_MANAGE_LUXURIES</zType>
-        <Translation>Manage Luxuries</Translation>
+        <Translation>Управлять редкими ресурсами</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MANAGE_LUXURIES_DESC</zType>
-        <Translation>Send or Stop Sending Luxuries</Translation>
+        <Translation>Перестать отправлять редкие ресурсы</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SEND_LUXURY</zType>
-        <Translation>Send {0}</Translation>
+        <Translation>Отправить {0}</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_STOP_SENDING_LUXURY</zType>
-        <Translation>Stop Sending {0}</Translation>
+        <Translation>Перестать отправлять {0}</Translation>
     </Entry>
-
     <!--single player menu-->
-
     <Entry>
         <zType>SP_MENU_SCREEN_NEWGAME_BUTTON</zType>
-        <Translation>New Game</Translation>
+        <Translation>Новая игра</Translation>
     </Entry>
     <Entry>
         <zType>SP_MENU_SCREEN_LOADGAME_BUTTON</zType>
-        <Translation>Load Game</Translation>
+        <Translation>Загрузить игру</Translation>
     </Entry>
     <Entry>
         <zType>SP_MENU_SCREEN_CLOUD_BUTTON</zType>
-        <Translation>Cloud Load</Translation>
+        <Translation>Загрузить из облака</Translation>
     </Entry>
     <Entry>
         <zType>SP_MENU_SCREEN_SCEN_BUTTON</zType>
-        <Translation>Scenario</Translation>
+        <Translation>Сценарии</Translation>
     </Entry>
     <Entry>
         <zType>SP_MENU_SCREEN_FEATUREDGAME_BUTTON</zType>
@@ -97,248 +92,229 @@
     </Entry>
     <Entry>
         <zType>SP_MENU_SCREEN_GOFTW_BUTTON</zType>
-        <Translation>Game of the Week</Translation>
+        <Translation>Игра недели</Translation>
     </Entry>
     <Entry>
         <zType>SP_MENU_SCREEN_BACK_BUTTON</zType>
-        <Translation>Back</Translation>
+        <Translation>Назад</Translation>
     </Entry>
-
     <!--multiplayer menu-->
-
     <Entry>
         <zType>MP_MENU_SCREEN_JOIN_BUTTON</zType>
-        <Translation>Join</Translation>
+        <Translation>Присоединиться</Translation>
     </Entry>
-
     <Entry>
         <zType>MP_MENU_SCREEN_NEWGAME_BUTTON</zType>
-        <Translation>New Game</Translation>
+        <Translation>Новая игра</Translation>
     </Entry>
     <Entry>
         <zType>MP_MENU_SCREEN_LOADGAME_BUTTON</zType>
-        <Translation>Load Game</Translation>
+        <Translation>Загрузить игру</Translation>
     </Entry>
     <Entry>
         <zType>MP_MENU_SCREEN_CLOUD_BUTTON</zType>
-        <Translation>Cloud Load</Translation>
+        <Translation>Загрузить из облака</Translation>
     </Entry>
     <Entry>
         <zType>MP_MENU_SCREEN_BACK_BUTTON</zType>
-        <Translation>Back</Translation>
+        <Translation>Назад</Translation>
     </Entry>
-
     <!--cloud-->
-
     <Entry>
         <zType>CLOUD_SCREEN_BACK_BUTTON</zType>
-        <Translation>Back</Translation>
+        <Translation>Назад</Translation>
     </Entry>
-
     <!--multiplayer games screen-->
-
     <Entry>
         <zType>MP_GAME_SCREEN_BUTTON</zType>
-        <Translation>Multiplayer</Translation>
+        <Translation>Мультиплеер</Translation>
     </Entry>
     <Entry>
         <zType>MP_GAME_SCREEN_GBROWS_BUTTON</zType>
-        <Translation>Game Browser</Translation>
+        <Translation>Обзор игры</Translation>
     </Entry>
     <Entry>
         <zType>MP_GAME_SCREEN_BROWSER_BUTTON</zType>
-        <Translation>Game Browser</Translation>
+        <Translation>Обзор игры</Translation>
     </Entry>
-
     <!--games header in multiplayer-->
     <Entry>
         <zType>TEXT_GAME_HEADER_NAME_CELL</zType>
-        <Translation>Name</Translation>
+        <Translation>Имя</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_GAME_HEADER_PLAYERS_CELL</zType>
-        <Translation>Players</Translation>
+        <Translation>Игроки</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_GAME_HEADER_SERVER_CELL</zType>
-        <Translation>Server</Translation>
+        <Translation>Сервер</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_GAME_HEADER_VERSION_CELL</zType>
-        <Translation>Version</Translation>
+        <Translation>Версия</Translation>
     </Entry>
-
     <!--multiplayer-->
     <Entry>
         <zType>MP_PLAYERS_SCREEN_OBSERVE_BUTTON</zType>
-        <Translation>Observe</Translation>
+        <Translation>Наблюдать</Translation>
     </Entry>
     <Entry>
         <zType>MP_PLAYERS_SCREEN_BACK_BUTTON</zType>
-        <Translation>Back</Translation>
+        <Translation>Назад</Translation>
     </Entry>
     <!--tools-->
     <Entry>
         <zType>TOOLS_SCREEN_MAP_EDITOR_BUTTON</zType>
-        <Translation>Map Editor</Translation>
+        <Translation>Редактор карт</Translation>
     </Entry>
     <Entry>
         <zType>TOOLS_SCREEN_EVENT_BROWSER_BUTTON</zType>
-        <Translation>Event Browser</Translation>
+        <Translation>Обзор событий</Translation>
     </Entry>
     <Entry>
         <zType>TOOLS_SCREEN_ENCYCLOPEDIA_BUTTON</zType>
-        <Translation>Encyclopedia</Translation>
+        <Translation>Энциклопедия</Translation>
     </Entry>
     <Entry>
         <zType>TOOLS_SCREEN_BACK_BUTTON</zType>
-        <Translation>Back</Translation>
+        <Translation>Назад</Translation>
     </Entry>
-
-
     <!--minimap.xml-->
-
     <!--mini map-->
     <Entry>
         <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_NO_OVERLAY</zType>
-        <Translation>No Overlay</Translation>
+        <Translation>Без оверлея</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_ZOC</zType>
-        <Translation>Zone of Control [X]</Translation>
+        <Translation>Зона контроля [X]</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_DANGER</zType>
-        <Translation>Danger [C]</Translation>
+        <Translation>Опасность [C]</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_CONNECTIONS</zType>
-        <Translation>Connections [V]</Translation>
+        <Translation>Торговые пути [V]</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_IDLEUNITS</zType>
-        <Translation>Idle Units [B]</Translation>
+        <Translation>Свободные юниты [B]</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_TILERES</zType>
-        <Translation>Tile Resources [N]</Translation>
+        <Translation>Ресурсы клетки [N]</Translation>
     </Entry>
-
-
     <!--mp-setup-screen.xml-->
-
     <!--multiplayer setup screen-->
     <Entry>
         <zType>TEXT_MP_SETUP_SEC_BUTTON_BACK</zType>
-        <Translation>Back</Translation>
+        <Translation>Назад</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_SEC_BUTTON_ADVANCED</zType>
-        <Translation>Advanced</Translation>
+        <Translation>Дополнительно</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_TITLE_LABEL_HOSTG</zType>
-        <Translation>Host Game</Translation>
+        <Translation>Хост</Translation>
     </Entry>
-
     <!--servers-->
     <Entry>
         <zType>TEXT_MP_SETUP_OPTIONS_LABEL_SERVERS</zType>
-        <Translation>Servers</Translation>
+        <Translation>Серверы</Translation>
     </Entry>
-
     <!--network-->
     <Entry>
         <zType>TEXT_MP_SETUP_OPTIONS_LABEL_NETWORK</zType>
-        <Translation>Network</Translation>
+        <Translation>Сеть</Translation>
     </Entry>
-
     <!--game options-->
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_GAMENAME</zType>
-        <Translation>Game Name</Translation>
+        <Translation>Имя игры</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_PLAYERS</zType>
-        <Translation>Players</Translation>
+        <Translation>Игроки</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TEAMS</zType>
-        <Translation>Teams</Translation>
+        <Translation>Команды</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_BARBARIANS</zType>
-        <Translation>Barbarians</Translation>
+        <Translation>Варвары</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SUCCESSION</zType>
-        <Translation>Succession</Translation>
+        <Translation>Престолонаследие</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MORTALITY</zType>
-        <Translation>Mortality</Translation>
+        <Translation>Смертность</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_EVENTLEVEL</zType>
-        <Translation>Event Level</Translation>
+        <Translation>Уровень событий</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TURNTIMER</zType>
-        <Translation>Turn Timer</Translation>
+        <Translation>Таймер хода</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TURNSTYLE</zType>
-        <Translation>Turn Style</Translation>
+        <Translation>Тип хода</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SIMULTURNS</zType>
-        <Translation>Simultaneous Turns</Translation>
+        <Translation>Одновременные ходы</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_VICTORY</zType>
-        <Translation>Victory</Translation>
+        <Translation>Победа</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAPTYPE</zType>
-        <Translation>Map Type</Translation>
+        <Translation>Тип карты</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAPTYPE_RANDOM</zType>
-        <Translation>Random Map</Translation>
+        <Translation>Случайная карта</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAPTYPE_PREMADE</zType>
-        <Translation>Premade Map</Translation>
+        <Translation>Готовая карта</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAP</zType>
-        <Translation>Map</Translation>
+        <Translation>Карта</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAP_FILE</zType>
-        <Translation>Map File</Translation>
+        <Translation>Файл карты</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAP_SIZE</zType>
-        <Translation>Map Size</Translation>
+        <Translation>Размер карты</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SEED</zType>
-        <Translation>Seed</Translation>
+        <Translation>Шаблон</Translation>
     </Entry>
-
     <!-- players-->
     <Entry>
         <zType>TEXT_MP_SETUP_PLAYERS_NAME</zType>
-        <Translation>Name</Translation>
+        <Translation>Имя</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_PLAYERS_DIFFICULTY</zType>
-        <Translation>Difficulty</Translation>
+        <Translation>Сложность</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_PLAYERS_TEAM</zType>
-        <Translation>Team</Translation>
+        <Translation>Команда</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_PLAYERS_EMAIL</zType>
@@ -346,13 +322,12 @@
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_PLAYERS_USERNAME</zType>
-        <Translation>Username</Translation>
+        <Translation>Имя пользователя</Translation>
     </Entry>
-
     <!-- schedule-->
     <Entry>
         <zType>TEXT_MP_SETUP_SCHEDULE_NETWORKPOST</zType>
-        <Translation>Network Port</Translation>
+        <Translation>Порт</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_START</zType>
@@ -370,428 +345,390 @@
         <zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_CLEAR</zType>
         <Translation>Clear Pauses</Translation>
     </Entry>
-
-
-
     <!--options-menu.xml-->
-
     <!--title bar-->
     <Entry>
         <zType>TEXT_OPTIONS_MENU_TITLEBAR_GAMEPLAY</zType>
-        <Translation>Gameplay</Translation>
+        <Translation>Игра</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_OPTIONS_MENU_TITLEBAR_GRAPHICS</zType>
-        <Translation>Graphics</Translation>
+        <Translation>Графика</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_OPTIONS_MENU_TITLEBAR_AUDIO</zType>
-        <Translation>Audio</Translation>
+        <Translation>Аудио</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_OPTIONS_MENU_TITLEBAR_UI</zType>
-        <Translation>UI</Translation>
+        <Translation>Интерфейс</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_OPTIONS_MENU_TITLEBAR_CONTROLS</zType>
-        <Translation>Controls</Translation>
+        <Translation>Управление</Translation>
     </Entry>
     <!--<Entry>
 		<zType>TEXT_OPTIONS_MENU_TITLEBAR_COLORS</zType>
-		<Translation>Colors</Translation>
+		<Translation>Цвета</Translation>
 	</Entry>-->
-
     <!--controls-->
     <Entry>
         <zType>TEXT_OPTIONS_MENU_CONTROLS_SAVE</zType>
-        <Translation>Save</Translation>
+        <Translation>Сохранить</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_OPTIONS_MENU_CONTROLS_RESET</zType>
-        <Translation>Reset</Translation>
+        <Translation>Сбросить</Translation>
     </Entry>
-
     <!--scenario-setup-screen.xml -->
     <Entry>
         <zType>TEXT_SCENARIO_SETUP_NEWSCENARIO</zType>
-        <Translation>New Scenario</Translation>
+        <Translation>Новый сценарий</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SCENARIO_SETUP_PLAYERNAME</zType>
-        <Translation>Player Name</Translation>
+        <Translation>Имя игрока</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SCENARIO_SETUP_SCENARIO</zType>
-        <Translation>Scenario</Translation>
+        <Translation>Сценарии</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SCENARIO_SETUP_OPPONENTS</zType>
-        <Translation>Opponents</Translation>
+        <Translation>Оппоненты</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SCENARIO_SETUP_BARBARIANS</zType>
-        <Translation>Barbarians</Translation>
+        <Translation>Варвары</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SCENARIO_SETUP_DIFFICULTY</zType>
-        <Translation>Difficulty</Translation>
+        <Translation>Сложность</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SCENARIO_SETUP_CANCEL</zType>
-        <Translation>Cancel</Translation>
+        <Translation>Отмена</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SCENARIO_SETUP_STARTGAME</zType>
-        <Translation>Start Game</Translation>
+        <Translation>Начать игру</Translation>
     </Entry>
-
     <!--sp-setup-screen.xml-->
-
     <!--tabs-->
     <Entry>
         <zType>TEXT_SP_SETUP_TABS_BIO</zType>
-        <Translation>Bio</Translation>
+        <Translation>Био</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_TABS_STATS</zType>
-        <Translation>Stats</Translation>
+        <Translation>Параметры</Translation>
     </Entry>
-
     <Entry>
         <zType>TEXT_SP_SETUP_TABS_SETUP_SIMPLE</zType>
-        <Translation>Simple Setup</Translation>
+        <Translation>Простые настройки</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_TABS_SETUP_ADVANCED</zType>
-        <Translation>Advanced Setup</Translation>
+        <Translation>Расширенные настройки</Translation>
     </Entry>
-
     <!--stats-->
     <Entry>
         <zType>TEXT_SP_SETUP_STATS_STARTSWITH</zType>
-        <Translation>Starts With</Translation>
+        <Translation>Начинать с</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_TABS_SETUP_UNIQUE</zType>
-        <Translation>Unique</Translation>
+        <Translation>Уникальное свойство</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_TABS_SETUP_FAMILIES</zType>
-        <Translation>Families</Translation>
+        <Translation>Семьи</Translation>
     </Entry>
-
     <!--random-->
     <Entry>
         <zType>TEXT_SP_SETUP_RANDOM</zType>
-        <Translation>Random</Translation>
+        <Translation>Случайно</Translation>
     </Entry>
-
     <!--simple-->
     <Entry>
         <zType>TEXT_SP_SETUP_SIMPLE_DIFFICULTY</zType>
-        <Translation>Difficulty</Translation>
+        <Translation>Сложность</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_SIMPLE_MAPTYPE</zType>
-        <Translation>Map Type</Translation>
+        <Translation>Тип карты</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_SIMPLE_RANDOM_MAP</zType>
-        <Translation>Random Map</Translation>
+        <Translation>Случайная карта</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_SIMPLE_PREMADE_MAP</zType>
-        <Translation>Premade Map</Translation>
+        <Translation>Готовая карта</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_SIMPLE_MAPSIZE</zType>
-        <Translation>Map Size</Translation>
+        <Translation>Размер карты</Translation>
     </Entry>
-
     <!--advanced-->
     <Entry>
         <zType>TEXT_SP_SETUP_ADVANCED_NATION</zType>
-        <Translation>Nation</Translation>
+        <Translation>Нация</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_ADVANCED_NUMOPPS</zType>
-        <Translation>Number of Opponents</Translation>
+        <Translation>Количество оппонентов</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_ADVANCED_MORTALITY</zType>
-        <Translation>Mortality</Translation>
+        <Translation>Смертность</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_ADVANCED_EVENTLEVEL</zType>
-        <Translation>Event Level</Translation>
+        <Translation>Уровень событий</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_ADVANCED_SUCCESSION</zType>
-        <Translation>Succession</Translation>
+        <Translation>Престолонаследие</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_ADVANCED_DIFFICULTY</zType>
-        <Translation>Difficulty</Translation>
+        <Translation>Сложность</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_ADVANCED_BARBSTRENGTH</zType>
-        <Translation>Barbarian Strength</Translation>
+        <Translation>Сила варваров</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_ADVANCED_AIAGGRESSION</zType>
-        <Translation>AI Aggression</Translation>
+        <Translation>Агрессия ИИ</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_ADVANCED_AIHEADSTART</zType>
-        <Translation>AI Head Start</Translation>
+        <Translation>Старт ИИ</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_ADVANCED_SEED</zType>
-        <Translation>Seed</Translation>
+        <Translation>Шаблон</Translation>
     </Entry>
-
     <!--tab-panel.xml-->
-
     <!--character tab-->
     <Entry>
         <zType>TEXT_TAB_PANEL_CHARTAB_CHARACTERS</zType>
-        <Translation>Characters</Translation>
+        <Translation>Характеры</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TAB_PANEL_CHARTAB_SPOUSE</zType>
-        <Translation>Spouse</Translation>
+        <Translation>Супгруги</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TAB_PANEL_CHARTAB_HEIRS</zType>
-        <Translation>Heirs</Translation>
+        <Translation>Наследники</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TAB_PANEL_CHARTAB_COURT_COURTIERS</zType>
-        <Translation>Courtiers</Translation>
+        <Translation>Придворные</Translation>
     </Entry>
-
     <!--relationships tab-->
     <Entry>
         <zType>TEXT_TAB_PANEL_RELATIONSTAB_RELIGIONS</zType>
-        <Translation>Religions</Translation>
+        <Translation>Религии</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TAB_PANEL_RELATIONSTAB_FAMILIES</zType>
-        <Translation>Families</Translation>
+        <Translation>Семьи</Translation>
     </Entry>
-
     <!--diplomacy tab-->
     <Entry>
         <zType>TEXT_TAB_PANEL_DIPLOTAB_EMPIRES</zType>
-        <Translation>Empires</Translation>
+        <Translation>Империи</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TAB_PANEL_DIPLOTAB_TRIBES</zType>
-        <Translation>Tribes</Translation>
+        <Translation>Племена</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TAB_PANEL_DIPLOTAB_CITIES</zType>
-        <Translation>Cities</Translation>
+        <Translation>Города</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TAB_PANEL_DIPLOTAB_UNITS</zType>
-        <Translation>Units</Translation>
+        <Translation>Юниты</Translation>
     </Entry>
-
     <!--tolltips.xml-->
-
     <Entry>
         <zType>TEXT_TOOL_TIPS_REQUIREMENTS</zType>
-        <Translation>Requirements</Translation>
+        <Translation>Требования</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TOOL_TIPS_COST</zType>
-        <Translation>Cost</Translation>
+        <Translation>Стоимость</Translation>
     </Entry>
-
     <!--unit info-->
     <Entry>
         <zType>TEXT_TOOL_TIPS_UNLOCKBONUS</zType>
-        <Translation>Unlock Bonus</Translation>
+        <Translation>Открыть бонус</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TOOL_TIPS_EFFECT</zType>
-        <Translation>Effect</Translation>
+        <Translation>Эффект</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TOOL_TIPS_UNLOCKS</zType>
-        <Translation>Unlocks</Translation>
+        <Translation>Открывается</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TOOL_TIPS_REQUIRES</zType>
-        <Translation>Requires</Translation>
+        <Translation>Требуется</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TOOL_TIPS_BONUSCARDS</zType>
-        <Translation>Bonus Cards</Translation>
+        <Translation>Бонусные карты</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TOOL_TIPS_RESEARCHING</zType>
-        <Translation>Researching</Translation>
+        <Translation>Исследование</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TOOL_TIPS_AVAILABLE</zType>
-        <Translation>Available</Translation>
+        <Translation>Доступно</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TOOL_TIPS_TECHDECK</zType>
-        <Translation>Tech Deck</Translation>
+        <Translation>Набор технологий</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TOOL_TIPS_DISCARDPILE</zType>
-        <Translation>Discard Pile</Translation>
+        <Translation>Сброс</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TOOL_TIPS_SHOWTECHTREE</zType>
-        <Translation>Show Technology Tree [Press F6]</Translation>
+        <Translation>Показать дерево технологий [F6]</Translation>
     </Entry>
-
-
     <!--top-bar.xml-->
-
     <Entry>
         <zType>TEXT_TOP_BAR_BUY</zType>
-        <Translation>Buy</Translation>
+        <Translation>Купить</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TOP_BAR_SELL</zType>
-        <Translation>Sell</Translation>
+        <Translation>Продать</Translation>
     </Entry>
-
-
     <!--city-list.xml-->
-
     <Entry>
         <zType>TEXT_CITY_LIST_CITIES</zType>
-        <Translation>Cities</Translation>
+        <Translation>Города</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_CITY_LIST_PRODUCTION</zType>
-        <Translation>Production</Translation>
+        <Translation>Продукция</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_CITY_LIST_GOVERNOR</zType>
-        <Translation>Governor</Translation>
+        <Translation>Губернатор</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_CITY_LIST_FAMILY</zType>
-        <Translation>Family</Translation>
+        <Translation>Семья</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_CITY_LIST_POPULATION</zType>
-        <Translation>Population</Translation>
+        <Translation>Население</Translation>
     </Entry>
-
-
     <!--overview-map.xml-->
-
     <Entry>
         <zType>TEXT_OVERVIEW_MAP_MAPOPTIONS</zType>
-        <Translation>Map Options</Translation>
+        <Translation>Настройки карты</Translation>
     </Entry>
-
     <!--appears on hover-->
     <Entry>
         <zType>TEXT_OVERVIEW_MAP_REGION</zType>
-        <Translation>Region</Translation>
+        <Translation>Страна</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_OVERVIEW_MAP_BORDERS</zType>
-        <Translation>Borders</Translation>
+        <Translation>Границы</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_OVERVIEW_MAP_TRADENETWORK</zType>
-        <Translation>Trade Network</Translation>
+        <Translation>Торговая сеть</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_OVERVIEW_MAP_DANGER</zType>
-        <Translation>Danger</Translation>
+        <Translation>Опасность</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_OVERVIEW_MAP_ZOC</zType>
-        <Translation>Zone of Control</Translation>
+        <Translation>Зона контроля</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_OVERVIEW_MAP_MARKERS</zType>
-        <Translation>Markers</Translation>
+        <Translation>Маркеры</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_OVERVIEW_MAP_UNITS</zType>
-        <Translation>Units</Translation>
+        <Translation>Юниты</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_OVERVIEW_MAP_RESOURCES</zType>
-        <Translation>Resources</Translation>
+        <Translation>Ресурсы</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_OVERVIEW_MAP_CITYSITES</zType>
-        <Translation>City States</Translation>
+        <Translation>Город-государство</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_OVERVIEW_MAP_OTHER</zType>
-        <Translation>Other</Translation>
+        <Translation>Другие</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_OVERVIEW_MAP_WORLDEXTENTS</zType>
-        <Translation>World Extents</Translation>
+        <Translation>Размер мира</Translation>
     </Entry>
-
     <!--popup-inheritance.xml-->
-
     <Entry>
         <zType>TEXT_POPUP_INHERITANCE</zType>
-        <Translation>Inheritance</Translation>
+        <Translation>Наследование</Translation>
     </Entry>
-
     <!--comparisonportrait-->
     <Entry>
         <zType>TEXT_POPUP_INHERITANCE_CURRENTHEIR</zType>
-        <Translation>Current Heir</Translation>
+        <Translation>Текущий наследник</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_POPUP_INHERITANCE_NEWHEIR</zType>
-        <Translation>New Heir</Translation>
+        <Translation>Новый наследник</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_POPUP_INHERITANCE_CHOOSELAW</zType>
-        <Translation>Choose Law</Translation>
+        <Translation>Выбрать закон</Translation>
     </Entry>
-
     <!--toprightwidget-->
     <Entry>
         <zType>TEXT_POPUP_INHERITANCE_WIDGET_CHANGELAWS</zType>
-        <Translation>Change Laws</Translation>
+        <Translation>Изменить законы</Translation>
     </Entry>
-    
     <!--city-widget-->
     <Entry>
         <zType>TEXT_WIDGET_CITY_IDLE</zType>
-        <Translation>Idle</Translation>
+        <Translation>Свободный</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_WIDGET_CITY_UNKNOWN</zType>
-        <Translation>Unknown</Translation>
+        <Translation>Неизвестно</Translation>
     </Entry>
-
     <!--character-->
     <Entry>
         <zType>TEXT_POPUP_INHERITANCE_CHARACTER_ACTIONS</zType>
-        <Translation>Actions</Translation>
+        <Translation>Действия</Translation>
     </Entry>
-
     <!-- tech tree-->
     <Entry>
         <zType>TEXT_TECH_TREE_OVERRIDE_CURRENT_RESEARCH</zType>
-        <Translation>[CTRL+Click] to switch active research</Translation>
+        <Translation>Изменить исследование: [CTRL+Click]</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TECH_TREE_BONUS_CARD_DISCARDED</zType>
-        <Translation>Permanently trashed when discarded</Translation>
+        <Translation>Немедленное удаление при сбросе</Translation>
     </Entry>
-
 </Root>
