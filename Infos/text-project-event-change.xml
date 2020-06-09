@@ -5,150 +5,154 @@
 	<!--NOTE: improvement names that are mass nouns or plural do not need multiple types in English-->
 	<Entry>
 		<zType/>
-		<English/>
+		<Translation/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SWORD_CULT</zType>
-		<English>Sword Cult</English>
+		<Translation>Sword Cult</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SWORD_CULT_TITHE</zType>
-		<English>Sword Cult Tithe</English>
+		<Translation>Sword Cult Tithe</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HOSTILE_GARRISON</zType>
-		<English>Hostile Garrison</English>
+		<Translation>Hostile Garrison</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PUBLIC_MURAL</zType>
-		<English>Public Mural</English>
+		<Translation>Public Mural</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TRIUMPH</zType>
-		<English>Triumph</English>
+		<Translation>Triumph</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PURPLE_DYE</zType>
-		<English>Purple Dye</English>
+		<Translation>Purple Dye</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PROPAGANDA</zType>
-		<English>Propaganda</English>
+		<Translation>Propaganda</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CHILD_LABOR</zType>
-		<English>Child Labor</English>
+		<Translation>Child Labor</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CORRUPTION_REFORM</zType>
-		<English>Corruption Reform</English>
+		<Translation>Corruption Reform</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_ROYAL_INSCRIPTIONS</zType>
-		<English>Royal Inscriptions</English>
+		<Translation>Royal Inscriptions</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_IMPERIAL_NECROPOLIS</zType>
-		<English>Imperial Necropolis</English>
+		<Translation>Imperial Necropolis</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FORCED_DEPORTATIONS</zType>
-		<English>Forced Deportations</English>
+		<Translation>Forced Deportations</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GLADIATORS</zType>
-		<English>Gladiators</English>
+		<Translation>Gladiators</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PLAYS</zType>
-		<English>Dramatic Plays</English>
+		<Translation>Dramatic Plays</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MERCHANT_TOWN</zType>
-		<English>Merchant Town</English>
+		<Translation>Merchant Town</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_OUTBREAK</zType>
-		<English>Outbreak</English>
+		<Translation>Outbreak</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MIDWIFERY</zType>
-		<English>Midwifery</English>
+		<Translation>Midwifery</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_LUXURIOUS_DELIGHTS</zType>
-		<English>Luxurious Delights</English>
+		<Translation>Luxurious Delights</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_NEIGHBORS_FEAST_PERSIA</zType>
-		<English>Annual Feast for Persian Guests</English>
+		<Translation>Annual Feast for Persian Guests</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MISTHOPHORIA</zType>
-		<English>Misthophoria</English>
+		<Translation>Misthophoria</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GRAIN_DOLE</zType>
-		<English>Grain Dole</English>
+		<Translation>Grain Dole</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FOREIGN_FIGHTERS</zType>
-		<English>Foreign Fighters</English>
+		<Translation>Foreign Fighters</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_WAR_COUNCIL</zType>
-		<English>War Council</English>
+		<Translation>War Council</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SEWER_SYSTEM</zType>
-		<English>Sewer System</English>
+		<Translation>Sewer System</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CASE_HARDENING</zType>
-		<English>Case-Hardening</English>
+		<Translation>Case-Hardening</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TURPAN_WELLS</zType>
-		<English>Turpan Wells</English>
+		<Translation>Turpan Wells</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_NATIONAL_HOLIDAY</zType>
-		<English>National Holiday</English>
+		<Translation>National Holiday</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SCIENTIFIC_METHOD</zType>
-		<English>Scientific Method</English>
+		<Translation>Scientific Method</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PROTECTION_EDICTS</zType>
-		<English>Protection Edicts</English>
+		<Translation>Protection Edicts</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HORREUM</zType>
-		<English>Horreum Storehouse</English>
+		<Translation>Horreum Storehouse</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_AVESTA_TREASURY</zType>
-		<English>Avesta Treasury</English>
+		<Translation>Avesta Treasury</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_DISEASED_SETTLERS</zType>
-		<English>Diseased Citizens</English>
+		<Translation>Diseased Citizens</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TERRACE_LOVE_SHRINE</zType>
-		<English>Ziggurat Love Shrine</English>
+		<Translation>Ziggurat Love Shrine</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TERRACE_WISDOM_SHRINE</zType>
-		<English>Ziggurat Wisdom Shrine</English>
+		<Translation>Ziggurat Wisdom Shrine</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TERRACE_WAR_SHRINE</zType>
-		<English>Ziggurat War Shrine</English>
+		<Translation>Ziggurat War Shrine</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CONSULAR_TRIBUNES</zType>
-		<English>Consular Tribunes</English>
+		<Translation>Consular Tribunes</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONFUCIANISM</zType>
+		<Translation>Confucianism</Translation>
 	</Entry>
 </Root>
