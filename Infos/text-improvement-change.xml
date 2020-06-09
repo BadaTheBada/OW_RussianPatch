@@ -111,7 +111,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_TOWN</zType>
-		<Translation><![CDATA[<meta=male>Город~Города~Городу~Город~Городом~Городе]]></Translation>
+		<Translation><![CDATA[<meta=male>Городок~Городка~Городку~Городок~Городком~Городке]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MINOR_CITY</zType>
+		<Translation><![CDATA[<meta=male>Малый Город~Малого Города~Малому Городу~Малый Город~Малым Городом~Малом Городе]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GARRISON_1</zType>
