@@ -51,35 +51,35 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_FORT</zType>
-		<Translation><![CDATA[<meta=female>Крепость~Крепости~Крепости~Крепость~Крепостью~Крепости]]></Translation>
+		<Translation><![CDATA[<meta=female>Крепость~Крепости~Крепости~Крепость~Крепостью~Крепости~Крепости~Крепостей~Крепостям~Крепости~Крепостями~Крепостях]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_FARM</zType>
-		<Translation><![CDATA[<meta=female>Ферма~Фермы~Ферме~Ферму~Фермой~Ферме]]></Translation>
+		<Translation><![CDATA[<meta=female>Ферма~Фермы~Ферме~Ферму~Фермой~Ферме~Фермы~Ферм~Фермам~Фермы~Фермами~Фермах]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MINE</zType>
-		<Translation><![CDATA[<meta=male>Рудник~Рудника~Руднику~Рудник~Рудником~Руднике]]></Translation>
+		<Translation><![CDATA[<meta=male>Рудник~Рудника~Руднику~Рудник~Рудником~Руднике~Рудники~Рудников~Рудникам~Рудники~Рудниками~Рудниках]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LUMBERMILL</zType>
-		<Translation><![CDATA[<meta=female>Лесопилка~Лесопилки~Лесопилке~Лесопилку~Лесопилкой~Лесопилке]]></Translation>
+		<Translation><![CDATA[<meta=female>Лесопилка~Лесопилки~Лесопилке~Лесопилку~Лесопилкой~Лесопилке~Лесопилки~Лесопилок~Лесопилкам~Лесопилки~Лесопилками~Лесопилках]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_QUARRY</zType>
-		<Translation><![CDATA[<meta=male>Карьер~Карьера~Карьеру~Карьер~Карьером~Карьере]]></Translation>
+		<Translation><![CDATA[<meta=male>Карьер~Карьера~Карьеру~Карьер~Карьером~Карьере~Карьеры~Карьеров~Карьерам~Карьеры~Карьерами~Карьерах]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_PASTURE</zType>
-		<Translation><![CDATA[<meta=male>Выгон~Выгона~Выгону~Выгон~Выгоном~Выгоне]]></Translation>
+		<Translation><![CDATA[<meta=male>Выгон~Выгона~Выгону~Выгон~Выгоном~Выгоне~Выгоны~Выгонов~Выгонам~Выгоны~Выгонами~Выгонах]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CAMP</zType>
-		<Translation><![CDATA[<meta=male>Лагерь~Лагеря~Лагерю~Лагерь~Лагерем~Лагере]]></Translation>
+		<Translation><![CDATA[<meta=male>Лагерь~Лагеря~Лагерю~Лагерь~Лагерем~Лагере~Лагеря~Лагерей~Лагерям~Лагеря~Лагерями~Лагерях]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GROVE</zType>
-		<Translation><![CDATA[<meta=female>Роща~Рощи~Роще~Рощу~Рощей~Роще]]></Translation>
+		<Translation><![CDATA[<meta=female>Роща~Рощи~Роще~Рощу~Рощей~Роще~Рощи~Рощ~Рощам~Рощи~Рощами~Рощах]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_NETS</zType>
