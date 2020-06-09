@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<!--Name-->
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_COMBAT1</zType>
+		<Translation>Combat I</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_COMBAT2</zType>
+		<Translation>Combat II</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_COMBAT3</zType>
+		<Translation>Combat III</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_GUARD1</zType>
+		<Translation>Guard I</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_GUARD2</zType>
+		<Translation>Guard II</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_GUARD3</zType>
+		<Translation>Guard III</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_FOCUS1</zType>
+		<Translation>Focus I</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_FOCUS2</zType>
+		<Translation>Focus II</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_FOCUS3</zType>
+		<Translation>Focus III</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HERO</zType>
+		<Translation>Hero</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_COMMANDER</zType>
+		<Translation>Commander</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_TACTICIAN</zType>
+		<Translation>Tactician</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_ZEALOT</zType>
+		<Translation>Zealot</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SCHEMER</zType>
+		<Translation>Schemer</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_TRACKER</zType>
+		<Translation>Tracker</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SWIFT</zType>
+		<Translation>Swift</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HARDY</zType>
+		<Translation>Hardy</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_EAGLE_EYE</zType>
+		<Translation>Eagle Eye</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_MARKSMAN</zType>
+		<Translation>Marksman</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_ENGINEER</zType>
+		<Translation>Engineer</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_BESIEGER</zType>
+		<Translation>Besieger</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_GARRISON</zType>
+		<Translation>Garrison</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_BLOODTHIRSTY</zType>
+		<Translation>Bloodthirsty</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HECKLER</zType>
+		<Translation>Heckler</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_STEADFAST</zType>
+		<Translation>Steadfast</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HERBALIST</zType>
+		<Translation>Herbalist</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HEALER</zType>
+		<Translation>Healer</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_NOMAD</zType>
+		<Translation>Nomad</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_COLD</zType>
+		<Translation>Cold</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HIGHLANDER</zType>
+		<Translation>Highlander</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_RANGER</zType>
+		<Translation>Ranger</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_BRAVE</zType>
+		<Translation>Brave</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SHIELDBEARER</zType>
+		<Translation>Shieldbearer</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_FIERCE</zType>
+		<Translation>Fierce</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HORSEBANE</zType>
+		<Translation>Horsebane</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_AGGRESSOR</zType>
+		<Translation>Aggressor</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_ROUT</zType>
+		<Translation>Rout</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_STEALTH</zType>
+		<Translation>Stealth</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_ASSAULT</zType>
+		<Translation>Assault</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_FORMATION</zType>
+		<Translation>Formation</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_VALOR</zType>
+		<Translation>Valor</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_INGENUITY</zType>
+		<Translation>Ingenuity</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SADDLEBORN</zType>
+		<Translation>Saddleborn</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SNIPING</zType>
+		<Translation>Sniping</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_PATHFINDER</zType>
+		<Translation>Pathfinder</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_FURIOUS</zType>
+		<Translation>Furious (Family)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_ANGRY</zType>
+		<Translation>Angry (Family)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_UPSET</zType>
+		<Translation>Upset (Family)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_PLEASED</zType>
+		<Translation>Pleased (Family)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_FRIENDLY</zType>
+		<Translation>Friendly (Family)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_TRAIT_HERO_ARCHETYPE_LEADER</zType>
+		<Translation>Hero (Leader)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_TRAIT_TACTICIAN_ARCHETYPE</zType>
+		<Translation>Tactician</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_TRAIT_CRIPPLED</zType>
+		<Translation>Crippled</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SWORD_OF_THE_GODS</zType>
+		<Translation>Sword of the Gods</Translation>
+	</Entry>
+</Root>
