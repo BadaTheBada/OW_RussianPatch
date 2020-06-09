@@ -2,87 +2,87 @@
 <Root>
 	<Entry>
 		<zType/>
-		<English/>
+		<Translation/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_POPULATION_BOOM</zType>
-		<English>{CITY} has experienced a baby boom</English>
+		<Translation>{CITY} has experienced a baby boom</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_CIVICS_BOOM</zType>
-		<English>{CITY} has experienced a civics boom</English>
+		<Translation>{CITY} has experienced a civics boom</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_TRAINING_BOOM</zType>
-		<English>{CITY} has experienced a training boom</English>
+		<Translation>{CITY} has experienced a training boom</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_SCIENCE_BOOM</zType>
-		<English>{CITY} has experienced a scientific renaissance</English>
+		<Translation>{CITY} has experienced a scientific renaissance</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_MONEY_BOOM</zType>
-		<English>{CITY} has experienced an economic boom</English>
+		<Translation>{CITY} has experienced an economic boom</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_ORDERS_BOOM</zType>
-		<English>{CITY} has experienced a burst of activity</English>
+		<Translation>{CITY} has experienced a burst of activity</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_SOLDIER</zType>
-		<English>A Great Soldier has emerged from {CITY}</English>
+		<Translation>A Great Soldier has emerged from {CITY}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_MINISTER</zType>
-		<English>A Great Minister has emerged from {CITY}</English>
+		<Translation>A Great Minister has emerged from {CITY}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_MERCHANT</zType>
-		<English>A Great Merchant has emerged from {CITY}</English>
+		<Translation>A Great Merchant has emerged from {CITY}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_SCIENTIST</zType>
-		<English>A Great Scientist has emerged from {CITY}</English>
+		<Translation>A Great Scientist has emerged from {CITY}</Translation>
 	</Entry>
 	<!--Name-->
 	<Entry>
 		<zType>TEXT_EVENTCITY_POPULATION_BOOM_NAME</zType>
-		<English>Population Boom</English>
+		<Translation>Population Boom</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_CIVICS_BOOM_NAME</zType>
-		<English>Civics Boom</English>
+		<Translation>Civics Boom</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_TRAINING_BOOM_NAME</zType>
-		<English>Training Boom</English>
+		<Translation>Training Boom</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_SCIENCE_BOOM_NAME</zType>
-		<English>Science Boom</English>
+		<Translation>Science Boom</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_MONEY_BOOM_NAME</zType>
-		<English>Money Boom</English>
+		<Translation>Money Boom</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_ORDERS_BOOM_NAME</zType>
-		<English>Orders Boom</English>
+		<Translation>Orders Boom</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_SOLDIER_NAME</zType>
-		<English>Great Soldier</English>
+		<Translation>Great Soldier</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_MINISTER_NAME</zType>
-		<English>Great Minister</English>
+		<Translation>Great Minister</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_MERCHANT_NAME</zType>
-		<English>Great Merchant</English>
+		<Translation>Great Merchant</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_SCIENTIST_NAME</zType>
-		<English>Great Scientist</English>
+		<Translation>Great Scientist</Translation>
 	</Entry>
 </Root>
