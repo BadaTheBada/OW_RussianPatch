@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Translated by Elena Davydova (Bada)-->
 <Root>
-	<!-- InfoEventOption -->
-	<Entry>
-		<zType />
-		<Translation />
-	</Entry>
-	<!-- InfoLanguage -->
-	<!-- Is it necessary?-->
-	<Entry>
-		<zType>TEXT_LANGUAGE_RUSSIAN_TRANSLATION</zType>
-		<Translation>Russian</Translation>
-	</Entry>	
-	<Entry>
-		<zType>TEXT_LANGUAGE_DEBUG</zType>
-		<Translation>Text Debug</Translation>
-	</Entry>
-	
 	<!-- InfoTerrain -->
 	<Entry>
 		<zType>TEXT_TERRAIN_WATER</zType>
@@ -1325,69 +1309,69 @@
 	<!-- Требуется перевод -->
 	<Entry>
 		<zType>TEXT_NATION_ASSYRIA_STORY</zType>
-		<Translation>			I am Ashurbanipal, king of the universe, descendants of great kings. I was the fourth in line for the succession, but my father, Esarhaddon, picked me to rule Assyria because of my bravery and intelligence while sending an older brother to rule a distant kingdom. Unrest comes from his land, and I need to show him how to be the greatest king of them all.
+		<Translation>      I am Ashurbanipal, king of the universe, descendants of great kings. I was the fourth in line for the succession, but my father, Esarhaddon, picked me to rule Assyria because of my bravery and intelligence while sending an older brother to rule a distant kingdom. Unrest comes from his land, and I need to show him how to be the greatest king of them all.
 
-			While my father was alive, I worked as a spymaster and studied etiquette and military training. I constructed the first systematically organized library of the Old World, containing 30,000 clay tablets. I was known for fluency in languages, especially Akkadian and Sumerian, endearing me to many old families.
+      While my father was alive, I worked as a spymaster and studied etiquette and military training. I constructed the first systematically organized library of the Old World, containing 30,000 clay tablets. I was known for fluency in languages, especially Akkadian and Sumerian, endearing me to many old families.
 
-			I commissioned reliefs of myself hunting lions, a public event which was reserved for Assyrian royalty.
-		</Translation>
+      I commissioned reliefs of myself hunting lions, a public event which was reserved for Assyrian royalty.
+    </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_BABYLONIA_STORY</zType>
-		<Translation>		Son of a Mesopotamian king and husband to Amytis of Medea, and forever a worshiper of the god Marduk. In the name of my father, I elevated my city Babylon to be the jewel of the region. I am trained in military tactics, conquered kingdoms, and crushed rebellions.
+		<Translation>    Son of a Mesopotamian king and husband to Amytis of Medea, and forever a worshiper of the god Marduk. In the name of my father, I elevated my city Babylon to be the jewel of the region. I am trained in military tactics, conquered kingdoms, and crushed rebellions.
 
-		I built The Hanging Gardens for my wife so she can feel closer to the hills of Persia, and The Ishtar Gate to honor Marduk. I connected them both with the Processing Way and all visitors were bewildered by the beauty of my empire.
+    I built The Hanging Gardens for my wife so she can feel closer to the hills of Persia, and The Ishtar Gate to honor Marduk. I connected them both with the Processing Way and all visitors were bewildered by the beauty of my empire.
 
-		Under my rule, women had equal rights as men did, we created intellectuals institutes and temples, and my focus was on art, culture, science, mathematics, and craftsmanship. In a decade, I turned Babylon into a city of light.
+    Under my rule, women had equal rights as men did, we created intellectuals institutes and temples, and my focus was on art, culture, science, mathematics, and craftsmanship. In a decade, I turned Babylon into a city of light.
 
  I am Nebuchadnezzar.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_CARTHAGE_STORY</zType>
-		<Translation>		I am a Phoenecian princess who fled her home in Tyre, carrying the name Elissa. Escaping my brother Pygmalion who murdered my beloved husband Acerbas, a priest of Hercules, I arrived in North Africa.
+		<Translation>    I am a Phoenecian princess who fled her home in Tyre, carrying the name Elissa. Escaping my brother Pygmalion who murdered my beloved husband Acerbas, a priest of Hercules, I arrived in North Africa.
 
-		 With my husband’s riches, I bargained with the Berber king Iarbus who wanted to marry me. He mockingly promised me all the land that I could cover with the skin of a dead ox. I cut the skin into the thinnest pieces and, along with my Tyrian settlers, laid out the borders of my beloved city.
+     With my husband’s riches, I bargained with the Berber king Iarbus who wanted to marry me. He mockingly promised me all the land that I could cover with the skin of a dead ox. I cut the skin into the thinnest pieces and, along with my Tyrian settlers, laid out the borders of my beloved city.
 
-		I am ready to become Dido the Wanderer, Queen of Carthage, goddess to my people.</Translation>
+    I am ready to become Dido the Wanderer, Queen of Carthage, goddess to my people.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_EGYPT_STORY</zType>
-		<Translation>		I am Hatshepsut, a female Pharoah, though declared myself officially male throughout my reign.
+		<Translation>    I am Hatshepsut, a female Pharoah, though declared myself officially male throughout my reign.
 
-		I had to use my ruse to come to the throne, using my vast knowledge of religion which endeared me to my people and declared me wife of the God Amun. I am, also, of royal blood on both sides. Married to my brother Thutmose II, I bore a female heir, Neferure. After that, I could not bear more children.
+    I had to use my ruse to come to the throne, using my vast knowledge of religion which endeared me to my people and declared me wife of the God Amun. I am, also, of royal blood on both sides. Married to my brother Thutmose II, I bore a female heir, Neferure. After that, I could not bear more children.
 
-		Occasionally I wore a metal beard but it is a fair price to pay in order to drive my people to a better destiny.
+    Occasionally I wore a metal beard but it is a fair price to pay in order to drive my people to a better destiny.
 
-		Under my reign, Egypt created many trade networks and re-established itself as a nation of builders. My love for science and education allowed me to befriend the most talented architects who helped the Egyptian Empire spread its buildings throughout the known world.</Translation>
+    Under my reign, Egypt created many trade networks and re-established itself as a nation of builders. My love for science and education allowed me to befriend the most talented architects who helped the Egyptian Empire spread its buildings throughout the known world.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_GREECE_STORY</zType>
-		<Translation>		I am King Philip II of Macedon, son of King Amyntas III, founder of the Unified Macedonian State.
+		<Translation>    I am King Philip II of Macedon, son of King Amyntas III, founder of the Unified Macedonian State.
 
-		I received a diplomatic and military education from Epaminondas and established a federation of Greek states known as the League of Corinth. I reformed the Ancient Macedonian Army and established the Macedon Phalanx.
+    I received a diplomatic and military education from Epaminondas and established a federation of Greek states known as the League of Corinth. I reformed the Ancient Macedonian Army and established the Macedon Phalanx.
 
-		As a teen, I may have had an older male lover, a general I lived with named Pammenes.
+    As a teen, I may have had an older male lover, a general I lived with named Pammenes.
 
-		Over the course of my life, I married seven times. One of my wives, Olympias, gave me a son, and I named him Alexander. He was born the year my horse won in the Olympic Games. Alexander is now 13.</Translation>
+    Over the course of my life, I married seven times. One of my wives, Olympias, gave me a son, and I named him Alexander. He was born the year my horse won in the Olympic Games. Alexander is now 13.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_PERSIA_STORY</zType>
-		<Translation>		I am Cyrus the Great, second of my name, King of Kings, and son of King Cambyses.
+		<Translation>    I am Cyrus the Great, second of my name, King of Kings, and son of King Cambyses.
 
-		My grandfather, King Astyages, of the Medean Empire, intended to have me killed upon birth. Instead, I lived to conquer his kingdom and make it mine.
+    My grandfather, King Astyages, of the Medean Empire, intended to have me killed upon birth. Instead, I lived to conquer his kingdom and make it mine.
 
-		I founded the first Persian empire. Under my rule, all civilized states are free to worship their Gods. I brought into subjection every nation without exception.
+    I founded the first Persian empire. Under my rule, all civilized states are free to worship their Gods. I brought into subjection every nation without exception.
 
-		Isaiah the Prophet refers to me as Messiah, calling me “His Anointed One.” I am the only non-Jewish figure in the Bible to be so called.</Translation>
+    Isaiah the Prophet refers to me as Messiah, calling me “His Anointed One.” I am the only non-Jewish figure in the Bible to be so called.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_ROME_STORY</zType>
-		<Translation>		Son of the god Mars, I was saved and raised by a she-wolf with my twin brother, Remus. Aware of his cunning ways, I kept my caution around him, and moved on to found my own tribe unwilling to share my power with him. 
+		<Translation>    Son of the god Mars, I was saved and raised by a she-wolf with my twin brother, Remus. Aware of his cunning ways, I kept my caution around him, and moved on to found my own tribe unwilling to share my power with him. 
 
-		My humble beginnings as an unwanted outcast helped me find hardy men willing to fight alongside me. Unwilling to let us marry their daughters, we kidnapped and married them, anyway. Now, I am allied with powerful tribes.
+    My humble beginnings as an unwanted outcast helped me find hardy men willing to fight alongside me. Unwilling to let us marry their daughters, we kidnapped and married them, anyway. Now, I am allied with powerful tribes.
 
-		The need to recast the narrative is a must, and I will become a righteous leader blessed with divine favor. 
+    The need to recast the narrative is a must, and I will become a righteous leader blessed with divine favor. 
 
-		I am Romulus, and I have founded Roma, the city destined to rule the world.</Translation>
+    I am Romulus, and I have founded Roma, the city destined to rule the world.</Translation>
 	</Entry>
 </Root>
