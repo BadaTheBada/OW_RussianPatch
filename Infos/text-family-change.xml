@@ -4,134 +4,134 @@
 	<!-- Title -->
 	<Entry>
 		<zType/>
-		<English/>
+		<Translation/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_SARGONID</zType>
-		<English>Sargonid~Sargonids~Sargonid</English>
+		<Translation>Sargonid~Sargonids~Sargonid</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_ADASI</zType>
-		<English>Adasi~Adasi~Adasi</English>
+		<Translation>Adasi~Adasi~Adasi</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_ERISHUM</zType>
-		<English>Erishum~Erishum~Erishum</English>
+		<Translation>Erishum~Erishum~Erishum</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_TUDIYA</zType>
-		<English>Tudiya~Tudiya~Tudiya</English>
+		<Translation>Tudiya~Tudiya~Tudiya</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_CHALDEAN</zType>
-		<English>Chaldean~Chaldeans~Chaldean</English>
+		<Translation>Chaldean~Chaldeans~Chaldean</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_AMORITE</zType>
-		<English>Amorite~Amorites~Amorite</English>
+		<Translation>Amorite~Amorites~Amorite</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_KASSITE</zType>
-		<English>Kassite~Kassites~Kassite</English>
+		<Translation>Kassite~Kassites~Kassite</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_ISIN</zType>
-		<English>Isin~Isin~Isin</English>
+		<Translation>Isin~Isin~Isin</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_BARCID</zType>
-		<English>Barcid~Barcids~Barcid</English>
+		<Translation>Barcid~Barcids~Barcid</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_MAGONID</zType>
-		<English>Magonid~Magonids~Magonid</English>
+		<Translation>Magonid~Magonids~Magonid</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_HANNONID</zType>
-		<English>Hannonid~Hannonids~Hannonid</English>
+		<Translation>Hannonid~Hannonids~Hannonid</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_DIDONIAN</zType>
-		<English>Didonian~Didonians~Didonian</English>
+		<Translation>Didonian~Didonians~Didonian</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_RAMESSIDE</zType>
-		<English>Ramesside~Ramessides~Ramesside</English>
+		<Translation>Ramesside~Ramessides~Ramesside</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_THUTMOSID</zType>
-		<English>Thutmosid~Thutmosids~Thutmosid</English>
+		<Translation>Thutmosid~Thutmosids~Thutmosid</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_AMARNA</zType>
-		<English>Amarna~Amarna~Amarna</English>
+		<Translation>Amarna~Amarna~Amarna</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_SAITE</zType>
-		<English>Saite~Saites~Saite</English>
+		<Translation>Saite~Saites~Saite</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_ARGEAD</zType>
-		<English>Argead~Argeads~Argead</English>
+		<Translation>Argead~Argeads~Argead</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_ALCMAEONID</zType>
-		<English>Alcmaeonid~Alcmaeonids~Alcmaeonid</English>
+		<Translation>Alcmaeonid~Alcmaeonids~Alcmaeonid</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_CYPSELID</zType>
-		<English>Cypselid~Cypselids~Cypselid</English>
+		<Translation>Cypselid~Cypselids~Cypselid</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_SELEUCID</zType>
-		<English>Seleucid~Seleucids~Seleucid</English>
+		<Translation>Seleucid~Seleucids~Seleucid</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_ACHAEMENID</zType>
-		<English>Achaemenid~Achaemenids~Achaemenid</English>
+		<Translation>Achaemenid~Achaemenids~Achaemenid</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_ARSACID</zType>
-		<English>Arsacid~Arsacids~Arsacid</English>
+		<Translation>Arsacid~Arsacids~Arsacid</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_SASANID</zType>
-		<English>Sasanid~Sasanids~Sasanid</English>
+		<Translation>Sasanid~Sasanids~Sasanid</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_MIHRANID</zType>
-		<English>Mihranid~Mihranids~Mihranid</English>
+		<Translation>Mihranid~Mihranids~Mihranid</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_JULIUS</zType>
-		<English>Julius~Julii~Julian</English>
+		<Translation>Julius~Julii~Julian</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_JULIUS_FEMALE</zType>
-		<English>Julia~Juliae~Julian</English>
+		<Translation>Julia~Juliae~Julian</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_FABIUS</zType>
-		<English>Fabius~Fabii~Fabian</English>
+		<Translation>Fabius~Fabii~Fabian</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_FABIUS_FEMALE</zType>
-		<English>Fabia~Fabiae~Fabian</English>
+		<Translation>Fabia~Fabiae~Fabian</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_VALERIUS</zType>
-		<English>Valerius~Valerii~Valerian</English>
+		<Translation>Valerius~Valerii~Valerian</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_VALERIUS_FEMALE</zType>
-		<English>Valeria~Valeriae~Valerian</English>
+		<Translation>Valeria~Valeriae~Valerian</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_CLAUDIUS</zType>
-		<English>Claudius~Claudii~Claudian</English>
+		<Translation>Claudius~Claudii~Claudian</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_CLAUDIUS_FEMALE</zType>
-		<English>Claudia~Claudiae~Claudian</English>
+		<Translation>Claudia~Claudiae~Claudian</Translation>
 	</Entry>
 </Root>
