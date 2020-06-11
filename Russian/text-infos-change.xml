@@ -66,7 +66,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_CLEAR</zType>
-		<Translation>Очистить</Translation>
+		<Translation>Свободно</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_CONDUCT_TRADE_MISSION</zType>
@@ -130,7 +130,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_URBAN</zType>
-		<Translation><![CDATA[Город~Городской<comment this text is an adjective>]]></Translation>
+		<Translation><![CDATA[Городской~Городского~Городскому~Городской~Городским~Городском~Городская~Городской~Городской~Городскую~Городской~Городской~Городские~Городских~Городским~Городские~Городскими~Городских<comment this text is an adjective>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_ZOC</zType>
@@ -356,23 +356,23 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONCHARACTER_ANGRY</zType>
-		<Translation>Озлоблены</Translation>
+		<Translation>Озлоблен(а)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONCHARACTER_UPSET</zType>
-		<Translation>Расстроены</Translation>
+		<Translation>Расстроен(а)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONCHARACTER_CAUTIOUS</zType>
-		<Translation>Осторожны</Translation>
+		<Translation>Осторожн(а)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONCHARACTER_PLEASED</zType>
-		<Translation>Довольны</Translation>
+		<Translation>Довольн(а)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONCHARACTER_FRIENDLY</zType>
-		<Translation>Дружелюбны</Translation>
+		<Translation>Дружелюбн(а)</Translation>
 	</Entry>
 	<!--InfoOpinionPlayer-->
 	<!--Assets/GameAssets/Resources/Infos/opinionPlayer.xml-->
@@ -835,15 +835,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_URBAN_IMPROVEMENTS</zType>
-		<Translation>Держать под контролем 6 городских улучшений</Translation>
+		<Translation>Держать под контролем 6 городских построек</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_REPAIRED</zType>
-		<Translation>Починить 6 улучшений</Translation>
+		<Translation>Починить 6 построек</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_EIGHT_REPAIRED</zType>
-		<Translation>Починить 8 улучшений</Translation>
+		<Translation>Починить 8 построек</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_LEGENDARY_IMPROVEMENTS</zType>
@@ -863,7 +863,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_HANGING_GARDENS</zType>
-		<Translation>Держать под контролем	Висячие сады</Translation>
+		<Translation>Держать под контролем Висячие сады</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_NECROPOLIS</zType>
@@ -1011,7 +1011,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_FESTIVALS</zType>
-		<Translation>Держать под контролем 6 Фестивалей</Translation>
+		<Translation>Провести 6 Фестивалей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_CONVOYS</zType>
@@ -1023,15 +1023,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_THREE_BARB_CLEARED</zType>
-		<Translation>Очистить 3 варварских стоянки</Translation>
+		<Translation>Очистить 3 варварских лагеря</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_BARB_CLEARED</zType>
-		<Translation>Очистить 5 варварских стоянок</Translation>
+		<Translation>Очистить 5 варварских лагерей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SEVEN_BARB_CLEARED</zType>
-		<Translation>Очистить 7 варварских стоянок</Translation>
+		<Translation>Очистить 7 варварских лагерей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_BARBARIAN_PEACE</zType>
@@ -1075,11 +1075,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_STATE_RELIGION</zType>
-		<Translation>Закрепить Государственную религию</Translation>
+		<Translation>Объявить местную религию</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_ESTABLISH_THEOLOGY</zType>
-		<Translation>Закрепить Теологию</Translation>
+		<Translation>Принять теологию</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_RELIGION_SPREAD</zType>
@@ -1159,15 +1159,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_POLYBOLOS_CATAPHRACT</zType>
-		<Translation>5 Полиболов или Катафрактарий</Translation>
+		<Translation>5 Полиболов или Катафрактов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_SWORDSMAN_PIKEMAN</zType>
-		<Translation>5 Мечников или Пикинеров</Translation>
+		<Translation>5 Воинов с мечом или Пикинеров</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_20_UNITS</zType>
-		<Translation>Держать под контролем 20 военных юнитов (5 Катафрактарий)</Translation>
+		<Translation>Держать под контролем 20 военных юнитов (5 катафрактов)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_HIGHEST_MILITARY</zType>
@@ -1180,63 +1180,63 @@
 	<!-- Требуется перевод -->
 	<Entry>
 		<zType>TEXT_GOAL_TWO_SIEGE_TOWER</zType>
-		<Translation>Control Two Siege Towers</Translation>
+		<Translation>Держать под контролем 2 Осадные башни</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_AKKADIAN_ARCHER</zType>
-		<Translation>Control Two Akkadian Archers</Translation>
+		<Translation>Держать под контролем 2 Аккадских лучника</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_CIMMERIAN_ARCHER</zType>
-		<Translation>Control Two Cimmerian Archers</Translation>
+		<Translation>Держать под контролем 2 Киммерийских лучника</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_AFRICAN_ELEPHANT</zType>
-		<Translation>Control Two Africans Elephants</Translation>
+		<Translation>Держать под контролем 2 Африканских слона</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_TURRETED_ELEPHANT</zType>
-		<Translation>Control Two Turreted Elephants</Translation>
+		<Translation>Держать под контролем 2 Боевых слона</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_LIGHT_CHARIOT</zType>
-		<Translation>Control Two Light Chariots</Translation>
+		<Translation>Держать под контролем 2 Легкие колесницы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_KUSHITE_CAVALRY</zType>
-		<Translation>Control Two Kushite Cavalry</Translation>
+		<Translation>Держать под контролем 2 Кушитских кавалерии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_HOPLITE</zType>
-		<Translation>Control Two Hoplites</Translation>
+		<Translation>Держать под контролем 2 Гоплита</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_PHALANGITE</zType>
-		<Translation>Control Two Phalangites</Translation>
+		<Translation>Держать под контролем 2 Фалангита</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_PALTON_CAVALRY</zType>
-		<Translation>Control Two Palton Cavalry</Translation>
+		<Translation>Держать под контролем 2 Палтонских кавалерии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_CATAPHRACT_ARCHER</zType>
-		<Translation>Control Two Cataphract Archers</Translation>
+		<Translation>Держать под контролем 2 Катафрактарских лучника</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_HASTATUS</zType>
-		<Translation>Control Two Hastatus</Translation>
+		<Translation>Держать под контролем 2 Гастата</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_LEGIONARY</zType>
-		<Translation>Control Two Legionaries</Translation>
+		<Translation>Держать под контролем 2 Легионера</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_COURTIERS</zType>
-		<Translation>Add Two Courtiers</Translation>
+		<Translation>Пригласить 2 придворных</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_COURTIERS</zType>
-		<Translation>Add Four Courtiers</Translation>
+		<Translation>Пригласить 4 придворных</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_REVEAL_40</zType>
@@ -1260,7 +1260,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_CLEAR_THREE_BARBS</zType>
-		<Translation>Очистить 3 варварских стоянки</Translation>
+		<Translation>Очистить 3 варварских лагеря</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_TEMPLES_ZOROASTRIANISM</zType>
