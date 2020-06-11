@@ -58,7 +58,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_BUY_TILE</zType>
-		<Translation>Купить клетки</Translation>
+		<Translation>Покупать клетки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_CULTURE_EVENT</zType>
@@ -94,7 +94,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_JOIN_COURT</zType>
-		<Translation>Присоединиться к двору</Translation>
+		<Translation>Присоединяется к двору</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_IDLE</zType>
