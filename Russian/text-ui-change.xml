@@ -32,7 +32,7 @@
     </Entry>
     <Entry>
         <zType>TEXT_MENU_SCREEN_QUIT_BUTTON</zType>
-        <Translation>Выйти на рабочий стол</Translation>
+        <Translation>Выйти из игры</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MENU_SCREEN_PREVIOUS_BUTTON</zType>
@@ -63,11 +63,11 @@
     </Entry>
     <Entry>
         <zType>TEXT_SEND_LUXURY</zType>
-        <Translation>Отправить {0}</Translation>
+        <Translation>Отправить {0,3}</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_STOP_SENDING_LUXURY</zType>
-        <Translation>Перестать отправлять {0}</Translation>
+        <Translation>Перестать отправлять {0,3}</Translation>
     </Entry>
     <!--single player menu-->
     <Entry>
@@ -353,7 +353,7 @@
     </Entry>
     <Entry>
         <zType>TEXT_OPTIONS_MENU_TITLEBAR_GRAPHICS</zType>
-        <Translation>Графика</Translation>
+        <Translation>Видео</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_OPTIONS_MENU_TITLEBAR_AUDIO</zType>
@@ -417,7 +417,7 @@
     <!--tabs-->
     <Entry>
         <zType>TEXT_SP_SETUP_TABS_BIO</zType>
-        <Translation>Био</Translation>
+        <Translation>Биография</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_TABS_STATS</zType>
@@ -438,7 +438,7 @@
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_TABS_SETUP_UNIQUE</zType>
-        <Translation>Уникальное свойство</Translation>
+        <Translation>Уникальные юниты</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_TABS_SETUP_FAMILIES</zType>
@@ -515,11 +515,11 @@
     <!--character tab-->
     <Entry>
         <zType>TEXT_TAB_PANEL_CHARTAB_CHARACTERS</zType>
-        <Translation>Характеры</Translation>
+        <Translation>Персонажи</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TAB_PANEL_CHARTAB_SPOUSE</zType>
-        <Translation>Супгруги</Translation>
+        <Translation>Супгруг(а)</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TAB_PANEL_CHARTAB_HEIRS</zType>
@@ -575,11 +575,11 @@
     </Entry>
     <Entry>
         <zType>TEXT_TOOL_TIPS_UNLOCKS</zType>
-        <Translation>Открывается</Translation>
+        <Translation>Открывает</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TOOL_TIPS_REQUIRES</zType>
-        <Translation>Требуется</Translation>
+        <Translation>Требует</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TOOL_TIPS_BONUSCARDS</zType>
