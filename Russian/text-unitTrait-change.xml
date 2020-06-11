@@ -7,23 +7,23 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_MELEE</zType>
-		<Translation>Ближний бой</Translation>
+		<Translation>Ближнего боя</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_RANGED</zType>
-		<Translation>Дальний бой</Translation>
+		<Translation>Дальнего боя</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_INFANTRY</zType>
-		<Translation>Пехота</Translation>
+		<Translation>Пехоты</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_POLEARM</zType>
-		<Translation>Копейщик</Translation>
+		<Translation>Копейщики</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_MOUNTED</zType>
-		<Translation>Всадник</Translation>
+		<Translation>Всадники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_HORSE</zType>
@@ -39,10 +39,10 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_SIEGE</zType>
-		<Translation>Осадный</Translation>
+		<Translation>Осады</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_SHIP</zType>
-		<Translation>Корабль</Translation>
+		<Translation>На воде</Translation>
 	</Entry>
 </Root>
