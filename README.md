@@ -4,9 +4,6 @@
 # Установка и использование
 Скачайте перевод и поместите папку Russian в папку D:\User\Documents\My Games\OldWorld\Translations или аналогичную. Запустите Old World (test branch) и поменяйте язык в настройках: Options -> вкладка UI -> Languages -> Russian (User Translation) -> Save.
 
-# Внимание
-Актуально на 10 июня: для корректной работы перевода необходимо удалить из папки Russian файл text-ui-change.xml, поскольку он вызывает проблемы, не зависящие от переводчика.
-
 # Помощь переводчикам
 Мы будем рады, если вы:
 * Присоединитесь к процессу перевода. Информация для переводчиков [ЗДЕСЬ.](https://github.com/BadaTheBada/OW_RussianPatch/wiki/Translating)
