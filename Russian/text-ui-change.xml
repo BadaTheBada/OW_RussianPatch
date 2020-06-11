@@ -421,11 +421,11 @@
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_TABS_STATS</zType>
-        <Translation>Параметры</Translation>
+        <Translation>Настройки игры</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_TABS_SETUP_SIMPLE</zType>
-        <Translation>Простые настройки</Translation>
+        <Translation>Базовые настройки</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_TABS_SETUP_ADVANCED</zType>
@@ -434,7 +434,7 @@
     <!--stats-->
     <Entry>
         <zType>TEXT_SP_SETUP_STATS_STARTSWITH</zType>
-        <Translation>Начинать с</Translation>
+        <Translation>Начальные технологии</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_TABS_SETUP_UNIQUE</zType>
@@ -485,7 +485,7 @@
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_ADVANCED_EVENTLEVEL</zType>
-        <Translation>Уровень событий</Translation>
+        <Translation>Частота событий</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_ADVANCED_SUCCESSION</zType>
