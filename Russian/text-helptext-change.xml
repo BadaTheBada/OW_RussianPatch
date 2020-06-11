@@ -181,11 +181,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_PRESS_KEY</zType>
-    <Translation>[Нажмите {0_key}]</Translation>
+    <Translation>[Нажать {0_key}]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_HOLD_KEY</zType>
-    <Translation>[Удерживайте {0_key}]</Translation>
+    <Translation>[Удерживать {0_key}]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_REQUIRES</zType>
@@ -543,7 +543,7 @@
   <!--Turns Text-->
   <Entry>
     <zType>TEXT_HELPTEXT_TURNS_TEXT</zType>
-    <Translation><![CDATA[<true_1>({0_number} <single_0>г<plural>г<plural2>л<end>)<false>{0_number}<single_0>г<plural>г<plural2>л<end><end>]]></Translation>
+    <Translation><![CDATA[<true_1>({0_number} <singular_0>г<plural>г<plural2>л<end>)<false>{0_number}<singular_0>г<plural>г<plural2>л<end><end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TURNS_TEXT_UNKNOWN</zType>
@@ -732,7 +732,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_BUILD_KEYS</zType>
-    <Translation><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> - смена в обратном порядке<br><TEXT_HOTKEY_CTRL_CLICK> - пропустить мирные юниты<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> -установить приоритет<false><end>]]></Translation>
+    <Translation><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> - смена юнитов в обратном порядке<br><TEXT_HOTKEY_CTRL_CLICK> - пропустить мирные юниты<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> - установить приоритет<false><end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_MILITARY</zType>
@@ -740,7 +740,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_MILITARY_KEYS</zType>
-    <Translation><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> - смена в обратном порядке<br><TEXT_HOTKEY_CTRL_CLICK> - пропустить военные юниты<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> - установить приоритет<false><end>]]></Translation>
+    <Translation><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> - смена юнитов в обратном порядке<br><TEXT_HOTKEY_CTRL_CLICK> - пропустить военные юниты<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> - установить приоритет<false><end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_EXPLORATION</zType>
@@ -748,7 +748,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_EXPLORATION_KEYS</zType>
-    <Translation><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> - смена в обратном порядке<br><TEXT_HOTKEY_CTRL_CLICK> - пропустить разведчиков и корабли<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> - установить приоритет<false><end>]]></Translation>
+    <Translation><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> - смена юнитов в обратном порядке<br><TEXT_HOTKEY_CTRL_CLICK> - пропустить разведчиков и корабли<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> - установить приоритет<false><end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_CITIES</zType>
@@ -756,7 +756,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_CITIES_KEYS</zType>
-    <Translation><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> - смена в обратном порядке<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> - установить приоритет<false><end>]]></Translation>
+    <Translation><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> - смена городов в обратном порядке<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> - установить приоритет<false><end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_DECISIONS</zType>
@@ -764,7 +764,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_DECISIONS_KEYS</zType>
-    <Translation><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> - смена в обратном порядке<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> - установить приоритет<false><end>]]></Translation>
+    <Translation><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> - смена решений в обратном порядке<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> - установить приоритет<false><end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_CYCLE_PREVIOUS_CITIES</zType>
@@ -824,7 +824,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_BUY_YIELD_KEY</zType>
-    <Translation>Удерживайте {0_key}, чтобы купить {1_amount} ({2_money})</Translation>
+    <Translation>Удерживать {0_key}, чтобы купить {1_amount} ({2_money})</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_SELL_YIELD</zType>
@@ -832,7 +832,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_SELL_YIELD_KEY</zType>
-    <Translation>Удерживайте {0_key}, чтобы продать {1_amount} ({2_money})</Translation>
+    <Translation>Удерживать {0_key}, чтобы продать {1_amount} ({2_money})</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_RESEARCH_TECH</zType>
@@ -892,7 +892,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_GIFT_CITY</zType>
-    <Translation><![CDATA[Подарить {0,3_city} {1,1_player} [Удерживайте <TEXT_HOTKEY_CTRL>, чтобы подтвердить]]]></Translation>
+    <Translation><![CDATA[Подарить {0,3_city} {1,1_player} [Удерживать <TEXT_HOTKEY_CTRL>, чтобы подтвердить]]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_GIFT_CITY_CANNOT_GIFT</zType>
@@ -900,11 +900,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_BUILD_PROJECT_REPEAT</zType>
-    <Translation><![CDATA[Удерживайте <TEXT_HOTKEY_SHIFT>, чтобы повторять до отмены]]></Translation>
+    <Translation><![CDATA[Удерживать <TEXT_HOTKEY_SHIFT>, чтобы повторять до отмены]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_BUILD_INSERT_FRONT</zType>
-    <Translation><![CDATA[Удерживайте <TEXT_HOTKEY_CTRL>, чтобы установить в начало очереди.]]></Translation>
+    <Translation><![CDATA[Удерживать <TEXT_HOTKEY_CTRL>, чтобы установить в начало очереди.]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_BUILD_SPECIALIST_NEXT</zType>
@@ -992,7 +992,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_START_MISSION_CANCEL</zType>
-    <Translation><![CDATA[Удерживайте <TEXT_HOTKEY_CTRL> для отмены]]></Translation>
+    <Translation><![CDATA[Удерживать <TEXT_HOTKEY_CTRL> для отмены]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_START_MISSION_REQUIRES</zType>
@@ -1124,7 +1124,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_PASS</zType>
-    <Translation>Пропустить в этом ходу</Translation>
+    <Translation>Отдыхать в этом ходу</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_SLEEP</zType>
@@ -1136,7 +1136,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_SENTRY</zType>
-    <Translation>Пробудить при появлении вражеского юнита в {0_value} клетках</Translation>
+    <Translation>Пробудиться при появлении вражеского юнита в {0_value} клетках</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_LOCK</zType>
@@ -1208,7 +1208,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_JOIN_CITY</zType>
-    <Translation><![CDATA[Присоединиться к г. {0_city}<br>Добавляет {1_number} <singular_1>{2,1_citizenLink}<plural>{2,1_citizenLink}<plural2>{2,7_citizenLink}<end> к городу [Удерживайте <TEXT_HOTKEY_CTRL>, чтобы подтвердить]]]></Translation>
+    <Translation><![CDATA[Присоединиться к г. {0_city}<br>Добавляет {1_number} <singular_1>{2,1_citizenLink}<plural>{2,1_citizenLink}<plural2>{2,7_citizenLink}<end> к городу [Удерживать <TEXT_HOTKEY_CTRL>, чтобы подтвердить]]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_JOIN_CITY_UNIT_DAMAGED</zType>
@@ -1236,7 +1236,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_BUY_KEY</zType>
-    <Translation><![CDATA[Удерживайте <TEXT_HOTKEY_ALT>, чтобы купить: {0_money}]]></Translation>
+    <Translation><![CDATA[Удерживать <TEXT_HOTKEY_ALT>, чтобы купить: {0_money}]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_CANCEL_IMPROVEMENT</zType>
@@ -1280,7 +1280,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_HARVEST_RESOURCE_AUTO_HARVEST_HOTKEY</zType>
-    <Translation><![CDATA[Удерживайте <TEXT_HOTKEY_CTRL>, чтобы <true_0>выключить<false>включить<end> авто-сбор]]></Translation>
+    <Translation><![CDATA[Удерживать <TEXT_HOTKEY_CTRL>, чтобы <true_0>выключить<false>включить<end> авто-сбор]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_COLONIZE_TILE</zType>
@@ -1348,7 +1348,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_GIFT_UNIT</zType>
-    <Translation><![CDATA[Подарить {0,2_player} [Удерживайте <TEXT_HOTKEY_CTRL>, чтобы подтвердить]]]></Translation>
+    <Translation><![CDATA[Подарить {0,2_player} [Удерживать <TEXT_HOTKEY_CTRL>, чтобы подтвердить]]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_LAUNCH_OFFENSIVE</zType>
@@ -1798,7 +1798,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_IMPROVEMENT_KEY</zType>
-    <Translation>Удерживайте [{0_key}], чтобы скрыть все постройки.</Translation>
+    <Translation>Удерживать [{0_key}], чтобы скрыть все постройки.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_JOIN_COURT</zType>
@@ -1958,15 +1958,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_UNIT_CYCLE_KEY</zType>
-    <Translation>Нажмите [{0_key}] для смены юнитов.</Translation>
+    <Translation>Нажать [{0_key}] для смены юнитов.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_UNIT_CENTER_KEY</zType>
-    <Translation>Нажмите [{0_key}], чтобы увидеть юнит.</Translation>
+    <Translation>Нажать [{0_key}], чтобы увидеть юнит.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_UNIT_HIDE_KEY</zType>
-    <Translation>Удерживайте [{0_key}], чтобы скрыть все юниты.</Translation>
+    <Translation>Удерживать [{0_key}], чтобы скрыть все юниты.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_UNIT_CONSUMES</zType>
@@ -2014,15 +2014,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_VEGETATION_HOTKEY</zType>
-    <Translation>Удерживайте [{0_key}], чтобы скрыть все изображения {1,1_vegetation}.</Translation>
+    <Translation>Удерживать [{0_key}], чтобы скрыть все изображения {1,1_vegetation}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_VICTORY</zType>
-    <Translation>Если кто-нибудь из оппонентов достигнет {0_points} &lt;singular_0&gt;очко&lt;plural&gt;очка&lt;plural2&gt;очков&lt;end&gt;, игра закончится!</Translation>
+    <Translation><![CDATA[Если кто-нибудь из оппонентов достигнет {0_points} <singular_0>очко<plural>очка<plural2>очков<end>, игра закончится!]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_ZOC</zType>
-    <Translation><![CDATA[Зона контроля захватывает соседние клетки юнита (кроме другого берега {0,1_riverLink}<br>и мешает вражеским юнитам двигаться от одной клетки ЗК к другой.<br>Удерживайте [{1_key}], чтобы увидеть ЗК юнита.]]></Translation>
+    <Translation><![CDATA[Зона контроля захватывает соседние клетки юнита (кроме другого берега {0,1_riverLink}<br>и мешает вражеским юнитам двигаться от одной клетки ЗК к другой.<br>Удерживать [{1_key}], чтобы увидеть ЗК юнита.]]></Translation>
   </Entry>
   <!--Yield Net Help-->
   <Entry>
@@ -2359,7 +2359,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_REMOVES_VEGETATION</zType>
-    <Translation>Вырубает {0,3_vegetationLink}</Translation>
+    <Translation>{0,3_vegetationLink} будут вырублены</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_SAME_IMPROVEMENT</zType>
@@ -2367,7 +2367,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_REPLACES_IMPROVEMENT</zType>
-    <Translation><![CDATA[Заменяет {0,3_improvement} (Удерживайте <TEXT_HOTKEY_CTRL>)]]></Translation>
+    <Translation><![CDATA[Заменяет {0,3_improvement} (Удерживать <TEXT_HOTKEY_CTRL>)]]></Translation>
   </Entry>
   <!--Resource Harvest Help Variable-->
   <Entry>
@@ -2514,7 +2514,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_CITY_STRENGTH</zType>
-    <Translation>{0_value} - оборона города</Translation>
+    <Translation>{0_value} к обороне города</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_RANDOM_PROMOTIONS</zType>
@@ -2530,7 +2530,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_RURAL_SPECIALIST_TRAIN_TIME</zType>
-    <Translation>{0_value} - время обучения {1,1_specialist}</Translation>
+    <Translation>{0_value} к скорости обучения {1,1_specialist}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_URBAN_SPECIALIST_COST</zType>
@@ -2538,7 +2538,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_URBAN_SPECIALIST_TRAIN_TIME</zType>
-    <Translation>{0_value} - время обучения {1,1_specialist}</Translation>
+    <Translation>{0_value} к скорости обучения {1,1_specialist}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_DISCIPLE_TRAIN_TIME</zType>
@@ -2570,23 +2570,23 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_HURRY_CIVICS</zType>
-    <Translation><![CDATA[Можно ускорить производство за счет <TEXT_YIELD_CIVICS>]]></Translation>
+    <Translation><![CDATA[Можно ускорить производство за <TEXT_YIELD_CIVICS,3>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_HURRY_TRAINING</zType>
-    <Translation><![CDATA[Можно ускорить производство за счет <TEXT_YIELD_TRAINING>]]></Translation>
+    <Translation><![CDATA[Можно ускорить производство за <TEXT_YIELD_TRAINING,3>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_HURRY_MONEY</zType>
-    <Translation><![CDATA[Можно ускорить производство за счет <TEXT_YIELD_MONEY>]]></Translation>
+    <Translation><![CDATA[Можно ускорить производство за <TEXT_YIELD_MONEY,3>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_HURRY_POPULATION</zType>
-    <Translation>Можно ускорить производство за счет населения</Translation>
+    <Translation>Можно ускорить производство за Жителей</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_HURRY_ORDERS</zType>
-    <Translation><![CDATA[Можно ускорить производство за счет <TEXT_YIELD_ORDERS>]]></Translation>
+    <Translation><![CDATA[Можно ускорить производство за <TEXT_YIELD_ORDERS,3>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_ENABLES_GOVERNOR</zType>
@@ -2634,23 +2634,23 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_HURRY_CIVICS</zType>
-    <Translation><![CDATA[Можно ускорить производство {0_build} за счет <TEXT_YIELD_CIVICS>]]></Translation>
+    <Translation><![CDATA[Можно ускорить производство {0,1_build} за <TEXT_YIELD_CIVICS,3>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_HURRY_TRAINING</zType>
-    <Translation><![CDATA[Можно ускорить производство {0_build} за счет <TEXT_YIELD_TRAINING>]]></Translation>
+    <Translation><![CDATA[Можно ускорить производство {0,1_build} за <TEXT_YIELD_TRAINING,3>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_HURRY_MONEY</zType>
-    <Translation><![CDATA[Можно ускорить производство {0_build} за счет <TEXT_YIELD_MONEY>]]></Translation>
+    <Translation><![CDATA[Можно ускорить производство {0,1_build} за <TEXT_YIELD_MONEY,3>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_HURRY_POPULATION</zType>
-    <Translation>Можно ускорить производство {0_build} за счет населения</Translation>
+    <Translation>Можно ускорить производство {0,1_build} за Жителей</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_HURRY_ORDERS</zType>
-    <Translation><![CDATA[Можно ускорить производство {0_build} за счет <TEXT_YIELD_ORDERS>]]></Translation>
+    <Translation><![CDATA[Можно ускорить производство {0,1_build} за <TEXT_YIELD_ORDERS,3>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_NEW_UNITS_WITH</zType>
@@ -2837,7 +2837,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CITY_CONNECTED_HOTKEY</zType>
-    <Translation>Удерживайте [{0_key}], чтобы увидеть клетки, соединенные со {1,4_capital}.</Translation>
+    <Translation>Удерживать [{0_key}], чтобы увидеть клетки, соединенные со {1,4_capital}.</Translation>
   </Entry>
   <!--City Current Citizens Help-->
   <Entry>
@@ -2850,7 +2850,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CITY_MIN_CITIZENS</zType>
-    <Translation><![CDATA[Не менее {0_num} <singular_1>{1,1_citizenLink}<plural>{1,7_citizenLink}<plural>{1,7_citizenLink}<end>]]></Translation>
+    <Translation><![CDATA[Не менее {0_num} <singular_0>{1,1_citizenLink}<plural>{1,7_citizenLink}<plural2>{1,7_citizenLink}<end>]]></Translation>
   </Entry>
   <!--Effect Player Help-->
   <Entry>
@@ -2911,7 +2911,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_CONSUMPTION_MODIFIER</zType>
-    <Translation>Потребление юнитов {0_value}</Translation>
+    <Translation>Содержание юнитов {0_value}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_WONDER_MODIFIER</zType>
