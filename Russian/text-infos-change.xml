@@ -33,15 +33,15 @@
 	<!--InfoBuild-->
 	<Entry>
 		<zType>TEXT_BUILD_PROJECT</zType>
-		<Translation>Проект</Translation>
+		<Translation>Проект~Проекта~Проекту~Проект~Проектом~Проекте</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BUILD_SPECIALIST</zType>
-		<Translation>Специалист</Translation>
+		<Translation>Специалист~Специалиста~Специалисту~Специалист~Специалистом~Специалисте</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BUILD_UNIT</zType>
-		<Translation>Юнит</Translation>
+		<Translation>Юнит~Юнита~Юниту~Юнит~Юнитом~Юните</Translation>
 	</Entry>
 	<!--InfoConcept-->
 	<Entry>
@@ -98,7 +98,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_IDLE</zType>
-		<Translation>Свободный</Translation>
+		<Translation>Свободный~Свободного~Свободному~Свободный~Свободным~Свободном~Свободные~Свободных~Свободным~Свободные~Свободными~Свободных</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_IGNORES_ZOC</zType>
@@ -130,7 +130,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_URBAN</zType>
-		<Translation><![CDATA[Городской~Городского~Городскому~Городской~Городским~Городском~Городская~Городской~Городской~Городскую~Городской~Городской~Городские~Городских~Городским~Городские~Городскими~Городских<comment this text is an adjective>]]></Translation>
+		<Translation><![CDATA[Городской~Городского~Городскому~Городской~Городским~Городском~Городская~Городской~Городской~Городскую~Городской~Городской~Городское~Городского~Городскому~Городское~Городским~Городском~Городские~Городских~Городским~Городские~Городскими~Городских<comment this text is an adjective>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_ZOC</zType>
@@ -575,15 +575,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_THREE_CONNECTED_CITIES</zType>
-		<Translation>Держать под контролем 3 соединенных города</Translation>
+		<Translation>Держать под контролем 3 города, связанных дорогами</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_CONNECTED_CITIES</zType>
-		<Translation>Держать под контролем 6 соединенных городов</Translation>
+		<Translation>Держать под контролем 6 городов, связанных дорогами</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_NINE_CONNECTED_CITIES</zType>
-		<Translation>Держать под контролем 9 соединенных городов</Translation>
+		<Translation>Держать под контролем 9 городов, связанных дорогами</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TEN_POPULATION</zType>
