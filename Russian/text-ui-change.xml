@@ -711,7 +711,7 @@
     <!--city-widget-->
     <Entry>
         <zType>TEXT_WIDGET_CITY_IDLE</zType>
-        <Translation>Свободный</Translation>
+        <Translation>Свободный~Свободного~Свободному~Свободный~Свободным~Свободном~Свободные~Свободных~Свободным~Свободные~Свободными~Свободных</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_WIDGET_CITY_UNKNOWN</zType>
