@@ -81,11 +81,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_COMMA_AND_TWO</zType>
-    <Translation>{0}, и {1}</Translation>
+    <Translation>{0} и {1}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_COMMA_OR_TWO</zType>
-    <Translation>{0}, или {1}</Translation>
+    <Translation>{0} или {1}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_AND_TWO</zType>
@@ -210,7 +210,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_CONNECTED</zType>
-    <Translation><![CDATA[{0_icon}<true_1> Соединен<false><end>]]></Translation>
+    <Translation><![CDATA[{0_icon}<true_1> Связан дорогой<false><end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_FRESH_WATER</zType>
@@ -250,7 +250,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_CITIZEN</zType>
-    <Translation>Житель~Жителя~Жителю~Жителя~Жителем~Жителе~Жителя~Жителей~Жителям~Жителей~Жителями~Жителях</Translation>
+    <Translation>Житель~Жителя~Жителю~Жителя~Жителем~Жителе~Жители~Жителей~Жителям~Жителей~Жителями~Жителях</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HOLY_CITY</zType>
@@ -270,7 +270,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_LEGITIMACY</zType>
-    <Translation>icon(YIELD_LEGITIMACY)Законность рождения</Translation>
+    <Translation>icon(YIELD_LEGITIMACY) Законнорожденный</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_GREAT_PERSON</zType>
@@ -354,7 +354,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_CONNECTED_CITIES</zType>
-    <Translation>Соединенные города</Translation>
+    <Translation>Города, связанные дорогами</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_ENEMIES</zType>
@@ -378,7 +378,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_RIVER</zType>
-    <Translation>Река</Translation>
+    <Translation>Река~Реки~Реке~Реке~Реку~Рекой~Реке</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_ROLE_SPOUSE</zType>
@@ -390,11 +390,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_RURAL_SPECIALISTS</zType>
-    <Translation>Сельские специалисты</Translation>
+    <Translation>Сельские специалисты~Сельских специалистов~Сельским специалистам~Сельских специалистов~Сельскими специалистами~Сельских специалистах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_URBAN_SPECIALISTS</zType>
-    <Translation>Городские специалисты</Translation>
+    <Translation>Городские специалисты~Городских специалистов~Городским специалистам~Городских специалистов~Городскими специалистами~Городских специалистах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_STATE_RELIGION</zType>
@@ -495,7 +495,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CAN_ACT_CONSUMES</zType>
-    <Translation>Потребляет {0_yield}</Translation>
+    <Translation>Потребляет {0,3_yield}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CAN_ACT_OTHER_TURN</zType>
@@ -534,11 +534,11 @@
   <!--City Queue Progress-->
   <Entry>
     <zType>TEXT_HELPTEXT_CITY_QUEUE_PROGRESS</zType>
-    <Translation>{0_value}/{1_value} {2_yield}</Translation>
+    <Translation>{0_value}/{1_value} {2,1_yield}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CITY_QUEUE_PROGRESS_PARENTHESIS</zType>
-    <Translation>({0_value}/{1_value} {2_yield})</Translation>
+    <Translation>({0_value}/{1_value} {2,1_yield})</Translation>
   </Entry>
   <!--Turns Text-->
   <Entry>
@@ -820,7 +820,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_BUY_YIELD</zType>
-    <Translation>Купить {0_amount} {1,1_yield} за {2_money}</Translation>
+    <Translation><![CDATA[Купить {0_amount} <singular_0>{1,3_yield}<plural>{1,1_yield}<plural2>{1,1_yield}<end> за {2,1_money}]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_BUY_YIELD_KEY</zType>
@@ -828,7 +828,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_SELL_YIELD</zType>
-    <Translation>Продать {0_amount} {1,1_yield} за {2_money}</Translation>
+    <Translation><![CDATA[Продать {0_amount} <singular_0>{1,3_yield}<plural>{1,1_yield}<plural2>{1,1_yield}<end> за {2,1_money}]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_SELL_YIELD_KEY</zType>
@@ -1064,7 +1064,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_HEAL_IDLE_UNIT</zType>
-    <Translation>({0_idle} юниты лечат {1_amount} HP каждый год.)</Translation>
+    <Translation>({0,6_idle} юниты лечат {1_amount} HP каждый год.)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_HEAL_NEUTRAL_TERRITORY</zType>
@@ -1124,7 +1124,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_PASS</zType>
-    <Translation>Отдыхать в этом ходу</Translation>
+    <Translation>Отдыхать</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_SLEEP</zType>
@@ -1626,11 +1626,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_CITY_FAMILY_MILITARY</zType>
-    <Translation>{0_yield}: Оборона юнитами семьи</Translation>
+    <Translation>{0_yield}: Защита юнитами семьи</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_CITY_MILITARY</zType>
-    <Translation>{0_yield}: Оборона</Translation>
+    <Translation>{0_yield}: Защита</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_CITY_URBAN_TILE</zType>
@@ -1670,7 +1670,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_CLEAR_DEFENDING</zType>
-    <Translation>Оборона против {0,1_unit} на {1,5_terrain}: {2_value}</Translation>
+    <Translation>Защита от {0,1_unit} на {1,5_terrain}: {2_value}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_CULTURE_EVENT</zType>
@@ -1690,7 +1690,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_DEFENSE</zType>
-    <Translation>Модификатор обороны</Translation>
+    <Translation>Модификатор защиты</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_DISCONTENT</zType>
@@ -1778,7 +1778,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_HEIGHT_DEFENDING_VS_IF</zType>
-    <Translation>Оборона против {0,1_unitTriat} (если {1}): {2_value}</Translation>
+    <Translation>Защита от {0,2_unitTriat} (если {1}): {2_value}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_GENERAL</zType>
@@ -1930,11 +1930,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TERRAIN_DEFENDING_UNIT</zType>
-    <Translation>Оборона против {0,1_unit} (если link(CONCEPT_CLEAR)): {1}</Translation>
+    <Translation>Защита от {0,1_unit} (если link(CONCEPT_CLEAR)): {1}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TERRAIN_DEFENDING_OUR_TERRITORY</zType>
-    <Translation>Оборона (на нашей территории): {1}</Translation>
+    <Translation>Защита (на нашей территории): {1}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TRADE_BONUS_US</zType>
@@ -2002,15 +2002,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_URBAN_ATTACK_INTO</zType>
-    <Translation>{0_unitTrait} (в атаке): {1_value}</Translation>
+    <Translation>{0,1_unitTrait} (при атаке): {1_value}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_URBAN_ATTACK_FROM</zType>
-    <Translation>{0_unitTrait} (в защите): {1_value}</Translation>
+    <Translation>{0,1_unitTrait} (в защите): {1_value}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_VEGETATION_DEFEND</zType>
-    <Translation>Оборона против {0,1_unitTrait}: {1_value}</Translation>
+    <Translation>Защита от {0,2_unitTrait}: {1_value}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_VEGETATION_HOTKEY</zType>
@@ -2022,12 +2022,12 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_ZOC</zType>
-    <Translation><![CDATA[Зона контроля захватывает соседние клетки юнита (кроме другого берега {0,1_riverLink}<br>и мешает вражеским юнитам двигаться от одной клетки ЗК к другой.<br>Удерживать [{1_key}], чтобы увидеть ЗК юнита.]]></Translation>
+    <Translation><![CDATA[Зона контроля захватывает соседние клетки юнита (кроме другого берега {0,1_riverLink}) и мешает вражеским юнитам двигаться от одной клетки ЗК к другой.<br>Удерживать [{1_key}], чтобы увидеть ЗК юнита.]]></Translation>
   </Entry>
   <!--Yield Net Help-->
   <Entry>
     <zType>TEXT_HELPTEXT_YIELD_NET_RATE</zType>
-    <Translation>Показатель {0,1_yield}: {1}</Translation>
+    <Translation>{0,0_yield}: {1}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_YIELD_NET_RESEARCHING</zType>
@@ -2035,7 +2035,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_YIELD_NET_CITY_SUBTRACT_LIST_ITEM</zType>
-    <Translation> (-{0_yield})</Translation>
+    <Translation> (-{0,3_yield})</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_YIELD_NET_TRADE_FROM</zType>
@@ -2164,7 +2164,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_CULTURE_IMPROVEMENT_COUNT</zType>
-    <Translation>{0_maxValue} {1,1_improvementClass} за {2,3_cultureLevel}</Translation>
+    <Translation><![CDATA[{0_maxValue}<singular_0>{1,0_improvementClass}<plural>{1,1_improvementClass}<plural2>{1,7_improvementClass}<end> за {2,3_cultureLevel}]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_MAX_LIST</zType>
@@ -2254,19 +2254,19 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_TYPE_STRENGTH_VS</zType>
-    <Translation>{0_value} силы против {1,1_unitTrait}</Translation>
+    <Translation>{0_value} силы против {1,2_unitTrait}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_TYPE_STRENGTH_ATTACKING_VS</zType>
-    <Translation>{0_value} силы при атаке {1,1_unitTrait}</Translation>
+    <Translation>{0_value} силы при атаке против {1,2_unitTrait}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_TYPE_STRENGTH_DEFENDING_VS</zType>
-    <Translation>{0_value} силы при защите от {1,1_unitTrait}</Translation>
+    <Translation>{0_value} силы при защите от {1,2_unitTrait}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_TYPE_STRENGTH_MELEE_VS</zType>
-    <Translation>{0_value} силы в ближнем бою с {1,4_unitTrait}</Translation>
+    <Translation>{0_value} силы в ближнем бою против {1,2_unitTrait}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_TYPE_SPREADS_RELIGION</zType>
@@ -2359,7 +2359,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_REMOVES_VEGETATION</zType>
-    <Translation>{0,3_vegetationLink} будут вырублены</Translation>
+    <Translation>Вырубит {0,3_vegetationLink}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_SAME_IMPROVEMENT</zType>
@@ -2381,7 +2381,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_DEFENSE</zType>
-    <Translation>Оборона: {0_value}</Translation>
+    <Translation>Защита: {0_value}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_MOVEMENT</zType>
@@ -2469,19 +2469,19 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_VS_UNIT_TRAIT</zType>
-    <Translation>Против {0,1_unitTrait}: {1_value}</Translation>
+    <Translation>Против {0,2_unitTrait}: {1_value}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_WHEN_ATTACKING_VS</zType>
-    <Translation>При атаке против {0,1_unitTrait}: {1_value}</Translation>
+    <Translation>При атаке против {0,2_unitTrait}: {1_value}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_WHEN_DEFENDING_VS</zType>
-    <Translation>При обороне от {0,1_unitTrait}: {1_value}</Translation>
+    <Translation>При защите от {0,2_unitTrait}: {1_value}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_IN_MELEE_VS</zType>
-    <Translation>Ближний бой против {0,1_unitTrait}: {1_value}</Translation>
+    <Translation>Ближний бой против {0,2_unitTrait}: {1_value}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_INVISIBLE_IN</zType>
@@ -2506,7 +2506,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_HEAL</zType>
-    <Translation>{0_value} HP/год {1,2_idle} юнитам</Translation>
+    <Translation>{0_value} HP/год {1,8_idle} юнитам</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_RANGE</zType>
@@ -2530,15 +2530,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_RURAL_SPECIALIST_TRAIN_TIME</zType>
-    <Translation>{0_value} к скорости обучения {1,1_specialist}</Translation>
+    <Translation>{0_value} к времени обучения {1,1_specialist}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_URBAN_SPECIALIST_COST</zType>
-    <Translation>{0_value} - стоимость специалиста {1_specialist}</Translation>
+    <Translation>{0_value} - стоимость {1,1_specialist}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_URBAN_SPECIALIST_TRAIN_TIME</zType>
-    <Translation>{0_value} к скорости обучения {1,1_specialist}</Translation>
+    <Translation>{0_value} времени обучения {1,1_specialist}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_DISCIPLE_TRAIN_TIME</zType>
@@ -2610,19 +2610,19 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_TRAIT_XP</zType>
-    <Translation>{0_value} XP за новых юнитов {1_unitTrait}</Translation>
+    <Translation>{0_value} XP за новых {1,2_unitTrait}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_TRAIT_LEVEL</zType>
-    <Translation><![CDATA[{0_value} <singular_0>Уровень<plural>Уровня<plural2>Уровней<end> новым {1,2_unitTrait}]]></Translation>
+    <Translation><![CDATA[{0_value} <singular_0>Уровень<plural>Уровня<plural2>Уровней<end> новым {1,3_unitTrait}]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_TRAIT_COST_MODIFIER</zType>
-    <Translation>{0_value} стоимости юнитам {1_unitTrait}</Translation>
+    <Translation>{0_value} стоимости {1,2_unitTrait}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_TRAIT_TRAIN_MODIFIER</zType>
-    <Translation>{0_value} времени обучения юнитам {1_unitTrait}</Translation>
+    <Translation>{0_value} времени обучения {1,2_unitTrait}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_IMPROVEMENT_UPGRADE_TURNS</zType>
@@ -2658,7 +2658,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_TRAIT_FREE_PROMOTIONS</zType>
-    <Translation>Новые юниты {0_unitTrait} начинают с {1,4_promotion}</Translation>
+    <Translation>Новые {0,1_unitTrait} начинают с {1,4_promotion}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_FREE_UNIT_EFFECT_CITY</zType>
@@ -2760,7 +2760,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_HEALS_UNIT</zType>
-    <Translation>Излечивает {0_value} HP {1_idle} юнитам</Translation>
+    <Translation>Излечивает {0_value} HP {1,8_idle} юнитам</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_LEGITIMACY</zType>
@@ -2768,11 +2768,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_UNIT_TRAIT_HEALS_UNIT</zType>
-    <Translation>Излечивает {0_value} HP {1_idle} юнитам {2_traitList} </Translation>
+    <Translation>Излечивает {0_value} HP {1,8_idle} {2,3_traitList} </Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_UNIT_TRAIT_XP</zType>
-    <Translation>{0_value} XP/год за {1_idle} юнитов {2_traitList}</Translation>
+    <Translation>{0_value} XP/год за {1,9_idle} {2,4_traitList}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_ENABLES</zType>
@@ -2833,7 +2833,7 @@
   <!--City Connected Help-->
   <Entry>
     <zType>TEXT_HELPTEXT_CITY_CONNECTED</zType>
-    <Translation><![CDATA[Город соединен со {0,4_capital}.<br>Эффекты от соединения:]]></Translation>
+    <Translation><![CDATA[Город связан дорогой со {0,4_capital}.<br>Эффекты:]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CITY_CONNECTED_HOTKEY</zType>
@@ -2899,7 +2899,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_IDLE_UNIT_XP</zType>
-    <Translation>{0_value} XP/год за {1_idle} юниты</Translation>
+    <Translation>{0_value} XP/год за {1,9_idle} юниты</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_XP_COMBAT_MODIFIER</zType>
@@ -2927,7 +2927,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_TRAINING_MODIFIER</zType>
-    <Translation>Стоимость {1_trainingIcon} за {2_yield}: {0_value}</Translation>
+    <Translation>Стоимость {1_trainingIcon} за {2,3_yield}: {0_value}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_BUILD_TURN_CHANGE</zType>
@@ -3116,7 +3116,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_CLASS_OPINION_NOT_CONNECTED</zType>
-    <Translation>Города не соединены: {0_value}</Translation>
+    <Translation>Города не связаны дорогой: {0_value}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_CLASS_OPINION_DAMAGED_CITIES</zType>
@@ -3190,35 +3190,35 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_ATTACK_PREVIEW_UNIT_TRAIT_BONUS</zType>
-    <Translation>{0_bonusReason} (как {1_unitTrait}):</Translation>
+    <Translation>{0_bonusReason} (из-за {1,2_unitTrait}):</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_ATTACK_PREVIEW_ENEMY_UNIT_TRAIT_BONUS</zType>
-    <Translation>:{0_bonusReason} (как юнит {1_unitTrait})</Translation>
+    <Translation>:{0_bonusReason} (из-за {1,2_unitTrait})</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_ATTACK_PREVIEW_UNIT_TRAIT_BONUS_ATTACKING_VERSUS</zType>
-    <Translation>В атаке против юнитов {0_unitTrait}:</Translation>
+    <Translation>В атаке против {0,2_unitTrait}:</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_ATTACK_PREVIEW_ENEMY_UNIT_TRAIT_BONUS_DEFENDING_VERSUS</zType>
-    <Translation>:в обороне против юнитов {0_unitTrait}</Translation>
+    <Translation>:при защите от {0,2_unitTrait}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_ATTACK_PREVIEW_UNIT_TRAIT_BONUS_MELEE_VERSUS</zType>
-    <Translation>Ближний бой против юнитов {0_unitTrait}:</Translation>
+    <Translation>Ближний бой против {0,2_unitTrait}:</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_ATTACK_PREVIEW_ENEMY_UNIT_TRAIT_BONUS_MELEE_VERSUS</zType>
-    <Translation>:Ближний бой против юнитов {0_unitTrait}</Translation>
+    <Translation>:Ближний бой против {0,2_unitTrait}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_ATTACK_PREVIEW_UNIT_TRAIT_BONUS_VERSUS</zType>
-    <Translation>против юнитов {0_unitTrait}:</Translation>
+    <Translation>против {0,2_unitTrait}:</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_ATTACK_PREVIEW_ENEMY_UNIT_TRAIT_BONUS_VERSUS</zType>
-    <Translation>:против юнитов {0_unitTrait}</Translation>
+    <Translation>:против {0,2_unitTrait}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_ATTACK_PREVIEW_ENEMY_UNIT_TRAIT_BONUS_OWN_TERRITORY</zType>
@@ -3828,7 +3828,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_CITIES_NOT_CONNECTED</zType>
-    <Translation>{0_value}: города не соединены</Translation>
+    <Translation>{0_value}: города не связаны дорогой</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_CITIES_DAMAGED</zType>
@@ -4183,7 +4183,7 @@
   <!--Tooltips-->
   <Entry>
     <zType>TEXT_HELPTEXT_TOOLTIP_EXPAND_TOOLTIP</zType>
-    <Translation><![CDATA[Расширить подсказки: <true_0> {0_presskey}<false><end>]]></Translation>
+    <Translation><![CDATA[Развернуть подсказки: <true_0> {0_presskey}<false><end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TOOLTIP_FREEZE_TOOLTIP</zType>
