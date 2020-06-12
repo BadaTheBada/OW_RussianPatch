@@ -179,7 +179,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_44</zType>
-		<Translation>Damaged Workers take an extra turn to build improvements.</Translation>
+		<Translation>Не излеченные до конца рабочие строят здания в клетках на 1 ход дольше.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_45</zType>
