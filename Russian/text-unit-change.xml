@@ -24,7 +24,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_RELIGION_DISCIPLE</zType>
-		<Translation>{UNIT-RELIGION,1} Disciple~{UNIT-RELIGION,2} Disciple~{UNIT-RELIGION,1} Disciples</Translation>
+		<Translation>{UNIT-RELIGION,6} Апостол~{UNIT-RELIGION,7} Апостола~{UNIT-RELIGION,8} Апостолу~{UNIT-RELIGION,9} Апостола~{UNIT-RELIGION,10} Апостолом~{UNIT-RELIGION,11} Апостоле~{UNIT-RELIGION,12} Апостолы~{UNIT-RELIGION,13} Апостолов~{UNIT-RELIGION,14} Апостолам~{UNIT-RELIGION,15} Апостолов~{UNIT-RELIGION,16} Апостолами~{UNIT-RELIGION,17} Апостолах</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_MILITIA</zType>
