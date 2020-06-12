@@ -27,7 +27,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_6</zType>
-		<Translation>Запасы Trainingicon(YIELD_TRAINING) не могут накапливаться больше, чем int(MAX_TRAINING). Все излишки конвертируются в Ordersicon(YIELD_ORDERS).</Translation>
+		<Translation>Запасы очков тренировки icon(YIELD_TRAINING) не могут накапливаться больше, чем int(MAX_TRAINING). Все излишки конвертируются в приказы icon(YIELD_ORDERS).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_7</zType>
@@ -35,11 +35,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_8</zType>
-		<Translation>Не использованные Civicsicon(YIELD_CIVICS) и Trainingicon(YIELD_TRAINING) в ваших городах будут добавлены в национальный запас.</Translation>
+		<Translation>Не использованные Civicsicon(YIELD_CIVICS) и очки тренировки icon(YIELD_TRAINING) в ваших городах будут добавлены в национальный запас.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_9</zType>
-		<Translation>Если вы не хотите использовать все ваши Ordersicon(YIELD_ORDERS), вы можете завершить ход нажав клавишу '5'.</Translation>
+		<Translation>Если вы не хотите использовать все ваши приказы icon(YIELD_ORDERS), вы можете завершить ход нажав клавишу '5'.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_10</zType>
@@ -47,7 +47,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_11</zType>
-		<Translation>Если у вас нет достаточного количества материалов для создания отряда или постройки, удерживайте ALT и щелкните для автоматической покупки недостающих ресурсов (при условии, что у вас достаточно Moneyicon(YIELD_MONEY)).</Translation>
+		<Translation>Если у вас нет достаточного количества материалов для создания отряда или постройки, удерживайте ALT и щелкните для автоматической покупки недостающих ресурсов (при условии, что у вас достаточно денег icon(YIELD_MONEY)).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_12</zType>
@@ -59,15 +59,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_14</zType>
-		<Translation>Если на ваших территориях мало Woodicon(YIELD_WOOD), сосредоточтесь на создании военных отрядов, потребляющих Foodicon(YIELD_FOOD) или Ironicon(YIELD_IRON). Ограниченное количество Woodicon(YIELD_WOOD) пойдет на содержание построек в клетках.</Translation>
+		<Translation>Если на ваших территориях мало дерева icon(YIELD_WOOD), сосредоточтесь на создании военных отрядов, потребляющих еду icon(YIELD_FOOD) или железо icon(YIELD_IRON). Ограниченное количество дерева icon(YIELD_WOOD) пойдет на содержание построек в клетках.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_15</zType>
-		<Translation>Каменоломни, построенные рядом с горами, производят больше Stoneicon(YIELD_STONE) (бонус дается за каждую клетку с горами, находящейся рядом с каменоломнями). Каменоломни также получают незначительный бонус при постройке в засушливой местности.</Translation>
+		<Translation>Каменоломни, построенные рядом с горами, производят больше камня icon(YIELD_STONE) (бонус дается за каждую клетку с горами, находящейся рядом с каменоломнями). Каменоломни также получают незначительный бонус при постройке в засушливой местности.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_16</zType>
-		<Translation>Лесопилки, построенные рядом с лагерями производят больше Woodicon(YIELD_WOOD); Охотники в лагерях контролируют хищников, прокладывают тропы в лесах и т.д.</Translation>
+		<Translation>Лесопилки, построенные рядом с лагерями производят больше дерева icon(YIELD_WOOD); Охотники в лагерях контролируют хищников, прокладывают тропы в лесах и т.д.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_17</zType>
@@ -75,11 +75,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_18</zType>
-		<Translation>Исследование технологии для улучшения лесопилок займет какое-то время. Возможно, Вам придется посылать рабочих за пределами ваших границ, чтобы рубить Woodicon(YIELD_WOOD) в клетках с деревьями и кустарниками.</Translation>
+		<Translation>Исследование технологии для улучшения лесопилок займет какое-то время. Возможно, Вам придется посылать рабочих за пределами ваших границ, чтобы рубить дерево icon(YIELD_WOOD) в клетках с деревьями и кустарниками.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_19</zType>
-		<Translation>С ростом городов будет расти и потребление Foodicon(YIELD_FOOD).</Translation>
+		<Translation>С ростом городов будет расти и потребление еды icon(YIELD_FOOD).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_20</zType>
@@ -99,7 +99,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_24</zType>
-		<Translation>Увеличение количества Ordersicon(YIELD_ORDERS) должно быть у вас в приоритете. Чем больше территорий и подразделений вы контролируете, тем больше Ordersicon(YIELD_ORDERS) потребуется вашей нации для функционирования и самозащиты.</Translation>
+		<Translation>Увеличение количества приказов icon(YIELD_ORDERS) должно быть у вас в приоритете. Чем больше территорий и подразделений вы контролируете, тем больше приказов icon(YIELD_ORDERS) потребуется вашей нации для функционирования и самозащиты.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_25</zType>
@@ -119,7 +119,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_29</zType>
-		<Translation>Скорость, с которой город создает военные отряды, напрямую зависит от скорости производства Trainingicon(YIELD_TRAINING) в этом городе.</Translation>
+		<Translation>Скорость, с которой город создает военные отряды, напрямую зависит от скорости производства очков тренировки icon(YIELD_TRAINING) в этом городе.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_30</zType>
@@ -131,19 +131,19 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_32</zType>
-		<Translation>Большинство городских построек требуют Stoneicon(YIELD_STONE) для строительства. С открытием новых технологий спрос на Stoneicon(YIELD_STONE) будет возрастать.</Translation>
+		<Translation>Большинство городских построек требуют камень icon(YIELD_STONE) для строительства. С открытием новых технологий спрос на камень icon(YIELD_STONE) будет возрастать.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_33</zType>
-		<Translation>Дальнобойные отряды эффективны в бою, часто атакуя противника, не расходуя Ordersicon(YIELD_ORDERS) для передвижения.</Translation>
+		<Translation>Дальнобойные отряды эффективны в бою, часто атакуя противника, не расходуя приказы icon(YIELD_ORDERS) для передвижения.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_34</zType>
-		<Translation>При рубке Woodicon(YIELD_WOOD) с кустарников не затрачиваются Ordersicon(YIELD_ORDERS). Если вы перемещаете рабочего через клетку с кустарником в другое место, вы сможете собрать немного Woodicon(YIELD_WOOD), не расходуя Ordersicon(YIELD_ORDERS).</Translation>
+		<Translation>При рубке дерева icon(YIELD_WOOD) с кустарников не затрачиваются приказы icon(YIELD_ORDERS). Если вы перемещаете рабочего через клетку с кустарником в другое место, вы сможете собрать немного дерева icon(YIELD_WOOD), не расходуя приказы icon(YIELD_ORDERS).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_35</zType>
-		<Translation>Отряды милиции и призывников не могут быть повышены, зато для их производства нужно Growthicon(YIELD_GROWTH) вместо Trainingicon(YIELD_TRAINING). Города с высоким Growthicon(YIELD_GROWTH) могут создавать эти отряды гораздо быстрее.</Translation>
+		<Translation>Отряды милиции и призывников не могут быть повышены, зато для их производства нужен рост icon(YIELD_GROWTH) вместо очков тренировки icon(YIELD_TRAINING). Города с высоким ростом icon(YIELD_GROWTH) могут создавать эти отряды гораздо быстрее.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_36</zType>
@@ -151,7 +151,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_37</zType>
-		<Translation>Вы можете расходовать Trainingicon(YIELD_TRAINING) на повышение ваших отрядов. Единицы, которые участвовали в боевых действиях и заработали опыт, требуют меньше Trainingicon(YIELD_TRAINING) для повышения.</Translation>
+		<Translation>Вы можете расходовать очки тренировки icon(YIELD_TRAINING) на повышение ваших отрядов. Единицы, которые участвовали в боевых действиях и заработали опыт, требуют меньше очков тренировки icon(YIELD_TRAINING) для повышения.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_38</zType>
@@ -167,7 +167,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_41</zType>
-		<Translation>В начале хода разберитесь с событиями, происходящими в игре в этот ход. Некоторые из них требуют Ordersicon(YIELD_ORDERS).</Translation>
+		<Translation>В начале хода разберитесь с событиями, происходящими в игре в этот ход. Некоторые из них требуют приказы icon(YIELD_ORDERS).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_42</zType>
@@ -175,7 +175,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_43</zType>
-		<Translation>Запасы Civicsicon(YIELD_CIVICS) не могут накапливаться больше, чем int(MAX_CIVICS). Все излишки конвертируются в Scienceicon(YIELD_SCIENCE).</Translation>
+		<Translation>Запасы Civicsicon(YIELD_CIVICS) не могут накапливаться больше, чем int(MAX_CIVICS). Все излишки конвертируются в науку icon(YIELD_SCIENCE).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_44</zType>
@@ -211,7 +211,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_52</zType>
-		<Translation>Если ваш лидер не в состоянии выполнить свою амбицию до своей смерти, то эта амбиция становится наследием. Наследие тоже дает одно очко для победы через амбиции, но приносит меньше Legitimacyicon(YIELD_LEGITIMACY).</Translation>
+		<Translation>Если ваш лидер не в состоянии выполнить свою амбицию до своей смерти, то эта амбиция становится наследием. Наследие тоже дает одно очко для победы через амбиции, но приносит меньше легитимности icon(YIELD_LEGITIMACY).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_53</zType>
