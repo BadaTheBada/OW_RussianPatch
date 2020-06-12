@@ -12,11 +12,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_CIVICS</zType>
-		<Translation>Жители~Жителей~Жителям~Жителей~Жителями~Жителях</Translation>
+		<Translation>Civics</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_TRAINING</zType>
-		<Translation><![CDATA[<meta=female>Тренировка~Тренировки~Тренировке~Тренировку~Тренировкой~Тренировке]]></Translation>
+		<Translation><![CDATA[<meta=female>Квалификация~Квалификации~Квалификацие~Квалификацию~Квалификацией~Квалификации]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_CULTURE</zType>
