@@ -2,7 +2,7 @@
 Русификатор для игры Old World.
 
 # Установка и использование
-Скачайте перевод и поместите папку Russian в папку D:\User\Documents\My Games\OldWorld\Translations или аналогичную. Запустите Old World (test branch) и поменяйте язык в настройках: Options -> вкладка UI -> Languages -> Russian (User Translation) -> Save.
+Скачайте перевод и поместите папку Russian в папку D:\User\Documents\My Games\OldWorld\Test\Translations или аналогичную. Запустите Old World (test branch) и поменяйте язык в настройках: Options -> вкладка UI -> Languages -> Russian (User Translation) -> Save.
 
 # Помощь переводчикам
 Мы будем рады, если вы:
