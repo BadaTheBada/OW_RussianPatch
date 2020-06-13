@@ -1306,72 +1306,72 @@
 		<zType>TEXT_GOAL_QUEST_COLOSSUS</zType>
 		<Translation>Держать под контролем Колосс</Translation>
 	</Entry>
-	<!-- Требуется перевод -->
-	<Entry>
+	<!-- Местами могуть быть неточности, своеобразная манера повествования от первого лица -->
+<Entry>
 		<zType>TEXT_NATION_ASSYRIA_STORY</zType>
-		<Translation>      I am Ashurbanipal, king of the universe, descendants of great kings. I was the fourth in line for the succession, but my father, Esarhaddon, picked me to rule Assyria because of my bravery and intelligence while sending an older brother to rule a distant kingdom. Unrest comes from his land, and I need to show him how to be the greatest king of them all.
+		<Translation>      Я - Ашшурбанипал, царь вселенной, потомок великих царей. Я был четвертым в очереди на престолонаследие, но мой отец, Эсархаддон, выбрал меня править Ассирией из-за моей храбрости и ума, отправив старшего брата править далеким царством. Волнения приходят из его страны, и я должен показать ему, как стать величайшим королем из всех.
 
-      While my father was alive, I worked as a spymaster and studied etiquette and military training. I constructed the first systematically organized library of the Old World, containing 30,000 clay tablets. I was known for fluency in languages, especially Akkadian and Sumerian, endearing me to many old families.
+     Пока мой отец был жив, я был шпионом, изучал этикет и военную подготовку. Я построил первую систематически организованную библиотеку Старого Света, содержащую 30 000 глиняных табличек. Я был известен своим отличным владением иностранными языками, особенно аккадским и шумерским, что вызывало симпатию у многих старых семей.
 
-      I commissioned reliefs of myself hunting lions, a public event which was reserved for Assyrian royalty.
+      Я заказал себе барельефы с изображением охоты на Львов - публичное мероприятие, предназначенное для Ассирийской королевской семьи.
     </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_BABYLONIA_STORY</zType>
-		<Translation>    Son of a Mesopotamian king and husband to Amytis of Medea, and forever a worshiper of the god Marduk. In the name of my father, I elevated my city Babylon to be the jewel of the region. I am trained in military tactics, conquered kingdoms, and crushed rebellions.
+		<Translation>    Сын месопотамского царя, муж Амитиды Мидийской и вечный почитатель бога Мардука. Во имя моего отца я возвысил свой город Вавилон, превратив его в жемчужину этого края. Я обучен военной тактике, завоевывал королевства и подавлял восстания.
 
-    I built The Hanging Gardens for my wife so she can feel closer to the hills of Persia, and The Ishtar Gate to honor Marduk. I connected them both with the Processing Way and all visitors were bewildered by the beauty of my empire.
+Я построил Висячие сады для своей жены, чтобы она чувствовала себя ближе к холмам Персии, и Ворота Иштар в честь Мардука. Я соединил их Дорогой Процессий, и все посетители были ошеломлены красотой моей империи.
 
-    Under my rule, women had equal rights as men did, we created intellectuals institutes and temples, and my focus was on art, culture, science, mathematics, and craftsmanship. In a decade, I turned Babylon into a city of light.
+При моем правлении женщины имели равные права с мужчинами, мы создавали научные институты и храмы, а мое внимание было сосредоточено на искусстве, культуре, науке, математике и мастерстве. За десять лет я превратил Вавилон в город света.
 
- I am Nebuchadnezzar.</Translation>
+ Я - Навуходоносор.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_CARTHAGE_STORY</zType>
-		<Translation>    I am a Phoenecian princess who fled her home in Tyre, carrying the name Elissa. Escaping my brother Pygmalion who murdered my beloved husband Acerbas, a priest of Hercules, I arrived in North Africa.
+		<Translation>    Я финикийская принцесса, которая бежала из своего дома в Тире, названная именем Элисса. Спасаясь от моего брата Пигмалиона, который убил моего любимого мужа Ахерба, жреца Геркулеса, я прибыла в Северную Африку.
 
-     With my husband’s riches, I bargained with the Berber king Iarbus who wanted to marry me. He mockingly promised me all the land that I could cover with the skin of a dead ox. I cut the skin into the thinnest pieces and, along with my Tyrian settlers, laid out the borders of my beloved city.
+Используя богатства моего мужа, я заключила сделку с берберским королем Иарбусом, который хотел жениться на мне. Он насмешливо обещал мне всю землю, которую я мог бы покрыть шкурой мертвого быка. Я разрезала кожу на самые тонкие куски и вместе с моими тирскими поселенцами выложила границы моего любимого города.
 
-    I am ready to become Dido the Wanderer, Queen of Carthage, goddess to my people.</Translation>
+Я готова стать Дидоной-странницей, царицей Карфагена, богиней для моего народа.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_EGYPT_STORY</zType>
-		<Translation>    I am Hatshepsut, a female Pharoah, though declared myself officially male throughout my reign.
+		<Translation>    Я - Хатшепсут, женщина-фараон, хотя официально объявила себя мужчиной на протяжении всего моего правления.
 
-    I had to use my ruse to come to the throne, using my vast knowledge of religion which endeared me to my people and declared me wife of the God Amun. I am, also, of royal blood on both sides. Married to my brother Thutmose II, I bore a female heir, Neferure. After that, I could not bear more children.
+Мне пришлось прибегнуть к хитрости, чтобы взойти на трон, используя свое обширное знание религии, которое расположило ко мне мой народ и объявило меня женой бога Амона. Я тоже принадлежу к королевской крови с обеих сторон. Выйдя замуж за моего брата Тутмоса II, я родила наследницу женского пола Неферуру. После этого я больше не могла рожать детей.
 
-    Occasionally I wore a metal beard but it is a fair price to pay in order to drive my people to a better destiny.
+Иногда я носила металлическую бороду, но это справедливая цена, которую нужно заплатить, чтобы привести мой народ к лучшей судьбе.
 
-    Under my reign, Egypt created many trade networks and re-established itself as a nation of builders. My love for science and education allowed me to befriend the most talented architects who helped the Egyptian Empire spread its buildings throughout the known world.</Translation>
+При моем правлении Египет создал множество торговых сетей и вновь утвердился как нация строителей. Моя любовь к науке и образованию позволила мне подружиться с самыми талантливыми архитекторами, которые помогли Египетской империи распространить свои здания по всему известному миру.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_GREECE_STORY</zType>
-		<Translation>    I am King Philip II of Macedon, son of King Amyntas III, founder of the Unified Macedonian State.
+		<Translation>    Я - царь Македонии Филипп II, сын царя Аминты III, основателя единого македонского государства.
 
-    I received a diplomatic and military education from Epaminondas and established a federation of Greek states known as the League of Corinth. I reformed the Ancient Macedonian Army and established the Macedon Phalanx.
+Я получил дипломатическое и военное образование от Эпаминонды и основал Федерацию греческих государств, известную как Лига Коринфа. Я реформировал древнюю македонскую армию и создал македонскую фалангу.
 
-    As a teen, I may have had an older male lover, a general I lived with named Pammenes.
+Когда я был подростком, у меня, возможно, был любовник-мужчина постарше, в основном я жил с именем - Паммены.
 
-    Over the course of my life, I married seven times. One of my wives, Olympias, gave me a son, and I named him Alexander. He was born the year my horse won in the Olympic Games. Alexander is now 13.</Translation>
+За свою жизнь я женился семь раз. Одна из моих жен, Олимпиада, подарила мне сына, и я назвал его Александром. Он родился в тот год, когда моя лошадь победила на Олимпийских играх. Александру сейчас 13 лет.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_PERSIA_STORY</zType>
-		<Translation>    I am Cyrus the Great, second of my name, King of Kings, and son of King Cambyses.
+		<Translation>    Я - Кир Великий, второй по имени, Царь царей и сын царя Камбиса.
 
-    My grandfather, King Astyages, of the Medean Empire, intended to have me killed upon birth. Instead, I lived to conquer his kingdom and make it mine.
+Мой дед, Царь Астиаг из Медейской империи, намеревался убить меня сразу же после рождения. Однако я выжил, чтобы завоевать его королевство и сделать его своим.
 
-    I founded the first Persian empire. Under my rule, all civilized states are free to worship their Gods. I brought into subjection every nation without exception.
+Я основал первую Персидскую империю. Под моим правлением все цивилизованные государства вольны поклоняться своим богам. Я подчинил себе все без исключения народы.
 
-    Isaiah the Prophet refers to me as Messiah, calling me “His Anointed One.” I am the only non-Jewish figure in the Bible to be so called.</Translation>
+Пророк Исайя считает меня Мессией, называя меня "его помазанником".” Я единственная нееврейская фигура в Библии, которую так называют.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_ROME_STORY</zType>
-		<Translation>    Son of the god Mars, I was saved and raised by a she-wolf with my twin brother, Remus. Aware of his cunning ways, I kept my caution around him, and moved on to found my own tribe unwilling to share my power with him. 
+		<Translation>    Сын бога Марса, я был спасен и воспитан волчицей вместе с моим братом-близнецом Ремом. Зная о его коварстве, я был осторожен с ним, и пошел дальше, чтобы найти свое собственное племя, не желающее делиться с ним своей силой.
 
-    My humble beginnings as an unwanted outcast helped me find hardy men willing to fight alongside me. Unwilling to let us marry their daughters, we kidnapped and married them, anyway. Now, I am allied with powerful tribes.
+Мое скромное начало в качестве нежеланного изгнанника помогло мне найти выносливых мужчин, готовых сражаться рядом со мной. Они не хотели, чтобы мы женились на их дочерях, но мы все равно похитили их и обвенчали. Теперь я в союзе с могущественными племенами.
 
-    The need to recast the narrative is a must, and I will become a righteous leader blessed with divine favor. 
+Необходимо изменить порядок вещей, и я стану праведным лидером, благословленным божественной милостью.
 
-    I am Romulus, and I have founded Roma, the city destined to rule the world.</Translation>
+Я - Ромул, и я основал Рим, город, которому суждено править миром.</Translation>
 	</Entry>
 </Root>
