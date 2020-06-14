@@ -12,19 +12,19 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TERRAIN_LUSH</zType>
-		<Translation>Луга</Translation>
+		<Translation>Плодородно</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TERRAIN_TEMPERATE</zType>
-		<Translation>Равнина</Translation>
+		<Translation>Умеренно</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TERRAIN_ARID</zType>
-		<Translation>Пустыня</Translation>
+		<Translation>Засушливо</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TERRAIN_SAND</zType>
-		<Translation>Пески</Translation>
+		<Translation>Пустыня</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TERRAIN_TUNDRA</zType>
