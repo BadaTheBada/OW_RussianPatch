@@ -25,7 +25,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_5</zType>
-		<Translation>Нажмите V, чтобы увидеть вашу торговую сеть и связь городов со столицей.</Translation>
+		<Translation>Удерживайте V, чтобы увидеть вашу торговую сеть и связь городов со столицей.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_6</zType>
