@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<!-- Translated by Elena Davydova (Bada) & ... -->
 <Root>
 	<Entry>
 		<zType/>
@@ -11,295 +12,295 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DISCERNING_JUDGMENT_JUDGE_HELP</zType>
-		<Translation><![CDATA[This should help stabilize their tribe, for now]]></Translation>
+		<Translation><![CDATA[Это поможет укрепить их племя до поры, до времени]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_TRUCE_YES</zType>
-		<Translation><![CDATA[Let us end this.]]></Translation>
+		<Translation><![CDATA[Давайте с этим покончим.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_TRUCE_NO</zType>
-		<Translation><![CDATA[Not yet!]]></Translation>
+		<Translation><![CDATA[Не сейчас!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_WAR_YES</zType>
-		<Translation><![CDATA[Very well...]]></Translation>
+		<Translation><![CDATA[Что ж, хорошо...]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_WAR_NO</zType>
-		<Translation><![CDATA[Never!]]></Translation>
+		<Translation><![CDATA[Никогда!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASSASSINATION_OF_MONARCH_ACCEPT_LATER</zType>
-		<Translation><![CDATA[Very well, we will prepare a feast for their men.]]></Translation>
+		<Translation><![CDATA[Хорошо, мы приготовим пир для их людей.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASSASSINATION_OF_MONARCH_REJECT</zType>
-		<Translation><![CDATA[Reject their threats and avenge the dead <masculine_CHARACTER-2>king<feminine>queen<end>.]]></Translation>
+		<Translation><![CDATA[Игнорировать угрозы и отомстить за <masculine_CHARACTER-2>мертвого короля<feminine>мертвую королеву<end>.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASSASSINATION_OF_MONARCH_HOLE</zType>
-		<Translation><![CDATA[Throw them in the hole we dug in the courtyard.]]></Translation>
+		<Translation><![CDATA[Бросить их в дворовую яму.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASSASSINATION_OF_MONARCH_STALL_AGAIN</zType>
-		<Translation><![CDATA[Stall them while we think of other options.]]></Translation>
+		<Translation><![CDATA[Отвлечь их и подумать над другими вариантами.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASSASSINATION_OF_MONARCH_BATHS</zType>
-		<Translation><![CDATA[Ready the baths. Then lock the doors and set it all on fire.]]></Translation>
+		<Translation><![CDATA[Подготовить купальни. Затем закрыть двери и предать всё огню.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PEACE_RESPONSE_OFFER_TRIBUTE_YES</zType>
-		<Translation><![CDATA[We will offer them tribute.]]></Translation>
+		<Translation><![CDATA[Мы готовы выплачивать дань.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PEACE_RESPONSE_OFFER_TRIBUTE_NO</zType>
-		<Translation><![CDATA[This is unacceptable.]]></Translation>
+		<Translation><![CDATA[Это неприемлимо.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PEACE_RESPONSE_NO_TRIBUTE_YES</zType>
-		<Translation><![CDATA[Peace will do.]]></Translation>
+		<Translation><![CDATA[Мир, так и быть.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PEACE_RESPONSE_NO_TRIBUTE_NO</zType>
-		<Translation><![CDATA[This is not the time.]]></Translation>
+		<Translation><![CDATA[Это неподходящее время.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PEACE_RESPONSE_DEMAND_TRIBUTE_YES</zType>
-		<Translation><![CDATA[This is an acceptable agreement.]]></Translation>
+		<Translation><![CDATA[Нас устраивает это соглашение.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PEACE_RESPONSE_DEMAND_TRIBUTE_NO</zType>
-		<Translation><![CDATA[It is not enough.]]></Translation>
+		<Translation><![CDATA[Этого недостаточно.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PEACE_RESPONSE_REJECTED</zType>
-		<Translation><![CDATA[We leave {PLAYER-0} to its fate.]]></Translation>
+		<Translation><![CDATA[Мы оставим {PLAYER-0,1} на произвол судьбы.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRUCE_RESPONSE_OFFER_TRIBUTE_YES</zType>
-		<Translation><![CDATA[We accept your proposal.]]></Translation>
+		<Translation><![CDATA[Мы принимаем ваше предложение.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRUCE_RESPONSE_OFFER_TRIBUTE_NO</zType>
-		<Translation><![CDATA[That is too much for us.]]></Translation>
+		<Translation><![CDATA[Для нас это слишком много.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRUCE_RESPONSE_NO_TRIBUTE_YES</zType>
-		<Translation><![CDATA[We accept the truce.]]></Translation>
+		<Translation><![CDATA[Мы принимаем перемирие.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRUCE_RESPONSE_NO_TRIBUTE_NO</zType>
-		<Translation><![CDATA[No, the war will continue.]]></Translation>
+		<Translation><![CDATA[Нет, война продолжится.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRUCE_RESPONSE_DEMAND_TRIBUTE_YES</zType>
-		<Translation><![CDATA[We accept your proposal.]]></Translation>
+		<Translation><![CDATA[Мы принимаем ваше предложение.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRUCE_RESPONSE_DEMAND_TRIBUTE_NO</zType>
-		<Translation><![CDATA[That is not enough.]]></Translation>
+		<Translation><![CDATA[Этого недостаточно.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRUCE_RESPONSE_REJECTED</zType>
-		<Translation><![CDATA[That is very unfortunate.]]></Translation>
+		<Translation><![CDATA[Очень жаль.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_BARBARIAN_WAR_MONEY</zType>
-		<Translation><![CDATA[We will offer gold from the treasury.]]></Translation>
+		<Translation><![CDATA[Мы предложим золото из сокровищниц.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_BARBARIAN_WAR_TRIBUTE</zType>
-		<Translation><![CDATA[A tribute to {PLAYER-1} is in order.]]></Translation>
+		<Translation><![CDATA[Выплата дани {PLAYER-1,2} необходима.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_BARBARIAN_WAR_NO</zType>
-		<Translation><![CDATA[They must simply trust us.]]></Translation>
+		<Translation><![CDATA[Они должны верить нам.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_PLAYER_WAR_MONEY</zType>
-		<Translation><![CDATA[We will offer gold from the treasury.]]></Translation>
+		<Translation><![CDATA[Мы предложим золото из сокровищниц.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_PLAYER_WAR_TRIBUTE</zType>
-		<Translation><![CDATA[A tribute to {PLAYER-1} is in order.]]></Translation>
+		<Translation><![CDATA[Выплата дани {PLAYER-1,2} необходима.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_PLAYER_WAR_NO</zType>
-		<Translation><![CDATA[They must simply trust us.]]></Translation>
+		<Translation><![CDATA[Они должны верить нам.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_DECLARE_WAR_YES</zType>
-		<Translation><![CDATA[Proceed with war preparations.]]></Translation>
+		<Translation><![CDATA[Готовьтесь к войне.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_DECLARE_WAR_NO</zType>
-		<Translation><![CDATA[It is not time.]]></Translation>
+		<Translation><![CDATA[Сейчас неподходящее время.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_BREAK_PEACE_YES</zType>
-		<Translation><![CDATA[End the link(DIPLOMACY_PEACE).]]></Translation>
+		<Translation><![CDATA[Расторгнуть link(DIPLOMACY_PEACE).]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_BREAK_PEACE_NO</zType>
-		<Translation><![CDATA[It is not time.]]></Translation>
+		<Translation><![CDATA[Сейчас неподходящее время.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_END_ALLIANCE_YES</zType>
-		<Translation>We should end the link(CONCEPT_ALLIANCE_PLAYER).</Translation>
+		<Translation>Нам следует разорвать link(CONCEPT_ALLIANCE_PLAYER).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_END_ALLIANCE_NO</zType>
-		<Translation><![CDATA[It is not time.]]></Translation>
+		<Translation><![CDATA[Сейчас неподходящее время.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_CANCEL_TRADE_YES</zType>
-		<Translation><![CDATA[End all trade with {PLAYER-0}.]]></Translation>
+		<Translation><![CDATA[Прекратить всю торговлю с {PLAYER-0,1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_CANCEL_TRADE_NO</zType>
-		<Translation><![CDATA[It is not time.]]></Translation>
+		<Translation><![CDATA[Сейчас неподходящее время.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BARBARIAN_DECLARE_WAR_YES</zType>
-		<Translation><![CDATA[Proceed with war preparations.]]></Translation>
+		<Translation><![CDATA[Готовьтесь к войне.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BARBARIAN_DECLARE_WAR_NO</zType>
-		<Translation><![CDATA[It is not time.]]></Translation>
+		<Translation><![CDATA[Сейчас неподходящее время.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BARBARIAN_BREAK_PEACE_YES</zType>
-		<Translation><![CDATA[End the link(DIPLOMACY_PEACE).]]></Translation>
+		<Translation><![CDATA[Расторгнуть link(DIPLOMACY_PEACE).]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BARBARIAN_BREAK_PEACE_NO</zType>
-		<Translation><![CDATA[It is not time.]]></Translation>
+		<Translation><![CDATA[Сейчас неподходящее время.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BARBARIAN_END_ALLIANCE_YES</zType>
-		<Translation>We should end the link(CONCEPT_ALLIANCE_BARB).</Translation>
+		<Translation>Нам следует расторгнуть link(CONCEPT_ALLIANCE_BARB).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BARBARIAN_END_ALLIANCE_NO</zType>
-		<Translation><![CDATA[It is not time.]]></Translation>
+		<Translation><![CDATA[Сейчас неподходящее время.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_SLAVERY</zType>
-		<Translation><![CDATA[We will keep slaves]]></Translation>
+		<Translation><![CDATA[Мы сохраним рабство.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_FREEDOM</zType>
-		<Translation><![CDATA[Our subjects will be free]]></Translation>
+		<Translation><![CDATA[Наши подданные получат свободу.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_CENTRALIZATION</zType>
-		<Translation><![CDATA[Centralization will strengthen our power.]]></Translation>
+		<Translation><![CDATA[Централизация увеличит нашу мощь.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_VASSALAGE</zType>
-		<Translation><![CDATA[Vassalage trusts our subjects to govern.]]></Translation>
+		<Translation><![CDATA[Вассалитет доверит управление нашим подданным.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_TYRANNY</zType>
-		<Translation><![CDATA[My word is law!]]></Translation>
+		<Translation><![CDATA[Мое слово - закон!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_CONSTITUTION</zType>
-		<Translation><![CDATA[Society shall be bound by rules.]]></Translation>
+		<Translation><![CDATA[Свобода общества должна быть ограничена буквой закона.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_EPICS</zType>
-		<Translation><![CDATA[Let us share our own stories.]]></Translation>
+		<Translation><![CDATA[Давайте поделимся собственными преданиями.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_EXPLORATION</zType>
-		<Translation><![CDATA[The world has many tales to tell.]]></Translation>
+		<Translation><![CDATA[Мир может много нам рассказать.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_COLONIZATION</zType>
-		<Translation><![CDATA[The nation must grow and expand.]]></Translation>
+		<Translation><![CDATA[Мы должны расти вверх и вширь.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_SERFDOM</zType>
-		<Translation><![CDATA[Our people should work their own land.]]></Translation>
+		<Translation><![CDATA[Наши люди будут обрабатывать собственную землю.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_PROFESSIONAL_ARMY</zType>
-		<Translation><![CDATA[Lasting security is bought with gold.]]></Translation>
+		<Translation><![CDATA[Крепкая оборона покупается золотом.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_VOLUNTEERS</zType>
-		<Translation><![CDATA[None fight like a man protecting his home.]]></Translation>
+		<Translation><![CDATA[Никто не сражается так яро, как человек, защищающий свой дом.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_PHILOSOPHY</zType>
-		<Translation><![CDATA[We have much to learn about ourselves.]]></Translation>
+		<Translation><![CDATA[Нам предстоит познать о себе многое.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_ENGINEERING</zType>
-		<Translation><![CDATA[Put the mind to practical use.]]></Translation>
+		<Translation><![CDATA[Лучше использовать разум на практике.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_MONOTHEISM</zType>
-		<Translation><![CDATA[Invite pilgrims to our holy cities.]]></Translation>
+		<Translation><![CDATA[Откройте пилигримам наши священные города.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_POLYTHEISM</zType>
-		<Translation><![CDATA[Religious zeal will help us conquer.]]></Translation>
+		<Translation><![CDATA[Религиозный пыл поможет нам покорить мир.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_GUILDS</zType>
-		<Translation><![CDATA[Labor and merit lead to great works.]]></Translation>
+		<Translation><![CDATA[Усердный труд приведет нас к великим деяниям.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_ELITES</zType>
-		<Translation><![CDATA[Lineage produces the finest craftsmen.]]></Translation>
+		<Translation><![CDATA[Лучшие мастера принадлежат одному роду.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_TOLERANCE</zType>
-		<Translation><![CDATA[Even heathens may live among us in peace.]]></Translation>
+		<Translation><![CDATA[Даже безбожники могут жить среди нас в мире.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_ORTHODOXY</zType>
-		<Translation><![CDATA[One true path leads to godliness.]]></Translation>
+		<Translation><![CDATA[К благочестию ведет единственный путь.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_ISOLATIONISM</zType>
-		<Translation><![CDATA[{PLAYER-0} will be self succifient.]]></Translation>
+		<Translation><![CDATA[{PLAYER-0} получит независимость.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_TRADE_LEAGUE</zType>
-		<Translation><![CDATA[Trade with outsiders benefits everyone.]]></Translation>
+		<Translation><![CDATA[Торговля с иноземцами пойдет всем на пользу.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_ICONOGRAPHY</zType>
-		<Translation><![CDATA[Images are a language we all understand.]]></Translation>
+		<Translation><![CDATA[Картины - это я зык, который мы все понимаем.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_CALLIGRAPHY</zType>
-		<Translation><![CDATA[Writing gives power to those who wield it.]]></Translation>
+		<Translation><![CDATA[Умение писать дает влияние всем, кто его освоил.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_ASCETICISM</zType>
-		<Translation><![CDATA[Spurn the temptations of this world.]]></Translation>
+		<Translation><![CDATA[Отвергните соблазны этого мира.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_HOLY_WAR</zType>
-		<Translation><![CDATA[We must passionately defend the faithful.]]></Translation>
+		<Translation><![CDATA[Мы должны защищать истинную веру.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_DIVINE_RULE</zType>
-		<Translation><![CDATA[The people should worship me as a god.]]></Translation>
+		<Translation><![CDATA[Люди должны почитать меня как бога.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_SECULARISM</zType>
-		<Translation><![CDATA[Reason should be the basis of government.]]></Translation>
+		<Translation><![CDATA[Разум должен быть основой правления.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_COIN_DEBASEMENT</zType>
-		<Translation><![CDATA[We will mint as much money as we need.]]></Translation>
+		<Translation><![CDATA[Мы начеканим столько монет, сколько нам нужно.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_MONETARY_REFORM</zType>
