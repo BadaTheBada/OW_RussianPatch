@@ -10,7 +10,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_FORT</zType>
-		<Translation><![CDATA[<meta=female>Крепость~Крепости~Крепости~Крепость~Крепостью~Крепости~Крепости~Крепостей~Крепостям~Крепости~Крепостями~Крепостях]]></Translation>
+		<Translation><![CDATA[<meta=male>Форт~Форта~Форту~Форт~Фортом~Форте~Форты~Фортов~Фортам~Форты~Фортами~Фортах]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_FARM</zType>
@@ -26,7 +26,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_QUARRY</zType>
-		<Translation><![CDATA[<meta=male>Карьер~Карьера~Карьеру~Карьер~Карьером~Карьере~Карьеры~Карьеров~Карьерам~Карьеры~Карьерами~Карьерах]]></Translation>
+		<Translation><![CDATA[<meta=female>Каменоломня~Каменоломни~Каменоломне~Каменоломню~Каменоломней~Каменоломне~Каменоломни~Каменоломен~Каменоломням~Каменоломни~Каменоломнями~Каменоломнях]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_PASTURE</zType>
@@ -38,7 +38,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_GROVE</zType>
-		<Translation><![CDATA[<meta=female>Роща~Рощи~Роще~Рощу~Рощей~Роще~Рощи~Рощ~Рощам~Рощи~Рощами~Рощах]]></Translation>
+		<Translation><![CDATA[<meta=female>Плантация~Плантации~Плантации~Плантацию~Плантацией~Плантации~Плантиции~Плантаций~Плантациям~Плантации~Плантациями~Плантациях]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_NETS</zType>
@@ -70,7 +70,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_RANGE</zType>
-		<Translation><![CDATA[<meta=male>Полигон~Полигона~Полигону~Полигон~Полигоном~Полигоне~Полигоны~Полигонов~Полигонам~Полигоны~Полигонами~Полигонах]]></Translation>
+		<Translation><![CDATA[<meta=neuter>Стрельбище~Стрельбища~Стрельбищу~Стрельбище~Стрельбищем~Стрельбище~Стрельбища~Стрельбищ~Стрельбищам~Стрельбища~Стрельбищами~Стрельбищах]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_THEATER</zType>
