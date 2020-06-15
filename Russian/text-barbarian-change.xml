@@ -9,7 +9,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_BARBARIAN_REBELS</zType>
-    <Translation>Мятежники~Мятежников~Мятежникам~Мятежников~Мятежниками~Мятежниках</Translation>
+    <Translation>Мятежники~мятежников~мятежникам~мятежников~мятежниками~мятежниках</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_BARBARIAN_ANARCHY</zType>
@@ -17,34 +17,34 @@
   </Entry>
   <Entry>
     <zType>TEXT_BARBARIAN_RAIDERS</zType>
-    <Translation>Мародеры~Мародеров~Мародерам~Мародеров~Мародерами~Мародерах</Translation>
+    <Translation>Мародеры~мародеров~мародерам~мародеров~мародерами~мародерах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_BARBARIAN_TRIBE</zType>
-    <Translation>Варвары~Варваров~Варварам~Варваров~Варварами~Варварах</Translation>
+    <Translation>Варвары~варваров~варварам~варваров~варварами~варварах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_BARBARIAN_GAULS</zType>
-    <Translation>Галлы~Галлов~Галлам~Галлов~Галлами~Галлах</Translation>
+    <Translation>Галлы~галлов~галлам~галлов~галлами~галлах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_BARBARIAN_VANDALS</zType>
-    <Translation>Вандалы~Вандалов~Вандалам~Вандалов~Вандалами~Вандалах</Translation>
+    <Translation>Вандалы~вандалов~вандалам~вандалов~вандалами~вандалах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_BARBARIAN_DANES</zType>
-    <Translation>Датчане~Датчан~Датчанам~Датчан~Датчанами~Датчанах</Translation>
+    <Translation>Датчане~датчан~датчанам~датчан~датчанами~датчанах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_BARBARIAN_THRACIANS</zType>
-    <Translation>Фракийцы~Фракийцев~Фракийцам~Фракийцев~Фракийцами~Фракийцах</Translation>
+    <Translation>Фракийцы~фракийцев~фракийцам~фракийцев~фракийцами~фракийцах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_BARBARIAN_SCYTHIANS</zType>
-    <Translation>Скифы~Скифов~Скифам~Скифов~Скифами~Скифах</Translation>
+    <Translation>Скифы~скифов~скифам~скифов~скифами~скифах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_BARBARIAN_NUMIDIANS</zType>
-    <Translation>Нумидийцы~Нумидийцев~Нумидийцам~Нумидийцев~Нумидийцами~Нумидийцах</Translation>
+    <Translation>Нумидийцы~нумидийцев~нумидийцам~нумидийцев~нумидийцами~нумидийцах</Translation>
   </Entry>
 </Root>
