@@ -16,7 +16,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_TRAINING</zType>
-		<Translation><![CDATA[<meta=female>Квалификация~Квалификации~Квалификацие~Квалификацию~Квалификацией~Квалификации]]></Translation>
+		<Translation><![CDATA[<meta=female>Очки тренировки~Очков тренировки~Очкам тренировки~Очки тренировки~Очками тренировки~Очков тренировки]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_CULTURE</zType>
