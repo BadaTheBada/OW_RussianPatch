@@ -41,7 +41,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_BUILD_UNIT</zType>
-		<Translation>Юнит~Юнита~Юниту~Юнит~Юнитом~Юните</Translation>
+		<Translation>Отряд~Отряда~Отряду~Отряд~Отрядом~Отряде</Translation>
 	</Entry>
 	<!--InfoConcept-->
 	<Entry>
@@ -139,15 +139,15 @@
 	<!--InfoVegetation-->
 	<Entry>
 		<zType>TEXT_VEGETATION_TREES</zType>
-		<Translation>Деревья</Translation>
+		<Translation>Лес</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VEGETATION_TREES_REMOVE</zType>
-		<Translation>Вырубить деревья</Translation>
+		<Translation>Вырубить лес</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VEGETATION_TREES_CUT</zType>
-		<Translation>Деревья (вырублены)</Translation>
+		<Translation>Лес (вырублен)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VEGETATION_TREES_CUT_REMOVE</zType>
@@ -155,15 +155,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_VEGETATION_SCRUB</zType>
-		<Translation>Кусты</Translation>
+		<Translation>Кустарник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VEGETATION_SCRUB_REMOVE</zType>
-		<Translation>Вырубить кусты</Translation>
+		<Translation>Вырубить кустарник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VEGETATION_SCRUB_CUT</zType>
-		<Translation>Кусты (вырублены)</Translation>
+		<Translation>Кустарник (вырублен)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VEGETATION_SCRUB_CUT_REMOVE</zType>
@@ -575,15 +575,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_THREE_CONNECTED_CITIES</zType>
-		<Translation>Держать под контролем 3 города, связанных дорогами</Translation>
+		<Translation>Держать под контролем 3 города, связанных со столицей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_CONNECTED_CITIES</zType>
-		<Translation>Держать под контролем 6 городов, связанных дорогами</Translation>
+		<Translation>Держать под контролем 6 городов, связанных со столицей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_NINE_CONNECTED_CITIES</zType>
-		<Translation>Держать под контролем 9 городов, связанных дорогами</Translation>
+		<Translation>Держать под контролем 9 городов, связанных со столицей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TEN_POPULATION</zType>
@@ -1107,19 +1107,19 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_5_KILLS</zType>
-		<Translation>Убить 5 вражеских юнитов</Translation>
+		<Translation>Убить 5 вражеских отрядов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_10_KILLS</zType>
-		<Translation>Убить 10 вражеских юнитов</Translation>
+		<Translation>Убить 10 вражеских отрядов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_15_KILLS</zType>
-		<Translation>Убить 15 вражеских юнитов</Translation>
+		<Translation>Убить 15 вражеских отрядов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_20_KILLS</zType>
-		<Translation>Убить 20 вражеских юнитов</Translation>
+		<Translation>Убить 20 вражеских отрядов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_PROMOTIONS</zType>
@@ -1131,15 +1131,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_MAX_LEVEL_UNIT</zType>
-		<Translation>2 юнита максимального уровня (ближнего и дальнего боя)</Translation>
+		<Translation>2 отряда максимального уровня (ближнего и дальнего боя)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_MILITARY</zType>
-		<Translation>Держать под контролем 5 военных юнитов</Translation>
+		<Translation>Держать под контролем 5 военных отрядов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_RANGED</zType>
-		<Translation>Держать под контролем 5 юнитов дальнего боя</Translation>
+		<Translation>Держать под контролем 5 отрядов дальнего боя</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_MOUNTED</zType>
@@ -1147,11 +1147,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_SIEGE</zType>
-		<Translation>Держать под контролем 5 осадных юнитов</Translation>
+		<Translation>Держать под контролем 5 осадных отрядов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_RANGED_MOUNTED</zType>
-		<Translation>2 юнита дальнего боя и 2 всадника</Translation>
+		<Translation>2 отряда дальнего боя и 2 всадника</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_LONGBOWMAN_CROSSBOWMAN</zType>
@@ -1167,7 +1167,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_20_UNITS</zType>
-		<Translation>Держать под контролем 20 военных юнитов (5 катафрактов)</Translation>
+		<Translation>Держать под контролем 20 военных отрядов (5 катафрактов)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_HIGHEST_MILITARY</zType>
