@@ -15,7 +15,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CITY_SITE</zType>
-		<Translation><![CDATA[<meta=neuter>Место города~Места города~Месту города~Место города~Местом города~Месте города]]></Translation>
+		<Translation><![CDATA[<meta=neuter>Городище~Городища~Городищу~Городище~Городищем~Городище]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_RUINS_1</zType>
@@ -51,7 +51,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_FORT</zType>
-		<Translation><![CDATA[<meta=female>Крепость~Крепости~Крепости~Крепость~Крепостью~Крепости~Крепости~Крепостей~Крепостям~Крепости~Крепостями~Крепостях]]></Translation>
+		<Translation><![CDATA[<meta=male>Форт~Форта~Форту~Форт~Фортом~Форте~Форты~Фортов~Фортам~Форты~Фортами~Фортах]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_FARM</zType>
@@ -67,7 +67,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_QUARRY</zType>
-		<Translation><![CDATA[<meta=male>Карьер~Карьера~Карьеру~Карьер~Карьером~Карьере~Карьеры~Карьеров~Карьерам~Карьеры~Карьерами~Карьерах]]></Translation>
+		<Translation><![CDATA[<meta=female>Каменоломня~Каменоломни~Каменоломню~Каменоломню~Каменоломней~Каменоломне~Каменломни~Каменоломен~Каменоломням~Каменоломни~Каменоломнями~Каменоломнях]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_PASTURE</zType>
@@ -79,7 +79,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GROVE</zType>
-		<Translation><![CDATA[<meta=female>Роща~Рощи~Роще~Рощу~Рощей~Роще~Рощи~Рощ~Рощам~Рощи~Рощами~Рощах]]></Translation>
+		<Translation><![CDATA[<meta=female>Плантация~Плантации~Плантации~Плантацию~Плантацией~Плантации~Плантиции~Плантаций~Плантациям~Плантации~Плантациями~Плантациях]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_NETS</zType>
@@ -123,7 +123,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GARRISON_2</zType>
-		<Translation><![CDATA[<meta=neuter>Укрепление~Укрепления~Укреплению~Укрепления~Укреплением~Укреплении]]></Translation>
+		<Translation><![CDATA[<meta=female>Крепость~Крепости~Крепости~Крепость~Крепостью~Крепости]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GARRISON_3</zType>
@@ -139,7 +139,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_RANGE</zType>
-		<Translation><![CDATA[<meta=male>Полигон~Полигона~Полигону~Полигон~Полигоном~Полигоне]]></Translation>
+		<Translation><![CDATA[<meta=neuter>Стрельбище~Стрельбища~Стрельбищу~Стрельбище~Стрельбищем~Стрельбище]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_THEATER_1</zType>
@@ -199,7 +199,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_COURTHOUSE_3</zType>
-		<Translation><![CDATA[<meta=female>Резиденция~Резиденции~Резиденции~Резиденцию~Резиденцией~Резиденции]]></Translation>
+		<Translation><![CDATA[<meta=male>Дворец~Дворца~Дворцу~Дворец~Дворцом~Дворце]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_NINURTA</zType>
