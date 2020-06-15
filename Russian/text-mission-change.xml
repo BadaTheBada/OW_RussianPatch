@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Andy Auseon (Mohawk Games) -->
+<!--Translated by AlexRjg-->
+<!--Editing & Proofreading by Elena Davydova (Bada)-->
 <Root>
 	<!--Name-->
 	<Entry>
@@ -8,15 +10,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_AMBASSADOR</zType>
-		<Translation>Сделать послом</Translation>
+		<Translation>Назначить послом</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CHANCELLOR</zType>
-		<Translation>Сделать канцлером</Translation>
+		<Translation>Назначить канцлером</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_SPYMASTER</zType>
-		<Translation>Сделать шпионом</Translation>
+		<Translation>Назначить шпионом</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TEAM_ALLIANCE</zType>
@@ -60,19 +62,19 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_END_ALLIANCE</zType>
-		<Translation>Прекратить союз</Translation>
+		<Translation>Расторгнуть союз</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_END_ALLIANCE_PLUS</zType>
-		<Translation>Прекратить союз с</Translation>
+		<Translation>Расторгнуть союз с</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_CANCEL_TRADE</zType>
-		<Translation>Отменить всю торговлю</Translation>
+		<Translation>Прекратить всю торговлю</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_CANCEL_TRADE_PLUS</zType>
-		<Translation>Отменить всю торговлю с</Translation>
+		<Translation>Прекратить всю торговлю с</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_ALLIANCE</zType>
@@ -116,11 +118,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_END_ALLIANCE</zType>
-		<Translation>Разорвать союз</Translation>
+		<Translation>Расторгнуть союз</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_END_ALLIANCE_PLUS</zType>
-		<Translation>Разорвать союз с</Translation>
+		<Translation>Расторгнуть союз с</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ADOPT_RELIGION</zType>
@@ -148,11 +150,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ADOPT_PLUS</zType>
-		<Translation>Adopt by</Translation>
+		<Translation>Усыновить</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_LEGITIMIZE</zType>
-		<Translation>Legitimize</Translation>
+		<Translation>Узаконить</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CHOSEN_HEIR</zType>
@@ -212,7 +214,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_DIVORCE</zType>
-		<Translation>Развод с супругом (-ой)</Translation>
+		<Translation>Развестись с супругом (-ой)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_BARBARIAN_WAR</zType>
