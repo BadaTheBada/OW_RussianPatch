@@ -55,7 +55,7 @@
     <!-- other selection panels-->
     <Entry>
         <zType>TEXT_MANAGE_LUXURIES</zType>
-        <Translation>Управлять редкими ресурсами</Translation>
+        <Translation>Управление редкими ресурсами</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MANAGE_LUXURIES_DESC</zType>
