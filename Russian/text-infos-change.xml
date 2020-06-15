@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Translated by Elena Davydova (Bada)-->
+<!--Translated by Elena Davydova (Bada) & AlexRjd-->
 <Root>
 	<!-- InfoTerrain -->
 	<Entry>
@@ -12,19 +12,19 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TERRAIN_LUSH</zType>
-		<Translation>Луга</Translation>
+		<Translation>Плодородно</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TERRAIN_TEMPERATE</zType>
-		<Translation>Равнина</Translation>
+		<Translation>Умеренно</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TERRAIN_ARID</zType>
-		<Translation>Пустыня</Translation>
+		<Translation>Засушливо</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TERRAIN_SAND</zType>
-		<Translation>Пески</Translation>
+		<Translation>Пустыня</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TERRAIN_TUNDRA</zType>
@@ -33,15 +33,15 @@
 	<!--InfoBuild-->
 	<Entry>
 		<zType>TEXT_BUILD_PROJECT</zType>
-		<Translation>Проект~Проекта~Проекту~Проект~Проектом~Проекте</Translation>
+		<Translation>Проект~проекта~проекту~проект~проектом~проекте</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BUILD_SPECIALIST</zType>
-		<Translation>Специалист~Специалиста~Специалисту~Специалист~Специалистом~Специалисте</Translation>
+		<Translation>Специалист~специалиста~специалисту~специалист~специалистом~специалисте</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BUILD_UNIT</zType>
-		<Translation>Юнит~Юнита~Юниту~Юнит~Юнитом~Юните</Translation>
+		<Translation>Отряд~отряда~отряду~отряд~отрядом~отряде</Translation>
 	</Entry>
 	<!--InfoConcept-->
 	<Entry>
@@ -98,7 +98,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_IDLE</zType>
-		<Translation>Свободный~Свободного~Свободному~Свободный~Свободным~Свободном~Свободные~Свободных~Свободным~Свободные~Свободными~Свободных</Translation>
+		<Translation>Свободный~свободного~свободному~свободный~свободным~свободном~Свободные~свободных~свободным~свободные~свободными~свободных</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_IGNORES_ZOC</zType>
@@ -130,7 +130,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_URBAN</zType>
-		<Translation><![CDATA[Городской~Городского~Городскому~Городской~Городским~Городском~Городская~Городской~Городской~Городскую~Городской~Городской~Городское~Городского~Городскому~Городское~Городским~Городском~Городские~Городских~Городским~Городские~Городскими~Городских<comment this text is an adjective>]]></Translation>
+		<Translation><![CDATA[Городской~городского~городскому~городской~городским~городском~Городская~городской~городской~городскую~городской~городской~Городское~городского~городскому~городское~городским~городском~Городские~городских~городским~городские~городскими~городских]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_ZOC</zType>
@@ -139,15 +139,15 @@
 	<!--InfoVegetation-->
 	<Entry>
 		<zType>TEXT_VEGETATION_TREES</zType>
-		<Translation>Деревья</Translation>
+		<Translation>Лес</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VEGETATION_TREES_REMOVE</zType>
-		<Translation>Вырубить деревья</Translation>
+		<Translation>Вырубить лес</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VEGETATION_TREES_CUT</zType>
-		<Translation>Деревья (вырублены)</Translation>
+		<Translation>Лес (вырублен)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VEGETATION_TREES_CUT_REMOVE</zType>
@@ -155,15 +155,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_VEGETATION_SCRUB</zType>
-		<Translation>Кусты</Translation>
+		<Translation>Кустарник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VEGETATION_SCRUB_REMOVE</zType>
-		<Translation>Вырубить кусты</Translation>
+		<Translation>Вырубить кустарник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VEGETATION_SCRUB_CUT</zType>
-		<Translation>Кусты (вырублены)</Translation>
+		<Translation>Кустарник (вырублен)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VEGETATION_SCRUB_CUT_REMOVE</zType>
@@ -172,155 +172,155 @@
 	<!--InfoSpecialist-->
 	<Entry>
 		<zType>TEXT_SPECIALIST_FARMER</zType>
-		<Translation>Фермер~Фермера~Фермеру~Фермера~Фермером~Фермере</Translation>
+		<Translation>Фермер~фермера~фермеру~фермера~фермером~фермере</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_WOODCUTTER</zType>
-		<Translation>Лесоруб~Лесоруба~Лесорубу~Лесоруба~Лесорубом~Лесорубе</Translation>
+		<Translation>Лесоруб~лесоруба~лесорубу~лесоруба~лесорубом~лесорубе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_STONECUTTER</zType>
-		<Translation>Камнерез~Камнереза~Камнерезу~Камнереза~Камнерезом~Камнерезе</Translation>
+		<Translation>Камнерез~камнереза~камнерезу~камнереза~камнерезом~камнерезе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_MINER</zType>
-		<Translation>Рудокоп~Рудокопа~Рудокопу~Рудокопа~Рудокопом~Рудокопе</Translation>
+		<Translation>Рудокоп~рудокопа~рудокопу~рудокопа~рудокопом~рудокопе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_RANCHER</zType>
-		<Translation>Пастух~Пастуха~Пастуху~Пастуха~Пастухом~Пастухе </Translation>
+		<Translation>Пастух~пастуха~пастуху~пастуха~пастухом~пастухе </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_TRAPPER</zType>
-		<Translation>Охотник~Охотника~Охотнику~Охотника~Охотником~Охотнике</Translation>
+		<Translation>Охотник~охотника~охотнику~охотника~охотником~охотнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_GARDENER</zType>
-		<Translation>Садовник~Садовника~Садовнику~Садовника~Садовником~Садовнике</Translation>
+		<Translation>Садовник~садовника~садовнику~садовника~садовником~садовнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_FISHER</zType>
-		<Translation>Рыбак~Рыбака~Рыбаку~Рыбака~Рыбаком~Рыбаке</Translation>
+		<Translation>Рыбак~рыбака~рыбаку~рыбака~рыбаком~рыбаке</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_ACOLYTE_1</zType>
-		<Translation>Младший прислужник~Младшего прислужника~Младшему прислужнику~Младшего прислужника~Младшим прислужником~Младшем прислужнике</Translation>
+		<Translation>Младший прислужник~младшего прислужника~младшему прислужнику~младшего прислужника~младшим прислужником~младшем прислужнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_ACOLYTE_2</zType>
-		<Translation>Прислужник~Прислужника~Прислужнику~Прислужника~Прислужником~Прислужнике</Translation>
+		<Translation>Прислужник~прислужника~прислужнику~прислужника~прислужником~прислужнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_ACOLYTE_3</zType>
-		<Translation>Старший прислужник~Старшего прислужника~Старшему прислужнику~Старшего прислужника~Старшим прислужником~Старшем прислужнике</Translation>
+		<Translation>Старший прислужник~старшего прислужника~старшему прислужнику~старшего прислужника~старшим прислужником~старшем прислужнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_DOCTOR_1</zType>
-		<Translation>Младший целитель~Младшего целителя~Младшему целителю~Младшего целителя~Младшим целителем~Младшем целителе</Translation>
+		<Translation>Младший целитель~младшего целителя~младшему целителю~младшего целителя~младшим целителем~младшем целителе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_DOCTOR_2</zType>
-		<Translation>Целитель~Целителя~Целителю~Целителя~Целителем~Целителе</Translation>
+		<Translation>Целитель~целителя~целителю~целителя~целителем~целителе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_DOCTOR_3</zType>
-		<Translation>Старший целитель~Старшего целителя~Старшему целителю~Старшего целителя~Старшим целителем~Старшем целителе</Translation>
+		<Translation>Старший целитель~старшего целителя~старшему целителю~старшего целителя~старшим целителем~старшем целителе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_MONK_1</zType>
-		<Translation>Младший монах~Младшего монаха~Младшему монаху~Младшего монаха~Младшим монахом~Младшем монахе</Translation>
+		<Translation>Младший монах~младшего монаха~младшему монаху~младшего монаха~младшим монахом~младшем монахе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_MONK_2</zType>
-		<Translation>Монах~Монаха~Монаху~Монаха~Монахом~Монахе</Translation>
+		<Translation>Монах~монаха~монаху~монаха~монахом~монахе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_MONK_3</zType>
-		<Translation>Старший монах~Старшего монаха~Старшему монаху~Старшего монаха~Старшим монахом~Старшем монахе</Translation>
+		<Translation>Старший монах~старшего монаха~старшему монаху~старшего монаха~старшим монахом~старшем монахе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_PRIEST_1</zType>
-		<Translation>Младший священник~Младшего священника~Младшему священнику~Младшего священника~Младшим священником~Младшем священнике</Translation>
+		<Translation>Младший священник~младшего священника~младшему священнику~младшего священника~младшим священником~младшем священнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_PRIEST_2</zType>
-		<Translation>Священник~Священника~Священнику~Священника~Священником~Священнике</Translation>
+		<Translation>Священник~священника~священнику~священника~священником~священнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_PRIEST_3</zType>
-		<Translation>Старший священник~Старшего священника~Старшему священнику~Старшего священника~Старшим священником~Старшем священнике</Translation>
+		<Translation>Старший священник~старшего священника~старшему священнику~старшего священника~старшим священником~старшем священнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_BISHOP_1</zType>
-		<Translation>Младший епископ~Младшего епископа~Младшему епископу~Младшего епископа~Младшим епископом~Младшем епископе</Translation>
+		<Translation>Младший епископ~младшего епископа~младшему епископу~младшего епископа~младшим епископом~младшем епископе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_BISHOP_2</zType>
-		<Translation>Епископ~Епископа~Епископу~Епископа~Епископом~Епископе</Translation>
+		<Translation>Епископ~епископа~епископу~епископа~епископом~епископе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_BISHOP_3</zType>
-		<Translation>Старший епископ~Старшего епископа~Старшему епископу~Старшего епископа~Старшим епископом~Старшем епископе</Translation>
+		<Translation>Старший епископ~старшего епископа~старшему епископу~старшего епископа~старшим епископом~старшем епископе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_POET_1</zType>
-		<Translation>Младший поэт~Младшего поэта~Младшему поэту~Младшего поэта~Младшим поэтом~Младшем поэте</Translation>
+		<Translation>Младший поэт~младшего поэта~младшему поэту~младшего поэта~младшим поэтом~младшем поэте</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_POET_2</zType>
-		<Translation>Поэт~Поэта~Поэту~Поэта~Поэтом~Поэте</Translation>
+		<Translation>Поэт~поэта~поэту~поэта~поэтом~поэте</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_POET_3</zType>
-		<Translation>Старший поэт~Старшего поэта~Старшему поэту~Старшего поэта~Старшим поэтом~Старшем поэте</Translation>
+		<Translation>Старший поэт~старшего поэта~старшему поэту~старшего поэта~старшим поэтом~старшем поэте</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_SHOPKEEPER_1</zType>
-		<Translation>Младший торговец~Младшего торговца~Младшему торговцу~Младшего торговца~Младшим торговцем~Младшем торговце</Translation>
+		<Translation>Младший торговец~младшего торговца~младшему торговцу~младшего торговца~младшим торговцем~младшем торговце</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_SHOPKEEPER_2</zType>
-		<Translation>Торговец~Торговца~Торговцу~Торговца~Торговцем~Торговце</Translation>
+		<Translation>Торговец~торговца~торговцу~торговца~торговцем~торговце</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_SHOPKEEPER_3</zType>
-		<Translation>Старший торговец~Старшего торговца~Старшему торговцу~Старшего торговца~Старшим торговцем~Старшем торговце</Translation>
+		<Translation>Старший торговец~старшего торговца~старшему торговцу~старшего торговца~старшим торговцем~старшем торговце</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_PHILOSOPHER_1</zType>
-		<Translation>Младший философ~Младшего философа~Младшему философу~Младшего философа~Младшим философом~Младшем философе</Translation>
+		<Translation>Младший философ~младшего философа~младшему философу~младшего философа~младшим философом~младшем философе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_PHILOSOPHER_2</zType>
-		<Translation>Философ~Философа~Философу~Философа~Философом~Философе</Translation>
+		<Translation>Философ~философа~философу~философа~философом~философе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_PHILOSOPHER_3</zType>
-		<Translation> Старший философ~Старшего философа~Старшему философу~Старшего философа~Старшим философом~Старшем философе</Translation>
+		<Translation>Старший философ~старшего философа~старшему философу~старшего философа~старшим философом~старшем философе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_SCRIBE_1</zType>
-		<Translation>Младший секретарь~Младшего секретаря~Младшему секретарю~Младшего секретаря~Младшим секретарем~Младшем секретаре</Translation>
+		<Translation>Младший секретарь~младшего секретаря~младшему секретарю~младшего секретаря~младшим секретарем~младшем секретаре</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_SCRIBE_2</zType>
-		<Translation>Секретарь~Секретаря~Секретарю~Секретаря~Секретарем~Секретаре</Translation>
+		<Translation>Секретарь~секретаря~секретарю~секретаря~секретарем~секретаре</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_SCRIBE_3</zType>
-		<Translation>Старший секретарь~Старшего секретаря~Старшему секретарю~Старшего секретаря~Старшим секретарем~Старшем секретаре</Translation>
+		<Translation>Старший секретарь~старшего секретаря~старшему секретарю~старшего секретаря~старшим секретарем~старшем секретаре</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_OFFICER_1</zType>
-		<Translation>Младший офицер~Младшего офицера~Младшему офицеру~Младшего офицера~Младшим офицером~Младшем офицере</Translation>
+		<Translation>Младший офицер~младшего офицера~младшему офицеру~младшего офицера~младшим офицером~младшем офицере</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_OFFICER_2</zType>
-		<Translation>Офицер~Офицера~Офицеру~Офицера~Офицером~Офицере</Translation>
+		<Translation>Офицер~офицера~офицеру~офицера~офицером~офицере</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_OFFICER_3</zType>
-		<Translation>Старший офицер~Старшего офицера~Старшему офицеру~Старшего офицера~Старшим офицером~Старшем офицере</Translation>
+		<Translation>Старший офицер~старшего офицера~старшему офицеру~старшего офицера~старшим офицером~старшем офицере</Translation>
 	</Entry>
 	<!--InfoOpinionBarbarian-->
 	<!--Assets/GameAssets/Resources/Infos/opinionBarbarian.xml-->
@@ -575,15 +575,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_THREE_CONNECTED_CITIES</zType>
-		<Translation>Держать под контролем 3 города, связанных дорогами</Translation>
+		<Translation>Держать под контролем 3 города, связанных со столицей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_CONNECTED_CITIES</zType>
-		<Translation>Держать под контролем 6 городов, связанных дорогами</Translation>
+		<Translation>Держать под контролем 6 городов, связанных со столицей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_NINE_CONNECTED_CITIES</zType>
-		<Translation>Держать под контролем 9 городов, связанных дорогами</Translation>
+		<Translation>Держать под контролем 9 городов, связанных со столицей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TEN_POPULATION</zType>
@@ -1107,19 +1107,19 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_5_KILLS</zType>
-		<Translation>Убить 5 вражеских юнитов</Translation>
+		<Translation>Убить 5 вражеских отрядов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_10_KILLS</zType>
-		<Translation>Убить 10 вражеских юнитов</Translation>
+		<Translation>Убить 10 вражеских отрядов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_15_KILLS</zType>
-		<Translation>Убить 15 вражеских юнитов</Translation>
+		<Translation>Убить 15 вражеских отрядов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_20_KILLS</zType>
-		<Translation>Убить 20 вражеских юнитов</Translation>
+		<Translation>Убить 20 вражеских отрядов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_PROMOTIONS</zType>
@@ -1131,15 +1131,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_MAX_LEVEL_UNIT</zType>
-		<Translation>2 юнита максимального уровня (ближнего и дальнего боя)</Translation>
+		<Translation>2 отряда максимального уровня (ближнего и дальнего боя)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_MILITARY</zType>
-		<Translation>Держать под контролем 5 военных юнитов</Translation>
+		<Translation>Держать под контролем 5 военных отрядов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_RANGED</zType>
-		<Translation>Держать под контролем 5 юнитов дальнего боя</Translation>
+		<Translation>Держать под контролем 5 отрядов дальнего боя</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_MOUNTED</zType>
@@ -1147,11 +1147,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_SIEGE</zType>
-		<Translation>Держать под контролем 5 осадных юнитов</Translation>
+		<Translation>Держать под контролем 5 осадных отрядов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_RANGED_MOUNTED</zType>
-		<Translation>2 юнита дальнего боя и 2 всадника</Translation>
+		<Translation>2 отряда дальнего боя и 2 всадника</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_LONGBOWMAN_CROSSBOWMAN</zType>
@@ -1167,7 +1167,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_20_UNITS</zType>
-		<Translation>Держать под контролем 20 военных юнитов (5 катафрактов)</Translation>
+		<Translation>Держать под контролем 20 военных отрядов (5 катафрактов)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_HIGHEST_MILITARY</zType>
@@ -1306,72 +1306,72 @@
 		<zType>TEXT_GOAL_QUEST_COLOSSUS</zType>
 		<Translation>Держать под контролем Колосс</Translation>
 	</Entry>
-	<!-- Требуется перевод -->
-	<Entry>
+	<!-- Местами могуть быть неточности, своеобразная манера повествования от первого лица -->
+<Entry>
 		<zType>TEXT_NATION_ASSYRIA_STORY</zType>
-		<Translation>      I am Ashurbanipal, king of the universe, descendants of great kings. I was the fourth in line for the succession, but my father, Esarhaddon, picked me to rule Assyria because of my bravery and intelligence while sending an older brother to rule a distant kingdom. Unrest comes from his land, and I need to show him how to be the greatest king of them all.
+		<Translation>      Я - Ашшурбанапал, царь вселенной, потомок великих царей. Я был четвертым в очереди на престол, но мой отец, Асархаддон, назначил меня правителем Ассирии за храбрость и ум, отправив старшего брата царствовать в далеких землях. Из его страны приходят дурные вести, теперь я должен показать ему, как стать величайшим королем.
 
-      While my father was alive, I worked as a spymaster and studied etiquette and military training. I constructed the first systematically organized library of the Old World, containing 30,000 clay tablets. I was known for fluency in languages, especially Akkadian and Sumerian, endearing me to many old families.
+     Еще при отце я был шпионом, изучал этикет и военную подготовку. Я построил первую библиотеку Старого Света, содержащую 30 000 глиняных табличек. Я известен отличным владением иностранными языками, особенно аккадским и шумерским, что расположило ко мне многие семьи.
 
-      I commissioned reliefs of myself hunting lions, a public event which was reserved for Assyrian royalty.
+      Я поручил создать барельефы с изображением охоты на львов - мероприятия, предназначенного для ассирийской королевской семьи.
     </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_BABYLONIA_STORY</zType>
-		<Translation>    Son of a Mesopotamian king and husband to Amytis of Medea, and forever a worshiper of the god Marduk. In the name of my father, I elevated my city Babylon to be the jewel of the region. I am trained in military tactics, conquered kingdoms, and crushed rebellions.
+		<Translation>    Сын царя Месопотамии, муж Амитис Мидийской и вечный почитатель бога Мардука. Во имя отца я возвысил город Вавилон, превратив его в жемчужину этого края. Я был обучен военной тактике, завоевывал королевства и подавлял восстания.
 
-    I built The Hanging Gardens for my wife so she can feel closer to the hills of Persia, and The Ishtar Gate to honor Marduk. I connected them both with the Processing Way and all visitors were bewildered by the beauty of my empire.
+Я построил Висячие сады для жены, чтобы она чувствовала себя ближе к холмам Персии, и Ворота Иштар в честь Мардука. Я соединил их Дорогой Процессий, и все гости империи были ошеломлены ее красотой.
 
-    Under my rule, women had equal rights as men did, we created intellectuals institutes and temples, and my focus was on art, culture, science, mathematics, and craftsmanship. In a decade, I turned Babylon into a city of light.
+При моем правлении женщины были наравне с мужчинами, мы создавали научные институты и храмы, а основное внимание было сосредоточено на искусстве, культуре, науке, математике и ремесле. За десять лет я превратил Вавилон в город просвещения.
 
- I am Nebuchadnezzar.</Translation>
+ Я - Навуходоносор.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_CARTHAGE_STORY</zType>
-		<Translation>    I am a Phoenecian princess who fled her home in Tyre, carrying the name Elissa. Escaping my brother Pygmalion who murdered my beloved husband Acerbas, a priest of Hercules, I arrived in North Africa.
+		<Translation>    Я финикийская принцесса, названная именем Элисса, которая бежала из своего дома в Тире. Спасаясь от брата Пигмалиона, убившего моего любимого мужа Ахерба, жреца Геркулеса, я прибыла в Северную Африку.
 
-     With my husband’s riches, I bargained with the Berber king Iarbus who wanted to marry me. He mockingly promised me all the land that I could cover with the skin of a dead ox. I cut the skin into the thinnest pieces and, along with my Tyrian settlers, laid out the borders of my beloved city.
+Используя богатства своего мужа, я заключила сделку с берберским королем Иарбантом, который возжелал на мне жениться. Он глумливо пообещал мне всю землю, которую я могла бы покрыть бычьей шкурой. Я разделила кожу на тончайшие куски и вместе с тирскими поселенцами выложила границы моего любимого города.
 
-    I am ready to become Dido the Wanderer, Queen of Carthage, goddess to my people.</Translation>
+Я готова стать Дидоной Странницей, царицей Карфагена, богиней для своего народа.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_EGYPT_STORY</zType>
-		<Translation>    I am Hatshepsut, a female Pharoah, though declared myself officially male throughout my reign.
+		<Translation>    Я - Хатшепсут, женщина-фараон, хотя и объявила себя мужчиной на все время правления.
 
-    I had to use my ruse to come to the throne, using my vast knowledge of religion which endeared me to my people and declared me wife of the God Amun. I am, also, of royal blood on both sides. Married to my brother Thutmose II, I bore a female heir, Neferure. After that, I could not bear more children.
+Чтобы взойти на трон, я прибегла к хитрости, используя обширные знания религии. Народ признал меня и провозгласил женой бога Амона. Я принадлежу королевской крови с обеих сторон. Выйдя замуж за собственного брата Тутмоса II, я родила наследницу Нефруру, но больше не могла иметь детей.
 
-    Occasionally I wore a metal beard but it is a fair price to pay in order to drive my people to a better destiny.
+Иногда я носила металлическую бороду, но это справедливая цена за то, чтобы привести мой народ к лучшей судьбе.
 
-    Under my reign, Egypt created many trade networks and re-established itself as a nation of builders. My love for science and education allowed me to befriend the most talented architects who helped the Egyptian Empire spread its buildings throughout the known world.</Translation>
+При моем правлении Египет создал огромную торговую сеть и вновь утвердился как нация строителей. Любовь к науке и образованию позволила мне подружиться с самыми талантливыми архитекторами. Благодаря этому египетские сооружения стали известны по всему миру.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_GREECE_STORY</zType>
-		<Translation>    I am King Philip II of Macedon, son of King Amyntas III, founder of the Unified Macedonian State.
+		<Translation>    Я - царь Македонии Филипп II, сын царя Аминты III, основателя единого македонского государства.
 
-    I received a diplomatic and military education from Epaminondas and established a federation of Greek states known as the League of Corinth. I reformed the Ancient Macedonian Army and established the Macedon Phalanx.
+Эпаминонд обучил меня дипломатии и военной науке, что позволило мне объединить греческие государства и создать Коринфский союз. Я реформировал древнюю македонскую армию и создал македонскую фалангу.
 
-    As a teen, I may have had an older male lover, a general I lived with named Pammenes.
+В юности у меня был возлюбленный - генерал под именем Паммен, в чьем доме я жил.
 
-    Over the course of my life, I married seven times. One of my wives, Olympias, gave me a son, and I named him Alexander. He was born the year my horse won in the Olympic Games. Alexander is now 13.</Translation>
+За свою жизнь я был женат семь раз. Одна из моих жен, Олимпиада, подарила мне сына, имя которому Александр. Он родился в год, когда моя лошадь победила на Олимпийских играх. Александру сейчас 13 лет.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_PERSIA_STORY</zType>
-		<Translation>    I am Cyrus the Great, second of my name, King of Kings, and son of King Cambyses.
+		<Translation>    Я Кир Великий, второй своего имени, Царь царей и сын царя Камбиса.
 
-    My grandfather, King Astyages, of the Medean Empire, intended to have me killed upon birth. Instead, I lived to conquer his kingdom and make it mine.
+Мой дед, царь Мидийской империи Астиаг, намеревался убить меня сразу же после рождения. Однако я выжил, чтобы завоевать его королевство и сделать своим.
 
-    I founded the first Persian empire. Under my rule, all civilized states are free to worship their Gods. I brought into subjection every nation without exception.
+Я основал первую Персидскую империю. Под моим правлением все цивилизованные государства вольны поклоняться своим богам. Все народы без исключения повинуются мне.
 
-    Isaiah the Prophet refers to me as Messiah, calling me “His Anointed One.” I am the only non-Jewish figure in the Bible to be so called.</Translation>
+Пророк Исаия считает меня Мессией, называя "его помазанником". Таким образом, я стал единственной нееврейской фигурой Библии, которую так именуют.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_ROME_STORY</zType>
-		<Translation>    Son of the god Mars, I was saved and raised by a she-wolf with my twin brother, Remus. Aware of his cunning ways, I kept my caution around him, and moved on to found my own tribe unwilling to share my power with him. 
+		<Translation>    Сын бога Марса, я был спасен и воспитан волчицей вместе с моим братом-близнецом Ремом. Зная о его коварстве, я проявил осторожность и отправился на поиски собственного племени, не желая делиться с ним властью.
 
-    My humble beginnings as an unwanted outcast helped me find hardy men willing to fight alongside me. Unwilling to let us marry their daughters, we kidnapped and married them, anyway. Now, I am allied with powerful tribes.
+Скромное происхождение нежеланным изгнанником помогло мне найти выносливых мужчин, готовых сражаться рядом со мной. Мы похитили их дочерей и обвенчались, вопреки желанию отцов. Теперь я в союзе с могущественными племенами.
 
-    The need to recast the narrative is a must, and I will become a righteous leader blessed with divine favor. 
+Необходимо изменить укрепившийся порядок. Я стану праведным лидером, благословленным божественной милостью.
 
-    I am Romulus, and I have founded Roma, the city destined to rule the world.</Translation>
+Я - Ромул, и я основал Рим, город, которому суждено править миром.</Translation>
 	</Entry>
 </Root>
