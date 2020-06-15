@@ -196,11 +196,11 @@
     </Entry>
     <Entry>
         <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_CONNECTIONS</zType>
-        <Translation>Торговые пути [V]</Translation>
+        <Translation>Связи со столицей [V]</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_IDLEUNITS</zType>
-        <Translation>Свободные юниты [B]</Translation>
+        <Translation>Свободные отряды [B]</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_TILERES</zType>
@@ -438,7 +438,7 @@
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_TABS_SETUP_UNIQUE</zType>
-        <Translation>Уникальные юниты</Translation>
+        <Translation>Уникальные отряды</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_TABS_SETUP_FAMILIES</zType>
@@ -553,7 +553,7 @@
     </Entry>
     <Entry>
         <zType>TEXT_TAB_PANEL_DIPLOTAB_UNITS</zType>
-        <Translation>Юниты</Translation>
+        <Translation>Отряды</Translation>
     </Entry>
     <!--tolltips.xml-->
     <Entry>
@@ -667,7 +667,7 @@
     </Entry>
     <Entry>
         <zType>TEXT_OVERVIEW_MAP_UNITS</zType>
-        <Translation>Юниты</Translation>
+        <Translation>Отряды</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_OVERVIEW_MAP_RESOURCES</zType>
@@ -711,7 +711,7 @@
     <!--city-widget-->
     <Entry>
         <zType>TEXT_WIDGET_CITY_IDLE</zType>
-        <Translation>Свободный~Свободного~Свободному~Свободный~Свободным~Свободном~Свободные~Свободных~Свободным~Свободные~Свободными~Свободных</Translation>
+        <Translation>Без производства</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_WIDGET_CITY_UNKNOWN</zType>
