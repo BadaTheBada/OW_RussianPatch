@@ -67,7 +67,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_QUARRY</zType>
-		<Translation><![CDATA[<meta=female>Каменоломня~Каменоломни~Каменоломню~Каменоломню~Каменоломней~Каменоломне~Каменломни~Каменоломен~Каменоломням~Каменоломни~Каменоломнями~Каменоломнях]]></Translation>
+		<Translation><![CDATA[<meta=female>Каменоломня~Каменоломни~Каменоломне~Каменоломню~Каменоломней~Каменоломне~Каменоломни~Каменоломен~Каменоломням~Каменоломни~Каменоломнями~Каменоломнях]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_PASTURE</zType>
