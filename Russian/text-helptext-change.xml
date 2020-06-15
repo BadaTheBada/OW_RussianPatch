@@ -495,7 +495,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CAN_ACT_CONSUMES</zType>
-    <Translation>Потребляет {0,3_yield}</Translation>
+    <Translation>Содержание: {0_yield}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CAN_ACT_OTHER_TURN</zType>
@@ -2322,7 +2322,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_TYPE_CONSUMES</zType>
-    <Translation>Потребляет {0,3_list}</Translation>
+    <Translation>Содержание: {0_list}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_TYPE_NO_TRAIN_OR_PROMOTE</zType>
