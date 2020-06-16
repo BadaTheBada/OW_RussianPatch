@@ -722,6 +722,14 @@
         <zType>TEXT_POPUP_INHERITANCE_CHARACTER_ACTIONS</zType>
         <Translation>Действия</Translation>
     </Entry>
+    <Entry>
+        <zType>TEXT_CHARACTER_UPGRADE_DECISION_RATING</zType>
+        <Translation>Upgrade: +1 {0_ratingtype} ({1_startrating} to {2_endrating})</Translation>
+    </Entry>
+    <Entry>
+        <zType>TEXT_CHARACTER_UPGRADE_DECISION_TRAIT</zType>
+        <Translation>Upgrade: {0_trait}</Translation>
+    </Entry>
     <!-- tech tree-->
     <Entry>
         <zType>TEXT_TECH_TREE_OVERRIDE_CURRENT_RESEARCH</zType>
