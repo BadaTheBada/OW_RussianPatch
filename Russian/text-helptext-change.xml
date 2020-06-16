@@ -1044,7 +1044,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_MAKE_DECISION_EVENT_CHARACTER_ARCHETYPE</zType>
-    <Translation>{0_character} получет {1,3_trait}</Translation>
+    <Translation>{0_character} становится {1,,4_trait}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_MAKE_DECISION_EVENT_STORY_FUTURE_EVENTS</zType>
@@ -2606,7 +2606,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_TRAIN_MODIFIER</zType>
-    <Translation>{0_value} времени обучения за {1,7_unit}</Translation>
+    <Translation>{0_value} времени обучения {1,1_unit}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_TRAIT_XP</zType>
@@ -2963,7 +2963,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_CAN_ADD_URBAN</zType>
-    <Translation>Может добавить {0_urban} клетки</Translation>
+    <Translation>Может добавить {0_urban}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_CAN_RAISE_IMPROVEMENT</zType>
@@ -2983,7 +2983,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_MULTIPLER_WORKERS</zType>
-    <Translation>Несколько рабочих могут создавать постройки</Translation>
+    <Translation>Одной постройкой может заниматься несколько рабочих</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_CAN_BUY_TILES</zType>
@@ -3241,7 +3241,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CITY_SELECTION_GOVERNOR</zType>
-    <Translation>Губернатор</Translation>
+    <Translation>Губернатор~губернатора~губернатору~губернатора~губернатором~губернаторе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CITY_SELECTION_FAMILY_OPINION</zType>
@@ -3578,7 +3578,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_JOB_PREREQ</zType>
-    <Translation>Может служить {0,4_list}</Translation>
+    <Translation>Может служить {0,5_list}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_DEATH_CHANCE</zType>
