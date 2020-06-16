@@ -155,6 +155,10 @@
 		<Translation>Rout</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTUNIT_PANIC</zType>
+		<Translation>Panic</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTUNIT_STEALTH</zType>
 		<Translation>Stealth</Translation>
 	</Entry>
