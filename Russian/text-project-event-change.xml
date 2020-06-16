@@ -155,4 +155,8 @@
 		<zType>TEXT_PROJECT_CONFUCIANISM</zType>
 		<Translation>Конфуцианство</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SALT_PRODUCTION</zType>
+		<English>Salt Production</English>
+	</Entry>
 </Root>
