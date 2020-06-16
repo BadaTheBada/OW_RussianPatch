@@ -9,19 +9,19 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SWORD_CULT</zType>
-		<Translation>Божественный Меч</Translation>
+		<Translation>Культ меча</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SWORD_CULT_TITHE</zType>
-		<Translation>Божественный Меч Десятины</Translation>
+		<Translation>Десятина культа меча</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HOSTILE_GARRISON</zType>
-		<Translation>Вражеский Гарнизон</Translation>
+		<Translation>Вражеский гарнизон</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PUBLIC_MURAL</zType>
-		<Translation>Народная Фреска</Translation>
+		<Translation>Народная фреска</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TRIUMPH</zType>
@@ -29,7 +29,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PURPLE_DYE</zType>
-		<Translation>Пурпурная Краска</Translation>
+		<Translation>Пурпурная краска</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PROPAGANDA</zType>
@@ -37,23 +37,23 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CHILD_LABOR</zType>
-		<Translation>Детский Труд</Translation>
+		<Translation>Детский труд</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CORRUPTION_REFORM</zType>
-		<Translation>Коррупционная Реформа</Translation>
+		<Translation>Коррупционная реформа</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_ROYAL_INSCRIPTIONS</zType>
-		<Translation>Королевские Писания</Translation>
+		<Translation>Королевские писания</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_IMPERIAL_NECROPOLIS</zType>
-		<Translation>Имперский Некрополь</Translation>
+		<Translation>Императорский некрополь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FORCED_DEPORTATIONS</zType>
-		<Translation>Принудительная Депортация</Translation>
+		<Translation>Принудительная депортация</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GLADIATORS</zType>
@@ -61,7 +61,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PLAYS</zType>
-		<Translation>Драматические Пьесы</Translation>
+		<Translation>Драматические пьесы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MERCHANT_TOWN</zType>
@@ -69,7 +69,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_OUTBREAK</zType>
-		<Translation>Взрыв</Translation>
+		<Translation>Мятеж</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MIDWIFERY</zType>
@@ -77,11 +77,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_LUXURIOUS_DELIGHTS</zType>
-		<Translation>Роскошные Удовольствия</Translation>
+		<Translation>Роскошные удовольствия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_NEIGHBORS_FEAST_PERSIA</zType>
-		<Translation>Ежегодный Праздник Персидских Гостей</Translation>
+		<Translation>Ежегодный праздник персидских гостей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MISTHOPHORIA</zType>
@@ -97,7 +97,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_WAR_COUNCIL</zType>
-		<Translation>Военный Совет</Translation>
+		<Translation>Военный совет</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SEWER_SYSTEM</zType>
@@ -105,27 +105,27 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CASE_HARDENING</zType>
-		<Translation>Цементация</Translation>
+		<Translation>Цементирование</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TURPAN_WELLS</zType>
-		<Translation>Турфанские Скважины</Translation>
+		<Translation>Турфанские скважины</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_NATIONAL_HOLIDAY</zType>
-		<Translation>Национальный Праздник</Translation>
+		<Translation>Национальный праздник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SCIENTIFIC_METHOD</zType>
-		<Translation>Научный Метод</Translation>
+		<Translation>Научный метод</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PROTECTION_EDICTS</zType>
-		<Translation>Эдикты о Защите</Translation>
+		<Translation>Эдикты о защите</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HORREUM</zType>
-		<Translation>Склад Хорреум</Translation>
+		<Translation>Склад хорреум</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_AVESTA_TREASURY</zType>
@@ -133,23 +133,23 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_DISEASED_SETTLERS</zType>
-		<Translation>Больные Граждане</Translation>
+		<Translation>Больные граждане</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TERRACE_LOVE_SHRINE</zType>
-		<Translation>Храм Зиккурат Любви</Translation>
+		<Translation>Зиккурат Любви</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TERRACE_WISDOM_SHRINE</zType>
-		<Translation>Храм Зиккурата Мудрости</Translation>
+		<Translation>Зиккурат Мудрости</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TERRACE_WAR_SHRINE</zType>
-		<Translation>Военный Храм Зиккурата</Translation>
+		<Translation>Зиккурата Войны</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CONSULAR_TRIBUNES</zType>
-		<Translation>Консульская Трибуна</Translation>
+		<Translation>Консульская трибуна</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CONFUCIANISM</zType>
