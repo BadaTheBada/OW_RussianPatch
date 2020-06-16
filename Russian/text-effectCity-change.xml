@@ -8,11 +8,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_BASE</zType>
-		<Translation>Base</Translation>
+		<Translation>Базово</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CAPITAL</zType>
-		<Translation>Capital</Translation>
+		<Translation>Столица</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_SEAT</zType>
@@ -20,139 +20,139 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CONNECTED</zType>
-		<Translation>Connected</Translation>
+		<Translation>Связан со столицей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DAMAGED</zType>
-		<Translation>Damaged</Translation>
+		<Translation>Поврежденный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_HOLY_CITY</zType>
-		<Translation>Holy City</Translation>
+		<Translation>Святой город</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FRESH_WATER</zType>
-		<Translation>Fresh Water Access</Translation>
+		<Translation>Доступ к пресной воде</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CITIZEN</zType>
-		<Translation>Citizen</Translation>
+		<Translation>Житель</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_POPULATION</zType>
-		<Translation>Population</Translation>
+		<Translation>Население</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY</zType>
-		<Translation>Luxury</Translation>
+		<Translation>Редкий ресурс</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_AMBITION_CAPITAL</zType>
-		<Translation>Ambitions Completed</Translation>
+		<Translation>Амбиций завершено</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LEGACY_CAPITAL</zType>
-		<Translation>Legacies Completed</Translation>
+		<Translation>Наследий завершено</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_LANDOWNERS</zType>
-		<Translation>Landowners</Translation>
+		<Translation>Землевладельцы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_LANDOWNERS_SEAT</zType>
-		<Translation>Landowners</Translation>
+		<Translation>Землевладельцы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_CHAMPIONS</zType>
-		<Translation>Champions</Translation>
+		<Translation>Чемпионы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_CHAMPIONS_SEAT</zType>
-		<Translation>Champions</Translation>
+		<Translation>Чемпионы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_STATESMEN</zType>
-		<Translation>Statesmen</Translation>
+		<Translation>Государственники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_STATESMEN_SEAT</zType>
-		<Translation>Statesmen</Translation>
+		<Translation>Государственники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_STATESMEN_SEAT_DECREE</zType>
-		<Translation>Decree</Translation>
+		<Translation>Указ</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_PATRONS</zType>
-		<Translation>Patrons</Translation>
+		<Translation>Покровители</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_CLERICS</zType>
-		<Translation>Clerics</Translation>
+		<Translation>Церковники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_CLERICS_SEAT</zType>
-		<Translation>Clerics</Translation>
+		<Translation>Церковники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_SAGES</zType>
-		<Translation>Sages</Translation>
+		<Translation>Мудрецы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_SAGES_SEAT</zType>
-		<Translation>Sages</Translation>
+		<Translation>Мудрецы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_SAGES_SEAT_INQUIRY</zType>
-		<Translation>Inquiry</Translation>
+		<Translation>Научное изыскание</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_TRADERS</zType>
-		<Translation>Traders</Translation>
+		<Translation>Торговцы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_TRADERS_SEAT</zType>
-		<Translation>Traders</Translation>
+		<Translation>Торговцы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_ARTISANS</zType>
-		<Translation>Artisans</Translation>
+		<Translation>Ремесленники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_ARTISANS_SEAT</zType>
-		<Translation>Artisans</Translation>
+		<Translation>Ремесленники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_RIDERS</zType>
-		<Translation>Riders</Translation>
+		<Translation>Наездники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_RIDERS_SEAT</zType>
-		<Translation>Riders</Translation>
+		<Translation>Наездники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_HUNTERS</zType>
-		<Translation>Hunters</Translation>
+		<Translation>Охотники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_HUNTERS_SEAT</zType>
-		<Translation>Hunters</Translation>
+		<Translation>Охотники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_HUNTERS_SEAT_HUNT</zType>
-		<Translation>Hunt</Translation>
+		<Translation>Охота</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CULTURE_DEVELOPING</zType>
-		<Translation>Developing</Translation>
+		<Translation>Развивающийся</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CULTURE_STRONG</zType>
-		<Translation>Strong</Translation>
+		<Translation>Сильный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CULTURE_LEGENDARY</zType>
-		<Translation>Legendary</Translation>
+		<Translation>Легендарный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_ABLE</zType>
@@ -220,211 +220,211 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HAMLET</zType>
-		<Translation>Hamlet</Translation>
+		<Translation>Деревня</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_VILLAGE</zType>
-		<Translation>Village</Translation>
+		<Translation>Поселок</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_TOWN</zType>
-		<Translation>Town</Translation>
+		<Translation>Городок</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_BARRACKS</zType>
-		<Translation>Barracks</Translation>
+		<Translation>Казармы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_RANGE</zType>
-		<Translation>Range</Translation>
+		<Translation>Стрельбище</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MARKET_1</zType>
-		<Translation>Market</Translation>
+		<Translation>Рынок</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MARKET_2</zType>
-		<Translation>Grocer</Translation>
+		<Translation>Бакалея</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MARKET_3</zType>
-		<Translation>Fair</Translation>
+		<Translation>Ярмарка</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_LIBRARY_1</zType>
-		<Translation>Library</Translation>
+		<Translation>Библиотека</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_LIBRARY_2</zType>
-		<Translation>Academy</Translation>
+		<Translation>Академия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_LIBRARY_3</zType>
-		<Translation>University</Translation>
+		<Translation>Университет</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_COURTHOUSE_1</zType>
-		<Translation>Courthouse</Translation>
+		<Translation>Здание суда</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_COURTHOUSE_2</zType>
-		<Translation>Ministry</Translation>
+		<Translation>Министерство</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_COURTHOUSE_3</zType>
-		<Translation>Palace</Translation>
+		<Translation>Дворец</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GARRISON_1</zType>
-		<Translation>Garrison</Translation>
+		<Translation>Гарнизон</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GARRISON_2</zType>
-		<Translation>Stronghold</Translation>
+		<Translation>Крепость</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GARRISON_3</zType>
-		<Translation>Citadel</Translation>
+		<Translation>Цитадель</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_FIRE</zType>
-		<Translation>Shrine of Fire</Translation>
+		<Translation>Святилище огня</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_UNDERWORLD</zType>
-		<Translation>Shrine of the Underworld</Translation>
+		<Translation>Святилище подземного мира</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_HEALING</zType>
-		<Translation>Shrine of Healing</Translation>
+		<Translation>Храм исцеления</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_HUNTING</zType>
-		<Translation>Shrine of the Hunt</Translation>
+		<Translation>Святилище охоты</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zType>
-		<Translation>The Adur Burzen-Mihr</Translation>
+		<Translation>Адур Бурзен-Михр</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_JUDAISM</zType>
-		<Translation>The Temple of Solomon</Translation>
+		<Translation>Храм Соломона</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_CHRISTIANITY</zType>
-		<Translation>The Church of the Holy Sepulchre</Translation>
+		<Translation>Храм Гроба Господня</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_MANICHAEISM</zType>
-		<Translation>The Cao'an</Translation>
+		<Translation>Цаоань</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GREAT_ZIGGURAT</zType>
-		<Translation>The Great Ziggurat</Translation>
+		<Translation>Великий Зиккурат</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GREAT_ZIGGURAT_ALL</zType>
-		<Translation>The Great Ziggurat</Translation>
+		<Translation>Великий Зиккурат</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_ORACLE</zType>
-		<Translation>The Oracle</Translation>
+		<Translation>Оракул</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HANGING_GARDENS_ALL</zType>
-		<Translation>The Hanging Gardens</Translation>
+		<Translation>Висячие сады</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_NECROPOLIS</zType>
-		<Translation>The Necropolis</Translation>
+		<Translation>Некрополь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_NECROPOLIS_ALL</zType>
-		<Translation>The Necropolis</Translation>
+		<Translation>Некрополь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_ISHTAR_GATE</zType>
-		<Translation>The Ishtar Gate</Translation>
+		<Translation>Ворота Иштара</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_LIGHTHOUSE</zType>
-		<Translation>The Lighthouse</Translation>
+		<Translation>Фаросский Маяк</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_LIGHTHOUSE_COAST</zType>
-		<Translation>The Lighthouse</Translation>
+		<Translation>Фаросский Маяк</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_APADANA_STATE</zType>
-		<Translation>The Apadana</Translation>
+		<Translation>Ападана</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MAUSOLEUM_ALL</zType>
-		<Translation>The Mausoleum</Translation>
+		<Translation>Галикарнасский Мавзолей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_ACROPOLIS</zType>
-		<Translation>The Acropolis</Translation>
+		<Translation>Афинский Акрополь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_ACROPOLIS_ALL</zType>
-		<Translation>The Acropolis</Translation>
+		<Translation>Афинский Акрополь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_COLOSSUS</zType>
-		<Translation>The Colossus</Translation>
+		<Translation>Колосс</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_COLOSSUS_ALL</zType>
-		<Translation>The Colossus</Translation>
+		<Translation>Колосс</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MUSAEUM</zType>
-		<Translation>The Musaeum</Translation>
+		<Translation>Александрийская библиотека</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MUSAEUM_ALL</zType>
-		<Translation>The Musaeum</Translation>
+		<Translation>Александрийская библиотека</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_CIRCUS_MAXIMUS_ALL</zType>
-		<Translation>The Circus Maximus</Translation>
+		<Translation>Большой цирк</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_PANTHEON</zType>
-		<Translation>The Pantheon</Translation>
+		<Translation>Пантеон</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_PANTHEON_STATE</zType>
-		<Translation>The Pantheon</Translation>
+		<Translation>Пантеон</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HAGIA_SOPHIA_ALL</zType>
-		<Translation>The Hagia Sophia</Translation>
+		<Translation>Собор Святой Софии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GRAND_BAZAAR_ALL</zType>
-		<Translation>The Grand Bazaar</Translation>
+		<Translation>Гранд-Базар</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_THEATER</zType>
-		<Translation>Theaters</Translation>
+		<Translation>Театры</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MARKET</zType>
-		<Translation>Markets</Translation>
+		<Translation>Рынки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_LIBRARY</zType>
-		<Translation>Libraries</Translation>
+		<Translation>Библиотеки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_COURTHOUSE</zType>
-		<Translation>Courthouses</Translation>
+		<Translation>Здания суда</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_HOLY_SITE</zType>
-		<Translation>Holy Site</Translation>
+		<Translation>Святой город</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MONASTERY_MYTHOLOGY</zType>
