@@ -141,7 +141,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_34</zType>
-		<Translation>Вырубка дерева  icon(YIELD_WOOD) с кустарников не затрачивает приказы  icon(YIELD_ORDERS). Если вы перемещаете рабочего через клетку с кустарником в другое место, вы можете собрать немного дерева  icon(YIELD_WOOD), не расходуя приказы icon(YIELD_ORDERS).</Translation>
+		<Translation>Вырубка дерева  icon(YIELD_WOOD) с кустарников не затрачивает приказы  icon(YIELD_ORDERS). Если вы перемещаете рабочего через клетку с кустарником в другое место, вы можете собрать немного дерева  icon(YIELD_WOOD), не расходуя приказы  icon(YIELD_ORDERS).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_35</zType>
