@@ -999,7 +999,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_TREASURIES</zType>
-		<Translation>Держать под контролем 6 Сокровищниц</Translation>
+		<Translation>Держать под контролем 6 Казначейств</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_FORUMS</zType>
@@ -1019,7 +1019,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_LEGENDARY_PROJECTS</zType>
-		<Translation>Легендарные Сокровищница, Форум и Архив</Translation>
+		<Translation>Легендарные Казначейство, Форум и Архив</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_THREE_BARB_CLEARED</zType>
