@@ -301,7 +301,7 @@
     </Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SEED</zType>
-        <Translation>Шаблон</Translation>
+        <Translation>Шаблон карты</Translation>
     </Entry>
     <!-- players-->
     <Entry>
@@ -509,7 +509,7 @@
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_ADVANCED_SEED</zType>
-        <Translation>Шаблон</Translation>
+        <Translation>Шаблон карты</Translation>
     </Entry>
     <!--tab-panel.xml-->
     <!--character tab-->
