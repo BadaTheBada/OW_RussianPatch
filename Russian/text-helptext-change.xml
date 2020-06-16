@@ -1670,7 +1670,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_CLEAR_DEFENDING</zType>
-    <Translation>Защита от {0,1_unit} на {1,5_terrain}: {2_value}</Translation>
+<!--Судя по игре, здесь unitTrait. ИЛИ unit и unitTrait-->
+    <Translation>Защита от {0,2_unit} на {1,5_terrain}: {2_value}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_CULTURE_EVENT</zType>
