@@ -262,7 +262,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_FAMILY_SEAT</zType>
-    <Translation>Родовое гнездо</Translation>
+    <Translation>Оплот семьи</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_FAMILY_UNITS</zType>
@@ -342,7 +342,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_CHARACTER_TENDENCIES</zType>
-    <Translation>Обладают характером</Translation>
+    <Translation>Склонности</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_CITY_IMPROVEMENTS</zType>
@@ -370,7 +370,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_OPINION_PREFERENCES</zType>
-    <Translation>Обладают предпочтениями</Translation>
+    <Translation>Предпочтения</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_OUR_CITIES</zType>
@@ -1156,7 +1156,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_FOUND_CITY_FAMILY_SEAT</zType>
-    <Translation>Основать родовое гнездо {0_family}</Translation>
+    <Translation>Основать оплот семьи {0_family}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_FOUND_CITY</zType>
@@ -1180,7 +1180,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_SKIP_SEAT_BONUS</zType>
-    <Translation>Упущенный бонус родового гнезда: </Translation>
+    <Translation>Упущенный бонус оплота семьи: </Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_FOUND_CITY_MAX_FAMILIES</zType>
@@ -1670,8 +1670,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_CLEAR_DEFENDING</zType>
-<!--Судя по игре, здесь unitTrait. ИЛИ unit и unitTrait-->
-    <Translation>Защита от {0,2_unit} на {1,5_terrain}: {2_value}</Translation>
+    <Translation>Защита от {0,1_unit} на {1,5_terrain}: {2_value}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_CULTURE_EVENT</zType>
@@ -2414,7 +2413,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_FIGHT_FROM</zType>
-    <Translation>Из {0_tileLink}: {1_value}</Translation>
+    <Translation>Атака из {0_tileLink}: {1_value}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_VS_DAMAGED</zType>
@@ -2595,7 +2594,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_ALWAYS_CONNECTED</zType>
-    <Translation>Города всегда {0_connectedLink}</Translation>
+    <Translation>Города всегда {0_connectedLink} со столицей</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_STATE_RELIGION_IMPROVEMENTS</zType>
@@ -2834,11 +2833,11 @@
   <!--City Connected Help-->
   <Entry>
     <zType>TEXT_HELPTEXT_CITY_CONNECTED</zType>
-    <Translation><![CDATA[Город связан со {0,4_capital}.<br>Эффекты:]]></Translation>
+    <Translation><![CDATA[Город связан с {0,4_capital}.<br>Эффекты:]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CITY_CONNECTED_HOTKEY</zType>
-    <Translation>Удерживать [{0_key}], чтобы увидеть клетки, связанные со {1,4_capital}.</Translation>
+    <Translation>Удерживать [{0_key}], чтобы увидеть клетки, связанные с {1,4_capital}.</Translation>
   </Entry>
   <!--City Current Citizens Help-->
   <Entry>
@@ -3057,7 +3056,7 @@
   <!--FamilyClass Help-->
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_CLASS_CHARACTER_COMMON_TRAITS</zType>
-    <Translation>Общие признаки: </Translation>
+    <Translation>Общие черты: </Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_CLASS_OPINION_WE_GOVERN_OUR_CITIES</zType>
@@ -3959,7 +3958,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TILE_FOUND_FAMILY_SEAT_BUTTON</zType>
-    <Translation><![CDATA[Гнездо семьи {0_familyName}]]></Translation>
+    <Translation><![CDATA[Оплот семьи {0_familyName}]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TILE_FOUND_FAMILY_CITY_BUTTON</zType>
