@@ -4,7 +4,7 @@
 	<!-- InfoTerrain -->
 	<Entry>
 		<zType>TEXT_TERRAIN_WATER</zType>
-		<Translation>Вода</Translation>
+		<Translation>Вода~воды~воде~воду~водой~воде</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TERRAIN_URBAN</zType>
@@ -82,11 +82,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_GENERAL</zType>
-		<Translation>Генерал</Translation>
+		<Translation>Генерал~генерала~генералу~генерала~генералом~генерале</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_GOVERNOR</zType>
-		<Translation>Губернатор</Translation>
+		<Translation>Губернатор~губернатора~губернатору~губернатора~губернатором~губернаторе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_HARVEST_RESOURCE</zType>
@@ -94,7 +94,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_JOIN_COURT</zType>
-		<Translation>Присоединяется к двору</Translation>
+		<Translation>Пригласить к двору</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_IDLE</zType>
@@ -114,7 +114,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_RAISE_IMPROVEMENTS</zType>
-		<Translation>Возвести сооружения</Translation>
+		<Translation>Создать постройку</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_REBEL</zType>
@@ -122,7 +122,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_ROUT</zType>
-		<Translation>Громила</Translation>
+		<Translation>Разгром</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_SETTLEMENT</zType>
@@ -130,7 +130,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_URBAN</zType>
-		<Translation><![CDATA[Городской~городского~городскому~городской~городским~городском~Городская~городской~городской~городскую~городской~городской~Городское~городского~городскому~городское~городским~городском~Городские~городских~городским~городские~городскими~городских]]></Translation>
+		<Translation><![CDATA[Городские клетки~Городской~городского~городскому~городской~городским~городском~Городское~городского~городскому~городское~городским~городском~Городская~городской~городской~городскую~городской~городской~Городские~городских~городским~городские~городскими~городских]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_ZOC</zType>
