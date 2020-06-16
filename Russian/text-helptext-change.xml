@@ -189,7 +189,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_REQUIRES</zType>
-    <Translation>Требует {0_list}</Translation>
+    <Translation>Требует: {0_list}</Translation>
   </Entry>
   <!--Links-->
   <Entry>
@@ -246,7 +246,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_TUTOR_GENERIC</zType>
-    <Translation>Учитель~учителя~учителю~учителя~учителем~учителе~Учителя~учителей~учителям~учителей~учителями~учителях</Translation>
+    <Translation>Обучать</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_CITIZEN</zType>
@@ -342,7 +342,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_CHARACTER_TENDENCIES</zType>
-    <Translation>Характер</Translation>
+    <Translation>Обладают характером</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_CITY_IMPROVEMENTS</zType>
@@ -370,7 +370,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_OPINION_PREFERENCES</zType>
-    <Translation>Предпочтения</Translation>
+    <Translation>Обладают предпочтениями</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_OUR_CITIES</zType>
@@ -378,7 +378,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_RIVER</zType>
-    <Translation>Река~реки~реке~реке~реку~рекой~реке</Translation>
+    <Translation>Река~реки~реке~реку~рекой~реке</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_ROLE_SPOUSE</zType>
@@ -1216,7 +1216,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_ADD</zType>
-    <Translation>Добавить {0_link}</Translation>
+    <Translation>Добавить {0,3_link}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_RAISE</zType>
@@ -1228,7 +1228,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_ADD_REQUIRES</zType>
-    <Translation>Требует {0_list}</Translation>
+    <Translation>Требует: {0_list}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_COSTS</zType>
@@ -1288,7 +1288,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_COLONIZE_TILE_REQUIRES</zType>
-    <Translation>Требует {0_list}</Translation>
+    <Translation>Требует: {0_list}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_TRADE_ROUTE</zType>
@@ -1798,7 +1798,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_IMPROVEMENT_KEY</zType>
-    <Translation>Удерживать [{0_key}], чтобы скрыть все постройки.</Translation>
+    <Translation>Удерживать [{0_key}], чтобы не отображать постройки.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_JOIN_COURT</zType>
@@ -1858,7 +1858,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_RAISE_IMPROVEMENTS</zType>
-    <Translation>Улучшить постройку (например, link(IMPROVEMENT_THEATER_1) до link(IMPROVEMENT_THEATER_2,1)).</Translation>
+    <Translation>Улучшить постройку (например, link(IMPROVEMENT_THEATER_1,3) до link(IMPROVEMENT_THEATER_2,1)).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_REBEL</zType>
@@ -1914,7 +1914,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_SETTLEMENT</zType>
-    <Translation>Для поселения доступны клетки города и варварские лагеря</Translation>
+    <Translation>Для поселения доступны городища и варварские лагеря</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_STRENGTH</zType>
@@ -1966,7 +1966,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_UNIT_HIDE_KEY</zType>
-    <Translation>Удерживать [{0_key}], чтобы скрыть все отряды.</Translation>
+    <Translation>Удерживать [{0_key}], чтобы не отображать отряды.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_UNIT_CONSUMES</zType>
@@ -2014,7 +2014,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_VEGETATION_HOTKEY</zType>
-    <Translation>Удерживать [{0_key}], чтобы скрыть все изображения {1,1_vegetation}.</Translation>
+    <Translation>Удерживать [{0_key}], чтобы не отображать {1_vegetation}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_VICTORY</zType>
@@ -2022,7 +2022,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_ZOC</zType>
-    <Translation><![CDATA[Зона контроля захватывает соседние клетки отряда (кроме другого берега {0,1_riverLink}) и мешает вражеским отрядам двигаться от одной клетки ЗК к другой.<br>Удерживать [{1_key}], чтобы увидеть ЗК отряда.]]></Translation>
+    <Translation><![CDATA[Зона контроля охватывает соседние клетки отряда (кроме другого берега {0,1_riverLink}) и мешает вражеским отрядам двигаться от одной клетки ЗК к другой.<br>Удерживать [{1_key}], чтобы увидеть ЗК отряда.]]></Translation>
   </Entry>
   <!--Yield Net Help-->
   <Entry>
@@ -2164,7 +2164,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_CULTURE_IMPROVEMENT_COUNT</zType>
-    <Translation><![CDATA[{0_maxValue}<singular_0>{1,0_improvementClass}<plural>{1,1_improvementClass}<plural2>{1,7_improvementClass}<end> за {2,3_cultureLevel}]]></Translation>
+    <Translation><![CDATA[{0_maxValue}<singular_0> {1,0_improvementClass}<plural>{1,1_improvementClass}<plural2>{1,7_improvementClass}<end> за {2,3_cultureLevel}]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_MAX_LIST</zType>
@@ -2278,7 +2278,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_TYPE_CAN_TRADE_ROUTE</zType>
-    <Translation>Может сопровождать торговый караван</Translation>
+    <Translation>Может создать торговый маршрут</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_TYPE_CAN_ESTABLISH_THEOLOGY</zType>
@@ -2518,7 +2518,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_RANDOM_PROMOTIONS</zType>
-    <Translation><![CDATA[{0_value} <singular_0>Случайное повышение<plural>Случайных повышения<plural2>Случайных повышений<end> новым отрядам]]></Translation>
+    <Translation><![CDATA[{0_value} <singular_0>cлучайное повышение<plural>cлучайных повышения<plural2>cлучайных повышений<end> новым отрядам]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_IMPROVEMENT_COST</zType>
@@ -2558,7 +2558,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_REBEL_PROBABILITY</zType>
-    <Translation>{0_value} шанс/год появления {1,7_rebel}</Translation>
+    <Translation>{0_value} шанс/год появления {1,2_rebel}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_ADDS_LUXURY</zType>
@@ -2582,7 +2582,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_HURRY_POPULATION</zType>
-    <Translation>Можно ускорить производство за Жителей</Translation>
+    <Translation>Можно ускорить производство за жителей</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_HURRY_ORDERS</zType>
@@ -2630,7 +2630,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_NO_IMPROVEMENT_CLASS_MAX</zType>
-    <Translation>Можно бесконечно строить {0_improvementClass,2}</Translation>
+    <Translation>Можно бесконечно строить {0_improvementClass,3}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_HURRY_CIVICS</zType>
@@ -2646,7 +2646,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_HURRY_POPULATION</zType>
-    <Translation>Можно ускорить производство {0,1_build} за Жителей</Translation>
+    <Translation>Можно ускорить производство {0,1_build} за жителей</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_HURRY_ORDERS</zType>
@@ -2764,7 +2764,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_LEGITIMACY</zType>
-    <Translation>{0_value} Очки легитимности icon(YIELD_LEGITIMACY)</Translation>
+    <Translation>{0_value} Легитимность icon(YIELD_LEGITIMACY)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_UNIT_TRAIT_HEALS_UNIT</zType>
@@ -2776,15 +2776,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_ENABLES</zType>
-    <Translation>Позволяет {0_link}</Translation>
+    <Translation>Дает доступ к: {0_link}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_URBAN_BUILDING</zType>
-    <Translation>{0_urban} здание</Translation>
+    <Translation>{0,7_urban} здание</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_URBAN_BUILDING_ANYWHERE</zType>
-    <Translation> (Игнорирует требование соседства)</Translation>
+    <Translation> (игнорирует требование соседства)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_SPREADS_BORDERS</zType>
@@ -2828,7 +2828,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_BUILT_BY_RELIGIOUS_UNITS</zType>
-    <Translation>Построено религиозными отрядами</Translation>
+    <Translation>Создается представителями религии</Translation>
   </Entry>
   <!--City Connected Help-->
   <Entry>
@@ -2959,7 +2959,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_CAN_ADD_ROAD</zType>
-    <Translation>Может добавить {0_road}</Translation>
+    <Translation>Может добавить {0,3_road}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_CAN_ADD_URBAN</zType>
@@ -3015,11 +3015,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_LEGITIMACY_ORDERS</zType>
-    <Translation>Использует очки легитимности icon(YIELD_LEGITIMACY) для покупки icon(YIELD_ORDERS) приказов</Translation>
+    <Translation>Использует легитимность icon(YIELD_LEGITIMACY) для покупки icon(YIELD_ORDERS) приказов</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_UNIT_KILL_YIELD</zType>
-    <Translation>{0_yield} за убитого отряда</Translation>
+    <Translation>{0_yield} за убийство отряда</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_WAR_YIELD</zType>
@@ -4128,7 +4128,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_CANCEL_BUILD_PROMPT_TITLE</zType>
-    <Translation>Потерять {0_build} прогресс?</Translation>
+    <Translation>Потерять прогресс {0,1_build}?</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_CANCEL_IMPROVEMENT_PROMPT_TITLE</zType>
