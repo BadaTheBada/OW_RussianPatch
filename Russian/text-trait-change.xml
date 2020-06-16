@@ -160,7 +160,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DEALMAKER</zType>
-		<Translation>Переговорщик</Translation>
+		<Translation>Делец</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRACKER</zType>
@@ -188,7 +188,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BESIEGER</zType>
-		<Translation>Осаждающий</Translation>
+		<Translation>Мастер осады</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GARRISON</zType>
@@ -200,7 +200,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HECKLER</zType>
-		<Translation>Убийца генералов</Translation>
+		<Translation>Гроза генералов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STEADFAST</zType>
@@ -240,7 +240,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HORSEBANE</zType>
-		<Translation>Убийца всадников</Translation>
+		<Translation>Гроза всадников</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AGGRESSOR</zType>
@@ -304,7 +304,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PIOUS</zType>
-		<Translation>Pious</Translation>
+		<Translation>Праведный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HUMBLE</zType>
@@ -344,19 +344,19 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_TACTICS</zType>
-		<Translation>Студент-тактик</Translation>
+		<Translation>Ученик тактика</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_RHETORIC</zType>
-		<Translation>Студент-риторик</Translation>
+		<Translation>Ученик риторика</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_COMMERCE</zType>
-		<Translation>Студент-торговец</Translation>
+		<Translation>Ученик торговца</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_PHILOSOPHY</zType>
-		<Translation>Студент-философ</Translation>
+		<Translation>Ученик философа</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BLESSED</zType>
@@ -376,7 +376,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INCUBATED</zType>
-		<Translation>Вынашенный</Translation>
+		<Translation>Выношенный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POISONER</zType>
@@ -452,7 +452,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INFAMOUS</zType>
-		<Translation>Позорный</Translation>
+		<Translation>Бесславный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FAMOUS</zType>
@@ -488,35 +488,35 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DRUNK</zType>
-		<Translation>Пьяный</Translation>
+		<Translation>Пьяница</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INSANE</zType>
-		<Translation>Безумный</Translation>
+		<Translation>Безумец</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MOURNING</zType>
-		<Translation>Грязный</Translation>
+		<Translation>Скорбящий</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ARCHON</zType>
-		<Translation>Лидер</Translation>
+		<Translation>Властитель</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MYSTERIOUS_SWORD</zType>
-		<Translation>Таинственный Владелец Меча</Translation>
+		<Translation>Владелец таинственного меча</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SWORD_OF_THE_GODS</zType>
-		<Translation>Меч Богов</Translation>
+		<Translation>Владелец меча Богов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PET_FISH</zType>
-		<Translation>Владелец Рыбки</Translation>
+		<Translation>Владелец рыбки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PET_MONKEY</zType>
-		<Translation>Владелец Обезьяны</Translation>
+		<Translation>Владелец обезьяны</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MONKEY_ASSASSIN</zType>
@@ -528,7 +528,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POSSESSOR_OF_VENERATION</zType>
-		<Translation>Владелец культа</Translation>
+		<Translation>Глава культа</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STEWARD_OF_THE_CHAMBER</zType>
