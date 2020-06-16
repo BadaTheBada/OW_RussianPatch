@@ -157,6 +157,6 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SALT_PRODUCTION</zType>
-		<English>Salt Production</English>
+		<Translation>Salt Production</Translation>
 	</Entry>
 </Root>
