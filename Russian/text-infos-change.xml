@@ -1497,7 +1497,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_PORTCULLIS</zType>
-		<Translation>Подъемная решетка</Translation>
+		<Translation>Опускная решетка</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_PORTCULLIS_BONUS_AXEMAN</zType>
@@ -1750,38 +1750,38 @@
 	<!--InfoYield.Help-->
 	<Entry>
 		<zType>TEXT_YIELD_GROWTH_HELP</zType>
-		<Translation>Когда Рост {YIELD_GROWTH} полностью заполняется, город дает нового link(EFFECTCITY_CITIZEN,1). Простой путь увеличить Рост {YIELD_GROWTH} - это обучить link(SPECIALIST_FARMER,1) и построить link(IMPROVEMENTCLASS_BATHS).</Translation>
+		<Translation>Когда шкала Роста {YIELD_GROWTH} полностью заполняется, в городе появляется новый link(EFFECTCITY_CITIZEN,0). Простой путь ускорить Рост {YIELD_GROWTH} - это обучить link(SPECIALIST_FARMER,1) и построить link(IMPROVEMENTCLASS_BATHS,3).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_CIVICS_HELP</zType>
-		<Translation>Используется для обучения Специалистов и завершения Проектов. Не использованные Civics {YIELD_CIVICS} добавляются в национальный запас и расходуются на принятие законов и основание религии. Увеличивайте прирост Civics {YIELD_CIVICS}, строя link(IMPROVEMENTCLASS_COURTHOUSE,6) и link(PROJECT_FORUM_1,6).</Translation>
+		<Translation>Используется для обучения Специалистов и завершения Проектов. Неиспользованные Civics {YIELD_CIVICS} добавляются в национальный запас и расходуются на принятие законов и основание религии. Получайте больше Civics {YIELD_CIVICS}, строя link(IMPROVEMENTCLASS_COURTHOUSE,9) и link(PROJECT_FORUM_1,9).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_TRAINING_HELP</zType>
-		<Translation>Используются для обучения военных отрядов. Не использованные Очки тренировки {YIELD_TRAINING} добавляются в национальный запас и расходуются на повышение и модернизацию военных отрядов. Увеличивайте прирост Очков тренировки {YIELD_TRAINING}, строя link(IMPROVEMENTCLASS_BARRACKS,6) и link(IMPROVEMENTCLASS_RANGE,6).</Translation>
+		<Translation>Используются для обучения военных отрядов. Неиспользованные Очки тренировки {YIELD_TRAINING} добавляются в национальный запас и расходуются на повышение и модернизацию военных отрядов. Получайте больше Очков тренировки {YIELD_TRAINING}, строя link(IMPROVEMENTCLASS_BARRACKS,9) и link(IMPROVEMENTCLASS_RANGE,9).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_CULTURE_HELP</zType>
-		<Translation>Когда Культура {YIELD_CULTURE} полностью заполняется, происходит хорошее событие. Уровень городской Культуры {YIELD_CULTURE} влияет на то, какие Постройки и Чудеса можно возвести. Повышайте Культуру {YIELD_CULTURE}, строя link(IMPROVEMENTCLASS_SHRINE,6) и link(IMPROVEMENTCLASS_THEATER,6).</Translation>
+		<Translation>Когда шкала Культуры {YIELD_CULTURE} полностью заполняется, происходит хорошее событие. Уровень городской Культуры {YIELD_CULTURE} влияет на то, какие Постройки и Чудеса можно возвести. Получайте больше Культуры {YIELD_CULTURE}, строя link(IMPROVEMENTCLASS_SHRINE,9) и link(IMPROVEMENTCLASS_THEATER,9).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_DISCONTENT_HELP</zType>
-		<Translation>В городах со временем накапливается Недовольство {YIELD_DISCONTENT}. Когда Недовольство {YIELD_DISCONTENT} полностью заполняется, то его уровень повышается, это приводит к увеличению Содержания {YIELD_MAINTENANCE} и снижению Роста {YIELD_GROWTH}. Проводите link(PROJECT_FESTIVAL,6), чтобы снизить Недовольство {YIELD_DISCONTENT}.</Translation>
+		<Translation>В городах со временем накапливается Недовольство {YIELD_DISCONTENT}. Когда шкала Недовольства {YIELD_DISCONTENT} полностью заполняется, то повышается его уровень. Это приводит к увеличению Содержания {YIELD_MAINTENANCE} и снижению Роста {YIELD_GROWTH}. Проводите link(PROJECT_FESTIVAL,9), чтобы снизить Недовольство {YIELD_DISCONTENT}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_SCIENCE_HELP</zType>
-		<Translation>Используется для исследования технологий. Повышайте Науку {YIELD_SCIENCE}, строя link(PROJECT_ARCHIVE_1,6) и link(IMPROVEMENTCLASS_LIBRARY,6).</Translation>
+		<Translation>Используется для исследования технологий. Получайте больше Науки {YIELD_SCIENCE}, строя link(PROJECT_ARCHIVE_1,9) и link(IMPROVEMENTCLASS_LIBRARY,9).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_MONEY_HELP</zType>
-		<Translation>Используются для покупки других ресурсов. Увеличивайте прирост Денег {YIELD_MONEY}, строя link(IMPROVEMENTCLASS_HAMLET,6) и link(IMPROVEMENTCLASS_MARKET,6).</Translation>
+		<Translation>Используются для покупки других ресурсов. Получайте больше Денег {YIELD_MONEY}, строя link(IMPROVEMENTCLASS_HAMLET,9) и link(IMPROVEMENTCLASS_MARKET,9).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_MAINTENANCE_HELP</zType>
-		<Translation>Уменьшает количество Денег {YIELD_MONEY}, поступаемых из городов. Содержание {YIELD_MAINTENANCE} может быть уменьшено посредством соединения ваших городов со столицей.</Translation>
+		<Translation>Уменьшает количество Денег {YIELD_MONEY}, поступающих из городов. Содержание {YIELD_MAINTENANCE} может быть уменьшено посредством соединения ваших городов со столицей.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_ORDERS_HELP</zType>
-		<Translation>Приказы {YIELD_ORDERS} можно потратить на различные действия, такие как: движение, атака и создание Построек. Не использованные Приказы {YIELD_ORDERS} продаются за Деньги {YIELD_MONEY} по окончании года (завершение хода).</Translation>
+		<Translation>Приказы {YIELD_ORDERS} можно потратить на различные действия, такие как: движение, атака и создание Построек. Неиспользованные Приказы {YIELD_ORDERS} продаются за Деньги {YIELD_MONEY} в конце года (завершение хода).</Translation>
 	</Entry>
 </Root>
