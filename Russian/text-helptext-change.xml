@@ -326,7 +326,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_AMBITIONS_FINISHED</zType>
-    <Translation><![CDATA[<singular_0>Амбиция<plural>Амбиции<plural2>Амбиций<end> исполнено]]></Translation>
+    <Translation><![CDATA[<singular_0>Амбиция<plural>Амбиции<plural2>Амбиций<end> завершено]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_AMBITIONS</zType>
@@ -772,7 +772,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_CYCLE_NEXT_CITIES</zType>
-    <Translation><![CDATA[Новый город<true_0> {0_presskey}<false><end>]]></Translation>
+    <Translation><![CDATA[Следующий город<true_0> {0_presskey}<false><end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_TURN_TIMER</zType>
@@ -844,7 +844,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_VICTORY_AMBITIONS</zType>
-    <Translation>Исполненные амбиции: {0}/{1}</Translation>
+    <Translation>Завершенные амбиции: {0}/{1}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_VICTORY_GOAL_FINISHED</zType>
@@ -2935,15 +2935,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_FATIGUE_LIMIT_CHANGE</zType>
-    <Translation>{0_value} - выносливость</Translation>
+    <Translation>{0_value} выносливость</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_REVEAL_CHANGE</zType>
-    <Translation>{0_value} - дальность обзора</Translation>
+    <Translation>{0_value} дальность обзора</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_TECH_AVAILABLE_CHANGE</zType>
-    <Translation>{0_value} - количество карт технологий</Translation>
+    <Translation><![CDATA[{0_value} <singular_0>карта<plural>карты<plural2>карт<end> технологий]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_LEADER_OPINION_CHANGE</zType>
