@@ -182,7 +182,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CHOSEN_HEIR</zType>
-		<Translation>Сделать наследником</Translation>
+		<Translation>Объявить наследником</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INFILTRATE</zType>
