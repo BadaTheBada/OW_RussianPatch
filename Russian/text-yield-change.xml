@@ -8,7 +8,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_GROWTH</zType>
-		<Translation><![CDATA[<meta=male>Рост~Роста~Росту~Рост~Ростом~Росте]]></Translation>
+		<Translation>Рост~Роста~Росту~Рост~Ростом~Росте</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_CIVICS</zType>
@@ -16,19 +16,19 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_TRAINING</zType>
-		<Translation><![CDATA[<meta=female>Очки тренировки~Очков тренировки~Очкам тренировки~Очки тренировки~Очками тренировки~Очков тренировки]]></Translation>
+		<Translation>Очки тренировки~Очков тренировки~Очкам тренировки~Очки тренировки~Очками тренировки~Очков тренировки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_CULTURE</zType>
-		<Translation><![CDATA[<meta=female>Культура~Культуры~Культуре~Культуру~Культурой~Культуре]]></Translation>
+		<Translation>Культура~Культуры~Культуре~Культуру~Культурой~Культуре</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_DISCONTENT</zType>
-		<Translation><![CDATA[<meta=neuter>Недовольство~Недовольства~Недовольству~Недовольство~Недовольством~Недовольстве]]></Translation>
+		<Translation>Недовольство~Недовольства~Недовольству~Недовольство~Недовольством~Недовольстве</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_SCIENCE</zType>
-		<Translation><![CDATA[<meta=female>Наука~Науки~Науке~Науку~Наукой~Науке]]></Translation>
+		<Translation>Наука~Науки~Науке~Науку~Наукой~Науке</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_MONEY</zType>
@@ -36,7 +36,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_MAINTENANCE</zType>
-		<Translation><![CDATA[<meta=neuter>Содержание~Содержания~Содержанию~Содержание~Содержанием~Содержании]]></Translation>
+		<Translation>Содержание~Содержания~Содержанию~Содержание~Содержанием~Содержании</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_ORDERS</zType>
@@ -44,18 +44,18 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_FOOD</zType>
-		<Translation><![CDATA[<meta=female>Еда~Еды~Еде~Еду~Едой~Еде]]></Translation>
+		<Translation>Еда~Еды~Еде~Еду~Едой~Еде</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_IRON</zType>
-		<Translation><![CDATA[<meta=neuter>Железо~Железа~Железу~Железо~Железом~Железе]]></Translation>
+		<Translation>Железо~Железа~Железу~Железо~Железом~Железе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_WOOD</zType>
-		<Translation><![CDATA[<meta=neuter>Дерево~Дерева~Дереву~Дерево~Деревом~Дереве]]></Translation>
+		<Translation>Дерево~Дерева~Дереву~Дерево~Деревом~Дереве</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_STONE</zType>
-		<Translation><![CDATA[<meta=male>Камень~Камня~Камню~Камень~Камнем~Камне]]></Translation>
+		<Translation>Камень~Камня~Камню~Камень~Камнем~Камне</Translation>
 	</Entry>
 </Root>
