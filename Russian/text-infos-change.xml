@@ -1375,377 +1375,377 @@
 Я - Ромул, и я основал Рим, город, которому суждено править миром.</Translation>
 	</Entry>
 	<!--InfoTech-->
-	<Entry>
+<Entry>
 		<zType>TEXT_TECH_IRONWORKING</zType>
-		<Translation>Обработка железа</Translation>
+		<Translation>Обработка железа~Обработки железа~Обработке железа~Обработку железа~Обработкой железа~Обработке железа</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_STONECUTTING</zType>
-		<Translation>Обработка камня</Translation>
+		<Translation>Обработка камня~Обработки камня~Обработке камня~Обработку камня~Обработкой камня~Обработке камня</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_STONECUTTING_BONUS_STONE</zType>
-		<Translation>Камень</Translation>
+		<Translation>Камень~Камня~Камню~Камень~Камнем~Камне</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_TRAPPING</zType>
-		<Translation>Охота</Translation>
+		<Translation>Охота~Охоты~Охоте~Охоту~Охотой~Охоте</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_DIVINATION</zType>
-		<Translation>Прорицание</Translation>
+		<Translation>Прорицание~Прорицания~Прорицанию~Прорицание~Прорицанием~Прорицании</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_ADMINISTRATION</zType>
-		<Translation>Администрация</Translation>
+		<Translation>Администрация~Администрации~Администрации~Администрацию~Администрацией~Администрации</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_LABOR_FORCE</zType>
-		<Translation>Рабочая сила</Translation>
+		<Translation>Рабочая сила~Рабочей силы~Рабочей силе~Рабочую силу~Рабочей силой~Рабочей силе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_HUSBANDRY</zType>
-		<Translation>Животноводство</Translation>
+		<Translation>Животноводство~Животноводства~Животноводству~Животноводство~Животноводством~Животноводстве</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_HUSBANDRY_BONUS_FOOD</zType>
-		<Translation>Еда</Translation>
+		<Translation>Еда~Еды~Еде~Еду~Едой~Еде</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_DRAMA</zType>
-		<Translation>Драма</Translation>
+		<Translation>Драма~Драмы~Драме~Драму~Драмой~Драме</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_POLIS</zType>
-		<Translation>Полис</Translation>
+		<Translation>Полис~Полиса~Полису~Полис~Полисом~Полисе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_POLIS_BONUS_SETTLER</zType>
-		<Translation>Поселенец</Translation>
+		<Translation>Поселенец~Поселенца~Поселенцу~Поселенца~Поселенцем~Поселенце</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MILITARY_DRILL</zType>
-		<Translation>Муштра</Translation>
+		<Translation>Муштра~Муштры~Муштре~Муштру~Муштрой~Муштре</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_ARISTOCRACY</zType>
-		<Translation>Аристрократия</Translation>
+		<Translation>Аристрократия~Аристократии~Аристократии~Аристократию~Аристократией~Аристократии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_SOVEREIGNTY</zType>
-		<Translation>Суверенитет</Translation>
+		<Translation>Суверенитет~Суверенитета~Суверенитету~Суверенитет~Суверенитетом~Суверенитете</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_RHETORIC</zType>
-		<Translation>Риторика</Translation>
+		<Translation>Риторика~Риторики~Риторике~Риторику~Риторикой~Риторике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_NAVIGATION</zType>
-		<Translation>Навигация</Translation>
+		<Translation>Навигация~Невигации~Навигации~Навигацию~Навигацией~Навигации</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_NAVIGATION_BONUS_BIREME</zType>
-		<Translation>Бирема</Translation>
+		<Translation>Бирема~Биремы~Биреме~Бирему~Биремой~Биреме</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_PHALANX</zType>
-		<Translation>Фаланга</Translation>
+		<Translation>Фаланга~Фаланги~Фаланге~Фалангу~Фалангой~Фаланге</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_SPOKED_WHEEL</zType>
-		<Translation>Колесо со спицами</Translation>
+		<Translation>Колесо со спицами~Колеса со спицами~Колесу со спицами~Колесо со спицами~Колесом со спицами~Колесе со спицами</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_SPOKED_WHEEL_BONUS_CHARIOT</zType>
-		<Translation>Колесница</Translation>
+		<Translation>Колесница~Колесницы~Колеснице~Колесницу~Колесницей~Колеснице</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_RAMPARTS</zType>
-		<Translation>Бастионы</Translation>
+		<Translation>Бастионы~Бастионов~Бастионам~Бастионы~Бастионами~Бастионах</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_RAMPARTS_BONUS_ARCHER</zType>
-		<Translation>Лучник</Translation>
+		<Translation>Лучник~Лучника~Лучнику~Лучника~Лучником~Лучнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_FORESTRY</zType>
-		<Translation>Лесное хозяйство</Translation>
+		<Translation>Лесное хозяйство~Лесного хозяйства~Лесному хозяйству~Лесное хозяйство~Лесным хозяйством~Лесном хозяйстве</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_STEEL</zType>
-		<Translation>Сталь</Translation>
+		<Translation>Сталь~Стали~Стали~Сталь~Сталью~Стали</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MONASTICISM</zType>
-		<Translation>Монашество</Translation>
+		<Translation>Монашество~Монашества~Монашеству~Монашество~Монашеством~Монашестве</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_COMPOSITE_BOW</zType>
-		<Translation>Составной лук</Translation>
+		<Translation>Составной лук~Составного лука~Составному луку~Составной лук~Составным луком~Составном луке</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_METAPHYSICS</zType>
-		<Translation>Метафизика</Translation>
+		<Translation>Метафизика~Метафизики~Метафизике~Метафизику~Метафизикой~Метафизике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_CITIZENSHIP</zType>
-		<Translation>Гражданство</Translation>
+		<Translation>Гражданство~Гражданства~Гражданству~Гражданство~Гражданством~Гражданстве</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_CITIZENSHIP_BONUS_MINISTER</zType>
-		<Translation>Великий министр</Translation>
+		<Translation>Великий министр~Великого министра~Великому министру~Великого министра~Великим министром~Великом министре</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_PORTCULLIS</zType>
-		<Translation>Опускная решетка</Translation>
+		<Translation>Опускная решетка~Опускной решетки~Опускной решетке~Опускную решетку~Опускной решеткой~Опускной решетке</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_PORTCULLIS_BONUS_AXEMAN</zType>
-		<Translation>Воин с топором</Translation>
+		<Translation>Воин с топором~Воина с топором~Воину с топором~Воина с топором~Воином с топором~Воине с топором</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_LAND_CONSOLIDATION</zType>
-		<Translation>Объединение земель</Translation>
+		<Translation>Объединение земель~Объеденения земель~Объеденению земель~Объеденение земель~Объеденением земель~Объеденении земель</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_LAND_CONSOLIDATION_BONUS_WAR_ELEPHANT</zType>
-		<Translation>Слон</Translation>
+		<Translation>Слон~Слона~Слону~Слона~Слоном~Слоне</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_BATTLELINE</zType>
-		<Translation>Боевое построение</Translation>
+		<Translation>Боевое построение~Боевого построения~Боевому построению~Боевое построение~Боевым построением~Боевом построении</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_DOCTRINE</zType>
-		<Translation>Доктрина</Translation>
+		<Translation>Доктрина~Доктрины~Доктрине~Доктрину~Доктриной~Доктрине</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_DOCTRINE_BONUS_ORDERS</zType>
-		<Translation>Приказы</Translation>
+		<Translation>Приказы~Приказов~Приказам~Приказы~Приказами~Приказах</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_SIEGECRAFT</zType>
-		<Translation>Осадное дело</Translation>
+		<Translation>Осадное дело~Осадного дела~Осадному делу~Осадное дело~Осадным делом~Осадном деле</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_COINAGE</zType>
-		<Translation>Чеканка монет</Translation>
+		<Translation>Чеканка монет~Чеканки монет~Чеканке монет~Чеканку монет~Чеканкой монетами~Чеканке монет</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_COINAGE_BONUS_MONEY</zType>
-		<Translation>Деньги</Translation>
+		<Translation>Деньги~Денег~Деньгам~Деньги~Деньгами~Деньгах</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_SCHOLARSHIP</zType>
-		<Translation>Образование</Translation>
+		<Translation>Образование~Образования~Образованию~Образование~Образованием~Образовании</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_SCHOLARSHIP_BONUS_SCIENTIST</zType>
-		<Translation>Великий ученый</Translation>
+		<Translation>Великий ученый~Великого ученого~Великому ученому~Великого ученого~Великим ученым~Великом ученом</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_TORSION</zType>
-		<Translation>Торсион</Translation>
+		<Translation>Торсион~Торсиона~Торсиону~Торсион~Торсионом~Торсионе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_TORSION_BONUS_BALLISTA</zType>
-		<Translation>Баллиста</Translation>
+		<Translation>Баллиста~Баллисты~Баллисте~Баллисту~Баллистой~Баллисте</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_STIRRUPS</zType>
-		<Translation>Стремена</Translation>
+		<Translation>Стремена~Стремян~Стременам~Стремена~Стременами~Стременах</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_STIRRUPS_BONUS_HORSEMAN</zType>
-		<Translation>Всадник</Translation>
+		<Translation>Всадник~Всадника~Всаднику~Всадника~Всадником~Всаднике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_ARCHITECTURE</zType>
-		<Translation>Архитектура</Translation>
+		<Translation>Архитектура~Архитектуры~Архитектуре~Архитектуру~Архитектурой~Архитектуре</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_ARCHITECTURE_BONUS_CIVICS</zType>
-		<Translation>Civics</Translation>
+		<Translation>Civics~Civics~Civics~Civics~Civics~Civics</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MANOR</zType>
-		<Translation>Феодальное поместье</Translation>
+		<Translation>Феодальное поместье~Феодального поместья~Феодальному поместью~Феодальное поместье~Феодальным поместьем~Феодальном поместье</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MANOR_BONUS_GOODS</zType>
-		<Translation>Ресурсы</Translation>
+		<Translation>Ресурсы~Ресурсов~Ресурсам~Ресурсы~Ресурсами~Ресурсах</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MACHINERY</zType>
-		<Translation>Механизация</Translation>
+		<Translation>Механизация~Механизации~Механизации~Механизацию~Механизацией~Механизации</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MACHINERY_BONUS_ONAGER</zType>
-		<Translation>Онагр</Translation>
+		<Translation>Онагр~Онагра~Онагру~Онагра~Онагром~Онагре</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MOUNTED_ARCHERY</zType>
-		<Translation>Верховая стрельба из лука</Translation>
+		<Translation>Верховая стрельба из лука~Верховой стрельбы из лука~Верховой стрельбе из лука~Верховую стрельбу из лука~Верховой стрельбой из лука~Верховой стрельбе из лука</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MOUNTED_ARCHERY_BONUS_HORSE_ARCHER</zType>
-		<Translation>Конный лучник</Translation>
+		<Translation>Конный лучник~Конного лучника~Конному лучнику~Конного лучника~Конным лучником~Конном лучнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MOUNTED_ARCHERY_BONUS_CAMEL_ARCHER</zType>
-		<Translation>Лучник на верблюде</Translation>
+		<Translation>Лучник на верблюде~Лучника на верблюде~Лучнику на верблюде~Лучника на верблюде~Лучником на верблюде~Лучнике на верблюде</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_CARTOGRAPHY</zType>
-		<Translation>Картография</Translation>
+		<Translation>Картография~Картографии~Картографии~Картографию~Картографией~Картографии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_CARTOGRAPHY_BONUS_TRIREME</zType>
-		<Translation>Трирема</Translation>
+		<Translation>Трирема~Триремы~Триреме~Трирему~Триремой~Триреме</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_HYDRAULICS</zType>
-		<Translation>Гидравлика</Translation>
+		<Translation>Гидравлика~Гидравлики~Гидравлике~Гидравлику~Гидравликой~Гидравлике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_HYDRAULICS_BONUS_MERCHANT</zType>
-		<Translation>Великий торговец</Translation>
+		<Translation>Великий торговец~Великого торговца~Великому торговцу~Великого торговца~Великим торговцем~Великом торговце</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_JURISPRUDENCE</zType>
-		<Translation>Юриспруденция</Translation>
+		<Translation>Юриспруденция~Юриспруденции~Юриспруденции~Юриспруденцию~Юриспруденцией~Юриспруденции</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MARTIAL_CODE</zType>
-		<Translation>Военный кодекс</Translation>
+		<Translation>Военный кодекс~Военного кодекса~Военному кодексу~Военный кодекс~Военным кодексом~Военном кодексе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_BODKIN_ARROW</zType>
-		<Translation>Наконечник стрелы "Бодкин"</Translation>
+		<Translation>Наконечник стрелы "Бодкин"~Наконечника стрелы "Бодкин"~Наконечнику стрелы "Бодкин"~Наконечник стрелы "Бодкин"~Наконечником стрелы "Бодкин"~Наконечнике стрелы "Бодкин"</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_BODKIN_ARROW_BONUS_TRAINING</zType>
-		<Translation>Очки тренировки</Translation>
+		<Translation>Очки тренировки~Очков тренировки~Очкам тренировки~Очки тренировки~Очками тренировки~Очках тренировки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_VAULTING</zType>
-		<Translation>Система сводов</Translation>
+		<Translation>Система сводов~Системы сводов~Системе сводов~Систему сводов~Системой сводов~Системе сводов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_VAULTING_BONUS_BORDERS</zType>
-		<Translation>Расширение границ</Translation>
+		<Translation>Расширение границ~Расширения границ~Расширению границ~Расширение границ~Расширением границ~Расширении границ</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_UNIT_TACTICS</zType>
-		<Translation>Тактика отрядов</Translation>
+		<Translation>Тактика отрядов~Тактики отрядов~Тактике отрядов~Тактику отрядов~Тактикой отрядов~Тактике отрядов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_UNIT_TACTICS_BONUS_SOLDIER</zType>
-		<Translation>Великий солдат</Translation>
+		<Translation>Великий солдат~Великого солдата~Великому солдату~Великого солдата~Великим солдатом~Великом солдате</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_WINDLASS</zType>
-		<Translation>Арбалет</Translation>
+		<Translation>Арбалет~Арбалета~Арбалету~Арбалет~Арбалетом~Арбалете</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_WINDLASS_BONUS_CROSSBOWMAN</zType>
-		<Translation>Арбалетчик</Translation>
+		<Translation>Арбалетчик~Арбалетчика~Арбалетчику~Арбалетчика~Арбалетчиком~Арбалетчике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_BALLISTICS</zType>
-		<Translation>Баллистика</Translation>
+		<Translation>Баллистика~Баллистики~Баллистике~Баллистику~Баллистикой~Баллистике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_LATEEN_SAIL</zType>
-		<Translation>Латинский парус</Translation>
+		<Translation>Латинский парус~Латинского паруса~Латинскому парусу~Латинский парус~Латинским парусом~Латинском парусе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_LATEEN_SAIL_BONUS_DROMON</zType>
-		<Translation>Дромон</Translation>
+		<Translation>Дромон~Дромона~Дромону~Дромон~Дромоном~Дромоне</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_BARDING</zType>
-		<Translation>Конная защита</Translation>
+		<Translation>Конная защита~Конной защиты~Конной защите~Конную защиту~Конной защитой~Конной защите</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_SARISSA</zType>
-		<Translation>Сарисса</Translation>
+		<Translation>Сарисса~Сариссы~Сариссе~Сариссу~Сариссой~Сариссе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_FISCAL_POLICY</zType>
-		<Translation>Фискальная политика</Translation>
+		<Translation>Фискальная политика~Фискальной политики~Фискальной политике~Фискальную политику~Фискальной политикой~Фискальной политике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_CHAIN_DRIVE</zType>
-		<Translation>Цепной привод</Translation>
+		<Translation>Цепной привод~Цепного привода~Цепному приводу~Цепной привод~Цепным приводом~Цепном приводе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_POLITICAL_REFORM</zType>
-		<Translation>Политическая реформа</Translation>
+		<Translation>Политическая реформа~Политической реформы~Политической реформе~Политическую реформу~Политической реформой~Политической реформе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MILITARY_REFORM</zType>
-		<Translation>Военная реформа</Translation>
+		<Translation>Военная реформа~Военной реформы~Военной реформе~Военную реформу~Военной реформой~Военной реформе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_ECONOMIC_REFORM</zType>
-		<Translation>Экономическая реформа</Translation>
+		<Translation>Экономическая реформа~Экономической реормы~Экономической реформе~Экономическую реформу~Экономической реформой~Экономической реформе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_BATTERING_RAM_BONUS</zType>
-		<Translation>Таран</Translation>
+		<Translation>Таран~Тарана~Тарану~Тарана~Тараном~Таране</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_SIEGE_TOWER_BONUS</zType>
-		<Translation>Осадная башня</Translation>
+		<Translation>Осадная башня~Осадной башни~Осадной башне~Осадную башню~Осадной башней~Осадной башне</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_AKKADIAN_ARCHER_BONUS</zType>
-		<Translation>Аккадский лучник</Translation>
+		<Translation>Аккадский лучник~Аккадского лучника~Аккадскому лучнику~Аккадского лучника~Аккадским лучником~Аккадском лучнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_CIMMERIAN_ARCHER_BONUS</zType>
-		<Translation>Киммерийский лучник</Translation>
+		<Translation>Киммерийский лучник~Киммерийского лучника~Киммерийскому лучнику~Киммерийского лучника~Киммерийским лучником~Киммерийском лучнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_AFRICAN_ELEPHANT_BONUS</zType>
-		<Translation>Африканский слон</Translation>
+		<Translation>Африканский слон~Африканского слона~Африканскому слону~Африканского слона~Африканским слоном~Африканском слоне</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_TURRETED_ELEPHANT_BONUS</zType>
-		<Translation>Боевой слон</Translation>
+		<Translation>Боевой слон~Боевого слона~Боевому слону~Боевого слона~Боевым слоном~Боевом слоне</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_LIGHT_CHARIOT_BONUS</zType>
-		<Translation>Легкая колесница</Translation>
+		<Translation>Легкая колесница~Легкой колесницы~Легкой колеснице~Легкую колесницу~Легкой колесницей~Легкой колеснице</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_KUSHITE_CAVALRY_BONUS</zType>
-		<Translation>Кушитская кавалерия</Translation>
+		<Translation>Кушитская кавалерия~Кушитской кавалерии~Кушитской кавалерии~Кушитскую кавалерию~Кушитской кавалерией~Кушитской кавалерии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_HOPLITE_BONUS</zType>
-		<Translation>Гоплит</Translation>
+		<Translation>Гоплит~Гоплита~Гоплиту~Гоплита~Гоплитом~Гоплите</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_PHALANGITE_BONUS</zType>
-		<Translation>Фалангит</Translation>
+		<Translation>Фалангит~Фалангита~Фалангиту~Фалангита~Фалангитом~Фалангите</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_PALTON_CAVALRY_BONUS</zType>
-		<Translation>Палтонская кавалерия</Translation>
+		<Translation>Палтонская кавалерия~Палтонской кавалерии~Палтонской кавалерии~Палтонскую кавалерию~Палтонской кавалерией~Палтонской кавалерии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_CATAPHRACT_ARCHER_BONUS</zType>
-		<Translation>Катафрактарский лучник</Translation>
+		<Translation>Катафрактарский лучник~Катафрактарского лучника~Катафрактарскому лучнику~Катафрактарского лучника~Катафрактарским лучником~Катафрактарском лучнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_HASTATUS_BONUS</zType>
-		<Translation>Гастат</Translation>
+		<Translation>Гастат~Гастата~Гастату~Гастата~Гастатом~Гастате</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_LEGIONARY_BONUS</zType>
-		<Translation>Легионер</Translation>
+		<Translation>Легионер~Легионера~Легионеру~Легионера~Легионером~Легионере</Translation>
 	</Entry>
 	<!--InfoYield.Help-->
 	<Entry>
