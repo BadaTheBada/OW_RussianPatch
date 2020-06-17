@@ -177,7 +177,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_43</zType>
-		<Translation>Запасы  Civicsicon(YIELD_CIVICS) не могут быть больше, чем int(MAX_CIVICS). Все излишки конвертируются в науку  icon(YIELD_SCIENCE).</Translation>
+		<Translation>Запасы  Civics  icon(YIELD_CIVICS) не могут быть больше, чем int(MAX_CIVICS). Все излишки конвертируются в науку  icon(YIELD_SCIENCE).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_44</zType>
