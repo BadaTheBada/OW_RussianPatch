@@ -3658,7 +3658,7 @@
     <Translation>{0_opinion}: Старая неприязнь к {1,2_nation}</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_HELPTEXT_PLAYER_OPINION_LUXURIES</zType>
+    <zType>TEXT_HELPTEXT_OPINION_LUXURIES</zType>
     <Translation>{0_opinion}: наши редкие ресурсы</Translation>
   </Entry>
   <Entry>
