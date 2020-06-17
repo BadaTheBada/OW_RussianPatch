@@ -37,7 +37,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_8</zType>
-		<Translation>Неиспользованные Civics  icon(YIELD_CIVICS) и очки тренировки  icon(YIELD_TRAINING) в городах будут добавлены в национальный запас.</Translation>
+		<Translation>Не использованные Civics  icon(YIELD_CIVICS) и очки тренировки  icon(YIELD_TRAINING) в городах будут добавлены в национальный запас.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_9</zType>
