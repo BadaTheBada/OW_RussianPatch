@@ -50,7 +50,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FORUM_1</zType>
-		<Translation>Форум I~Форума I~Форуму I~Форум I~Форумом I~Форуме I</Translation>
+		<Translation>Форум I~Форума I~Форуму I~Форум I~Форумом I~Форуме I~Форумы I~Форумов I~Форумам I~Форумы I~Форумами I~Форумах I</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FORUM_2</zType>
@@ -66,7 +66,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_ARCHIVE_1</zType>
-		<Translation>Архив I~Архива I~Архиву I~Архив I~Архивом I~Архиве I</Translation>
+		<Translation>Архив I~Архива I~Архиву I~Архив I~Архивом I~Архиве I~Архивы I~Архивов I~Архивам I~Архивы I~Архивами I~Архивах I</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_ARCHIVE_2</zType>
@@ -98,7 +98,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FESTIVAL</zType>
-		<Translation>Фестиваль~Фестиваля~Фестивалю~Фестиваль~Фестивалем~Фестивале</Translation>
+		<Translation>Фестиваль~Фестиваля~Фестивалю~Фестиваль~Фестивалем~Фестивале~Фестивали~Фестивалей~Фестивалям~Фестивали~Фестивалями~Фестивалях</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FESTIVAL_1</zType>
