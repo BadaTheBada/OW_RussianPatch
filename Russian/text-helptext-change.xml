@@ -3388,7 +3388,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_MAKE_COUNCIL</zType>
-    <Translation>Сделать советником {0_council}</Translation>
+    <Translation>Назначить советником {0_council}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_LEAVE_COUNCIL</zType>
@@ -3460,7 +3460,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_MAKE_COURTIER</zType>
-    <Translation>Сделать придворным: {0_courtier}</Translation>
+    <Translation>Пригласить ко двору: {0_courtier}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_START_LAW</zType>
