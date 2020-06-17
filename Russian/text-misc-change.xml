@@ -55,7 +55,7 @@
 	<!-- Player -->
 	<Entry>
 		<zType>TEXT_PLAYER_NUMBER</zType>
-		<Translation>Player {0_number}</Translation>
+		<Translation>Игрок {0_number}</Translation>
 	</Entry>
 	<!-- HotKeys -->
 	<Entry>
@@ -78,15 +78,15 @@
 		<zType>TEXT_HOTKEY_SHIFT_CLICK</zType>
 		<Translation>[SHIFT+CLICK]</Translation>
 	</Entry>
-  <Entry>
-    <zType>TEXT_HOTKEY_CTRL_SHIFT_CLICK</zType>
-    <Translation>[CTRL+SHIFT+CLICK]</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_HOTKEY_CTRL_ALT_CLICK</zType>
-    <Translation>[CTRL+ALT+CLICK]</Translation>
-  </Entry>
-  <Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CTRL_SHIFT_CLICK</zType>
+		<Translation>[CTRL+SHIFT+CLICK]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CTRL_ALT_CLICK</zType>
+		<Translation>[CTRL+ALT+CLICK]</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HOTKEY_SHIFT</zType>
 		<Translation>[SHIFT]</Translation>
 	</Entry>
@@ -100,50 +100,50 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_RESOURCE_DENSITY</zType>
-		<Translation>Resource Density</Translation>
+		<Translation>Количество ресурсов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_MIRROR_MAP</zType>
-		<Translation>Mirror Map</Translation>
+		<Translation>Зеркальная карта</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_SCENARIO_RESOURCES</zType>
-		<Translation>Resources</Translation>
+		<Translation>Ресурсы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_WATER_SIZE</zType>
-		<Translation>Water Size</Translation>
+		<Translation>Уровень воды</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_WATER_LOCATION</zType>
-		<Translation>Water Location</Translation>
+		<Translation>Расположение воды на карте</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_PLAYER_START_LOCATION</zType>
-		<Translation>Player Start Location</Translation>
+		<Translation>Стартовая локация игрока</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_TRIBES</zType>
-		<Translation>Tribes</Translation>
+		<Translation>Племена</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_TERRAIN_TYPE_VARIATION</zType>
-		<Translation>Type of Terrain Variation</Translation>
+		<Translation>Тип ландшафта</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_LOCATION_OF_TRIBAL_LANDS</zType>
-		<Translation>Location of Tribal Lands</Translation>
+		<Translation>Размещение племен</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_TYPE_OF_EXTREME_TERRAIN</zType>
-		<Translation>Type of Extreme Terrain</Translation>
+		<Translation>Ландшафт по краям карты</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CENTER_BIAS</zType>
-		<Translation>Center Bias</Translation>
+		<Translation>Ландшафт в центре</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENTS</zType>
-		<Translation>Continents</Translation>
+		<Translation>Континенты</Translation>
 	</Entry>
 </Root>
