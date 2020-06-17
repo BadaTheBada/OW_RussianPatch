@@ -41,7 +41,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_9</zType>
-		<Translation>Если вы не хотите использовать все приказы  icon(YIELD_ORDERS), то можете завершить ход, нажав клавишу '5'.</Translation>
+		<Translation>Если вы не хотите использовать все приказы  icon(YIELD_ORDERS), то можете завершить ход, нажав клавишу [6].</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_10</zType>
