@@ -330,7 +330,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONBARBARIAN_ANGRY</zType>
-		<Translation>Злоба</Translation>
+		<Translation>Злость</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONBARBARIAN_UPSET</zType>
@@ -382,7 +382,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONPLAYER_ANGRY</zType>
-		<Translation>Злоба</Translation>
+		<Translation>Злость</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONPLAYER_UPSET</zType>
