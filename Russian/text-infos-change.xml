@@ -1280,7 +1280,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_QUEST_INQUIRING_MINDS</zType>
-		<Translation>Complete 3 Inquiries</Translation>
+		<Translation>Завершить 3 научных изыскания</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_QUEST_FOUNDING_SIGNS</zType>
@@ -1377,411 +1377,411 @@
 	<!--InfoTech-->
 	<Entry>
 		<zType>TEXT_TECH_IRONWORKING</zType>
-		<Translation>Ironworking</Translation>
+		<Translation>Обработка железа</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_STONECUTTING</zType>
-		<Translation>Stonecutting</Translation>
+		<Translation>Обработка камня</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_STONECUTTING_BONUS_STONE</zType>
-		<Translation>Stone Boost</Translation>
+		<Translation>Камень</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_TRAPPING</zType>
-		<Translation>Trapping</Translation>
+		<Translation>Охота</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_DIVINATION</zType>
-		<Translation>Divination</Translation>
+		<Translation>Прорицание</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_ADMINISTRATION</zType>
-		<Translation>Administration</Translation>
+		<Translation>Администрация</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_LABOR_FORCE</zType>
-		<Translation>Labor Force</Translation>
+		<Translation>Рабочая сила</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_HUSBANDRY</zType>
-		<Translation>Husbandry</Translation>
+		<Translation>Животноводство</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_HUSBANDRY_BONUS_FOOD</zType>
-		<Translation>Food Boost</Translation>
+		<Translation>Еда</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_DRAMA</zType>
-		<Translation>Drama</Translation>
+		<Translation>Драма</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_POLIS</zType>
-		<Translation>Polis</Translation>
+		<Translation>Полис</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_POLIS_BONUS_SETTLER</zType>
-		<Translation>Free Settler</Translation>
+		<Translation>Поселенец</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MILITARY_DRILL</zType>
-		<Translation>Military Drill</Translation>
+		<Translation>Муштра</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_ARISTOCRACY</zType>
-		<Translation>Aristocracy</Translation>
+		<Translation>Аристрократия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_SOVEREIGNTY</zType>
-		<Translation>Sovereignty</Translation>
+		<Translation>Суверенитет</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_RHETORIC</zType>
-		<Translation>Rhetoric</Translation>
+		<Translation>Риторика</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_NAVIGATION</zType>
-		<Translation>Navigation</Translation>
+		<Translation>Навигация</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_NAVIGATION_BONUS_BIREME</zType>
-		<Translation>Free Bireme</Translation>
+		<Translation>Бирема</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_PHALANX</zType>
-		<Translation>Phalanx</Translation>
+		<Translation>Фаланга</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_SPOKED_WHEEL</zType>
-		<Translation>Spoked Wheel</Translation>
+		<Translation>Колесо со спицами</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_SPOKED_WHEEL_BONUS_CHARIOT</zType>
-		<Translation>Free Chariot</Translation>
+		<Translation>Колесница</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_RAMPARTS</zType>
-		<Translation>Ramparts</Translation>
+		<Translation>Бастионы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_RAMPARTS_BONUS_ARCHER</zType>
-		<Translation>Free Archer</Translation>
+		<Translation>Лучник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_FORESTRY</zType>
-		<Translation>Forestry</Translation>
+		<Translation>Лесное хозяйство</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_STEEL</zType>
-		<Translation>Steel</Translation>
+		<Translation>Сталь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MONASTICISM</zType>
-		<Translation>Monasticism</Translation>
+		<Translation>Монашество</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_COMPOSITE_BOW</zType>
-		<Translation>Composite Bow</Translation>
+		<Translation>Составной лук</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_METAPHYSICS</zType>
-		<Translation>Metaphysics</Translation>
+		<Translation>Метафизика</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_CITIZENSHIP</zType>
-		<Translation>Citizenship</Translation>
+		<Translation>Гражданство</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_CITIZENSHIP_BONUS_MINISTER</zType>
-		<Translation>Free Great Minister</Translation>
+		<Translation>Великий министр</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_PORTCULLIS</zType>
-		<Translation>Portcullis</Translation>
+		<Translation>Подъемная решетка</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_PORTCULLIS_BONUS_AXEMAN</zType>
-		<Translation>Free Axeman</Translation>
+		<Translation>Воин с топором</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_LAND_CONSOLIDATION</zType>
-		<Translation>Land Consolidation</Translation>
+		<Translation>Объединение земель</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_LAND_CONSOLIDATION_BONUS_WAR_ELEPHANT</zType>
-		<Translation>Free War Elephant</Translation>
+		<Translation>Слон</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_BATTLELINE</zType>
-		<Translation>Battleline</Translation>
+		<Translation>Боевое построение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_DOCTRINE</zType>
-		<Translation>Doctrine</Translation>
+		<Translation>Доктрина</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_DOCTRINE_BONUS_ORDERS</zType>
-		<Translation>Orders Boost</Translation>
+		<Translation>Приказы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_SIEGECRAFT</zType>
-		<Translation>Siegecraft</Translation>
+		<Translation>Осадное дело</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_COINAGE</zType>
-		<Translation>Coinage</Translation>
+		<Translation>Чеканка монет</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_COINAGE_BONUS_MONEY</zType>
-		<Translation>Money Boost</Translation>
+		<Translation>Деньги</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_SCHOLARSHIP</zType>
-		<Translation>Scholarship</Translation>
+		<Translation>Образование</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_SCHOLARSHIP_BONUS_SCIENTIST</zType>
-		<Translation>Free Great Scientist</Translation>
+		<Translation>Великий ученый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_TORSION</zType>
-		<Translation>Torsion</Translation>
+		<Translation>Торсион</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_TORSION_BONUS_BALLISTA</zType>
-		<Translation>Free Ballista</Translation>
+		<Translation>Баллиста</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_STIRRUPS</zType>
-		<Translation>Stirrups</Translation>
+		<Translation>Стремена</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_STIRRUPS_BONUS_HORSEMAN</zType>
-		<Translation>Free Horseman</Translation>
+		<Translation>Всадник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_ARCHITECTURE</zType>
-		<Translation>Architecture</Translation>
+		<Translation>Архитектура</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_ARCHITECTURE_BONUS_CIVICS</zType>
-		<Translation>Civics Boost</Translation>
+		<Translation>Civics</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MANOR</zType>
-		<Translation>Manor</Translation>
+		<Translation>Феодальное поместье</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MANOR_BONUS_GOODS</zType>
-		<Translation>Goods Boost</Translation>
+		<Translation>Ресурсы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MACHINERY</zType>
-		<Translation>Machinery</Translation>
+		<Translation>Механизация</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MACHINERY_BONUS_ONAGER</zType>
-		<Translation>Free Onager</Translation>
+		<Translation>Онагр</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MOUNTED_ARCHERY</zType>
-		<Translation>Mounted Archery</Translation>
+		<Translation>Верховая стрельба из лука</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MOUNTED_ARCHERY_BONUS_HORSE_ARCHER</zType>
-		<Translation>Free Horse Archer</Translation>
+		<Translation>Конный лучник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MOUNTED_ARCHERY_BONUS_CAMEL_ARCHER</zType>
-		<Translation>Free Camel Archer</Translation>
+		<Translation>Лучник на верблюде</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_CARTOGRAPHY</zType>
-		<Translation>Cartography</Translation>
+		<Translation>Картография</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_CARTOGRAPHY_BONUS_TRIREME</zType>
-		<Translation>Free Trireme</Translation>
+		<Translation>Трирема</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_HYDRAULICS</zType>
-		<Translation>Hydraulics</Translation>
+		<Translation>Гидравлика</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_HYDRAULICS_BONUS_MERCHANT</zType>
-		<Translation>Free Great Merchant</Translation>
+		<Translation>Великий торговец</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_JURISPRUDENCE</zType>
-		<Translation>Jurisprudence</Translation>
+		<Translation>Юриспруденция</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MARTIAL_CODE</zType>
-		<Translation>Martial Code</Translation>
+		<Translation>Военный кодекс</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_BODKIN_ARROW</zType>
-		<Translation>Bodkin Arrow</Translation>
+		<Translation>Наконечник стрелы "Бодкин"</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_BODKIN_ARROW_BONUS_TRAINING</zType>
-		<Translation>Training Boost</Translation>
+		<Translation>Очки тренировки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_VAULTING</zType>
-		<Translation>Vaulting</Translation>
+		<Translation>Система сводов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_VAULTING_BONUS_BORDERS</zType>
-		<Translation>Border Boost</Translation>
+		<Translation>Расширение границ</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_UNIT_TACTICS</zType>
-		<Translation>Unit Tactics</Translation>
+		<Translation>Тактика отрядов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_UNIT_TACTICS_BONUS_SOLDIER</zType>
-		<Translation>Free Great Soldier</Translation>
+		<Translation>Великий солдат</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_WINDLASS</zType>
-		<Translation>Windlass</Translation>
+		<Translation>Арбалет</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_WINDLASS_BONUS_CROSSBOWMAN</zType>
-		<Translation>Free Crossbowman</Translation>
+		<Translation>Арбалетчик</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_BALLISTICS</zType>
-		<Translation>Ballistics</Translation>
+		<Translation>Баллистика</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_LATEEN_SAIL</zType>
-		<Translation>Lateen Sail</Translation>
+		<Translation>Латинский парус</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_LATEEN_SAIL_BONUS_DROMON</zType>
-		<Translation>Free Dromon</Translation>
+		<Translation>Дромон</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_BARDING</zType>
-		<Translation>Barding</Translation>
+		<Translation>Конная защита</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_SARISSA</zType>
-		<Translation>Sarissa</Translation>
+		<Translation>Сарисса</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_FISCAL_POLICY</zType>
-		<Translation>Fiscal Policy</Translation>
+		<Translation>Фискальная политика</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_CHAIN_DRIVE</zType>
-		<Translation>Chain Drive</Translation>
+		<Translation>Цепной привод</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_POLITICAL_REFORM</zType>
-		<Translation>Political Reform</Translation>
+		<Translation>Политическая реформа</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MILITARY_REFORM</zType>
-		<Translation>Military Reform</Translation>
+		<Translation>Военная реформа</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_ECONOMIC_REFORM</zType>
-		<Translation>Economic Reform</Translation>
+		<Translation>Экономическая реформа</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_BATTERING_RAM_BONUS</zType>
-		<Translation>Free Battering Ram</Translation>
+		<Translation>Таран</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_SIEGE_TOWER_BONUS</zType>
-		<Translation>Free Siege Tower</Translation>
+		<Translation>Осадная башня</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_AKKADIAN_ARCHER_BONUS</zType>
-		<Translation>Free Akkadian Archer</Translation>
+		<Translation>Аккадский лучник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_CIMMERIAN_ARCHER_BONUS</zType>
-		<Translation>Free Cimmerian Archer</Translation>
+		<Translation>Киммерийский лучник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_AFRICAN_ELEPHANT_BONUS</zType>
-		<Translation>Free African Elephant</Translation>
+		<Translation>Африканский слон</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_TURRETED_ELEPHANT_BONUS</zType>
-		<Translation>Free Turreted Elephant</Translation>
+		<Translation>Боевой слон</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_LIGHT_CHARIOT_BONUS</zType>
-		<Translation>Free Light Chariot</Translation>
+		<Translation>Легкая колесница</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_KUSHITE_CAVALRY_BONUS</zType>
-		<Translation>Free Kushite Cavalry</Translation>
+		<Translation>Кушитская кавалерия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_HOPLITE_BONUS</zType>
-		<Translation>Free Hoplite</Translation>
+		<Translation>Гоплит</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_PHALANGITE_BONUS</zType>
-		<Translation>Free Phalangite</Translation>
+		<Translation>Фалангит</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_PALTON_CAVALRY_BONUS</zType>
-		<Translation>Free Palton Cavalry</Translation>
+		<Translation>Палтонская кавалерия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_CATAPHRACT_ARCHER_BONUS</zType>
-		<Translation>Free Cataphract Archer</Translation>
+		<Translation>Катафрактарский лучник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_HASTATUS_BONUS</zType>
-		<Translation>Free Hastatus</Translation>
+		<Translation>Гастат</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_LEGIONARY_BONUS</zType>
-		<Translation>Free Legionary</Translation>
+		<Translation>Легионер</Translation>
 	</Entry>
 	<!--InfoYield.Help-->
 	<Entry>
 		<zType>TEXT_YIELD_GROWTH_HELP</zType>
-		<Translation>When a City's Growth{YIELD_GROWTH} fills up, the City gains a new Citizen. Basic ways to improve Growth{YIELD_GROWTH} include training link(SPECIALIST_FARMER,2) and link(IMPROVEMENTCLASS_BATHS,2).</Translation>
+		<Translation>Когда Рост {YIELD_GROWTH} полностью заполняется, город дает нового link(EFFECTCITY_CITIZEN,1). Простой путь увеличить Рост {YIELD_GROWTH} - это обучить link(SPECIALIST_FARMER,1) и построить link(IMPROVEMENTCLASS_BATHS).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_CIVICS_HELP</zType>
-		<Translation>Used to develop Specialists and finish Projects. Unused Civics{YIELD_CIVICS} go into the national stockpile, which can be used to enact Laws and establish Theologies. Increase Civics{YIELD_CIVICS} by building link(IMPROVEMENTCLASS_COURTHOUSE,2) and link(PROJECT_FORUM_1,2).</Translation>
+		<Translation>Используется для обучения Специалистов и завершения Проектов. Не использованные Civics {YIELD_CIVICS} добавляются в национальный запас и расходуются на принятие законов и основание религии. Увеличивайте прирост Civics {YIELD_CIVICS}, строя link(IMPROVEMENTCLASS_COURTHOUSE,6) и link(PROJECT_FORUM_1,6).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_TRAINING_HELP</zType>
-		<Translation>Used to train Military Units. Unused Training{YIELD_TRAINING} goes into the national stockpile, which can be used to Promote and Upgrade Units. Increase Training{YIELD_TRAINING} by building link(IMPROVEMENT_BARRACKS,2) and link(IMPROVEMENT_RANGE,2).</Translation>
+		<Translation>Используются для обучения военных отрядов. Не использованные Очки тренировки {YIELD_TRAINING} добавляются в национальный запас и расходуются на повышение и модернизацию военных отрядов. Увеличивайте прирост Очков тренировки {YIELD_TRAINING}, строя link(IMPROVEMENTCLASS_BARRACKS,6) и link(IMPROVEMENTCLASS_RANGE,6).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_CULTURE_HELP</zType>
-		<Translation>When a City's Culture{YIELD_CULTURE} fills up, a positive event occurs. The City's overall Culture{YIELD_CULTURE} Level affects what Improvements and Wonders can be built. Improve Culture{YIELD_CULTURE} by building link(IMPROVEMENTCLASS_SHRINE,2) and link(IMPROVEMENTCLASS_THEATER,2).</Translation>
+		<Translation>Когда Культура {YIELD_CULTURE} полностью заполняется, происходит хорошее событие. Уровень городской Культуры {YIELD_CULTURE} влияет на то, какие Постройки и Чудеса можно возвести. Повышайте Культуру {YIELD_CULTURE}, строя link(IMPROVEMENTCLASS_SHRINE,6) и link(IMPROVEMENTCLASS_THEATER,6).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_DISCONTENT_HELP</zType>
-		<Translation>Cities gain Discontent{YIELD_DISCONTENT} over time. When a city's Discontent{YIELD_DISCONTENT} fills up, its overall Discontent{YIELD_DISCONTENT} Level goes up, which increases Maintenance{YIELD_MAINTENANCE} and reduces Growth{YIELD_GROWTH}. Use link(PROJECT_FESTIVAL,2) to reduce Discontent{YIELD_DISCONTENT}.</Translation>
+		<Translation>В городах со временем накапливается Недовольство {YIELD_DISCONTENT}. Когда Недовольство {YIELD_DISCONTENT} полностью заполняется, то его уровень повышается, это приводит к увеличению Содержания {YIELD_MAINTENANCE} и снижению Роста {YIELD_GROWTH}. Проводите link(PROJECT_FESTIVAL,6), чтобы снизить Недовольство {YIELD_DISCONTENT}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_SCIENCE_HELP</zType>
-		<Translation>Used to research technologies. Increase Science{YIELD_SCIENCE} by building link(PROJECT_ARCHIVE_1,2) and link(IMPROVEMENTCLASS_LIBRARY,2).</Translation>
+		<Translation>Используется для исследования технологий. Повышайте Науку {YIELD_SCIENCE}, строя link(PROJECT_ARCHIVE_1,6) и link(IMPROVEMENTCLASS_LIBRARY,6).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_MONEY_HELP</zType>
-		<Translation>Used to purchase other resources. Increase Money{YIELD_MONEY} by building link(IMPROVEMENT_HAMLET,2) and link(IMPROVEMENTCLASS_MARKET,2).</Translation>
+		<Translation>Используются для покупки других ресурсов. Увеличивайте прирост Денег {YIELD_MONEY}, строя link(IMPROVEMENTCLASS_HAMLET,6) и link(IMPROVEMENTCLASS_MARKET,6).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_MAINTENANCE_HELP</zType>
-		<Translation>Decreases the amount of Money{YIELD_MONEY} income a City generates. Maintenance{YIELD_MAINTENANCE} can be reduced by connecting the City to your Capital.</Translation>
+		<Translation>Уменьшает количество Денег {YIELD_MONEY}, поступаемых из городов. Содержание {YIELD_MAINTENANCE} может быть уменьшено посредством соединения ваших городов со столицей.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_ORDERS_HELP</zType>
-		<Translation>Orders{YIELD_ORDERS} can be spent on various actions such as moving, attacking, and building Improvements. Unused Orders{YIELD_ORDERS} are sold for Money{YIELD_MONEY} at the end of the Year.</Translation>
+		<Translation>Приказы {YIELD_ORDERS} можно потратить на различные действия, такие как: движение, атака и создание Построек. Не использованные Приказы {YIELD_ORDERS} продаются за Деньги {YIELD_MONEY} по окончании года (завершение хода).</Translation>
 	</Entry>
 </Root>
