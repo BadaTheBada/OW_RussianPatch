@@ -24,11 +24,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DAMAGED</zType>
-		<Translation>Поврежденный</Translation>
+		<Translation>Поврежден</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_HOLY_CITY</zType>
-		<Translation>Святой город</Translation>
+		<Translation>Священный город</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FRESH_WATER</zType>
@@ -72,11 +72,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_STATESMEN</zType>
-		<Translation>Государственники</Translation>
+		<Translation>Политики</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_STATESMEN_SEAT</zType>
-		<Translation>Государственники</Translation>
+		<Translation>Политики</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_STATESMEN_SEAT_DECREE</zType>
