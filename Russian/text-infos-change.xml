@@ -4,7 +4,7 @@
 	<!-- InfoTerrain -->
 	<Entry>
 		<zType>TEXT_TERRAIN_WATER</zType>
-		<Translation>Вода~воды~воде~воду~водой~воде</Translation>
+		<Translation>Вода~Воды~Воде~Воду~Водой~Воде</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TERRAIN_URBAN</zType>
@@ -33,15 +33,15 @@
 	<!--InfoBuild-->
 	<Entry>
 		<zType>TEXT_BUILD_PROJECT</zType>
-		<Translation>Проект~проекта~проекту~проект~проектом~проекте</Translation>
+		<Translation>Проект~Проекта~Проекту~Проект~Проектом~Проекте</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BUILD_SPECIALIST</zType>
-		<Translation>Специалист~специалиста~специалисту~специалист~специалистом~специалисте</Translation>
+		<Translation>Специалист~Специалиста~Специалисту~Специалист~Специалистом~Специалисте</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BUILD_UNIT</zType>
-		<Translation>Отряд~отряда~отряду~отряд~отрядом~отряде</Translation>
+		<Translation>Отряд~Отряда~Отряду~Отряд~Отрядом~Отряде</Translation>
 	</Entry>
 	<!--InfoConcept-->
 	<Entry>
@@ -82,11 +82,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_GENERAL</zType>
-		<Translation>Генерал~генерала~генералу~генерала~генералом~генерале</Translation>
+		<Translation>Генерал~Генерала~Генералу~Генерала~Генералом~Генерале</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_GOVERNOR</zType>
-		<Translation>Губернатор~губернатора~губернатору~губернатора~губернатором~губернаторе</Translation>
+		<Translation>Губернатор~Губернатора~Губернатору~Губернатора~Губернатором~Губернаторе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_HARVEST_RESOURCE</zType>
@@ -98,7 +98,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_IDLE</zType>
-		<Translation>Свободный~свободного~свободному~свободный~свободным~свободном~Свободные~свободных~свободным~свободные~свободными~свободных</Translation>
+		<Translation>Свободный~Свободного~Свободному~Свободный~Свободным~Свободном~Свободные~Свободных~Свободным~Свободные~Свободными~Свободных</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_IGNORES_ZOC</zType>
@@ -130,7 +130,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_URBAN</zType>
-		<Translation><![CDATA[Городские клетки~Городской~городского~городскому~городской~городским~городском~Городское~городского~городскому~городское~городским~городском~Городская~городской~городской~городскую~городской~городской~Городские~городских~городским~городские~городскими~городских]]></Translation>
+		<Translation><![CDATA[Городские клетки~Городской~Городского~Городскому~Городской~Городским~Городском~Городское~Городского~Городскому~Городское~Городским~Городском~Городская~Городской~Городской~Городскую~Городской~Городской~Городские~Городских~Городским~Городские~Городскими~Городских]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_ZOC</zType>
@@ -172,155 +172,155 @@
 	<!--InfoSpecialist-->
 	<Entry>
 		<zType>TEXT_SPECIALIST_FARMER</zType>
-		<Translation>Фермер~фермера~фермеру~фермера~фермером~фермере</Translation>
+		<Translation>Фермер~Фермера~Фермеру~Фермера~Фермером~Фермере</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_WOODCUTTER</zType>
-		<Translation>Лесоруб~лесоруба~лесорубу~лесоруба~лесорубом~лесорубе</Translation>
+		<Translation>Лесоруб~Лесоруба~Лесорубу~Лесоруба~Лесорубом~Лесорубе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_STONECUTTER</zType>
-		<Translation>Камнерез~камнереза~камнерезу~камнереза~камнерезом~камнерезе</Translation>
+		<Translation>Камнерез~Камнереза~Камнерезу~Камнереза~Камнерезом~Камнерезе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_MINER</zType>
-		<Translation>Рудокоп~рудокопа~рудокопу~рудокопа~рудокопом~рудокопе</Translation>
+		<Translation>Рудокоп~Рудокопа~Рудокопу~Рудокопа~Рудокопом~Рудокопе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_RANCHER</zType>
-		<Translation>Пастух~пастуха~пастуху~пастуха~пастухом~пастухе </Translation>
+		<Translation>Пастух~Пастуха~Пастуху~Пастуха~Пастухом~Пастухе </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_TRAPPER</zType>
-		<Translation>Охотник~охотника~охотнику~охотника~охотником~охотнике</Translation>
+		<Translation>Охотник~Охотника~Охотнику~Охотника~Охотником~Охотнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_GARDENER</zType>
-		<Translation>Садовник~садовника~садовнику~садовника~садовником~садовнике</Translation>
+		<Translation>Садовник~Садовника~Садовнику~Садовника~Садовником~Садовнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_FISHER</zType>
-		<Translation>Рыбак~рыбака~рыбаку~рыбака~рыбаком~рыбаке</Translation>
+		<Translation>Рыбак~Рыбака~Рыбаку~Рыбака~Рыбаком~Рыбаке</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_ACOLYTE_1</zType>
-		<Translation>Младший прислужник~младшего прислужника~младшему прислужнику~младшего прислужника~младшим прислужником~младшем прислужнике</Translation>
+		<Translation>Младший прислужник~Младшего прислужника~Младшему прислужнику~Младшего прислужника~Младшим прислужником~Младшем прислужнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_ACOLYTE_2</zType>
-		<Translation>Прислужник~прислужника~прислужнику~прислужника~прислужником~прислужнике</Translation>
+		<Translation>Прислужник~Прислужника~Прислужнику~Прислужника~Прислужником~Прислужнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_ACOLYTE_3</zType>
-		<Translation>Старший прислужник~старшего прислужника~старшему прислужнику~старшего прислужника~старшим прислужником~старшем прислужнике</Translation>
+		<Translation>Старший прислужник~Старшего прислужника~Старшему прислужнику~Старшего прислужника~Старшим прислужником~Старшем прислужнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_DOCTOR_1</zType>
-		<Translation>Младший целитель~младшего целителя~младшему целителю~младшего целителя~младшим целителем~младшем целителе</Translation>
+		<Translation>Младший целитель~Младшего целителя~Младшему целителю~Младшего целителя~Младшим целителем~Младшем целителе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_DOCTOR_2</zType>
-		<Translation>Целитель~целителя~целителю~целителя~целителем~целителе</Translation>
+		<Translation>Целитель~Целителя~Целителю~Целителя~Целителем~Целителе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_DOCTOR_3</zType>
-		<Translation>Старший целитель~старшего целителя~старшему целителю~старшего целителя~старшим целителем~старшем целителе</Translation>
+		<Translation>Старший целитель~Старшего целителя~Старшему целителю~Старшего целителя~Старшим целителем~Старшем целителе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_MONK_1</zType>
-		<Translation>Младший монах~младшего монаха~младшему монаху~младшего монаха~младшим монахом~младшем монахе</Translation>
+		<Translation>Младший монах~Младшего монаха~Младшему монаху~Младшего монаха~Младшим монахом~Младшем монахе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_MONK_2</zType>
-		<Translation>Монах~монаха~монаху~монаха~монахом~монахе</Translation>
+		<Translation>Монах~Монаха~Монаху~Монаха~Монахом~Монахе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_MONK_3</zType>
-		<Translation>Старший монах~старшего монаха~старшему монаху~старшего монаха~старшим монахом~старшем монахе</Translation>
+		<Translation>Старший монах~Старшего монаха~Старшему монаху~Старшего монаха~Старшим монахом~Старшем монахе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_PRIEST_1</zType>
-		<Translation>Младший священник~младшего священника~младшему священнику~младшего священника~младшим священником~младшем священнике</Translation>
+		<Translation>Младший священник~Младшего священника~Младшему священнику~Младшего священника~Младшим священником~Младшем священнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_PRIEST_2</zType>
-		<Translation>Священник~священника~священнику~священника~священником~священнике</Translation>
+		<Translation>Священник~Священника~Священнику~Священника~Священником~Священнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_PRIEST_3</zType>
-		<Translation>Старший священник~старшего священника~старшему священнику~старшего священника~старшим священником~старшем священнике</Translation>
+		<Translation>Старший священник~Старшего священника~Старшему священнику~Старшего священника~Старшим священником~Старшем священнике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_BISHOP_1</zType>
-		<Translation>Младший епископ~младшего епископа~младшему епископу~младшего епископа~младшим епископом~младшем епископе</Translation>
+		<Translation>Младший епископ~Младшего епископа~Младшему епископу~Младшего епископа~Младшим епископом~Младшем епископе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_BISHOP_2</zType>
-		<Translation>Епископ~епископа~епископу~епископа~епископом~епископе</Translation>
+		<Translation>Епископ~Епископа~Епископу~Епископа~Епископом~Епископе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_BISHOP_3</zType>
-		<Translation>Старший епископ~старшего епископа~старшему епископу~старшего епископа~старшим епископом~старшем епископе</Translation>
+		<Translation>Старший епископ~Старшего епископа~Старшему епископу~Старшего епископа~Старшим епископом~Старшем епископе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_POET_1</zType>
-		<Translation>Младший поэт~младшего поэта~младшему поэту~младшего поэта~младшим поэтом~младшем поэте</Translation>
+		<Translation>Младший поэт~Младшего поэта~Младшему поэту~Младшего поэта~Младшим поэтом~Младшем поэте</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_POET_2</zType>
-		<Translation>Поэт~поэта~поэту~поэта~поэтом~поэте</Translation>
+		<Translation>Поэт~Поэта~Поэту~Поэта~Поэтом~Поэте</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_POET_3</zType>
-		<Translation>Старший поэт~старшего поэта~старшему поэту~старшего поэта~старшим поэтом~старшем поэте</Translation>
+		<Translation>Старший поэт~Старшего поэта~Старшему поэту~Старшего поэта~Старшим поэтом~Старшем поэте</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_SHOPKEEPER_1</zType>
-		<Translation>Младший торговец~младшего торговца~младшему торговцу~младшего торговца~младшим торговцем~младшем торговце</Translation>
+		<Translation>Младший торговец~Младшего торговца~Младшему торговцу~Младшего торговца~Младшим торговцем~Младшем торговце</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_SHOPKEEPER_2</zType>
-		<Translation>Торговец~торговца~торговцу~торговца~торговцем~торговце</Translation>
+		<Translation>Торговец~Торговца~Торговцу~Торговца~Торговцем~Торговце</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_SHOPKEEPER_3</zType>
-		<Translation>Старший торговец~старшего торговца~старшему торговцу~старшего торговца~старшим торговцем~старшем торговце</Translation>
+		<Translation>Старший торговец~Старшего торговца~Старшему торговцу~Старшего торговца~Старшим торговцем~Старшем торговце</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_PHILOSOPHER_1</zType>
-		<Translation>Младший философ~младшего философа~младшему философу~младшего философа~младшим философом~младшем философе</Translation>
+		<Translation>Младший философ~Младшего философа~Младшему философу~Младшего философа~Младшим философом~Младшем философе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_PHILOSOPHER_2</zType>
-		<Translation>Философ~философа~философу~философа~философом~философе</Translation>
+		<Translation>Философ~Философа~Философу~Философа~Философом~Философе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_PHILOSOPHER_3</zType>
-		<Translation>Старший философ~старшего философа~старшему философу~старшего философа~старшим философом~старшем философе</Translation>
+		<Translation>Старший философ~Старшего философа~Старшему философу~Старшего философа~Старшим философом~Старшем философе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_SCRIBE_1</zType>
-		<Translation>Младший секретарь~младшего секретаря~младшему секретарю~младшего секретаря~младшим секретарем~младшем секретаре</Translation>
+		<Translation>Младший секретарь~Младшего секретаря~Младшему секретарю~Младшего секретаря~Младшим секретарем~Младшем секретаре</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_SCRIBE_2</zType>
-		<Translation>Секретарь~секретаря~секретарю~секретаря~секретарем~секретаре</Translation>
+		<Translation>Секретарь~Секретаря~Секретарю~Секретаря~Секретарем~Секретаре</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_SCRIBE_3</zType>
-		<Translation>Старший секретарь~старшего секретаря~старшему секретарю~старшего секретаря~старшим секретарем~старшем секретаре</Translation>
+		<Translation>Старший секретарь~Старшего секретаря~Старшему секретарю~Старшего секретаря~Старшим секретарем~Старшем секретаре</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_OFFICER_1</zType>
-		<Translation>Младший офицер~младшего офицера~младшему офицеру~младшего офицера~младшим офицером~младшем офицере</Translation>
+		<Translation>Младший офицер~Младшего офицера~Младшему офицеру~Младшего офицера~Младшим офицером~Младшем офицере</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_OFFICER_2</zType>
-		<Translation>Офицер~офицера~офицеру~офицера~офицером~офицере</Translation>
+		<Translation>Офицер~Офицера~Офицеру~Офицера~Офицером~Офицере</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_OFFICER_3</zType>
-		<Translation>Старший офицер~старшего офицера~старшему офицеру~старшего офицера~старшим офицером~старшем офицере</Translation>
+		<Translation>Старший офицер~Старшего офицера~Старшему офицеру~Старшего офицера~Старшим офицером~Старшем офицере</Translation>
 	</Entry>
 	<!--InfoOpinionBarbarian-->
 	<!--Assets/GameAssets/Resources/Infos/opinionBarbarian.xml-->
