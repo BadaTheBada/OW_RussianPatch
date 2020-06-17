@@ -11,195 +11,195 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_ANCIENT_RUINS</zType>
-		<Translation>Древние руины~древних руин~древним руинам~древние руины~древними руинами~древних руинах</Translation>
+		<Translation>Древние руины~Древних руин~Древним руинам~Древние руины~Древними руинами~Древних руинах</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CITY_SITE</zType>
-		<Translation><![CDATA[<meta=neuter>Городище~городища~городищу~городище~городищем~городище]]></Translation>
+		<Translation><![CDATA[<meta=neuter>Городище~Городища~Городищу~Городище~Городищем~Городище]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_RUINS_1</zType>
-		<Translation>Руины дома~руин дома~руинам дома~руины дома~руинами дома~руинах дома</Translation>
+		<Translation>Руины дома~Руин дома~Руинам дома~Руины дома~Руинами дома~Руинах дома</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_RUINS_2</zType>
-		<Translation>Руины заставы~руин заставы~руинам заставы~руины заставы~руинами заставы~руинах заставы</Translation>
+		<Translation>Руины заставы~Руин заставы~Руинам заставы~Руины заставы~Руинами заставы~Руинах заставы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_RUINS_3</zType>
-		<Translation>Руины лагеря~руин лагеря~руинам лагеря~руины лагеря~руинами лагеря~руинах лагеря</Translation>
+		<Translation>Руины лагеря~Руин лагеря~Руинам лагеря~Руины лагеря~Руинами лагеря~Руинах лагеря</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_RUINS_4</zType>
-		<Translation>Руины города~руин города~руинам города~руины города~руинами города~руинах города</Translation>
+		<Translation>Руины города~Руин города~Руинам города~Руины города~Руинами города~Руинах города</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SETTLEMENT_1</zType>
-		<Translation><![CDATA[<meta=male>Дом~дома~дому~дом~домом~доме]]></Translation>
+		<Translation><![CDATA[<meta=male>Дом~Дома~Дому~Дом~Домом~Доме]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SETTLEMENT_2</zType>
-		<Translation><![CDATA[<meta=female>Застава~заставы~заставе~заставу~заставой~заставе]]></Translation>
+		<Translation><![CDATA[<meta=female>Застава~Заставы~Заставе~Заставу~Заставой~Заставе]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SETTLEMENT_3</zType>
-		<Translation><![CDATA[<meta=male>Лагерь~лагеря~лагерю~лагерь~лагерем~лагере]]></Translation>
+		<Translation><![CDATA[<meta=male>Лагерь~Лагеря~Лагерю~Лагерь~Лагерем~Лагере]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SETTLEMENT_4</zType>
-		<Translation><![CDATA[<meta=male>Город~города~городу~город~городом~городе]]></Translation>
+		<Translation><![CDATA[<meta=male>Город~Города~Городу~Город~Городом~Городе]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_FORT</zType>
-		<Translation><![CDATA[<meta=male>Форт~форта~форту~форт~фортом~форте~Форты~фортов~фортам~форты~фортами~фортах]]></Translation>
+		<Translation><![CDATA[<meta=male>Форт~Форта~Форту~Форт~Фортом~Форте~Форты~Фортов~Фортам~Форты~Фортами~Фортах]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_FARM</zType>
-		<Translation><![CDATA[<meta=female>Ферма~фермы~ферме~ферму~фермой~ферме~Фермы~ферм~фермам~фермы~фермами~фермах]]></Translation>
+		<Translation><![CDATA[<meta=female>Ферма~Фермы~Ферме~Ферму~Фермой~Ферме~Фермы~Ферм~Фермам~Фермы~Фермами~Фермах]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MINE</zType>
-		<Translation><![CDATA[<meta=male>Рудник~рудника~руднику~рудник~рудником~руднике~Рудники~рудников~рудникам~рудники~рудниками~рудниках]]></Translation>
+		<Translation><![CDATA[<meta=male>Рудник~Рудника~Руднику~Рудник~Рудником~Руднике~Рудники~Рудников~Рудникам~Рудники~Рудниками~Рудниках]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LUMBERMILL</zType>
-		<Translation><![CDATA[<meta=female>Лесопилка~лесопилки~лесопилке~лесопилку~лесопилкой~лесопилке~Лесопилки~лесопилок~лесопилкам~лесопилки~лесопилками~лесопилках]]></Translation>
+		<Translation><![CDATA[<meta=female>Лесопилка~Лесопилки~Лесопилке~Лесопилку~Лесопилкой~Лесопилке~Лесопилки~Лесопилок~Лесопилкам~Лесопилки~Лесопилками~Лесопилках]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_QUARRY</zType>
-		<Translation><![CDATA[<meta=female>Каменоломня~каменоломни~каменоломне~каменоломню~каменоломней~каменоломне~Каменоломни~каменоломен~каменоломням~каменоломни~каменоломнями~каменоломнях]]></Translation>
+		<Translation><![CDATA[<meta=female>Каменоломня~Каменоломни~Каменоломне~Каменоломню~Каменоломней~Каменоломне~Каменоломни~Каменоломен~Каменоломням~Каменоломни~Каменоломнями~Каменоломнях]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_PASTURE</zType>
-		<Translation><![CDATA[<meta=male>Выгон~выгона~выгону~выгон~выгоном~выгоне~Выгоны~выгонов~выгонам~выгоны~выгонами~выгонах]]></Translation>
+		<Translation><![CDATA[<meta=male>Выгон~Выгона~Выгону~Выгон~Выгоном~Выгоне~Выгоны~Выгонов~Выгонам~Выгоны~Выгонами~Выгонах]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CAMP</zType>
-		<Translation><![CDATA[<meta=male>Лагерь~лагеря~лагерю~лагерь~лагерем~лагере~Лагеря~лагерей~лагерям~лагеря~лагерями~лагерях]]></Translation>
+		<Translation><![CDATA[<meta=male>Лагерь~Лагеря~Лагерю~Лагерь~Лагерем~Лагере~Лагеря~Лагерей~Лагерям~Лагеря~Лагерями~Лагерях]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GROVE</zType>
-		<Translation><![CDATA[<meta=female>Плантация~плантации~плантации~плантацию~плантацией~плантации~Плантиции~плантаций~плантациям~плантации~плантациями~плантациях]]></Translation>
+		<Translation><![CDATA[<meta=female>Плантация~Плантации~Плантации~Плантацию~Плантацией~Плантации~Плантиции~Плантаций~Плантациям~Плантации~Плантациями~Плантациях]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_NETS</zType>
-		<Translation>Сети~сетей~сетям~сети~сетями~сетях~Сети~сетей~сетям~сети~сетями~сетях</Translation>
+		<Translation>Сети~Сетей~Сетям~Сети~Сетями~Сетях~Сети~Сетей~Сетям~Сети~Сетями~Сетях</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HARBOR</zType>
-		<Translation><![CDATA[<meta=female>Гавань~гавани~гавани~гавань~гаванью~гавани]]></Translation>
+		<Translation><![CDATA[<meta=female>Гавань~Гавани~Гавани~Гавань~Гаванью~Гавани]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GRANARY</zType>
-		<Translation><![CDATA[<meta=male>Амбар~амбара~амбару~амбар~амбаром~амбаре]]></Translation>
+		<Translation><![CDATA[<meta=male>Амбар~Амбара~Амбару~Амбар~Амбаром~Амбаре]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_WATERMILL</zType>
-		<Translation><![CDATA[<meta=female>Водяная Мельница~водяной Мельницы~водяной Мельнице~водяную Мельницу~водяной Мельницей~водяной Мельнице]]></Translation>
+		<Translation><![CDATA[<meta=female>Водяная Мельница~Водяной Мельницы~Водяной Мельнице~Водяную Мельницу~Водяной Мельницей~Водяной Мельнице]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_WINDMILL</zType>
-		<Translation><![CDATA[<meta=female>Ветряная Мельница~ветряной Мельницы~ветряной Мельнице~ветряную Мельницу~ветряной Мельницей~ветряной Мельнице]]></Translation>
+		<Translation><![CDATA[<meta=female>Ветряная Мельница~Ветряной Мельницы~Ветряной Мельнице~Ветряную Мельницу~Ветряной Мельницей~Ветряной Мельнице]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HAMLET</zType>
-		<Translation><![CDATA[<meta=female>Деревня~деревни~деревне~деревню~деревней~деревне]]></Translation>
+		<Translation><![CDATA[<meta=female>Деревня~Деревни~Деревне~Деревню~Деревней~Деревне]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_VILLAGE</zType>
-		<Translation><![CDATA[<meta=male>Поселок~поселка~поселку~поселок~поселком~поселке]]></Translation>
+		<Translation><![CDATA[<meta=male>Поселок~Поселка~Поселку~Поселок~Поселком~Поселке]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_TOWN</zType>
-		<Translation><![CDATA[<meta=male>Городок~городка~городку~городок~городком~городке]]></Translation>
+		<Translation><![CDATA[<meta=male>Городок~Городка~Городку~Городок~Городком~Городке]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MINOR_CITY</zType>
-		<Translation><![CDATA[<meta=male>Малый город~малого города~малому городу~малый город~малым городом~малом городе]]></Translation>
+		<Translation><![CDATA[<meta=male>Малый город~Малого города~Малому городу~Малый город~Малым городом~Малом городе]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GARRISON_1</zType>
-		<Translation><![CDATA[<meta=male>Гарнизон~гарнизона~гарнизону~гарнизон~гарнизоном~гарнизоне]]></Translation>
+		<Translation><![CDATA[<meta=male>Гарнизон~Гарнизона~Гарнизону~Гарнизон~Гарнизоном~Гарнизоне]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GARRISON_2</zType>
-		<Translation><![CDATA[<meta=female>Крепость~крепости~крепости~крепость~крепостью~крепости]]></Translation>
+		<Translation><![CDATA[<meta=female>Крепость~Крепости~Крепости~Крепость~Крепостью~Крепости]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GARRISON_3</zType>
-		<Translation><![CDATA[<meta=female>Цитадель~цитадели~цитадели~цитадель~цитаделью~цитадели]]></Translation>
+		<Translation><![CDATA[<meta=female>Цитадель~Цитадели~Цитадели~Цитадель~Цитаделью~Цитадели]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_AQUEDUCT</zType>
-		<Translation><![CDATA[<meta=male>Акведук~акведука~акведуку~акведук~акведуком~акведуке]]></Translation>
+		<Translation><![CDATA[<meta=male>Акведук~Акведука~Акведуку~Акведук~Акведуком~Акведуке]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_BARRACKS</zType>
-		<Translation>Казармы~казарм~казармам~казармы~казармами~казармах </Translation>
+		<Translation>Казармы~Казарм~Казармам~Казармы~Казармами~Казармах </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_RANGE</zType>
-		<Translation><![CDATA[<meta=neuter>Стрельбище~стрельбища~стрельбищу~стрельбище~стрельбищем~стрельбище]]></Translation>
+		<Translation><![CDATA[<meta=neuter>Стрельбище~Стрельбища~Стрельбищу~Стрельбище~Стрельбищем~Стрельбище]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_THEATER_1</zType>
-		<Translation><![CDATA[<meta=male>Одеон~одеона~одеону~одеон~одеоном~одеоне]]></Translation>
+		<Translation><![CDATA[<meta=male>Одеон~Одеона~Одеону~Одеон~Одеоном~Одеоне]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_THEATER_2</zType>
-		<Translation><![CDATA[<meta=male>Амфитеатр~амфитеатра~амфитеатру~амфитеатр~амфитеатром~амфитеатре]]></Translation>
+		<Translation><![CDATA[<meta=male>Амфитеатр~Амфитеатра~Амфитеатру~Амфитеатр~Амфитеатром~Амфитеатре]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_THEATER_3</zType>
-		<Translation><![CDATA[<meta=male>Колизей~колизея~колизею~колизей~колизеем~колизее]]></Translation>
+		<Translation><![CDATA[<meta=male>Колизей~Колизея~Колизею~Колизей~Колизеем~Колизее]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_BATHS_1</zType>
-		<Translation><![CDATA[<meta=female>Холодные купальни~холодных Купален~холодным купальням~холодные купальни~холодными купальнями~холодных купальнях]]></Translation>
+		<Translation><![CDATA[<meta=female>Холодные купальни~Холодных Купален~Холодным купальням~Холодные купальни~Холодными купальнями~Холодных купальнях]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_BATHS_2</zType>
-		<Translation><![CDATA[<meta=female>Теплые купальни~теплых Купален~теплым купальням~теплые купальни~теплыми купальнями~теплых купальнях]]></Translation>
+		<Translation><![CDATA[<meta=female>Теплые купальни~Теплых Купален~Теплым купальням~Теплые купальни~Теплыми купальнями~Теплых купальнях]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_BATHS_3</zType>
-		<Translation><![CDATA[<meta=female>Горячие купальни~горячих Купален~горячим купальням~горячие купальни~горячими купальнями~горячих купальнях]]></Translation>
+		<Translation><![CDATA[<meta=female>Горячие купальни~Горячих Купален~Горячим купальням~Горячие купальни~Горячими купальнями~Горячих купальнях]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MARKET_1</zType>
-		<Translation><![CDATA[<meta=male>Рынок~рынка~рынку~рынок~рынком~рынке]]></Translation>
+		<Translation><![CDATA[<meta=male>Рынок~Рынка~Рынку~Рынок~Рынком~Рынке]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MARKET_2</zType>
-		<Translation><![CDATA[<meta=female>Бакалея~бакалеи~бакалее~бакалею~бакалеей~бакалее]]></Translation>
+		<Translation><![CDATA[<meta=female>Бакалея~Бакалеи~Бакалее~Бакалею~Бакалеей~Бакалее]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MARKET_3</zType>
-		<Translation><![CDATA[<meta=female>Ярмарка~ярмарки~ярмарке~ярмарку~ярмаркой~ярмарке]]></Translation>
+		<Translation><![CDATA[<meta=female>Ярмарка~Ярмарки~Ярмарке~Ярмарку~Ярмаркой~Ярмарке]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LIBRARY_1</zType>
-		<Translation><![CDATA[<meta=female>Библиотека~библиотеки~библиотеке~библиотеку~библиотекой~библиотеке]]></Translation>
+		<Translation><![CDATA[<meta=female>Библиотека~Библиотеки~Библиотеке~Библиотеку~Библиотекой~Библиотеке]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LIBRARY_2</zType>
-		<Translation><![CDATA[<meta=female>Академия~академии~академии~академию~академией~академии]]></Translation>
+		<Translation><![CDATA[<meta=female>Академия~Академии~Академии~Академию~Академией~Академии]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LIBRARY_3</zType>
-		<Translation><![CDATA[<meta=male>Университет~университета~университету~университет~университетом~университете]]></Translation>
+		<Translation><![CDATA[<meta=male>Университет~Университета~Университету~Университет~Университетом~Университете]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_COURTHOUSE_1</zType>
-		<Translation><![CDATA[<meta=neuter>Здание суда~здания суда~зданию суда~здания суда~зданием суда~здании суда]]></Translation>
+		<Translation><![CDATA[<meta=neuter>Здание суда~Здания суда~Зданию суда~Здания суда~Зданием суда~Здании суда]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_COURTHOUSE_2</zType>
-		<Translation><![CDATA[<meta=neuter>Министерство~министерства~министерству~министерство~министерством~министерстве]]></Translation>
+		<Translation><![CDATA[<meta=neuter>Министерство~Министерства~Министерству~Министерство~Министерством~Министерстве]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_COURTHOUSE_3</zType>
-		<Translation><![CDATA[<meta=male>Дворец~дворца~дворцу~дворец~дворцом~дворце]]></Translation>
+		<Translation><![CDATA[<meta=male>Дворец~Дворца~Дворцу~Дворец~Дворцом~Дворце]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_NINURTA</zType>
@@ -443,11 +443,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LAURION_MINE</zType>
-		<Translation>Лаврионские рудники~лаврионских рудников~лаврионским рудникам~лавриониские рудники~лаврионскими рудниками~лаврионских рудниках</Translation>
+		<Translation>Лаврионские рудники~Лаврионских рудников~Лаврионским рудникам~Лавриониские рудники~Лаврионскими рудниками~Лаврионских рудниках</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_FOREST_FIRE_TOMB</zType>
-		<Translation>Древняя гробница~древней гробницы~древней гробнице~древнюю гробницу~древней гробницей~древней гробнице</Translation>
+		<Translation>Древняя гробница~Древней гробницы~Древней гробнице~Древнюю гробницу~Древней гробницей~Древней гробнице</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_FOREST_FIRE_MONUMENT</zType>
