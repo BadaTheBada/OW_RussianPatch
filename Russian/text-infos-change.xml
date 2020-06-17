@@ -326,79 +326,79 @@
 	<!--Assets/GameAssets/Resources/Infos/opinionBarbarian.xml-->
 	<Entry>
 		<zType>TEXT_OPINIONBARBARIAN_FURIOUS</zType>
-		<Translation>В ярости</Translation>
+		<Translation>Ярость</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONBARBARIAN_ANGRY</zType>
-		<Translation>Озлоблены</Translation>
+		<Translation>Злоба</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONBARBARIAN_UPSET</zType>
-		<Translation>Расстроены</Translation>
+		<Translation>Огорчение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONBARBARIAN_CAUTIOUS</zType>
-		<Translation>Осторожны</Translation>
+		<Translation>Осторожность</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONBARBARIAN_PLEASED</zType>
-		<Translation>Довольны</Translation>
+		<Translation>Симпатия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONBARBARIAN_FRIENDLY</zType>
-		<Translation>Дружелюбны</Translation>
+		<Translation>Дружелюбие</Translation>
 	</Entry>
 	<!--InfoOpinionCharacter-->
 	<!--Assets/GameAssets/Resources/Infos/opinionCharacter.xml-->
 	<Entry>
 		<zType>TEXT_OPINIONCHARACTER_FURIOUS</zType>
-		<Translation>В ярости</Translation>
+		<Translation>Ярость</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONCHARACTER_ANGRY</zType>
-		<Translation>Озлоблен(а)</Translation>
+		<Translation>Злость</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONCHARACTER_UPSET</zType>
-		<Translation>Расстроен(а)</Translation>
+		<Translation>Огорчение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONCHARACTER_CAUTIOUS</zType>
-		<Translation>Осторожн(а)</Translation>
+		<Translation>Осторожность</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONCHARACTER_PLEASED</zType>
-		<Translation>Довольн(а)</Translation>
+		<Translation>Симпатия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONCHARACTER_FRIENDLY</zType>
-		<Translation>Дружелюбн(а)</Translation>
+		<Translation>Дружелюбие</Translation>
 	</Entry>
 	<!--InfoOpinionPlayer-->
 	<!--Assets/GameAssets/Resources/Infos/opinionPlayer.xml-->
 	<Entry>
 		<zType>TEXT_OPINIONPLAYER_FURIOUS</zType>
-		<Translation>В ярости</Translation>
+		<Translation>Ярость</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONPLAYER_ANGRY</zType>
-		<Translation>Озлоблены</Translation>
+		<Translation>Злоба</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONPLAYER_UPSET</zType>
-		<Translation>Расстроены</Translation>
+		<Translation>Огорчение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONPLAYER_CAUTIOUS</zType>
-		<Translation>Осторожны</Translation>
+		<Translation>Осторожность</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONPLAYER_PLEASED</zType>
-		<Translation>Довольны</Translation>
+		<Translation>Симпатия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OPINIONPLAYER_FRIENDLY</zType>
-		<Translation>Дружелюбны</Translation>
+		<Translation>Дружелюбие</Translation>
 	</Entry>
 	<!--InfoGoal-->
 	<Entry>
