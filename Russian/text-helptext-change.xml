@@ -3388,11 +3388,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_MAKE_COUNCIL</zType>
-    <Translation>Назначить советником {0_council}</Translation>
+    <Translation>Назначить: {0_council}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_LEAVE_COUNCIL</zType>
-    <Translation>Снять с поста {0_council}</Translation>
+    <Translation>Снять с поста: {0_council}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_LEAVE_COUNCIL_GENERIC</zType>
