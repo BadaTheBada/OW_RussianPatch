@@ -66,7 +66,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_CLEAR</zType>
-		<Translation>Свободно</Translation>
+		<Translation>Без растений</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_CONDUCT_TRADE_MISSION</zType>
@@ -74,11 +74,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_CRITICAL_HIT</zType>
-		<Translation>Критический удар</Translation>
+		<Translation>Критический удар~Критического удара~Критическому удару~Критический удар~Критическим ударом~Критическом ударе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_ENVY</zType>
-		<Translation>Зависть</Translation>
+		<Translation>Зависть~Зависти</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_GENERAL</zType>
@@ -94,7 +94,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_JOIN_COURT</zType>
-		<Translation>Пригласить к двору</Translation>
+		<Translation>Пригласить ко двору</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_IDLE</zType>
@@ -431,7 +431,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_VASSALAGE</zType>
-		<Translation>Принять закон о Вассальстве</Translation>
+		<Translation>Принять закон о Вассалитете</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_COLONIZATION</zType>
@@ -535,67 +535,67 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_VENERATION</zType>
-		<Translation>Закрепить Поклонение</Translation>
+		<Translation>Принять Поклонение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_MYTHOLOGY</zType>
-		<Translation>Закрепить Мифологию</Translation>
+		<Translation>Принять Мифологию</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_LEGALISM</zType>
-		<Translation>Закрепить Легализм</Translation>
+		<Translation>Принять Легализм</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_DUALISM</zType>
-		<Translation>Закрепить Дуализм</Translation>
+		<Translation>Принять Дуализм</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_REVELATION</zType>
-		<Translation>Закрепить Богооткровение</Translation>
+		<Translation>Принять Богооткровение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_ENLIGHTENMENT</zType>
-		<Translation>Закрепить Духовное просвещение</Translation>
+		<Translation>Принять Духовное просвещение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_REDEMPTION</zType>
-		<Translation>Закрепить Искупление грехов</Translation>
+		<Translation>Принять Искупление грехов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_CITIES</zType>
-		<Translation>Держать под контролем 4 города</Translation>
+		<Translation>Контролировать 4 города</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SEVEN_CITIES</zType>
-		<Translation>Держать под контролем 7 городов</Translation>
+		<Translation>Контролировать 7 городов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TEN_CITIES</zType>
-		<Translation>Держать под контролем 10 городов</Translation>
+		<Translation>Контролировать 10 городов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_THREE_CONNECTED_CITIES</zType>
-		<Translation>Держать под контролем 3 города, связанных со столицей</Translation>
+		<Translation>Контролировать 3 города, связанных со столицей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_CONNECTED_CITIES</zType>
-		<Translation>Держать под контролем 6 городов, связанных со столицей</Translation>
+		<Translation>Контролировать 6 городов, связанных со столицей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_NINE_CONNECTED_CITIES</zType>
-		<Translation>Держать под контролем 9 городов, связанных со столицей</Translation>
+		<Translation>Контролировать 9 городов, связанных со столицей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TEN_POPULATION</zType>
-		<Translation>Держать под контролем 10 населения</Translation>
+		<Translation>Контролировать 10 населения</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_30_POPULATION</zType>
-		<Translation>Держать под контролем 30 населения</Translation>
+		<Translation>Контролировать 30 населения</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_100_POPULATION</zType>
-		<Translation>Держать под контролем 100 населения</Translation>
+		<Translation>Контролировать 100 населения</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_HIGHEST_POPULATION</zType>
@@ -691,151 +691,151 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_WORKERS</zType>
-		<Translation>Держать под контролем 5 link(UNIT_WORKER,7)</Translation>
+		<Translation>Контролировать 5 link(UNIT_WORKER,7)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_FARMS</zType>
-		<Translation>Держать под контролем 6 link(IMPROVEMENT_FARM,7)</Translation>
+		<Translation>Контролировать 6 link(IMPROVEMENT_FARM,7)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_LUMBERMILLS</zType>
-		<Translation>Держать под контролем 6 link(IMPROVEMENT_LUMBERMILL,7)</Translation>
+		<Translation>Контролировать 6 link(IMPROVEMENT_LUMBERMILL,7)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_QUARRIES</zType>
-		<Translation>Держать под контролем 6 link(IMPROVEMENT_QUARRY,7)</Translation>
+		<Translation>Контролировать 6 link(IMPROVEMENT_QUARRY,7)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_MINES</zType>
-		<Translation>Держать под контролем 6 link(IMPROVEMENT_MINE,7)</Translation>
+		<Translation>Контролировать 6 link(IMPROVEMENT_MINE,7)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_PASTURES</zType>
-		<Translation>Держать под контролем 6 link(IMPROVEMENT_PASTURE,7)</Translation>
+		<Translation>Контролировать 6 link(IMPROVEMENT_PASTURE,7)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_CAMPS</zType>
-		<Translation>Держать под контролем 6 link(IMPROVEMENT_CAMP,7)</Translation>
+		<Translation>Контролировать 6 link(IMPROVEMENT_CAMP,7)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_GROVES</zType>
-		<Translation>Держать под контролем 6 link(IMPROVEMENT_GROVE,7)</Translation>
+		<Translation>Контролировать 6 link(IMPROVEMENT_GROVE,7)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_NETS</zType>
-		<Translation>Держать под контролем 6 link(IMPROVEMENT_NETS,1)</Translation>
+		<Translation>Контролировать 6 link(IMPROVEMENT_NETS,1)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_HARBORS</zType>
-		<Translation>Держать под контролем 4 Гавани</Translation>
+		<Translation>Контролировать 4 Гавани</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_GRANARY</zType>
-		<Translation>Держать под контролем 4 Амбара</Translation>
+		<Translation>Контролировать 4 Амбара</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_BARRACKS_RANGES</zType>
-		<Translation>Держать под контролем 6 Казарм или Полигонов</Translation>
+		<Translation>Контролировать 6 Казарм или Полигонов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_BATHS_1</zType>
-		<Translation>Держать под контролем 4 Холодные купальни</Translation>
+		<Translation>Контролировать 4 Холодные купальни</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_BATHS_2</zType>
-		<Translation>Держать под контролем 4 Теплые купальни</Translation>
+		<Translation>Контролировать 4 Теплые купальни</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_BATHS_3</zType>
-		<Translation>Держать под контролем 4 Горячие купальни</Translation>
+		<Translation>Контролировать 4 Горячие купальни</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_THEATER_1</zType>
-		<Translation>Держать под контролем 4 Одеона</Translation>
+		<Translation>Контролировать 4 Одеона</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_THEATER_2</zType>
-		<Translation>Держать под контролем 4 Амфитеатра</Translation>
+		<Translation>Контролировать 4 Амфитеатра</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_THEATER_3</zType>
-		<Translation>Держать под контролем 4 Колизея</Translation>
+		<Translation>Контролировать 4 Колизея</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_MARKET_1</zType>
-		<Translation>Держать под контролем 4 Рынка</Translation>
+		<Translation>Контролировать 4 Рынка</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_MARKET_2</zType>
-		<Translation>Держать под контролем 4 Бакалеи</Translation>
+		<Translation>Контролировать 4 Бакалеи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_MARKET_3</zType>
-		<Translation>Держать под контролем 4 Ярмарки</Translation>
+		<Translation>Контролировать 4 Ярмарки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_LIBRARY_1</zType>
-		<Translation>Держать под контролем 4 Библиотеки</Translation>
+		<Translation>Контролировать 4 Библиотеки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_LIBRARY_2</zType>
-		<Translation>Держать под контролем 4 Академии</Translation>
+		<Translation>Контролировать 4 Академии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_LIBRARY_3</zType>
-		<Translation>Держать под контролем 4 Университета</Translation>
+		<Translation>Контролировать 4 Университета</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_COURTHOUSE_1</zType>
-		<Translation>Держать под контролем 4 Здания суда</Translation>
+		<Translation>Контролировать 4 Здания суда</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_COURTHOUSE_2</zType>
-		<Translation>Держать под контролем 4 Министерства</Translation>
+		<Translation>Контролировать 4 Министерства</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_COURTHOUSE_3</zType>
-		<Translation>Держать под контролем 4 Резиденции</Translation>
+		<Translation>Контролировать 4 Резиденции</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_GARRISON_1</zType>
-		<Translation>Держать под контролем 4 Гарнизона</Translation>
+		<Translation>Контролировать 4 Гарнизона</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_GARRISON_2</zType>
-		<Translation>Держать под контролем 4 Укрепления</Translation>
+		<Translation>Контролировать 4 Укрепления</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_GARRISON_3</zType>
-		<Translation>Держать под контролем 4 Цитадели</Translation>
+		<Translation>Контролировать 4 Цитадели</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_EIGHT_SHRINES</zType>
-		<Translation>Держать под контролем 8 Святынь</Translation>
+		<Translation>Контролировать 8 Святынь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_MONASTERY</zType>
-		<Translation>Держать под контролем 4 Монастыря</Translation>
+		<Translation>Контролировать 4 Монастыря</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_TEMPLE</zType>
-		<Translation>Держать под контролем 4 Храма</Translation>
+		<Translation>Контролировать 4 Храма</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_THREE_CATHEDRAL</zType>
-		<Translation>Держать под контролем 3 Собора</Translation>
+		<Translation>Контролировать 3 Собора</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_EIGHT_TOWNS</zType>
-		<Translation>Держать под контролем 8 городов</Translation>
+		<Translation>Контролировать 8 городов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_RESOURCE_IMPROVEMENTS</zType>
-		<Translation>6 Выгонов, Лагерей, Рощ или Сетей</Translation>
+		<Translation>6 Пастбищ, Лагерей, Рощ или Сетей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_URBAN_IMPROVEMENTS</zType>
-		<Translation>Держать под контролем 6 городских построек</Translation>
+		<Translation>Контролировать 6 городских построек</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_REPAIRED</zType>
@@ -851,163 +851,163 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_PYRAMIDS</zType>
-		<Translation>Держать под контролем Пирамиды</Translation>
+		<Translation>Контролировать Пирамиды</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_GREAT_ZIGGURAT</zType>
-		<Translation>Держать под контролем Великий Зиккурат</Translation>
+		<Translation>Контролировать Великий Зиккурат</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_ORACLE</zType>
-		<Translation>Держать под контролем Оракул</Translation>
+		<Translation>Контролировать Оракул</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_HANGING_GARDENS</zType>
-		<Translation>Держать под контролем Висячие сады</Translation>
+		<Translation>Контролировать Висячие сады</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_NECROPOLIS</zType>
-		<Translation>Держать под контролем Некрополис</Translation>
+		<Translation>Контролировать Некрополис</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_ISHTAR_GATE</zType>
-		<Translation>Держать под контролем Ворота Иштара</Translation>
+		<Translation>Контролировать Ворота Иштара</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_LIGHTHOUSE</zType>
-		<Translation>Держать под контролем Фаросский Маяк</Translation>
+		<Translation>Контролировать Фаросский Маяк</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_APADANA</zType>
-		<Translation>Держать под контролем Ападану</Translation>
+		<Translation>Контролировать Ападану</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_MAUSOLEUM</zType>
-		<Translation>Держать под контролем Галикарнасский Мавзолей</Translation>
+		<Translation>Контролировать Галикарнасский Мавзолей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_ACROPOLIS</zType>
-		<Translation>Держать под контролем Афинский Акрополь</Translation>
+		<Translation>Контролировать Афинский Акрополь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_COLOSSUS</zType>
-		<Translation>Держать под контролем Колосса</Translation>
+		<Translation>Контролировать Колосса</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_MUSAEUM</zType>
-		<Translation>Держать под контролем Александрийскую библиотеку</Translation>
+		<Translation>Контролировать Александрийскую библиотеку</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_CIRCUS_MAXIMUS</zType>
-		<Translation>Держать под контролем Большой цирк</Translation>
+		<Translation>Контролировать Большой цирк</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_PANTHEON</zType>
-		<Translation>Держать под контролем Пантеон</Translation>
+		<Translation>Контролировать Пантеон</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_HAGIA_SOPHIA</zType>
-		<Translation>Держать под контролем Собор Святой Софии</Translation>
+		<Translation>Контролировать Собор Святой Софии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_GRAND_BAZAAR</zType>
-		<Translation>Держать под контролем Гранд-Базар</Translation>
+		<Translation>Контролировать Гранд-Базар</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_DEVELOPING</zType>
-		<Translation>Держать под контролем 5 Развивающихся городов</Translation>
+		<Translation>Контролировать 5 Развивающихся городов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_STRONG</zType>
-		<Translation>Держать под контролем 4 Сильных города</Translation>
+		<Translation>Контролировать 4 Сильных города</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_THREE_LEGENDARY</zType>
-		<Translation>Держать под контролем 3 Легендарных города</Translation>
+		<Translation>Контролировать 3 Легендарных города</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_LEGENDARY</zType>
-		<Translation>Держать под контролем 6 Легендарных городов</Translation>
+		<Translation>Контролировать 6 Легендарных городов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_WONDERS</zType>
-		<Translation>Держать под контролем 2 Чуда (1 Сильное)</Translation>
+		<Translation>Контролировать 2 Чуда (1 Сильное)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_WONDERS</zType>
-		<Translation>Держать под контролем 4 Чуда (1 Легендарное)</Translation>
+		<Translation>Контролировать 4 Чуда (1 Легендарное)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SEVEN_WONDERS</zType>
-		<Translation>Держать под контролем 7 Чудес </Translation>
+		<Translation>Контролировать 7 Чудес </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_POETS</zType>
-		<Translation>Держать под контролем 2 Старших поэта</Translation>
+		<Translation>Контролировать 2 Старших поэта</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_OFFICERS</zType>
-		<Translation>Держать под контролем 2 Старших офицера</Translation>
+		<Translation>Контролировать 2 Старших офицера</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_SCRIBES</zType>
-		<Translation>Держать под контролем 2 Старших секретаря</Translation>
+		<Translation>Контролировать 2 Старших секретаря</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_MONKS</zType>
-		<Translation>Держать под контролем 2 Старших монаха</Translation>
+		<Translation>Контролировать 2 Старших монаха</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_PRIESTS</zType>
-		<Translation>Держать под контролем 2 Старших священника</Translation>
+		<Translation>Контролировать 2 Старших священника</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_SHOPKEEPERS</zType>
-		<Translation>Держать под контролем 2 Старших торговца</Translation>
+		<Translation>Контролировать 2 Старших торговца</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_PHILOSOPHERS</zType>
-		<Translation>Держать под контролем 2 Старших философа</Translation>
+		<Translation>Контролировать 2 Старших философа</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_10_SPECIALISTS</zType>
-		<Translation>Держать под контролем 10 специалистов</Translation>
+		<Translation>Контролировать 10 специалистов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_30_SPECIALISTS</zType>
-		<Translation>Держать под контролем 30 специалистов</Translation>
+		<Translation>Контролировать 30 специалистов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_10_ELDER_SPECIALISTS</zType>
-		<Translation>Держать под контролем 10 Старших специалистов</Translation>
+		<Translation>Контролировать 10 Старших специалистов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_20_ELDER_SPECIALISTS</zType>
-		<Translation>Держать под контролем 20 Старших специалистов</Translation>
+		<Translation>Контролировать 20 Старших специалистов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_WALLS</zType>
-		<Translation>Держать под контролем 6 Стен</Translation>
+		<Translation>Контролировать 6 Стен</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_MOATS</zType>
-		<Translation>Держать под контролем 6 Рвов</Translation>
+		<Translation>Контролировать 6 Рвов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_TOWERS</zType>
-		<Translation>Держать под контролем 6 Башен</Translation>
+		<Translation>Контролировать 6 Башен</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_TREASURIES</zType>
-		<Translation>Держать под контролем 6 Казначейств</Translation>
+		<Translation>Контролировать 6 Казначейств</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_FORUMS</zType>
-		<Translation>Держать под контролем 6 Форумов</Translation>
+		<Translation>Контролировать 6 Форумов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_ARCHIVES</zType>
-		<Translation>Держать под контролем 6 Архивов</Translation>
+		<Translation>Контролировать 6 Архивов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_FESTIVALS</zType>
@@ -1015,7 +1015,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_CONVOYS</zType>
-		<Translation>Держать под контролем 6 Конвоев</Translation>
+		<Translation>Контролировать 6 Конвоев</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_LEGENDARY_PROJECTS</zType>
@@ -1075,7 +1075,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_STATE_RELIGION</zType>
-		<Translation>Объявить местную религию</Translation>
+		<Translation>Объявить государственную религию</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_ESTABLISH_THEOLOGY</zType>
@@ -1135,19 +1135,19 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_MILITARY</zType>
-		<Translation>Держать под контролем 5 военных отрядов</Translation>
+		<Translation>Контролировать 5 военных отрядов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_RANGED</zType>
-		<Translation>Держать под контролем 5 отрядов дальнего боя</Translation>
+		<Translation>Контролировать 5 отрядов дальнего боя</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_MOUNTED</zType>
-		<Translation>Держать под контролем 5 всадников</Translation>
+		<Translation>Контролировать 5 всадников</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_SIEGE</zType>
-		<Translation>Держать под контролем 5 осадных отрядов</Translation>
+		<Translation>Контролировать 5 осадных отрядов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_RANGED_MOUNTED</zType>
@@ -1167,7 +1167,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_20_UNITS</zType>
-		<Translation>Держать под контролем 20 военных отрядов (5 катафрактов)</Translation>
+		<Translation>Контролировать 20 военных отрядов (5 катафрактов)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_HIGHEST_MILITARY</zType>
@@ -1175,60 +1175,60 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_BATTERING_RAM</zType>
-		<Translation>Держать под контролем 2 Тарана</Translation>
+		<Translation>Контролировать 2 Тарана</Translation>
 	</Entry>
 	<!-- Требуется перевод -->
 	<Entry>
 		<zType>TEXT_GOAL_TWO_SIEGE_TOWER</zType>
-		<Translation>Держать под контролем 2 Осадные башни</Translation>
+		<Translation>Контролировать 2 Осадные башни</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_AKKADIAN_ARCHER</zType>
-		<Translation>Держать под контролем 2 Аккадских лучника</Translation>
+		<Translation>Контролировать 2 Аккадских лучника</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_CIMMERIAN_ARCHER</zType>
-		<Translation>Держать под контролем 2 Киммерийских лучника</Translation>
+		<Translation>Контролировать 2 Киммерийских лучника</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_AFRICAN_ELEPHANT</zType>
-		<Translation>Держать под контролем 2 Африканских слона</Translation>
+		<Translation>Контролировать 2 Африканских слона</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_TURRETED_ELEPHANT</zType>
-		<Translation>Держать под контролем 2 Боевых слона</Translation>
+		<Translation>Контролировать 2 Боевых слона</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_LIGHT_CHARIOT</zType>
-		<Translation>Держать под контролем 2 Легкие колесницы</Translation>
+		<Translation>Контролировать 2 Легкие колесницы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_KUSHITE_CAVALRY</zType>
-		<Translation>Держать под контролем 2 Кушитских кавалерии</Translation>
+		<Translation>Контролировать 2 Кушитских кавалерии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_HOPLITE</zType>
-		<Translation>Держать под контролем 2 Гоплита</Translation>
+		<Translation>Контролировать 2 Гоплита</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_PHALANGITE</zType>
-		<Translation>Держать под контролем 2 Фалангита</Translation>
+		<Translation>Контролировать 2 Фалангита</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_PALTON_CAVALRY</zType>
-		<Translation>Держать под контролем 2 Палтонских кавалерии</Translation>
+		<Translation>Контролировать 2 Палтонских кавалерии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_CATAPHRACT_ARCHER</zType>
-		<Translation>Держать под контролем 2 Катафрактарских лучника</Translation>
+		<Translation>Контролировать 2 Катафрактарских лучника</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_HASTATUS</zType>
-		<Translation>Держать под контролем 2 Гастата</Translation>
+		<Translation>Контролировать 2 Гастата</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_LEGIONARY</zType>
-		<Translation>Держать под контролем 2 Легионера</Translation>
+		<Translation>Контролировать 2 Легионера</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_COURTIERS</zType>
@@ -1264,19 +1264,19 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_TEMPLES_ZOROASTRIANISM</zType>
-		<Translation>Держать под контролем 3 Зороастрийских храма</Translation>
+		<Translation>Контролировать 3 Зороастрийских храма</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_SIX_TEMPLES_JUDAISM</zType>
-		<Translation>Держать под контролем 3 Иудейских храма</Translation>
+		<Translation>Контролировать 3 Иудейских храма</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_THREE_CATHEDRALS_CHRISTIANITY</zType>
-		<Translation>Держать под контролем 3 Христианских Собора</Translation>
+		<Translation>Контролировать 3 Христианских Собора</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_THREE_CATHEDRALS_MANICHAEISM</zType>
-		<Translation>Держать под контролем 3 Манихейских Собора</Translation>
+		<Translation>Контролировать 3 Манихейских Собора</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_QUEST_INQUIRING_MINDS</zType>
@@ -1304,7 +1304,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_QUEST_COLOSSUS</zType>
-		<Translation>Держать под контролем Колосс</Translation>
+		<Translation>Контролировать Колосс</Translation>
 	</Entry>
 	<!-- Местами могуть быть неточности, своеобразная манера повествования от первого лица -->
 <Entry>
