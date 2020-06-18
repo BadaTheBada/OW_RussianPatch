@@ -202,7 +202,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_EFFECT_PLAYER_SOURCE_RELIGION</zType>
-    <Translation>Местная религия: {0_religion}</Translation>
+    <Translation>Государственная религия: {0_religion}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_EFFECT_CITY_SOURCE</zType>
@@ -218,7 +218,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_ROAD</zType>
-    <Translation>Дорога</Translation>
+    <Translation>Дорога~Дороги~Дороге~Дорогу~Дорогой~Дороге</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_OUTSIDE_BORDERS</zType>
@@ -230,7 +230,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_DISLOYALTY</zType>
-    <Translation>Неверность</Translation>
+    <Translation>Неверность~Неверности</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_LARGEST_POPULATION</zType>
@@ -270,7 +270,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_LEGITIMACY</zType>
-    <Translation>icon(YIELD_LEGITIMACY) Легитимность</Translation>
+    <Translation>icon(YIELD_LEGITIMACY) Легитимность~icon(YIELD_LEGITIMACY) Легитимности</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_GREAT_PERSON</zType>
@@ -302,7 +302,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_CAPITAL</zType>
-    <Translation><![CDATA[{0_icon}<true_1> Столица<false><end>]]></Translation>
+    <Translation><![CDATA[{0_icon}<true_1> Столица<false><end>~{0_icon}<true_1> Столицы<false><end>~{0_icon}<true_1> Столице<false><end>~{0_icon}<true_1> Столицу<false><end>~{0_icon}<true_1> Столицей<false><end>~{0_icon}<true_1> Столице<false><end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_TECH_PROGRESS</zType>
@@ -310,7 +310,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_BUILD_QUEUE_PROJECT</zType>
-    <Translation><![CDATA[{0_project}<true_1> (На повторе)<false><end>]]></Translation>
+    <Translation><![CDATA[{0_project}<true_1> (Повторяется)<false><end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_BUILD_QUEUE_PROJECT_COMPLETE</zType>
@@ -398,7 +398,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_STATE_RELIGION</zType>
-    <Translation>Местная религия</Translation>
+    <Translation>Государственная религия</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_TILE</zType>
@@ -543,7 +543,7 @@
   <!--Turns Text-->
   <Entry>
     <zType>TEXT_HELPTEXT_TURNS_TEXT</zType>
-    <Translation><![CDATA[<true_1>({0_number} <singular_0>г<plural>г<plural2>л<end>)<false>{0_number}<singular_0>г<plural>г<plural2>л<end><end>]]></Translation>
+    <Translation><![CDATA[<true_1>({0_number}<singular_0>г<plural>г<plural2>л<end>)<false>{0_number}<singular_0>г<plural>г<plural2>л<end><end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TURNS_TEXT_UNKNOWN</zType>
@@ -860,11 +860,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_STATE_RELIGION_CURRENT</zType>
-    <Translation><![CDATA[Местная: {0_religion}<true_1> ({1_city})<false><end>]]></Translation>
+    <Translation><![CDATA[Государственная: {0_religion}<true_1> ({1_city})<false><end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_STATE_RELIGION_ITEM</zType>
-    <Translation><![CDATA[{0_religion}<true_1> ({1_city})<false><end><true_2> (Местная)<false><end>]]></Translation>
+    <Translation><![CDATA[{0_religion}<true_1> ({1_city})<false><end><true_2> (государственная)<false><end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_TRADE_LUXURY_SEND</zType>
@@ -1376,7 +1376,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_ESTABLISH_THEOLOGY_REQUIRES_STATE_RELIGION</zType>
-    <Translation>Требуется наличие местной религии</Translation>
+    <Translation>Требуется наличие государственной религии</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_SPREAD_RELIGION</zType>
@@ -1384,7 +1384,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_SPREAD_RELIGION_AS_STATE_RELIGION</zType>
-    <Translation>Местная религия: </Translation>
+    <Translation>Государственная религия: </Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_SPREAD_RELIGION_EFFECT_YIELDS</zType>
@@ -1698,23 +1698,23 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_DISCONTENT_FAMILY_OPINION</zType>
-    <Translation>{0_value} мнение {1,1_family}</Translation>
+    <Translation>{0_value} к мнению семьи {1_family}</Translation>
   </Entry>
   <!-- The whitespace here is important. Any added newlines or tabs will show up in the tooltip -->
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_DIPLOMACY_PEACE_BARBARIAN</zType>
     <Translation>
-Вы не сможете атаковать друг друга.
+Вы не можете атаковать друг друга.
 Мир будет длиться до конца правления действующего лидера.
-Их отряды станут менее склонны к войне и грабежам.
-Они смогут перемещаться и лечиться на вашей территории.</Translation>
+Их отряды не склонны к войне и грабежам.
+Они могут перемещаться и лечиться на вашей территории.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_DIPLOMACY_PEACE_PLAYER</zType>
     <Translation>
-Вы не сможете атаковать друг друга.
-Они станут менее склонны объявлять вам войну.
-Вы сможете перемещаться и лечиться на территории друг друга.</Translation>
+Вы не можете атаковать друг друга.
+Они не хотят воевать с вами.
+Вы можете перемещаться и лечиться на территории друг друга.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_DIPLOMACY_TRUCE</zType>
@@ -1810,7 +1810,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_LEGITIMACY_OPINIONS</zType>
-    <Translation>{0_value}: Мнение семьи</Translation>
+    <Translation>{0_value}: мнение семьи</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_LOCATION</zType>
@@ -1954,7 +1954,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORS</zType>
-    <Translation><![CDATA[Улучшит характеристики королевских отпрысков (для детей возрастом от {0_age})<br>Ученики:]]></Translation>
+    <Translation><![CDATA[Улучшит характеристики королевских отпрысков (для детей возрастом от {0_age} <singular_0>года<plural>лет<plural2>лет<end>)<br>Ученики: ]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_UNIT_CYCLE_KEY</zType>
@@ -1998,7 +1998,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_URBAN_RURAL_POPULATION</zType>
-    <Translation>Каждая городская клетка обеспечивает {0_value} {1,1_populationEffect}</Translation>
+    <Translation>Каждая городская клетка приносит {0_value} ед. {1,1_populationEffect}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_URBAN_ATTACK_INTO</zType>
@@ -2080,7 +2080,7 @@
   <!--Improvement Requires Help-->
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_PREFIX</zType>
-    <Translation>Требует {0}</Translation>
+    <Translation>Требует: {0}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_WARN_HARVESTED</zType>
@@ -2350,7 +2350,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_TYPE_REQUIRES_STATE_RELIGION</zType>
-    <Translation>Местная религия</Translation>
+    <Translation>Государственная религия</Translation>
   </Entry>
   <!--Improvement Set Help-->
   <Entry>
@@ -2453,7 +2453,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_CRITICAL_IMMUNE</zType>
-    <Translation>Невосприимчив к link(CONCEPT_CRITICAL_HIT)</Translation>
+    <Translation>Невосприимчив к link(CONCEPT_CRITICAL_HIT,2)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_HEAL_NEUTRAL</zType>
@@ -2465,7 +2465,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_NO_ROAD_COOLDOWN</zType>
-    <Translation>Добавляет несколько дорог в год</Translation>
+    <Translation>Могут строить несколько дорог в год</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_VS_UNIT_TRAIT</zType>
@@ -2522,19 +2522,19 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_IMPROVEMENT_COST</zType>
-    <Translation>{0_value} - стоимость постройки</Translation>
+    <Translation>{0_value} стоимости постройки</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_SPECIALIST_COST</zType>
-    <Translation>{0_value} - стоимость специалиста</Translation>
+    <Translation>{0_value} стоимости специалиста</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_RURAL_SPECIALIST_TRAIN_TIME</zType>
-    <Translation>{0_value} к времени обучения {1,1_specialist}</Translation>
+    <Translation>{0_value} времени обучения {1,1_specialist}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_URBAN_SPECIALIST_COST</zType>
-    <Translation>{0_value} - стоимость {1,1_specialist}</Translation>
+    <Translation>{0_value} стоимости {1,1_specialist}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_URBAN_SPECIALIST_TRAIN_TIME</zType>
@@ -2542,7 +2542,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_DISCIPLE_TRAIN_TIME</zType>
-    <Translation>{0_value} - время создания апостола </Translation>
+    <Translation>{0_value} времени создания апостола </Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_HURRY_DISCONTENT</zType>
@@ -2598,7 +2598,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_STATE_RELIGION_IMPROVEMENTS</zType>
-    <Translation>Можно строить сооружения местной религии</Translation>
+    <Translation>Можно строить сооружения государственной религии</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_COST_MODIFIER</zType>
@@ -2610,7 +2610,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_TRAIT_XP</zType>
-    <Translation>{0_value} XP за новых {1,2_unitTrait}</Translation>
+    <Translation>{0_value} XP за новые {1,4_unitTrait}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_TRAIT_LEVEL</zType>
@@ -2715,7 +2715,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_IMPROVEMENT_MODIFIER_YIELD</zType>
-    <Translation>Продукция {0,7_improvementList}: {1_value}</Translation>
+    <Translation>{1_value} продукции с {0,7_improvementList}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_IMPROVEMENT_RIVER_MODIFIER</zType>
@@ -2723,7 +2723,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_IMPROVEMENT_CLASS_MODIFIER_YIELD</zType>
-    <Translation>Продукция {0,7_improvementClassList}: {1_value}</Translation>
+    <Translation>{1_value} продукции с {0,7_improvementClassList}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_IMPROVEMENT_CLASS_YIELD</zType>
@@ -2776,7 +2776,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_ENABLES</zType>
-    <Translation>Дает доступ к: {0_link}</Translation>
+    <Translation>Дает доступ к: {0,2_link}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_URBAN_BUILDING</zType>
@@ -2812,7 +2812,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_UNLOCKS_UNIT</zType>
-    <Translation>Открывает {0_unit}</Translation>
+    <Translation>Открывает {0,3_unit}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_CREATES_UNITS</zType>
@@ -2833,7 +2833,7 @@
   <!--City Connected Help-->
   <Entry>
     <zType>TEXT_HELPTEXT_CITY_CONNECTED</zType>
-    <Translation><![CDATA[Город связан с {0,4_capital}.<br>Эффекты:]]></Translation>
+    <Translation><![CDATA[Город связан со {0,4_capital}.<br>Эффекты: ]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CITY_CONNECTED_HOTKEY</zType>
@@ -2871,7 +2871,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_STATE_RELIGION_CITIES_EFFECT</zType>
-    <Translation>[Города местной религии] </Translation>
+    <Translation>[Города государственной религии] </Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_CAPITAL_EFFECT</zType>
@@ -2923,7 +2923,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_SWITCH_LAW_MODIFIER</zType>
-    <Translation>Стоимость смены законов: {0_value}</Translation>
+    <Translation>Стоимость смены законов {0_value}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_TRAINING_MODIFIER</zType>
@@ -3104,11 +3104,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_CLASS_OPINION_MOST_CITIES</zType>
-    <Translation>Большинство городов: {0_value}</Translation>
+    <Translation>Наибольшее число городов: {0_value}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_CLASS_OPINION_LEAST_CITIES</zType>
-    <Translation>Меньшинство городов: {0_value}</Translation>
+    <Translation>Наименьшее число городов: {0_value}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_CLASS_OPINION_NO_RELIGION</zType>
@@ -3148,7 +3148,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_CLASS_OPINION_STATE_RELIGION_THEOLOGY</zType>
-    <Translation>У местной религии есть {0_theology}: {1_value}</Translation>
+    <Translation>У государственной религии есть {0_theology}: {1_value}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_CLASS_OPINION_CITY_THEOLOGY</zType>
@@ -3328,7 +3328,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_STATE_RELIGION</zType>
-    <Translation>Объявить {0,3_religion} местной религией</Translation>
+    <Translation>Объявить {0,3_religion} государственной религией</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_SPREAD_RELIGION</zType>
@@ -3368,7 +3368,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_CHANGE_DIPLOMACY</zType>
-    <Translation>Объявить {0,3_religion} местной религией</Translation>
+    <Translation>Объявить {0,3_religion} государственной религией</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_FREE_BUILD</zType>
@@ -3448,7 +3448,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_FREE_UNIT</zType>
-    <Translation><![CDATA[Получить {0,3_unit}<true_1> (x{1_number})<false><end><true_2> в {2,4_city}<false><end>]]></Translation>
+    <Translation><![CDATA[Появляется {0_unit}<true_1> (x{1_number})<false><end><true_2> в {2,4_city}<false><end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_TRADE_CITY</zType>
@@ -3456,7 +3456,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_JOIN_COURTIER</zType>
-    <Translation>Придворный {0_join}: {1_courtier}</Translation>
+    <Translation>{0_join}: {1_courtier}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_MAKE_COURTIER</zType>
@@ -3472,7 +3472,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_FREE_LAW</zType>
-    <Translation>Освободить закон: {0_law}</Translation>
+    <Translation>Принять закон: {0_law}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_REPLACES_LAW</zType>
@@ -3480,7 +3480,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_ADOPT_RELIGION</zType>
-    <Translation>Объявляет {0,3_religion} ({1_cost}) местной религией</Translation>
+    <Translation>Объявляет {0,3_religion} ({1_cost}) государственной религией</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_FREE_THEOLOGY</zType>
@@ -3492,7 +3492,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_STATE_RELIGION_END</zType>
-    <Translation><![CDATA[Отказаться от местной религии<true_0> ({0_religion})<false><end>]]></Translation>
+    <Translation><![CDATA[Отказаться от государственной религии<true_0> ({0_religion})<false><end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_RANODM_TECH</zType>
@@ -3538,7 +3538,7 @@
   <!--Trait Help-->
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_TITLE</zType>
-    <Translation>{0_trait} (признак)</Translation>
+    <Translation>{0_trait} (особая черта)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_LEADER_MISSION</zType>
@@ -3582,23 +3582,23 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_DEATH_CHANCE</zType>
-    <Translation>{0_value}% - шанс смерти</Translation>
+    <Translation>{0_value}% шанс смерти</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_OPINION</zType>
-    <Translation>{0_value} - мнение правителя</Translation>
+    <Translation>{0_value} мнение правителя</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_OPINION_FAMILY</zType>
-    <Translation>{0_value} - мнение семьи</Translation>
+    <Translation>{0_value} мнение семьи</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_BIRTH_CHANCE</zType>
-    <Translation>{0_value}% - шанс завести ребенка</Translation>
+    <Translation>{0_value}% шанс завести ребенка</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_OTHER_TRAIT_CHANCE</zType>
-    <Translation>{0_value}% - шанс {1,1_trait}</Translation>
+    <Translation>{0_value}% шанс стать {1,5_trait}</Translation>
   </Entry>
   <!--Player Help-->
   <Entry>
@@ -3663,7 +3663,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_PLAYER_OPINION_STATE_RELIGION</zType>
-    <Translation>{0_opinion}: наши местные религии</Translation>
+    <Translation>{0_opinion}: наша религия - государственная</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_PLAYER_OPINION_STRENGTH</zType>
@@ -3716,15 +3716,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_FROM_OUR</zType>
-    <Translation>{0_value}: от нашего {1,3}</Translation>
+    <Translation>{0_value}: от нашей {1,1}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_FROM_THEIR</zType>
-    <Translation>{0_value}: от их {1,3}</Translation>
+    <Translation>{0_value}: от их {1,1}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_CITIES_CLOSE</zType>
-    <Translation>{0_value}: наши города близки</Translation>
+    <Translation>{0_value}: наши города рядом</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_CITIES_DISTANT</zType>
@@ -3780,7 +3780,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_STATE_RELIGION</zType>
-    <Translation>{0_value}: наша местная религия ({1_religionLink})</Translation>
+    <Translation>{0_value}: наша государственная религия ({1_religionLink})</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_ADOPT_RELIGION</zType>
@@ -3788,7 +3788,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_STATE_THEOLOGY</zType>
-    <Translation>{0_value}: теология нашей местной религии ({1_theologyLink})</Translation>
+    <Translation>{0_value}: теология нашей государственной религии ({1_theologyLink})</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_CITIES_THEOLOGY</zType>
@@ -3816,11 +3816,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_MOST_CITIES</zType>
-    <Translation>{0_value}: большинство городов</Translation>
+    <Translation>{0_value}: наибольшее число городов</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_FEWEST_CITIES</zType>
-    <Translation>{0_value}: меньшинство городов</Translation>
+    <Translation>{0_value}: наименьшее число городов</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_CITIES_NO_RELIGION</zType>
@@ -3890,7 +3890,7 @@
   <!--Tile Buttons-->
   <Entry>
     <zType>TEXT_HELPTEXT_TILE_HARVEST_RESOURCE_BUTTON</zType>
-    <Translation><![CDATA[Собирать {0,3_resource}<true_1> (Авто)<false><end>]]></Translation>
+    <Translation><![CDATA[Собрать {0,3_resource}<true_1> (Авто)<false><end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TILE_HEAL_BUTTON</zType>
@@ -4035,7 +4035,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_RELIGION_STATE_HEADER</zType>
-    <Translation>Местная религия</Translation>
+    <Translation>Государственная религия</Translation>
   </Entry>
   <!--POPUPS-->
   <Entry>
@@ -4136,7 +4136,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECLARE_WAR_BARBARIAN_DESC</zType>
-    <Translation>Объявить войну {0.2_barbarians}?</Translation>
+    <Translation>Объявить войну {0,2_barbarians}?</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECLARE_WAR_TEAM_DESC</zType>
