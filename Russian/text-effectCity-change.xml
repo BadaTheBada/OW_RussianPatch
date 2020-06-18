@@ -40,7 +40,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_POPULATION</zType>
-		<Translation>Население</Translation>
+		<Translation>Население~Населения</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY</zType>

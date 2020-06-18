@@ -140,7 +140,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CENTER_BIAS</zType>
-		<Translation>Ландшафт в центре</Translation>
+		<Translation>Начать в центре карты</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENTS</zType>
