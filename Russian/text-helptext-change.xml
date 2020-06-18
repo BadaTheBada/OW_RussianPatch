@@ -3974,11 +3974,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TILE_ADD_GENERAL_BUTTON</zType>
-    <Translation>Добавить генерала</Translation>
+    <Translation>Назначить генерала</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TILE_RELEASE_GENERAL_BUTTON</zType>
-    <Translation>Освободить генерала</Translation>
+    <Translation>Отстранить генерала</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TILE_GIFT_TO_PLAYER_BUTTON</zType>
