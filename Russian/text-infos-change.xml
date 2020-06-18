@@ -1441,7 +1441,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_NAVIGATION</zType>
-		<Translation>Навигация~Невигации~Навигации~Навигацию~Навигацией~Навигации</Translation>
+		<Translation>Навигация~Навигации~Навигации~Навигацию~Навигацией~Навигации</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_NAVIGATION_BONUS_BIREME</zType>
@@ -1529,7 +1529,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_COINAGE</zType>
-		<Translation>Чеканка монет~Чеканки монет~Чеканке монет~Чеканку монет~Чеканкой монетами~Чеканке монет</Translation>
+		<Translation>Чеканка монет~Чеканки монет~Чеканке монет~Чеканку монет~Чеканкой монет~Чеканке монет</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_COINAGE_BONUS_MONEY</zType>
@@ -1689,11 +1689,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_ECONOMIC_REFORM</zType>
-		<Translation>Экономическая реформа~Экономической реормы~Экономической реформе~Экономическую реформу~Экономической реформой~Экономической реформе</Translation>
+		<Translation>Экономическая реформа~Экономической реформы~Экономической реформе~Экономическую реформу~Экономической реформой~Экономической реформе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_BATTERING_RAM_BONUS</zType>
-		<Translation>Таран~Тарана~Тарану~Тарана~Тараном~Таране</Translation>
+		<Translation>Таран~Тарана~Тарану~Таран~Тараном~Таране</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_SIEGE_TOWER_BONUS</zType>
