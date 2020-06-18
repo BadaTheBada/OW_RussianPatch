@@ -18,7 +18,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_SPYMASTER</zType>
-		<Translation>Назначить шпионом</Translation>
+		<Translation>Назначить начальником разведки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TEAM_ALLIANCE</zType>
@@ -30,11 +30,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TEAM_ALLIANCE_CHARACTER</zType>
-		<Translation>Вступить в союз с</Translation>
+		<Translation>Вступить в союз с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE</zType>
-		<Translation>Заключить мир</Translation>
+		<Translation>Заключить мир с нацией</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE_TARGET</zType>
@@ -42,67 +42,67 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE_CHARACTER</zType>
-		<Translation>Заключить мир с</Translation>
+		<Translation>Заключить мир с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE</zType>
-		<Translation>Перемирие</Translation>
+		<Translation>Заключить перемирие с нацией</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE_TARGET</zType>
-		<Translation>Перемирие с</Translation>
+		<Translation>Заключить перемирие с</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE_CHARACTER</zType>
-		<Translation>Перемирие с</Translation>
+		<Translation>Заключить перемирие с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_DECLARE_WAR</zType>
-		<Translation>Объявить войну</Translation>
+		<Translation>Объявить войну нации</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_DECLARE_WAR_CHARACTER</zType>
-		<Translation>Объявить войну</Translation>
+		<Translation>Объявить войну с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_BREAK_PEACE</zType>
-		<Translation>Нарушить мир</Translation>
+		<Translation>Нарушить мир с нацией</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_BREAK_PEACE_CHARACTER</zType>
-		<Translation>Нарушить мир с</Translation>
+		<Translation>Нарушить мир с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_END_ALLIANCE</zType>
-		<Translation>Расторгнуть союз</Translation>
+		<Translation>Выйти из союза с нацией</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_END_ALLIANCE_CHARACTER</zType>
-		<Translation>Расторгнуть союз с</Translation>
+		<Translation>Выйти из союза с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_CANCEL_TRADE</zType>
-		<Translation>Прекратить всю торговлю</Translation>
+		<Translation>Прекратить торговлю</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_CANCEL_TRADE_CHARACTER</zType>
-		<Translation>Прекратить всю торговлю с</Translation>
+		<Translation>Прекратить торговлю с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_ALLIANCE</zType>
-		<Translation>Заключить союз</Translation>
+		<Translation>Вступить в союз с племенем</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_ALLIANCE_TARGET</zType>
-		<Translation>Заключить союз с</Translation>
+		<Translation>Вступить в союз с</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_ALLIANCE_CHARACTER</zType>
-		<Translation>Заключить союз с</Translation>
+		<Translation>Вступить в союз с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_PEACE</zType>
-		<Translation>Заключить мир</Translation>
+		<Translation>Заключить мир с племенем</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_PEACE_TARGET</zType>
@@ -110,11 +110,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_PEACE_CHARACTER</zType>
-		<Translation>Заключить мир с</Translation>
+		<Translation>Заключить мир с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_TRUCE</zType>
-		<Translation>Заключить перемирие</Translation>
+		<Translation>Заключить перемирие с племенем</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_TRUCE_TARGET</zType>
@@ -122,31 +122,31 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_TRUCE_CHARACTER</zType>
-		<Translation>Заключить перемирие с</Translation>
+		<Translation>Заключить перемирие с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_DECLARE_WAR</zType>
-		<Translation>Объявить войну</Translation>
+		<Translation>Объявить войну племени</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_DECLARE_WAR_CHARACTER</zType>
-		<Translation>Объявить войну с</Translation>
+		<Translation>Объявить войну с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_BREAK_PEACE</zType>
-		<Translation>Нарушить мир</Translation>
+		<Translation>Нарушить мир с племенем</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_BREAK_PEACE_CHARACTER</zType>
-		<Translation>Нарушить мир с</Translation>
+		<Translation>Нарушить мир с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_END_ALLIANCE</zType>
-		<Translation>Расторгнуть союз</Translation>
+		<Translation>Выйти из союза с племенем</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_END_ALLIANCE_CHARACTER</zType>
-		<Translation>Расторгнуть союз с</Translation>
+		<Translation>Выйти из союза с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ADOPT_RELIGION</zType>
@@ -190,11 +190,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INFILTRATE_TARGET</zType>
-		<Translation>Внедрить шпиона</Translation>
+		<Translation>Внедрить шпиона к</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INFILTRATE_CHARACTER</zType>
-		<Translation>Внедрить шпиона</Translation>
+		<Translation>Внедрить шпиона с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ASSASSINATE</zType>
@@ -202,7 +202,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ASSASSINATE_CHARACTER</zType>
-		<Translation>Убить</Translation>
+		<Translation>Убить с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRADE_MISSION</zType>
@@ -214,7 +214,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRADE_MISSION_CHARACTER</zType>
-		<Translation>Торговая делегация в</Translation>
+		<Translation>Торговая делегация с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_FAMILY_GIFT</zType>
@@ -222,7 +222,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_FAMILY_GIFT_CHARACTER</zType>
-		<Translation>Подарить семье</Translation>
+		<Translation>Подарить семье с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_IMPRISON</zType>
@@ -230,7 +230,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_IMPRISON_CHARACTER</zType>
-		<Translation>Посадить в тюрьму</Translation>
+		<Translation>Посадить в тюрьму с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_RELEASE</zType>
@@ -254,7 +254,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_BARBARIAN_WAR</zType>
-		<Translation>Попросить объявить войну</Translation>
+		<Translation>Попросить племя объявить войну</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_BARBARIAN_WAR_TARGET</zType>
@@ -262,7 +262,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PLAYER_WAR</zType>
-		<Translation>Попросить объявить войну</Translation>
+		<Translation>Попросить нацию объявить войну</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PLAYER_WAR_TARGET</zType>
