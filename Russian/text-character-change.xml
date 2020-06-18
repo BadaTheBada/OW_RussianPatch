@@ -11,7 +11,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_KING_CONSORT</zType>
-		<Translation><![CDATA[<masculine_0>Супруга короля<feminine>Супруг королевы<end> {0_name}]]></Translation>
+		<Translation><![CDATA[<masculine_0>Супруг королевы<feminine>Супруга короля<end> {0_name}]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_KING_DOWAGER</zType>
@@ -23,7 +23,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_PRINCE_CONSORT</zType>
-		<Translation><![CDATA[<masculine_0>Супруга принца<feminine>Супруг принцессы<end> {0_name}]]></Translation>
+		<Translation><![CDATA[<masculine_0>Супруг принцессы<feminine>Супруга принца<end> {0_name}]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_DUKE</zType>
@@ -31,7 +31,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_DUKE_CONSORT</zType>
-		<Translation><![CDATA[<masculine_0>Супргу Герцога<feminine>Супруг герцогини<end> {0_name}]]></Translation>
+		<Translation><![CDATA[<masculine_0>Супруг герцогини<feminine>Супруга герцога<end> {0_name}]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_COUNCIL</zType>
@@ -64,11 +64,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_GRANDCHILD</zType>
-		<Translation><![CDATA[<masculine_0>Ваш правнук<feminine>Ваша правнучка<end>]]></Translation>
+		<Translation><![CDATA[<masculine_0>Ваш внук<feminine>Ваша внучка<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_DESCENDANT</zType>
-		<Translation>Ваш потомок</Translation>
+		<Translation>Ваш отпрыск</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_PARENT</zType>
@@ -112,7 +112,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_PARENT_IN_LAW</zType>
-		<Translation><![CDATA[Your <masculine_0>Father-in-Law<feminine>Mother-in-Law<end>]]></Translation>
+		<Translation><![CDATA[<masculine_0>Отец супруга<feminine>Мать супруга<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_STEPCHILD</zType>
@@ -162,15 +162,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_GENERAL_OF</zType>
-		<Translation>Генерал {0_unit}</Translation>
+		<Translation>Генерал {0,1_unit}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_GOVERNOR_OF</zType>
-		<Translation>Губернатор {0_city}</Translation>
+		<Translation>Губернатор {0,1_city}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_AGENT_IN</zType>
-		<Translation>Агент в {0_city}</Translation>
+		<Translation>Агент в {0,5_city}</Translation>
 	</Entry>
 	<!-- Name -->
 	<Entry>
@@ -191,12 +191,12 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_OF_NATION</zType>
-		<Translation>{0_name} из {1_nation}</Translation>
+		<Translation>{0_name} из {1,1_nation}</Translation>
 	</Entry>
 	<!--Game Text-->
 	<Entry>
 		<zType>TEXT_CHARACTER_NEW_RULER</zType>
-		<Translation><![CDATA[Наш прежний правитель скончался. И сейчас начинается правление {0_newLeader}. Да здравствует <masculine_0>Король<feminine>Королева<end>!]]></Translation>
+		<Translation><![CDATA[Наш правитель скончался. Теперь начинается правление {0,1_newLeader}. Да здравствует <masculine_0>Король<feminine>Королева<end>!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COUNCIL_HAS_DIED</zType>
