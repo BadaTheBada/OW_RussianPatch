@@ -253,6 +253,10 @@
 		<Translation>Развестись с</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_MISSION_DIVORCE_TARGET</zType>
+		<Translation>Divorce</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_MISSION_PLAYER_BARBARIAN_WAR</zType>
 		<Translation>Попросить племя объявить войну</Translation>
 	</Entry>

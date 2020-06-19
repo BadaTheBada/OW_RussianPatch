@@ -903,6 +903,10 @@
 		<Translation>Salt Production</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_SALT_PRODUCTION</zType>
+		<Translation>Salt Production</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTCITY_RELIGION_JUDAISM</zType>
 		<Translation>Judaism</Translation>
 	</Entry>
