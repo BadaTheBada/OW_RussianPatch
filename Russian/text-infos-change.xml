@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Translated by Elena Davydova (Bada) & AlexRjd-->
 <Root>
 	<!-- InfoTerrain -->
 	<Entry>
@@ -1621,7 +1620,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_BODKIN_ARROW</zType>
-		<Translation>Наконечник стрелы "Бодкин"~Наконечника стрелы "Бодкин"~Наконечнику стрелы "Бодкин"~Наконечник стрелы "Бодкин"~Наконечником стрелы "Бодкин"~Наконечнике стрелы "Бодкин"</Translation>
+		<Translation>Бронебойные стрелы~Бронебойных стрел~Бронебойным стрелам~Бронебойные стрелы~Бронебойными стрелами~Бронебойных стрелах</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_BODKIN_ARROW_BONUS_TRAINING</zType>
