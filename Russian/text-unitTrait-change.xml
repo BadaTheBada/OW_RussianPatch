@@ -1,46 +1,49 @@
 <Root>
+<!--Translated by Elena Davydova (Bada)-->
+<!--Первая форма: Воин - БЛИЖНИЙ БОЙ, ПЕХОТА-->
+<!--Вторая форма: Оборона против отрядов БЛИЖНЕГО БОЯ-->
 	<Entry>
 		<zType/>
-		<English/>
+		<Translation />
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_MELEE</zType>
-		<English>Melee</English>
+		<Translation>Ближний бой~Отряды ближнего боя~Отрядов ближнего боя~Отрядам ближнего боя~Отряды ближнего боя~Отрядами ближнего боя~Отрядах ближнего боя</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_RANGED</zType>
-		<English>Ranged</English>
+		<Translation>Дальний бой~Отряды дальнего боя~Отрядов дальнего боя~Отрядам дальнего боя~Отряды дальнего боя~Отрядами дальнего боя~Отрядах дальнего боя</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_INFANTRY</zType>
-		<English>Infantry</English>
+		<Translation>Пехота~Пехотинцы~Пехотинцев~Пехотинцам~Пехотинцев~Пехотинцами~Пехотинцах</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_POLEARM</zType>
-		<English>Polearm</English>
+		<Translation>Копьеносец~Отряды с копьем~Отрядов с копьем~Отрядам с копьем~Отряды с копьем~Отрядами с копьем~Отрядах с копьем</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_MOUNTED</zType>
-		<English>Mounted</English>
+		<Translation>Верховой~Верховые отряды~Верховых отрядов~Верховым отрядам~Верховые отряды~Верховыми отрядами~Верховых отрядах</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_HORSE</zType>
-		<English>Horse</English>
+		<Translation>Конница~Конные отряды~Конных отрядов~Конным отрядам~Конные отряды~Конными отрядами~Конных отрядах</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_CAMEL</zType>
-		<English>Camel</English>
+		<Translation>На верблюдах~Отряды на верблюдах~Отрядов на верблюдах~Отрядам на верблюдах~Отряды на верблюдах~Отрядами на верблюдах~Отрядах на верблюдах</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_ELEPHANT</zType>
-		<English>Elephant</English>
+		<Translation>На слонах~Отряды на слонах~Отрядов на слонах~Отрядам на слонах~Отряды на слонах~Отрядами на слонах~Отрядах на слонах</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_SIEGE</zType>
-		<English>Siege</English>
+		<Translation>Осадное орудие~Осадные орудия~Осадных орудий~Осадным орудиям~Осадные орудия~Осадными орудиями~Осадных орудиях</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_SHIP</zType>
-		<English>Ship</English>
+		<Translation>Корабль~Корабли~Кораблей~Кораблям~Корабли~Кораблями~Кораблях</Translation>
 	</Entry>
 </Root>

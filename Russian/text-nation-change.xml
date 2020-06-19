@@ -1,37 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<!--Translated by Elena Davydova (Bada)-->
+
+
 <Root>
 	<!-- Title -->
 	<Entry>
 		<zType/>
-		<English/>
+		<Translation/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_ASSYRIA</zType>
-		<English>Assyria~Assyrian~Assyrians</English>
+		<Translation><![CDATA[<meta=female>Ассирия~Ассирии~Ассирии~Ассирию~Ассирией~Ассирии]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_BABYLONIA</zType>
-		<English>Babylonia~Babylonian~Babylonians</English>
+		<Translation><![CDATA[<meta=male>Вавилон~Вавилона~Вавилону~Вавилон~Вавилоном~Вавилоне]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_CARTHAGE</zType>
-		<English>Carthage~Carthaginian~Carthaginians</English>
+		<Translation><![CDATA[<meta=male>Карфаген~Карфагена~Карфагену~Карфаген~Карфагеном~Карфагене]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_EGYPT</zType>
-		<English>Egypt~Egyptian~Egyptians</English>
+		<Translation><![CDATA[<meta=male>Египет~Египта~Египту~Египет~Египтом~Египте]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_GREECE</zType>
-		<English>Greece~Greek~Greeks</English>
+		<Translation><![CDATA[<meta=female>Греция~Греции~Греции~Грецию~Грецией~Греции]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_PERSIA</zType>
-		<English>Persia~Persian~Persians</English>
+		<Translation><![CDATA[<meta=female>Персия~Персии~Персии~Персию~Персией~Персии]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_ROME</zType>
-		<English>Rome~Roman~Romans</English>
+		<Translation><![CDATA[<meta=male>Рим~Рима~Риму~Рим~Римом~Риме]]></Translation>
 	</Entry>
 </Root>

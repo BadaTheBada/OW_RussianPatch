@@ -1,240 +1,242 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--Translated by AlexRjg-->
+<!--Editing & Proofreading by Elena Davydova (Bada)-->
 <Root>
 	<!--Generic-->
 	<Entry>
 		<zType/>
-		<English/>
+		<Translation/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_1</zType>
-		<English>Units in a Forest get a defensive bonus against Ranged Attacks.</English>
+		<Translation>Отряды в лесу получают бонус к защите против дальнобойных атак.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_2</zType>
-		<English>Units on Flat terrain are vulnerable to attacks from Mounted Units.</English>
+		<Translation>Отряды на равнине уязвимы к атакам всадников.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_3</zType>
-		<English>Melee Infantry can Fortify, gaining a defensive bonus while they remain on their current tile.</English>
+		<Translation>Пехота может укрепиться, получив бонус к обороне, пока не переместится на другую клетку.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_4</zType>
-		<English>Land Units can move quickly across water that your Cities and Achored Boats control.</English>
+		<Translation>Сухопутные отряды могут быстро перемещаться по воде, которую контролируют ваши города и стоящие на якоре корабли.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_5</zType>
-		<English>Press V to see your Trade Network and Connections.</English>
+		<Translation>Удерживайте клавишу [V], чтобы увидеть вашу торговую сеть и связь городов со столицей.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_6</zType>
-		<English>Trainingicon(YIELD_TRAINING) stockpiles are capped at int(MAX_TRAINING). Above this value, they'll be converted to Ordersicon(YIELD_ORDERS).</English>
+		<Translation>Запасы очков тренировки  icon(YIELD_TRAINING) не могут быть больше, чем int(MAX_TRAINING). Все излишки конвертируются в приказы  icon(YIELD_ORDERS).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_7</zType>
-		<English>You can only use 3 of your Nation's 4 Families each game. Experiment to find out which combinations work best!</English>
+		<Translation>Каждую игру вы можете использовать 3 из 4 доступных семей вашей нации. Поэкспериментируйте, чтобы выяснить, какие комбинации работают лучше всего!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_8</zType>
-		<English>Unused Civicsicon(YIELD_CIVICS) and Trainingicon(YIELD_TRAINING) in your Cities are added to your Nation's stockpile.</English>
+		<Translation>Не использованные в городах Civics  icon(YIELD_CIVICS) и очки тренировки  icon(YIELD_TRAINING) будут добавлены в национальный запас.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_9</zType>
-		<English>If you don't want to use all of your Ordersicon(YIELD_ORDERS), you can end your turn by pressing '5'.</English>
+		<Translation>Если вы не хотите использовать все приказы  icon(YIELD_ORDERS), то можете завершить ход, нажав клавишу [6].</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_10</zType>
-		<English>Your workers can chop wood from nearby trees. The trees will regrow in several years if they aren't completely removed!</English>
+		<Translation>Ваши рабочие могут добывать дерево в соседних лесах. Леса восстановятся через несколько лет, если не вырубать их полностью!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_11</zType>
-		<English>If you don't have enough materials to start a Unit or Improvement, hold ALT and click to automatically buy what you're missing (assuming you have enough Moneyicon(YIELD_MONEY).</English>
+		<Translation>Если вам не хватает материалов для создания отряда или постройки, удерживайте ALT и щелкните для автоматической покупки нужных ресурсов (при условии, что у вас достаточно денег  icon(YIELD_MONEY)).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_12</zType>
-		<English>Building an Improvement on a Hill will increase the time it takes to finish by a year.</English>
+		<Translation>Создание постройки на холме увеличит время строительства на 1 год.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_13</zType>
-		<English>Barbarians are xenophobic tribes hostile to all nations. There are no diplomatic consequences for attacking their units or taking over their land. They have no allies, not even other Barbarians.</English>
+		<Translation>Варвары враждебны ко всем нациям. При нападении на них и захвате их земель нет никаких дипломатических последствий. У них нет союзников, даже среди других варваров.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_14</zType>
-		<English>If your territory has scant supplies of Woodicon(YIELD_WOOD), consider training military units that rely on Foodicon(YIELD_FOOD) or Ironicon(YIELD_IRON). Concentrate your limited Woodicon(YIELD_WOOD) supply on building Rural tile improvements.</English>
+		<Translation>Если на ваших территориях мало дерева  icon(YIELD_WOOD), сосредоточьтесь на создании военных отрядов, потребляющих еду  icon(YIELD_FOOD) или железо  icon(YIELD_IRON). Ограниченное количество дерева  icon(YIELD_WOOD) пойдет на содержание построек в клетках.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_15</zType>
-		<English>Quarries built next to Mountains produce more Stoneicon(YIELD_STONE) for each adjacent Mountain tile. Quarries gain a minor increase when they are built in Arid terrain.</English>
+		<Translation>Каменоломни, построенные рядом с горами, производят больше камня  icon(YIELD_STONE) (бонус дается за каждую клетку с горой, находящуюся рядом с каменоломнями). Они также получают небольшой бонус при постройке в засушливой местности.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_16</zType>
-		<English>Lumbermills built adjacent to Camps gain increased Woodicon(YIELD_WOOD) output; The hunters control predators, forge trails through the forest, etc</English>
+		<Translation>Лесопилки производят больше дерева  icon(YIELD_WOOD) рядом с лагерями. Охотники в лагерях контролируют хищников, прокладывают тропы в лесах и т.д.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_17</zType>
-		<English>Being at war against several opponents can leave your armies overwhelmed, unable to execute enough Ordersicon(YIELD_ORDERS) to fight effectively on every front. Use diplomacy to avoid this fate, where possible.</English>
+		<Translation>Находясь в состоянии войны с несколькими противниками, вы можете испытать нехватку приказов  icon(YIELD_ORDERS) для эффективного ведения войны на каждом фронте. По возможности используйте дипломатию, чтобы предотвратить эту ситуацию.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_18</zType>
-		<English>Researching your way to the Lumbermill Improvement takes time. You may need to send Workers to forests and thickets outside your borders, to Chop Woodicon(YIELD_WOOD) from Trees and Scrub.</English>
+		<Translation>Исследование технологии для создания лесопилок займет какое-то время. Возможно, придется посылать рабочих за пределы вашей территории для добычи дерева  icon(YIELD_WOOD) на клетках лесов и кустарников.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_19</zType>
-		<English>Expect demand for Foodicon(YIELD_FOOD) to rise as your cities grow and mature.</English>
+		<Translation>С ростом городов будет расти и потребление еды  icon(YIELD_FOOD).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_20</zType>
-		<English>Upgrading units to more advanced technology is materially expensive, but it can rapidly increase your military might.</English>
+		<Translation>Модернизация отрядов материально затратна, но она может быстро увеличить вашу военную мощь.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_21</zType>
-		<English>Roads help units move farther with each icon(YIELD_ORDERS)Order spent, especially when the Road passes through difficult terrain.</English>
+		<Translation>Дороги позволяют отрядам продвигаться дальше с каждым потраченным приказом  icon(YIELD_ORDERS), особенно если дорога проложена через труднопроходимую местность.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_22</zType>
-		<English>Ranged units gain an extra tile of Range if positioned on Hills, unless their target is also on Hills.</English>
+		<Translation>Дальнобойные отряды, атакующие с холмов, получают 1 дополнительную клетку к радиусу атаки, кроме случаев, когда их цель тоже находится на холмах.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_23</zType>
-		<English>Stationing a military unit on a conquered city site marks the territory as yours. Failing to guard the site may result in it being claimed by a new Barbarian Settlement or settled by your rivals.</English>
+		<Translation>Размещение военного отряда в центре завоеванного города обозначает его территорию как вашу. Неспособность охранять это место может привести к тому, что его займут варвары или ваш соперник.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_24</zType>
-		<English>Growing your number of Ordersicon(YIELD_ORDERS) should be a priority. The more territory and units that you control, the more Ordersicon(YIELD_ORDERS) your Nation will need to function and to defend itself.</English>
+		<Translation>Увеличение количества приказов  icon(YIELD_ORDERS) должно быть вашей главной целью. Чем больше территорий и подразделений вы контролируете, тем больше приказов  icon(YIELD_ORDERS) потребуется для развития и самозащиты.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_25</zType>
-		<English>The power of each Law tends to increase, the more that your Nation grows. When choosing research, do not neglect unlocking new Laws.</English>
+		<Translation>Сила каждого закона увеличивается с ростом вашей нации. Выбирая исследования, не пренебрегайте открытием новых законов.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_26</zType>
-		<English>A city may build ships if it controls water tiles labeled as Coast.</English>
+		<Translation>Если город контролирует Прибрежные клетки, то он может строить корабли.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_27</zType>
-		<English>Scouts can keep an eye on a large number of tiles. They can provide valuable intelligence regarding enemy strength and movements.</English>
+		<Translation>Разведчики имеют большой радиус обзора. Они могут предоставить ценную информацию о силах и передвижениях противника.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_28</zType>
-		<English>Cities with high Growthicon(YIELD_GROWTH) train new Settlers, Workers, and Scouts more rapidly.</English>
+		<Translation>Города, имеющие высокий уровень роста  icon(YIELD_GROWTH), создают новых поселенцев, рабочих и разведчиков намного быстрее.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_29</zType>
-		<English>The rate at which military units are produced by a city is tied directly to its Trainingicon(YIELD_TRAINING) output.</English>
+		<Translation>Скорость создания военных отрядов напрямую зависит от производства очков тренировки  icon(YIELD_TRAINING) в городе.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_30</zType>
-		<English>The rate at which Projects are completed at a city depends on its Civicsicon(YIELD_CIVICS) output.</English>
+		<Translation>Скорость создания проектов напрямую зависит от производства Civics  icon(YIELD_CIVICS) в городе.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_31</zType>
-		<English>Urban specialists can be upgraded multiple times, greatly increasing the output of an Urban building.</English>
+		<Translation>Улучшение городских специалистов повышает эффективность городских построек.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_32</zType>
-		<English>Most Urban building types require Stoneicon(YIELD_STONE) to construct. Expect high demand for Stoneicon(YIELD_STONE) as the game matures and you unlock new technologies.</English>
+		<Translation>Большинство городских построек требует камень  icon(YIELD_STONE) для строительства. С открытием новых технологий спрос на камень  icon(YIELD_STONE) будет возрастать.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_33</zType>
-		<English>Ranged units are efficient in battle, often attacking an enemy without having to spend Ordersicon(YIELD_ORDERS) on movement.</English>
+		<Translation>Дальнобойные отряды эффективны в бою, если атакуют противника, не расходуя приказы  icon(YIELD_ORDERS) для передвижения.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_34</zType>
-		<English>Cutting Woodicon(YIELD_WOOD) from Scrub costs no Ordersicon(YIELD_ORDERS). If you move a Worker through a Scrub tile on its way to another destination, you can collect some free Woodicon(YIELD_WOOD).</English>
+		<Translation>Вырубка дерева  icon(YIELD_WOOD) с кустарников не затрачивает приказы  icon(YIELD_ORDERS). Если вы перемещаете рабочего через клетку с кустарником в другое место, вы можете собрать немного дерева  icon(YIELD_WOOD), не расходуя приказы  icon(YIELD_ORDERS).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_35</zType>
-		<English>Militia and Conscript units cannot be Promoted, but they are produced with Growthicon(YIELD_GROWTH) instead of Trainingicon(YIELD_TRAINING). Cities with high Growthicon(YIELD_GROWTH) output may be able to train them rapidly.</English>
+		<Translation>Отряды ополченцев и рекрутов не могут быть повышены, зато для их производства нужен рост  icon(YIELD_GROWTH) вместо очков тренировки  icon(YIELD_TRAINING). Города с высоким уровнем роста  icon(YIELD_GROWTH) могут создавать эти отряды гораздо быстрее.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_36</zType>
-		<English>Mounted units have the Rout ability. When they slay an enemy unit, they occupy that unit's tile. Although they cannot move again, they can attack again if another target is adjacent to them.</English>
+		<Translation>Всадники обладают навыком разгрома. При уничтожении вражеского отряда они занимают его место и могут атаковать другую цель, если она находится рядом.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_37</zType>
-		<English>Consider spending Trainingicon(YIELD_TRAINING) to give Promotions to some of your units. Units who have engaged in combat and earned experience cost less Trainingicon(YIELD_TRAINING) to promote.</English>
+		<Translation>Вы можете потратить очки тренировки  icon(YIELD_TRAINING) на повышение отрядов. Отряды, которые участвовали в бою и заработали опыт, требуют меньше очков тренировки  icon(YIELD_TRAINING) для повышения.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_38</zType>
-		<English>Tribes are not Nations. When at War with you, only their units near your units or territory pose a threat, unless you anger them enough for them to launch an Invasion.</English>
+		<Translation>Племена - это не Нации. Во время войны их отряды представляют угрозу только вашим отрядам и территории. Конечно, если вы не разгневаете их настолько, что дело дойдет до вторжения.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_39</zType>
-		<English>Coastal cities control less land than inland cities, but they tend to be less vulnerable to attack.</English>
+		<Translation>Прибрежные города контролируют меньше суши, но они менее уязвимы для нападения.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_40</zType>
-		<English>Colder air forces clouds to drop their rain as they gain altitude to move over mountains. Most mountains have a lush band, where the rain falls, and a rain shadow on the opposite side, depending on regional wind patterns.</English>
+		<Translation>Облака проливаются дождями, проходя над горами с более холодным воздухом. Поэтому с одной стороны гор местность имеет много лугов, в зависимости от направления ветра в регионе. </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_41</zType>
-		<English>Consider dealing with Events early in your turn. Some Event options require you to spend Ordersicon(YIELD_ORDERS).</English>
+		<Translation>В начале хода разберитесь с событиями, произошедшими в игре. Для некоторых из них потребуются приказы  icon(YIELD_ORDERS).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_42</zType>
-		<English>A Barbarian Alliance allows you to found Cities peacefully next to your Ally's Sites.</English>
+		<Translation>Союз с варварами позволяет вам основывать города рядом с их поселениями без риска нападения с их стороны.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_43</zType>
-		<English>Civicsicon(YIELD_CIVICS) stockpiles are capped at int(MAX_CIVICS). Above this value, they'll be converted to Scienceicon(YIELD_SCIENCE).</English>
+		<Translation>Запасы  Civics  icon(YIELD_CIVICS) не могут быть больше, чем int(MAX_CIVICS). Все излишки конвертируются в науку  icon(YIELD_SCIENCE).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_44</zType>
-		<English>Damaged Workers take an extra turn to build improvements.</English>
+		<Translation>Рабочие, не излеченные до конца, строят на 1 ход дольше.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_45</zType>
-		<English>[CTRL+Click] to automatically March a Unit to move past its Fatigue range.</English>
+		<Translation>Нажмите [CTRL+Click] для автоматического марша отряда за пределами своей своей усталости.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_46</zType>
-		<English>Hold [Z] to hide Trees and Scrub.</English>
+		<Translation>Удерживайте клавишу [Z], чтобы скрыть леса и кустарники.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_47</zType>
-		<English>Hold [X] to highlight Zones of Control.</English>
+		<Translation>Удерживайте клавишу [X] для подсветки зоны контроля (ЗК).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_48</zType>
-		<English>Hold [C] to highlight Tiles which enemy Units can target.</English>
+		<Translation>Удерживайте клавишу [C] для подсветки клеток с вражескими отрядами, которые можно атаковать.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_49</zType>
-		<English>Hold [V] to highlight Cities Connected to your Capital.</English>
+		<Translation>Удерживайте клавишу [V] для подсветки городов, связанных со столицей.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_50</zType>
-		<English>Hold [B] to highlight Units which can still be used.</English>
+		<Translation>Удерживайте клавишу [B] для подсветки отрядов, которые еще могут сделать ход.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_51</zType>
-		<English>Hold [N] to show what each of your Improvements produces.</English>
+		<Translation>Удерживайте клавишу [N], чтобы увидеть продукцию клеток.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_52</zType>
-		<English>If your Leader is not able to complete an Ambition before death, it becomes a Legacy. Legacies count towards an Ambition Victory but are worth less Legitimacyicon(YIELD_LEGITIMACY).</English>
+		<Translation>Если ваш лидер не в состоянии выполнить свои амбиции до смерти, то они становятся наследием. Наследие тоже дает одно очко победы, но приносит меньше очков легитимности  icon(YIELD_LEGITIMACY).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_53</zType>
-		<English>Barbarian level, chosen under Advanced Setup, affects the number of empty city sites near your capital.</English>
+		<Translation>"Уровень варваров" в расширенных настройках игры влияет на количество пустых мест возле столицы для постройки городов.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_54</zType>
-		<English>Non-coastal Urban buildings must be adjacent to the City or to two other Urban buildings.</English>
+		<Translation>Городские постройки должны примыкать к городу или двум другим городским постройкам.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_55</zType>
-		<English>Urban buildings on the coast need only be adjacent to one other Urban building or the City.</English>
+		<Translation>Городские постройки на побережье должны примыкать только к одной городской постройке.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINT_56</zType>
-		<English>Multi-level improvement classes (Courthouses, Markets, Baths, etc.) are cheaper to build if they are adjacent to improvements of the same class.</English>
+		<Translation>Постройки, имеющие несколько уровней (здания суда, рынки, купальни и др.), дешевле строить, если они соседствуют с постройками того же класса.</Translation>
 	</Entry>
   <Entry>
     <zType>TEXT_HINT_57</zType>
-    <English>With a Worker selected, hold CTRL and move the cursor over a tile to see what Improvements can be built there.</English>
+    <Translation>Выбрав рабочего, удерживайте клавишу CTRL и перемещайте курсор над клеткой, чтобы посмотреть, что можно на ней построить.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HINT_58</zType>
-    <English>Scouts are invisible in Trees.</English>
+    <Translation>В лесах разведчики незаметны.</Translation>
   </Entry>
 </Root>

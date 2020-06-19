@@ -1,207 +1,209 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
+<!--Translated by AlexRjg-->
+<!--Proofreading by Elena Davydova (Bada)-->
 <Root>
     <Entry>
         <zType/>
-        <English/>
+        <Translation/>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_EMAIL_NAME</zType>
-        <English>Email</English>
+        <Translation>Email</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_EMAIL_DESC</zType>
-        <English>Your email address will be used for play by cloud games (when they become available), or to contact you if necessary when you submit bugs.</English>
+        <Translation>Ваш адрес электронной почты будет использован для облачных сохранений (когда они станут доступны) или для контакта с Вами, если вы отправите отчет об ошибке.</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_CAMERA_FOLLOW_AI_MOVES_NAME</zType>
-        <English>Follow AI Moves</English>
+        <Translation>Показывать ходы ИИ игрока</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_CAMERA_FOLLOW_AI_MOVES_DESC</zType>
-        <English>When should the camera follow AI moves?</English>
+        <Translation>Показывать ходы ИИ игрока</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_RESOLUTION_NAME</zType>
-        <English>Resolution</English>
+        <Translation>Разрешение</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_RESOLUTION_DESC</zType>
-        <English/>
+        <Translation>Разрешение экрана</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_MONITOR_NAME</zType>
-        <English>Monitor</English>
+        <Translation>Монитор</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_MONITOR_DESC</zType>
-        <English/>
+        <Translation/>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_FRAME_LIMIT_NAME</zType>
-        <English>Frame Limit</English>
+        <Translation>Ограничение FPS (кадров/сек)</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_FRAME_LIMIT_DESC</zType>
-	    <English>Set the frame limit</English>
+	    <Translation>Установить ограничение кадров/сек (FPS)</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_GRAPHICS_PRESET_NAME</zType>
-        <English>Graphics Preset</English>
+        <Translation>Уровень графики</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_GRAPHICS_PRESET_DESC</zType>
-	    <English>Graphics Presets for all options</English>
+	    <Translation>Устанавливает все параметры на заданный уровень графики</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_RENDERING_QUALITY_NAME</zType>
-        <English>Rendering Quality</English>
+        <Translation>Качество постобработки</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_RENDERING_QUALITY_DESC</zType>
-		<English>Rendering Quality Presets</English>
+	<Translation>Уровень качества постобработки</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_TERRAIN_QUALITY_NAME</zType>
-        <English>Terrain Quality</English>
+        <Translation>Качество поверхности</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_TERRAIN_QUALITY_DESC</zType>
-	    <English>Terrain rendering quality and memory usage</English>
+	<Translation>Качество поверхности (влияет на использование видеопамяти)</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_FOW_QUALITY_NAME</zType>
-        <English>FOW Quality</English>
+        <Translation>Качество тумана войны</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_FOW_QUALITY_DESC</zType>
-		<English>FOW rendering quality</English>
+	<Translation>Качество тумана войны</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_COLORBLIND_FILTER_NAME</zType>
-        <English>Colorblind Filter</English>
+        <Translation>Цветовой фильтр</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_COLORBLIND_FILTER_DESC</zType>
-	    <English>Color blind filters for a range of types</English>
+	<Translation>Цветовые фильтры для дальтоников</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_COLORBLIND_FILTER_STRENGTH_NAME</zType>
-        <English>Filter Strength</English>
+        <Translation>Сила фильтра</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_COLORBLIND_FILTER_STRENGTH_DESC</zType>
-	    <English>Adjust the amount of the colorblind filter</English>
+	<Translation>Изменить силу фильтра</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_CAMERA_SPEED_NAME</zType>
-        <English>Camera Speed</English>
+        <Translation>Скорость камеры</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_CAMERA_SPEED_DESC</zType>
-	    <English>Camera scroll speed</English>
+	<Translation>Скорость перемещения камеры</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_FULLSCREEN_NAME</zType>
-        <English>Fullscreen</English>
+        <Translation>Полноэкранный режим</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_FULLSCREEN_DESC</zType>
-	    <English>Fullscreen mode</English>
+	<Translation>Полноэкранный режим</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_ANTIALIASING_NAME</zType>
-        <English>Antialiasing</English>
+        <Translation>Сглаживание</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_ANTIALIASING_DESC</zType>
-	    <English>Enable FXAA antialiasing</English>
+	<Translation>Включить сглаживание FXAA</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_AMBIENT_OCCLUSION_NAME</zType>
-        <English>Ambient Occlusion</English>
+        <Translation>Объемное затенение</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_AMBIENT_OCCLUSION_DESC</zType>
-	    <English>Enable Ambient Occlusion post-process</English>
+	<Translation>Включить объемное затенение (Ambient Occlusion)</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_BLOOM_NAME</zType>
-        <English>Bloom</English>
+        <Translation>Свечение</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_BLOOM_DESC</zType>
-	    <English>Enable Bloom post-process</English>
+	<Translation>Включить свечение</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_VIGNETTE_NAME</zType>
-        <English>Vignette</English>
+        <Translation>Виньетирование</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_VIGNETTE_DESC</zType>
-	    <English>Enable Vignette camera effect</English>
+	<Translation>Включить эффект виньетирования (затемнение по краям экрана)</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_MOTION_BLUR_NAME</zType>
-        <English>Motion Blur</English>
+        <Translation>Размытие при движении</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_MOTION_BLUR_DESC</zType>
-	    <English>Enable Motion Blur post-process</English>
+	<Translation>Включить размытие при перемещении камеры</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_COLOR_CORRECTION_NAME</zType>
-        <English>Color Correction</English>
+        <Translation>Коррекция цвета</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_COLOR_CORRECTION_DESC</zType>
-	    <English>Enable Color correction post-process</English>
+	<Translation>Включить коррекцию цвета</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_MUSIC_VOLUME_NAME</zType>
-        <English>Music Volume</English>
+        <Translation>Громкость музыки</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_MUSIC_VOLUME_DESC</zType>
-        <English/>
+        <Translation>Уровень громкости музыки</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_SFX_VOLUME_NAME</zType>
-        <English>Effects Volume</English>
+        <Translation>Громкость эффектов</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_SFX_VOLUME_DESC</zType>
-	    <English>Effects volume level</English>
+	<Translation>Уровень громкости эффектов</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_HUD_SCALE_NAME</zType>
-        <English>HUD Scale</English>
+        <Translation>Масштаб интерфейса</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_HUD_SCALE_DESC</zType>
-        <English>Change the size of UI elements on the main game screen</English>
+        <Translation>Изменить масштаб пользовательского интерфейса на основном экране игры</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_HEALTHBAR_SCALE_NAME</zType>
-        <English>Healthbar Scale</English>
+        <Translation>Масштаб шкалы здоровья</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_HEALTHBAR_SCALE_DESC</zType>
-        <English>Change the size of health bars</English>
+        <Translation>Изменить масштаб шкалы здоровья</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_TOOLTIP_SCALE_NAME</zType>
-        <English>Tooltip Scale</English>
+        <Translation>Масштаб подсказок</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_TOOLTIP_SCALE_DESC</zType>
-        <English>Change the size of tooltips</English>
+        <Translation>Изменить масштаб всплывающих подсказок</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_LANGUAGE_NAME</zType>
-        <English>Language</English>
+        <Translation>Язык</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_LANGUAGE_DESC</zType>
-        <English>Change the language of game text</English>
+        <Translation>Сменить язык текста в игре</Translation>
     </Entry>
 </Root>

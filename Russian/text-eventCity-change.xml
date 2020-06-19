@@ -2,87 +2,87 @@
 <Root>
 	<Entry>
 		<zType/>
-		<English/>
+		<Translation/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_POPULATION_BOOM</zType>
-		<English>{CITY} has experienced a baby boom</English>
+		<Translation>В {CITY} взрывной рост населения</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_CIVICS_BOOM</zType>
-		<English>{CITY} has experienced a civics boom</English>
+		<Translation>В {CITY} расцвет права</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_TRAINING_BOOM</zType>
-		<English>{CITY} has experienced a training boom</English>
+		<Translation>В {CITY} прошли военные учения</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_SCIENCE_BOOM</zType>
-		<English>{CITY} has experienced a scientific renaissance</English>
+		<Translation>В {CITY} расцвет науки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_MONEY_BOOM</zType>
-		<English>{CITY} has experienced an economic boom</English>
+		<Translation>В {CITY} расцвет коммерции</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_ORDERS_BOOM</zType>
-		<English>{CITY} has experienced a burst of activity</English>
+		<Translation>В {CITY} небывалый рост активности бюрократов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_SOLDIER</zType>
-		<English>A Great Soldier has emerged from {CITY}</English>
+		<Translation>Появился великий солдат родом из {CITY}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_MINISTER</zType>
-		<English>A Great Minister has emerged from {CITY}</English>
+		<Translation>Появился великий министр родом из {CITY}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_MERCHANT</zType>
-		<English>A Great Merchant has emerged from {CITY}</English>
+		<Translation>Появился великий купец родом из {CITY}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_SCIENTIST</zType>
-		<English>A Great Scientist has emerged from {CITY}</English>
+		<Translation>Появился великий ученый родом из {CITY}</Translation>
 	</Entry>
 	<!--Name-->
 	<Entry>
 		<zType>TEXT_EVENTCITY_POPULATION_BOOM_NAME</zType>
-		<English>Population Boom</English>
+		<Translation>Взрывной рост населения</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_CIVICS_BOOM_NAME</zType>
-		<English>Civics Boom</English>
+		<Translation>Расцвет права</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_TRAINING_BOOM_NAME</zType>
-		<English>Training Boom</English>
+		<Translation>Рост военной подготовки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_SCIENCE_BOOM_NAME</zType>
-		<English>Science Boom</English>
+		<Translation>Расцвет науки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_MONEY_BOOM_NAME</zType>
-		<English>Money Boom</English>
+		<Translation>Расцвет комерции</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_ORDERS_BOOM_NAME</zType>
-		<English>Orders Boom</English>
+		<Translation>Рост издания приказов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_SOLDIER_NAME</zType>
-		<English>Great Soldier</English>
+		<Translation>Великий солдат</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_MINISTER_NAME</zType>
-		<English>Great Minister</English>
+		<Translation>Великий министр</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_MERCHANT_NAME</zType>
-		<English>Great Merchant</English>
+		<Translation>Великий купец</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_SCIENTIST_NAME</zType>
-		<English>Great Scientist</English>
+		<Translation>Великий ученый</Translation>
 	</Entry>
 </Root>

@@ -4,146 +4,146 @@
 	<!-- Barbarian -->
 	<Entry>
 		<zType/>
-		<English/>
+		<Translation/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BARBARIAN_PLURAL</zType>
-		<English>{0,0}</English>
+		<Translation>{0,0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BARBARIAN_SINGULAR</zType>
-		<English>{0,1}</English>
+		<Translation>{0,1}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BARBARIAN_ADJECTIVE</zType>
-		<English>{0,2}</English>
+		<Translation>{0,2}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BARBARIAN_SITE</zType>
-		<English>{0,2_BarbarianAdjective} Site</English>
+		<Translation>{0,2_BarbarianAdjective} Site</Translation>
 	</Entry>
 	<!-- Nation -->
 	<Entry>
 		<zType>TEXT_NATION_NAME</zType>
-		<English>{0,0}</English>
+		<Translation>{0,0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_SINGULAR</zType>
-		<English>{0,1}</English>
+		<Translation>{0,1}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_PLURAL</zType>
-		<English>{0,2}</English>
+		<Translation>{0,2}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_ADJECTIVE</zType>
-		<English>{0,3}</English>
+		<Translation>{0,3}</Translation>
 	</Entry>
 	<!-- Family -->
 	<Entry>
 		<zType>TEXT_FAMILY_SINGULAR</zType>
-		<English>{0,0}</English>
+		<Translation>{0,0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_PLURAL</zType>
-		<English>{0,1}</English>
+		<Translation>{0,1}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_ADJECTIVE</zType>
-		<English>{0,2}</English>
+		<Translation>{0,2}</Translation>
 	</Entry>
 	<!-- Player -->
 	<Entry>
 		<zType>TEXT_PLAYER_NUMBER</zType>
-		<English>Player {0_number}</English>
+		<Translation>Игрок {0_number}</Translation>
 	</Entry>
 	<!-- HotKeys -->
 	<Entry>
 		<zType>TEXT_HOTKEY_PLUS_SPACE_TWO</zType>
-		<English>{0_key} + {1_key}</English>
+		<Translation>{0_key} + {1_key}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_PLUS_TWO</zType>
-		<English>{0_key}+{1_key}</English>
+		<Translation>{0_key}+{1_key}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_RIGHT_CLICK</zType>
-		<English>[RIGHT-CLICK]</English>
+		<Translation>[RIGHT-CLICK]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_CTRL_CLICK</zType>
-		<English>[CTRL+CLICK]</English>
+		<Translation>[CTRL+CLICK]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_SHIFT_CLICK</zType>
-		<English>[SHIFT+CLICK]</English>
+		<Translation>[SHIFT+CLICK]</Translation>
 	</Entry>
-  <Entry>
-    <zType>TEXT_HOTKEY_CTRL_SHIFT_CLICK</zType>
-    <English>[CTRL+SHIFT+CLICK]</English>
-  </Entry>
-  <Entry>
-    <zType>TEXT_HOTKEY_CTRL_ALT_CLICK</zType>
-    <English>[CTRL+ALT+CLICK]</English>
-  </Entry>
-  <Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CTRL_SHIFT_CLICK</zType>
+		<Translation>[CTRL+SHIFT+CLICK]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CTRL_ALT_CLICK</zType>
+		<Translation>[CTRL+ALT+CLICK]</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HOTKEY_SHIFT</zType>
-		<English>[SHIFT]</English>
+		<Translation>[SHIFT]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_CTRL</zType>
-		<English>[CTRL]</English>
+		<Translation>[CTRL]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_ALT</zType>
-		<English>[ALT]</English>
+		<Translation>[ALT]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_RESOURCE_DENSITY</zType>
-		<English>Resource Density</English>
+		<Translation>Количество ресурсов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_MIRROR_MAP</zType>
-		<English>Mirror Map</English>
+		<Translation>Зеркальная карта</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_SCENARIO_RESOURCES</zType>
-		<English>Resources</English>
+		<Translation>Ресурсы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_WATER_SIZE</zType>
-		<English>Water Size</English>
+		<Translation>Уровень воды</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_WATER_LOCATION</zType>
-		<English>Water Location</English>
+		<Translation>Расположение воды на карте</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_PLAYER_START_LOCATION</zType>
-		<English>Player Start Location</English>
+		<Translation>Стартовая локация игрока</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_TRIBES</zType>
-		<English>Tribes</English>
+		<Translation>Племена</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_TERRAIN_TYPE_VARIATION</zType>
-		<English>Type of Terrain Variation</English>
+		<Translation>Тип ландшафта</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_LOCATION_OF_TRIBAL_LANDS</zType>
-		<English>Location of Tribal Lands</English>
+		<Translation>Размещение племен</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_TYPE_OF_EXTREME_TERRAIN</zType>
-		<English>Type of Extreme Terrain</English>
+		<Translation>Ландшафт по краям карты</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CENTER_BIAS</zType>
-		<English>Center Bias</English>
+		<Translation>Начать в центре карты</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENTS</zType>
-		<English>Continents</English>
+		<Translation>Континенты</Translation>
 	</Entry>
 </Root>

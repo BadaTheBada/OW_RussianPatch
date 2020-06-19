@@ -1,137 +1,138 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<!-- NOTE Некоторые семьи не склоняются. Под вопросом: chaldean, seleusid -->
 <Root>
 	<!-- Title -->
 	<Entry>
 		<zType/>
-		<English/>
+		<Translation/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_SARGONID</zType>
-		<English>Sargonid~Sargonids~Sargonid</English>
+		<Translation>Саргонид</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_ADASI</zType>
-		<English>Adasi~Adasi~Adasi</English>
+		<Translation>Адази</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_ERISHUM</zType>
-		<English>Erishum~Erishum~Erishum</English>
+		<Translation>Эришум</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_TUDIYA</zType>
-		<English>Tudiya~Tudiya~Tudiya</English>
+		<Translation>Тудийя</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_CHALDEAN</zType>
-		<English>Chaldean~Chaldeans~Chaldean</English>
+		<Translation>Чалдин</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_AMORITE</zType>
-		<English>Amorite~Amorites~Amorite</English>
+		<Translation>Амореи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_KASSITE</zType>
-		<English>Kassite~Kassites~Kassite</English>
+		<Translation>Кассит</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_ISIN</zType>
-		<English>Isin~Isin~Isin</English>
+		<Translation>Изин</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_BARCID</zType>
-		<English>Barcid~Barcids~Barcid</English>
+		<Translation>Барсид</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_MAGONID</zType>
-		<English>Magonid~Magonids~Magonid</English>
+		<Translation>Магонид</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_HANNONID</zType>
-		<English>Hannonid~Hannonids~Hannonid</English>
+		<Translation>Ханнонид</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_DIDONIAN</zType>
-		<English>Didonian~Didonians~Didonian</English>
+		<Translation>Дидониан</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_RAMESSIDE</zType>
-		<English>Ramesside~Ramessides~Ramesside</English>
+		<Translation>Рамессид</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_THUTMOSID</zType>
-		<English>Thutmosid~Thutmosids~Thutmosid</English>
+		<Translation>Тутмосид</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_AMARNA</zType>
-		<English>Amarna~Amarna~Amarna</English>
+		<Translation>Амарна</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_SAITE</zType>
-		<English>Saite~Saites~Saite</English>
+		<Translation>Саит</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_ARGEAD</zType>
-		<English>Argead~Argeads~Argead</English>
+		<Translation>Аргид</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_ALCMAEONID</zType>
-		<English>Alcmaeonid~Alcmaeonids~Alcmaeonid</English>
+		<Translation>Алкмеонид</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_CYPSELID</zType>
-		<English>Cypselid~Cypselids~Cypselid</English>
+		<Translation>Кипселид</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_SELEUCID</zType>
-		<English>Seleucid~Seleucids~Seleucid</English>
+		<Translation>Селеузид</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_ACHAEMENID</zType>
-		<English>Achaemenid~Achaemenids~Achaemenid</English>
+		<Translation>Ахеменид</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_ARSACID</zType>
-		<English>Arsacid~Arsacids~Arsacid</English>
+		<Translation>Арсакид</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_SASANID</zType>
-		<English>Sasanid~Sasanids~Sasanid</English>
+		<Translation>Сасанид</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_MIHRANID</zType>
-		<English>Mihranid~Mihranids~Mihranid</English>
+		<Translation>Михранид</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_JULIUS</zType>
-		<English>Julius~Julii~Julian</English>
+		<Translation>Юлий</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_JULIUS_FEMALE</zType>
-		<English>Julia~Juliae~Julian</English>
+		<Translation>Юлия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_FABIUS</zType>
-		<English>Fabius~Fabii~Fabian</English>
+		<Translation>Фабий</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_FABIUS_FEMALE</zType>
-		<English>Fabia~Fabiae~Fabian</English>
+		<Translation>Фабия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_VALERIUS</zType>
-		<English>Valerius~Valerii~Valerian</English>
+		<Translation>Валерий</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_VALERIUS_FEMALE</zType>
-		<English>Valeria~Valeriae~Valerian</English>
+		<Translation>Валерия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_CLAUDIUS</zType>
-		<English>Claudius~Claudii~Claudian</English>
+		<Translation>Клавдий</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_CLAUDIUS_FEMALE</zType>
-		<English>Claudia~Claudiae~Claudian</English>
+		<Translation>Клавдия</Translation>
 	</Entry>
 </Root>

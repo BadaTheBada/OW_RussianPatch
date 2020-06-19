@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!--Translated by Elena Davydova (Bada)-->
+<Root>
+	<Entry>
+		<zType>LANGUAGE_TRANSLATION</zType>
+		<Name>TEXT_LANGUAGE_RUSSIAN_TRANSLATION</Name>
+		<zISOCode>ru</zISOCode>
+		
+		<!--singular: 1, 21, 31, 41, 51, 61, 71, 81, 101, 1001, ... яблоко-->
+		<!--plural: 2~4, 22~24, 32~34, 42~44, 52~54, 62, 102, 1002, ... яблока-->
+		<!--plural2: 0, 5~19, 100, 1000, 10000, 100000, 1000000, ... яблок-->
+		<!--Requires simplifying-->
+		<zSingularExpression>(x mod 10 == 1 and x mod 100 != 11) or (x mod 10 == -1 and x mod 100 != -11)</zSingularExpression>
+		<zPluralExpression>(x mod 10 &gt;= 2 and x mod 10 &lt;= 4 and x mod 100 !=12 and x mod 100 !=13 and x mod 100 != 14) or (x mod 10 &lt;= -2 and x mod 10 &gt;= -4 and x mod 100 !=-12 and x mod 100 !=-13 and x mod 100 != -14)</zPluralExpression>
+		<zThousandsSeparator>.</zThousandsSeparator>
+		<zDecimalSeparator>,</zDecimalSeparator>
+		<zCurrencyPrefix>$</zCurrencyPrefix>
+		<zThousandPostfix>T</zThousandPostfix>
+		<zMillionPostfix>M</zMillionPostfix>
+	</Entry>
+</Root>

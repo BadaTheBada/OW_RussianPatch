@@ -3,279 +3,279 @@
 <Root>
 	<Entry>
 		<zType/>
-		<English/>
+		<Translation/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_INFILTRATE_REVEAL_DESCRIPTION</zType>
-		<English>{CHARACTER-SUBJECT} has successfully infiltrated your rival's territory.</English>
+		<Translation>{CHARACTER-SUBJECT} has successfully infiltrated your rival's territory.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL_DESCRIPTION</zType>
-		<English>You have successfully assassinated {CHARACTER-TARGET}, and no one suspects a thing...</English>
+		<Translation>You have successfully assassinated {CHARACTER-TARGET}, and no one suspects a thing...</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL_EXPOSED_DESCRIPTION</zType>
-		<English>Your assassins successfully eliminated {CHARACTER-TARGET}, but evidence has been traced back to you.</English>
+		<Translation>Your assassins successfully eliminated {CHARACTER-TARGET}, but evidence has been traced back to you.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ASSASSINATE_FAIL_EXPOSED_DESCRIPTION</zType>
-		<English>Your assassins have failed to kill {CHARACTER-TARGET}. Worse yet, your ignoble plot has been exposed.</English>
+		<Translation>Your assassins have failed to kill {CHARACTER-TARGET}. Worse yet, your ignoble plot has been exposed.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_DESCRIPTION</zType>
-		<English>Your vassal family appreciates the gifts that your Chancellor {CHARACTER-SUBJECT} brought from you.</English>
+		<Translation>Your vassal family appreciates the gifts that your Chancellor {CHARACTER-SUBJECT} brought from you.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_WEAKEN_DESCRIPTION</zType>
-		<English>Your vassal family appreciates the gifts that your Chancellor {CHARACTER-SUBJECT} brought, but your other subjects view this pandering as a sign of weakness.</English>
+		<Translation>Your vassal family appreciates the gifts that your Chancellor {CHARACTER-SUBJECT} brought, but your other subjects view this pandering as a sign of weakness.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_IMPRISON_JUST_DESCRIPTION</zType>
-		<English>{CHARACTER-TARGET} has been imprisoned on charges that are generally agreed to be just.</English>
+		<Translation>{CHARACTER-TARGET} has been imprisoned on charges that are generally agreed to be just.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_IMPRISON_UNJUST_DESCRIPTION</zType>
-		<English>{CHARACTER-TARGET} has been imprisoned on blatantly spurious charges. Some are accusing you of tyranny.</English>
+		<Translation>{CHARACTER-TARGET} has been imprisoned on blatantly spurious charges. Some are accusing you of tyranny.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_IMPRISON_ESCAPE_DESCRIPTION</zType>
-		<English>{CHARACTER-TARGET} has escaped arrest and is now on the run!</English>
+		<Translation>{CHARACTER-TARGET} has escaped arrest and is now on the run!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_RELEASE_GRATEFUL_DESCRIPTION</zType>
-		<English><![CDATA[{CHARACTER-TARGET} has been released from prison. Grateful to be free again, <masculine_CHARACTER-TARGET>he<feminine>she<end> has forgiven your past slights against <masculine_CHARACTER-TARGET>him<feminine>her<end>.]]></English>
+		<Translation><![CDATA[{CHARACTER-TARGET} has been released from prison. Grateful to be free again, <masculine_CHARACTER-TARGET>he<feminine>she<end> has forgiven your past slights against <masculine_CHARACTER-TARGET>him<feminine>her<end>.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_RELEASE_BITTER_DESCRIPTION</zType>
-		<English><![CDATA[{CHARACTER-TARGET} has been released from prison, but harbors a bitter resentment against you for <masculine_CHARACTER-TARGET>his<feminine>her<end> imprisonment.]]></English>
+		<Translation><![CDATA[{CHARACTER-TARGET} has been released from prison, but harbors a bitter resentment against you for <masculine_CHARACTER-TARGET>his<feminine>her<end> imprisonment.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_RELEASE_UNJUST_DESCRIPTION</zType>
-		<English><![CDATA[{CHARACTER-TARGET} has been released from prison, and has not been shy about complaining of <masculine_CHARACTER-TARGET>his<feminine>her<end> unjust imprisonment.]]></English>
+		<Translation><![CDATA[{CHARACTER-TARGET} has been released from prison, and has not been shy about complaining of <masculine_CHARACTER-TARGET>his<feminine>her<end> unjust imprisonment.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CAPTURE_SURRENDER_DESCRIPTION</zType>
-		<English><![CDATA[Your efforts to capture {CHARACTER-TARGET} have been successful. <masculine_CHARACTER-TARGET>He<feminine>She<end> has surrendered and is being held in captivity.]]></English>
+		<Translation><![CDATA[Your efforts to capture {CHARACTER-TARGET} have been successful. <masculine_CHARACTER-TARGET>He<feminine>She<end> has surrendered and is being held in captivity.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CAPTURE_KILLED_DESCRIPTION</zType>
-		<English><![CDATA[{CHARACTER-TARGET} refused to surrender to the party you sent to capture <masculine_CHARACTER-TARGET>him<feminine>her<end>, choosing death over captivity.]]></English>
+		<Translation><![CDATA[{CHARACTER-TARGET} refused to surrender to the party you sent to capture <masculine_CHARACTER-TARGET>him<feminine>her<end>, choosing death over captivity.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CAPTURE_FLEE_DESCRIPTION</zType>
-		<English><![CDATA[{CHARACTER-TARGET} has eluded your tracking party and escaped the country! <masculine_CHARACTER-TARGET>He<feminine>She<end> is now hiding somewhere beyond your reach...]]></English>
+		<Translation><![CDATA[{CHARACTER-TARGET} has eluded your tracking party and escaped the country! <masculine_CHARACTER-TARGET>He<feminine>She<end> is now hiding somewhere beyond your reach...]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CAPTURE_FAIL_DESCRIPTION</zType>
-		<English><![CDATA[Your trackers have failed to discover the whereabouts of {CHARACTER-TARGET}. We can only assume that <masculine_CHARACTER-TARGET>he<feminine>she<end> remains on the run.]]></English>
+		<Translation><![CDATA[Your trackers have failed to discover the whereabouts of {CHARACTER-TARGET}. We can only assume that <masculine_CHARACTER-TARGET>he<feminine>she<end> remains on the run.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_MARRY_COURTIER_DESCRIPTION</zType>
-		<English>Good news: {CHARACTER-SUBJECT} has agreed to your marriage proposal. Congratulations!</English>
+		<Translation>Good news: {CHARACTER-SUBJECT} has agreed to your marriage proposal. Congratulations!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CAPTURED_RANSOM_DESCRIPTION</zType>
-		<English><![CDATA[You have paid the ransom for {CHARACTER-SUBJECT} and secured <masculine_CHARACTER-SUBJECT>his<feminine>her<end> release!]]></English>
+		<Translation><![CDATA[You have paid the ransom for {CHARACTER-SUBJECT} and secured <masculine_CHARACTER-SUBJECT>his<feminine>her<end> release!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_DIVORCE_MUTUAL_DESCRIPTION</zType>
-		<English>After some persuading, {CHARACTER-SUBJECT} has agreed to a mutual divorce agreement.</English>
+		<Translation>After some persuading, {CHARACTER-SUBJECT} has agreed to a mutual divorce agreement.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_DIVORCE_FORCED_DESCRIPTION</zType>
-		<English><![CDATA[You have forced {CHARACTER-TARGET} to divorce you against <masculine_CHARACTER-TARGET>his<feminine>her<end> will.]]></English>
+		<Translation><![CDATA[You have forced {CHARACTER-TARGET} to divorce you against <masculine_CHARACTER-TARGET>his<feminine>her<end> will.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_EVENT_DESCRIPTION</zType>
-		<English>The mission of {CHARACTER-SUBJECT} has led to an event...</English>
+		<Translation>The mission of {CHARACTER-SUBJECT} has led to an event...</Translation>
 	</Entry>
 	<!--Result Name-->
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_AMBASSADOR</zType>
-		<English>Ambassador</English>
+		<Translation>Ambassador</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CHANCELLOR</zType>
-		<English>Chancellor</English>
+		<Translation>Chancellor</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_SPYMASTER</zType>
-		<English>Spymaster</English>
+		<Translation>Spymaster</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_TEAM_ALLIANCE_EVENT</zType>
-		<English>Alliance Event</English>
+		<Translation>Alliance Event</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_PEACE_EVENT</zType>
-		<English>Peace Event</English>
+		<Translation>Peace Event</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_EVENT</zType>
-		<English>Truce Event</English>
+		<Translation>Truce Event</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_DECLARE_WAR_EVENT</zType>
-		<English>Declare War</English>
+		<Translation>Declare War</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_BREAK_PEACE_EVENT</zType>
-		<English>Break Peace</English>
+		<Translation>Break Peace</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_END_ALLIANCE_EVENT</zType>
-		<English>End Alliance</English>
+		<Translation>End Alliance</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_CANCEL_TRADE_EVENT</zType>
-		<English>Cancel Trade</English>
+		<Translation>Cancel Trade</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_BARBARIAN_ALLIANCE_EVENT</zType>
-		<English>Alliance Event</English>
+		<Translation>Alliance Event</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_BARBARIAN_PEACE_EVENT</zType>
-		<English>Peace Event</English>
+		<Translation>Peace Event</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_BARBARIAN_TRUCE_EVENT</zType>
-		<English>Truce Event</English>
+		<Translation>Truce Event</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_BARBARIAN_DECLARE_WAR_EVENT</zType>
-		<English>Declare War</English>
+		<Translation>Declare War</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_BARBARIAN_BREAK_PEACE_EVENT</zType>
-		<English>Break Peace</English>
+		<Translation>Break Peace</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_BARBARIAN_END_ALLIANCE_EVENT</zType>
-		<English>End Alliance</English>
+		<Translation>End Alliance</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ADOPT_RELIGION_EVENT</zType>
-		<English>Adopt Religion</English>
+		<Translation>Adopt Religion</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_FAMILY_MARRIAGE_EVENT</zType>
-		<English>Family Marriage</English>
+		<Translation>Family Marriage</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ABDICATE</zType>
-		<English>Abdicates</English>
+		<Translation>Abdicates</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ADOPT</zType>
-		<English>Adopted</English>
+		<Translation>Adopted</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_LEGITIMIZE</zType>
-		<English>Legitimized</English>
+		<Translation>Legitimized</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CHOSEN_HEIR</zType>
-		<English>Heir chosen</English>
+		<Translation>Heir chosen</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_INFILTRATE_REVEAL</zType>
-		<English>Territory infiltrated</English>
+		<Translation>Territory infiltrated</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL</zType>
-		<English>Target killed</English>
+		<Translation>Target killed</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL_EXPOSED</zType>
-		<English>Target killed, plot exposed</English>
+		<Translation>Target killed, plot exposed</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ASSASSINATE_FAIL_EXPOSED</zType>
-		<English>Target survives, plot exposed</English>
+		<Translation>Target survives, plot exposed</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ASSASSINATE_EVENT</zType>
-		<English>Assassination Event</English>
+		<Translation>Assassination Event</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_TRADE_MISSION_EVENT</zType>
-		<English>Trade Mission Event</English>
+		<Translation>Trade Mission Event</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS</zType>
-		<English>Gifts please the Family</English>
+		<Translation>Gifts please the Family</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_WEAKEN</zType>
-		<English>Gifts expose our weakness</English>
+		<Translation>Gifts expose our weakness</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_EVENT</zType>
-		<English>Family Gift Event</English>
+		<Translation>Family Gift Event</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_IMPRISON_JUST</zType>
-		<English>Target justly imprisoned</English>
+		<Translation>Target justly imprisoned</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_IMPRISON_UNJUST</zType>
-		<English>Target unjustly imprisoned</English>
+		<Translation>Target unjustly imprisoned</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_IMPRISON_ESCAPE</zType>
-		<English>Target escapes</English>
+		<Translation>Target escapes</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_RELEASE_GRATEFUL</zType>
-		<English>Target is grateful</English>
+		<Translation>Target is grateful</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_RELEASE_BITTER</zType>
-		<English>Target remains bitter</English>
+		<Translation>Target remains bitter</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_RELEASE_UNJUST</zType>
-		<English>Release considered unjust</English>
+		<Translation>Release considered unjust</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CAPTURE_SURRENDER</zType>
-		<English>Target surrenders</English>
+		<Translation>Target surrenders</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CAPTURE_KILLED</zType>
-		<English>Target is killed resisting capture</English>
+		<Translation>Target is killed resisting capture</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CAPTURE_FLEE</zType>
-		<English>Target flees the country</English>
+		<Translation>Target flees the country</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CAPTURE_FAIL</zType>
-		<English>Target cannot be found</English>
+		<Translation>Target cannot be found</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_MARRY_COURTIER</zType>
-		<English>Marriage</English>
+		<Translation>Marriage</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_DIVORCE_MUTUAL</zType>
-		<English>Mutual divorce</English>
+		<Translation>Mutual divorce</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_DIVORCE_FORCED</zType>
-		<English>Forced divorce</English>
+		<Translation>Forced divorce</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CAPTURED_RANSOM</zType>
-		<English>Ransom paid</English>
+		<Translation>Ransom paid</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_BARBARIAN_WAR_EVENT</zType>
-		<English>Player vs Barbarian War Event</English>
+		<Translation>Player vs Barbarian War Event</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_PLAYER_WAR_EVENT</zType>
-		<English>Player vs Player War Event</English>
+		<Translation>Player vs Player War Event</Translation>
 	</Entry>
 </Root>

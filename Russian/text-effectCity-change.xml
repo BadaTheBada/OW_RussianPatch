@@ -4,1311 +4,1315 @@
 	<!--Name-->
 	<Entry>
 		<zType/>
-		<English/>
+		<Translation/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_BASE</zType>
-		<English>Base</English>
+		<Translation>Базово</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CAPITAL</zType>
-		<English>Capital</English>
+		<Translation>Столица</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_SEAT</zType>
-		<English>Family Seat</English>
+		<Translation>link(CONCEPT_FAMILY_SEAT)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CONNECTED</zType>
-		<English>Connected</English>
+		<Translation>Связан со столицей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DAMAGED</zType>
-		<English>Damaged</English>
+		<Translation>Поврежден</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_HOLY_CITY</zType>
-		<English>Holy City</English>
+		<Translation>Священный город</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FRESH_WATER</zType>
-		<English>Fresh Water Access</English>
+		<Translation>Доступ к пресной воде</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CITIZEN</zType>
-		<English>Citizen</English>
+		<Translation>Житель</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_POPULATION</zType>
-		<English>Population</English>
+		<Translation>Население~Населения</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY</zType>
-		<English>Luxury</English>
+		<Translation>Редкий ресурс</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_AMBITION_CAPITAL</zType>
-		<English>Ambitions Completed</English>
+		<Translation>Амбиций завершено</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LEGACY_CAPITAL</zType>
-		<English>Legacies Completed</English>
+		<Translation>Наследий завершено</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_LANDOWNERS</zType>
-		<English>Landowners</English>
+		<Translation>Землевладельцы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_LANDOWNERS_SEAT</zType>
-		<English>Landowners</English>
+		<Translation>Землевладельцы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_CHAMPIONS</zType>
-		<English>Champions</English>
+		<Translation>Чемпионы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_CHAMPIONS_SEAT</zType>
-		<English>Champions</English>
+		<Translation>Чемпионы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_STATESMEN</zType>
-		<English>Statesmen</English>
+		<Translation>Политики</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_STATESMEN_SEAT</zType>
-		<English>Statesmen</English>
+		<Translation>Политики</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_STATESMEN_SEAT_DECREE</zType>
-		<English>Decree</English>
+		<Translation>Указ</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_PATRONS</zType>
-		<English>Patrons</English>
+		<Translation>Покровители</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_CLERICS</zType>
-		<English>Clerics</English>
+		<Translation>Церковники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_CLERICS_SEAT</zType>
-		<English>Clerics</English>
+		<Translation>Церковники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_SAGES</zType>
-		<English>Sages</English>
+		<Translation>Мудрецы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_SAGES_SEAT</zType>
-		<English>Sages</English>
+		<Translation>Мудрецы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_SAGES_SEAT_INQUIRY</zType>
-		<English>Inquiry</English>
+		<Translation>Научное изыскание</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_TRADERS</zType>
-		<English>Traders</English>
+		<Translation>Торговцы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_TRADERS_SEAT</zType>
-		<English>Traders</English>
+		<Translation>Торговцы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_ARTISANS</zType>
-		<English>Artisans</English>
+		<Translation>Ремесленники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_ARTISANS_SEAT</zType>
-		<English>Artisans</English>
+		<Translation>Ремесленники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_RIDERS</zType>
-		<English>Riders</English>
+		<Translation>Наездники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_RIDERS_SEAT</zType>
-		<English>Riders</English>
+		<Translation>Наездники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_HUNTERS</zType>
-		<English>Hunters</English>
+		<Translation>Охотники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_HUNTERS_SEAT</zType>
-		<English>Hunters</English>
+		<Translation>Охотники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_HUNTERS_SEAT_HUNT</zType>
-		<English>Hunt</English>
+		<Translation>Охота</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CULTURE_DEVELOPING</zType>
-		<English>Developing</English>
+		<Translation>Развивающийся</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CULTURE_STRONG</zType>
-		<English>Strong</English>
+		<Translation>Сильный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CULTURE_LEGENDARY</zType>
-		<English>Legendary</English>
+		<Translation>Легендарный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_ABLE</zType>
-		<English>The Able</English>
+		<Translation>The Able</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_ABLE_CAPITAL</zType>
-		<English>The Able</English>
+		<Translation>The Able</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_JUST</zType>
-		<English>The Just</English>
+		<Translation>The Just</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_JUST_CAPITAL</zType>
-		<English>The Just</English>
+		<Translation>The Just</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_GOOD</zType>
-		<English>The Good</English>
+		<Translation>The Good</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_GOOD_CAPITAL</zType>
-		<English>The Good</English>
+		<Translation>The Good</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_STRONG</zType>
-		<English>The Strong</English>
+		<Translation>The Strong</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_STRONG_CAPITAL</zType>
-		<English>The Strong</English>
+		<Translation>The Strong</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_NOBLE</zType>
-		<English>The Noble</English>
+		<Translation>The Noble</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_NOBLE_CAPITAL</zType>
-		<English>The Noble</English>
+		<Translation>The Noble</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_GLORIOUS</zType>
-		<English>The Glorious</English>
+		<Translation>The Glorious</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_GLORIOUS_CAPITAL</zType>
-		<English>The Glorious</English>
+		<Translation>The Glorious</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_MAGNIFICENT</zType>
-		<English>The Magnificent</English>
+		<Translation>The Magnificent</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_MAGNIFICENT_CAPITAL</zType>
-		<English>The Magnificent</English>
+		<Translation>The Magnificent</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_GREAT</zType>
-		<English>The Great</English>
+		<Translation>The Great</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_GREAT_CAPITAL</zType>
-		<English>The Great</English>
+		<Translation>The Great</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HAMLET</zType>
-		<English>Hamlet</English>
+		<Translation>Деревня</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_VILLAGE</zType>
-		<English>Village</English>
+		<Translation>Поселок</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_TOWN</zType>
-		<English>Town</English>
+		<Translation>Городок</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_BARRACKS</zType>
-		<English>Barracks</English>
+		<Translation>Казармы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_RANGE</zType>
-		<English>Range</English>
+		<Translation>Стрельбище</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MARKET_1</zType>
-		<English>Market</English>
+		<Translation>Рынок</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MARKET_2</zType>
-		<English>Grocer</English>
+		<Translation>Бакалея</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MARKET_3</zType>
-		<English>Fair</English>
+		<Translation>Ярмарка</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_LIBRARY_1</zType>
-		<English>Library</English>
+		<Translation>Библиотека</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_LIBRARY_2</zType>
-		<English>Academy</English>
+		<Translation>Академия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_LIBRARY_3</zType>
-		<English>University</English>
+		<Translation>Университет</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_COURTHOUSE_1</zType>
-		<English>Courthouse</English>
+		<Translation>Здание суда</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_COURTHOUSE_2</zType>
-		<English>Ministry</English>
+		<Translation>Министерство</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_COURTHOUSE_3</zType>
-		<English>Palace</English>
+		<Translation>Дворец</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GARRISON_1</zType>
-		<English>Garrison</English>
+		<Translation>Гарнизон</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GARRISON_2</zType>
-		<English>Stronghold</English>
+		<Translation>Крепость</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GARRISON_3</zType>
-		<English>Citadel</English>
+		<Translation>Цитадель</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_FIRE</zType>
-		<English>Shrine of Fire</English>
+		<Translation>Святилище огня</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_UNDERWORLD</zType>
-		<English>Shrine of the Underworld</English>
+		<Translation>Святилище подземного мира</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_HEALING</zType>
-		<English>Shrine of Healing</English>
+		<Translation>Храм исцеления</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_HUNTING</zType>
-		<English>Shrine of the Hunt</English>
+		<Translation>Святилище охоты</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zType>
-		<English>The Adur Burzen-Mihr</English>
+		<Translation>Адур Бурзен-Михр</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_JUDAISM</zType>
-		<English>The Temple of Solomon</English>
+		<Translation>Храм Соломона</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_CHRISTIANITY</zType>
-		<English>The Church of the Holy Sepulchre</English>
+		<Translation>Храм Гроба Господня</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_MANICHAEISM</zType>
-		<English>The Cao'an</English>
+		<Translation>Цаоань</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GREAT_ZIGGURAT</zType>
-		<English>The Great Ziggurat</English>
+		<Translation>Великий Зиккурат</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GREAT_ZIGGURAT_ALL</zType>
-		<English>The Great Ziggurat</English>
+		<Translation>Великий Зиккурат</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_ORACLE</zType>
-		<English>The Oracle</English>
+		<Translation>Оракул</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HANGING_GARDENS_ALL</zType>
-		<English>The Hanging Gardens</English>
+		<Translation>Висячие сады</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_NECROPOLIS</zType>
-		<English>The Necropolis</English>
+		<Translation>Некрополь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_NECROPOLIS_ALL</zType>
-		<English>The Necropolis</English>
+		<Translation>Некрополь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_ISHTAR_GATE</zType>
-		<English>The Ishtar Gate</English>
+		<Translation>Ворота Иштара</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_LIGHTHOUSE</zType>
-		<English>The Lighthouse</English>
+		<Translation>Фаросский Маяк</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_LIGHTHOUSE_COAST</zType>
-		<English>The Lighthouse</English>
+		<Translation>Фаросский Маяк</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_APADANA_STATE</zType>
-		<English>The Apadana</English>
+		<Translation>Ападана</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MAUSOLEUM_ALL</zType>
-		<English>The Mausoleum</English>
+		<Translation>Галикарнасский Мавзолей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_ACROPOLIS</zType>
-		<English>The Acropolis</English>
+		<Translation>Афинский Акрополь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_ACROPOLIS_ALL</zType>
-		<English>The Acropolis</English>
+		<Translation>Афинский Акрополь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_COLOSSUS</zType>
-		<English>The Colossus</English>
+		<Translation>Колосс</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_COLOSSUS_ALL</zType>
-		<English>The Colossus</English>
+		<Translation>Колосс</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MUSAEUM</zType>
-		<English>The Musaeum</English>
+		<Translation>Александрийская библиотека</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MUSAEUM_ALL</zType>
-		<English>The Musaeum</English>
+		<Translation>Александрийская библиотека</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_CIRCUS_MAXIMUS_ALL</zType>
-		<English>The Circus Maximus</English>
+		<Translation>Большой цирк</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_PANTHEON</zType>
-		<English>The Pantheon</English>
+		<Translation>Пантеон</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_PANTHEON_STATE</zType>
-		<English>The Pantheon</English>
+		<Translation>Пантеон</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HAGIA_SOPHIA_ALL</zType>
-		<English>The Hagia Sophia</English>
+		<Translation>Собор Святой Софии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GRAND_BAZAAR_ALL</zType>
-		<English>The Grand Bazaar</English>
+		<Translation>Гранд-Базар</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_THEATER</zType>
-		<English>Theaters</English>
+		<Translation>Театры</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MARKET</zType>
-		<English>Markets</English>
+		<Translation>Рынки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_LIBRARY</zType>
-		<English>Libraries</English>
+		<Translation>Библиотеки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_COURTHOUSE</zType>
-		<English>Courthouses</English>
+		<Translation>Здания суда</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_HOLY_SITE</zType>
-		<English>Holy Site</English>
+		<Translation>Святой город</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MONASTERY_MYTHOLOGY</zType>
-		<English>Mythology Monastery</English>
+		<Translation>Mythology Monastery</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MONASTERY_VENERATION</zType>
-		<English>Veneration Monastery</English>
+		<Translation>Veneration Monastery</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MONASTERY_LEGALISM</zType>
-		<English>Legalism Monastery</English>
+		<Translation>Legalism Monastery</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_TEMPLE</zType>
-		<English>Temple</English>
+		<Translation>Temple</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_TEMPLE_REVELATION</zType>
-		<English>Revelation Temple</English>
+		<Translation>Revelation Temple</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_TEMPLE_GNOSTICISM</zType>
-		<English>Gnosticism Temple</English>
+		<Translation>Gnosticism Temple</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL</zType>
-		<English>Cathedral</English>
+		<Translation>Cathedral</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL_REDEMPTION</zType>
-		<English>Redemption Cathedral</English>
+		<Translation>Redemption Cathedral</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL_DUALISM</zType>
-		<English>Dualism Cathedral</English>
+		<Translation>Dualism Cathedral</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL_ENLIGHTENMENT</zType>
-		<English>Enlightenment Cathedral</English>
+		<Translation>Enlightenment Cathedral</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_SLAVERY</zType>
-		<English>Slavery</English>
+		<Translation>Slavery</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_FREEDOM</zType>
-		<English>Freedom</English>
+		<Translation>Freedom</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_CENTRALIZATION</zType>
-		<English>Centralization</English>
+		<Translation>Centralization</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_TYRANNY</zType>
-		<English>Tyranny</English>
+		<Translation>Tyranny</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_SERFDOM</zType>
-		<English>Serfdom</English>
+		<Translation>Serfdom</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_MONOTHEISM</zType>
-		<English>Monotheism</English>
+		<Translation>Monotheism</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_POLYTHEISM</zType>
-		<English>Polytheism</English>
+		<Translation>Polytheism</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_PROFESSIONAL_ARMY</zType>
-		<English>Professional Army</English>
+		<Translation>Professional Army</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_VOLUNTEERS</zType>
-		<English>Volunteers</English>
+		<Translation>Volunteers</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_TOLERANCE</zType>
-		<English>Tolerance</English>
+		<Translation>Tolerance</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_ORTHODOXY</zType>
-		<English>Orthodoxy</English>
+		<Translation>Orthodoxy</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_GUILDS</zType>
-		<English>Guilds</English>
+		<Translation>Guilds</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_ELITES</zType>
-		<English>Elites</English>
+		<Translation>Elites</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_PHILOSOPHY</zType>
-		<English>Philosophy</English>
+		<Translation>Philosophy</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_ICONOGRAPHY</zType>
-		<English>Iconography</English>
+		<Translation>Iconography</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_CALLIGRAPHY</zType>
-		<English>Calligraphy</English>
+		<Translation>Calligraphy</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_ASCETICISM</zType>
-		<English>Asceticism</English>
+		<Translation>Asceticism</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_HOLY_WAR</zType>
-		<English>Holy War</English>
+		<Translation>Holy War</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_DIVINE_RULE</zType>
-		<English>Divine Rule</English>
+		<Translation>Divine Rule</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_SECULARISM</zType>
-		<English>Secularism</English>
+		<Translation>Secularism</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_ISOLATIONISM</zType>
-		<English>Isolationism</English>
+		<Translation>Isolationism</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_COIN_DEBASEMENT</zType>
-		<English>Coin Debasement</English>
+		<Translation>Coin Debasement</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_MONETARY_REFORM</zType>
-		<English>Monetary Reform</English>
+		<Translation>Monetary Reform</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_NATION_ASSYRIA</zType>
-		<English>Assyria</English>
+		<Translation>Assyria</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_NATION_BABYLONIA</zType>
-		<English>Babylonia</English>
+		<Translation>Babylonia</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_NATION_CARTHAGE</zType>
-		<English>Carthage</English>
+		<Translation>Carthage</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_NATION_EGYPT</zType>
-		<English>Egypt</English>
+		<Translation>Egypt</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_NATION_GREECE</zType>
-		<English>Greece</English>
+		<Translation>Greece</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_NATION_ROME</zType>
-		<English>Rome</English>
+		<Translation>Rome</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_NATION_PERSIA</zType>
-		<English>Persia</English>
+		<Translation>Persia</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_FURIOUS</zType>
-		<English>Furious (Family)</English>
+		<Translation>Furious (Family)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_ANGRY</zType>
-		<English>Angry (Family)</English>
+		<Translation>Angry (Family)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_UPSET</zType>
-		<English>Upset (Family)</English>
+		<Translation>Upset (Family)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_PLEASED</zType>
-		<English>Pleased (Family)</English>
+		<Translation>Pleased (Family)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_FRIENDLY</zType>
-		<English>Friendly (Family)</English>
+		<Translation>Friendly (Family)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_FURIOUS</zType>
-		<English>Furious (Religion)</English>
+		<Translation>Furious (Religion)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_ANGRY</zType>
-		<English>Angry (Religion)</English>
+		<Translation>Angry (Religion)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_UPSET</zType>
-		<English>Upset (Religion)</English>
+		<Translation>Upset (Religion)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_PLEASED</zType>
-		<English>Pleased (Religion)</English>
+		<Translation>Pleased (Religion)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_FRIENDLY</zType>
-		<English>Friendly (Religion)</English>
+		<Translation>Friendly (Religion)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_MONARCH</zType>
-		<English>Monarch</English>
+		<Translation>Monarch</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_GOVERNOR</zType>
-		<English>Governor</English>
+		<Translation>Governor</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_WALLS</zType>
-		<English>Walls</English>
+		<Translation>Walls</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_MOAT</zType>
-		<English>Moat</English>
+		<Translation>Moat</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_TOWERS</zType>
-		<English>Towers</English>
+		<Translation>Towers</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_TREASURY</zType>
-		<English>Treasury</English>
+		<Translation>Treasury</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_TREASURY_1</zType>
-		<English>Treasury I</English>
+		<Translation>Treasury I</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_TREASURY_2</zType>
-		<English>Treasury II</English>
+		<Translation>Treasury II</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_TREASURY_3</zType>
-		<English>Treasury III</English>
+		<Translation>Treasury III</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_TREASURY_4</zType>
-		<English>Treasury IV</English>
+		<Translation>Treasury IV</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_FORUM</zType>
-		<English>Forum</English>
+		<Translation>Forum</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_FORUM_1</zType>
-		<English>Forum I</English>
+		<Translation>Forum I</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_FORUM_2</zType>
-		<English>Forum II</English>
+		<Translation>Forum II</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_FORUM_3</zType>
-		<English>Forum III</English>
+		<Translation>Forum III</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_FORUM_4</zType>
-		<English>Forum IV</English>
+		<Translation>Forum IV</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_ARCHIVE</zType>
-		<English>Archive</English>
+		<Translation>Archive</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_ARCHIVE_1</zType>
-		<English>Archive I</English>
+		<Translation>Archive I</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_ARCHIVE_2</zType>
-		<English>Archive II</English>
+		<Translation>Archive II</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_ARCHIVE_3</zType>
-		<English>Archive III</English>
+		<Translation>Archive III</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_ARCHIVE_4</zType>
-		<English>Archive IV</English>
+		<Translation>Archive IV</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_FESTIVAL</zType>
-		<English>Festival</English>
+		<Translation>Festival</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_INQUIRY</zType>
-		<English>Inquiry</English>
+		<Translation>Inquiry</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_HUNT</zType>
-		<English>Hunt</English>
+		<Translation>Hunt</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_OLYMPICS</zType>
-		<English>Olympics</English>
+		<Translation>Olympics</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_CONVOY</zType>
-		<English>Convoy</English>
+		<Translation>Convoy</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_SWORD_CULT</zType>
-		<English>Sword Cult</English>
+		<Translation>Sword Cult</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_SWORD_CULT_TITHE</zType>
-		<English>Sword Cult Tithe</English>
+		<Translation>Sword Cult Tithe</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_HOSTILE_GARRISON</zType>
-		<English>Hostile Garrison</English>
+		<Translation>Hostile Garrison</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_PUBLIC_MURAL</zType>
-		<English>Public Mural</English>
+		<Translation>Public Mural</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_TRIUMPH</zType>
-		<English>Triumph</English>
+		<Translation>Triumph</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_PURPLE_DYE</zType>
-		<English>Purple Dye</English>
+		<Translation>Purple Dye</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_PROPAGANDA</zType>
-		<English>Propaganda</English>
+		<Translation>Propaganda</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_CHILD_LABOR</zType>
-		<English>Child Labor</English>
+		<Translation>Child Labor</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_CORRUPTION_REFORM</zType>
-		<English>Corruption Reform</English>
+		<Translation>Corruption Reform</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_ROYAL_INSCRIPTIONS</zType>
-		<English>Royal Clay Inscriptions</English>
+		<Translation>Royal Clay Inscriptions</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_IMPERIAL_NECROPOLIS</zType>
-		<English>Imperial Necropolis</English>
+		<Translation>Imperial Necropolis</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_FORCED_DEPORTATIONS</zType>
-		<English>Forced Deportations</English>
+		<Translation>Forced Deportations</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_GLADIATORS</zType>
-		<English>Gladiators</English>
+		<Translation>Gladiators</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_PLAYS</zType>
-		<English>Dramatic Plays</English>
+		<Translation>Dramatic Plays</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_MERCHANT_TOWN</zType>
-		<English>Merchant Town</English>
+		<Translation>Merchant Town</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_OUTBREAK</zType>
-		<English>Outbreak</English>
+		<Translation>Outbreak</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_LUXURIOUS_DELIGHTS</zType>
-		<English>Luxurious Delights</English>
+		<Translation>Luxurious Delights</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_MIDWIFERY</zType>
-		<English>Midwifery</English>
+		<Translation>Midwifery</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_TRADE_PERSIA</zType>
-		<English>Trade with Persia</English>
+		<Translation>Trade with Persia</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_FEAST_PERSIA</zType>
-		<English>Host Annual Feast for Persian Guests</English>
+		<Translation>Host Annual Feast for Persian Guests</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_TRADE_ROME</zType>
-		<English>Trade with Rome</English>
+		<Translation>Trade with Rome</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_TRADE_BABYLONIA</zType>
-		<English>Trade with Babylonia</English>
+		<Translation>Trade with Babylonia</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_TRADE_CARTHAGE</zType>
-		<English>Trade with Carthage</English>
+		<Translation>Trade with Carthage</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_ADVANCED_TRADE_CARTHAGE</zType>
-		<English>Advanced Trade with Carthage</English>
+		<Translation>Advanced Trade with Carthage</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_INTERNATIONAL_TRADE</zType>
-		<English>International Trade Agreement</English>
+		<Translation>International Trade Agreement</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_MISTHOPHORIA</zType>
-		<English>Misthophoria</English>
+		<Translation>Misthophoria</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_GRAIN_DOLE</zType>
-		<English>Grain Dole</English>
+		<Translation>Grain Dole</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_FOREIGN_FIGHTERS</zType>
-		<English>Foreign Fighters</English>
+		<Translation>Foreign Fighters</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_WAR_COUNCIL</zType>
-		<English>War Council</English>
+		<Translation>War Council</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_SEWER_SYSTEM</zType>
-		<English>Sewer System</English>
+		<Translation>Sewer System</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_CASE_HARDENING</zType>
-		<English>Case-Hardening</English>
+		<Translation>Case-Hardening</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_TURPAN_WELLS</zType>
-		<English>Turpan Wells</English>
+		<Translation>Turpan Wells</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_NATIONAL_HOLIDAY</zType>
-		<English>National Holiday</English>
+		<Translation>National Holiday</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_SCIENTIFIC_METHOD</zType>
-		<English>Scientific Method</English>
+		<Translation>Scientific Method</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_PROTECTION_EDICTS</zType>
-		<English>Protection Edicts</English>
+		<Translation>Protection Edicts</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_HORREUM</zType>
-		<English>Horreum Storehouse</English>
+		<Translation>Horreum Storehouse</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_AVESTA_TREASURY</zType>
-		<English>Avesta Treasury</English>
+		<Translation>Avesta Treasury</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_DISEASED_SETTLERS</zType>
-		<English>Diseased Citizens</English>
+		<Translation>Diseased Citizens</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_TERRACE_LOVE_SHRINE</zType>
-		<English>Ziggurat Love Shrine</English>
+		<Translation>Ziggurat Love Shrine</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_TERRACE_WISDOM_SHRINE</zType>
-		<English>Ziggurat Wisdom Shrine</English>
+		<Translation>Ziggurat Wisdom Shrine</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_TERRACE_WAR_SHRINE</zType>
-		<English>Ziggurat War Shrine</English>
+		<Translation>Ziggurat War Shrine</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_CONSULAR_TRIBUNES</zType>
-		<English>Consular Tribunes</English>
+		<Translation>Consular Tribunes</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_CONFUCIANISM</zType>
-		<English>Confucianism</English>
+		<Translation>Confucianism</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_SALT_PRODUCTION</zType>
+		<Translation>Salt Production</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RELIGION_JUDAISM</zType>
-		<English>Judaism</English>
+		<Translation>Judaism</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RELIGION_JUDAISM_STATE</zType>
-		<English>Judaism</English>
+		<Translation>Judaism</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RELIGION_ZOROASTRIANISM</zType>
-		<English>Zoroastrianism</English>
+		<Translation>Zoroastrianism</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RELIGION_ZOROASTRIANISM_STATE</zType>
-		<English>Zoroastrianism</English>
+		<Translation>Zoroastrianism</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RELIGION_CHRISTIANITY</zType>
-		<English>Christianity</English>
+		<Translation>Christianity</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RELIGION_CHRISTIANITY_STATE</zType>
-		<English>Christianity</English>
+		<Translation>Christianity</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RELIGION_MANICHAEISM</zType>
-		<English>Manichaeism</English>
+		<Translation>Manichaeism</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RELIGION_MANICHAEISM_STATE</zType>
-		<English>Manichaeism</English>
+		<Translation>Manichaeism</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_ORE</zType>
-		<English>Ore</English>
+		<Translation>Ore</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_SALT</zType>
-		<English>Salt</English>
+		<Translation>Salt</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_GEM</zType>
-		<English>Gem</English>
+		<Translation>Gem</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_HORSE</zType>
-		<English>Horse</English>
+		<Translation>Horse</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_CAMEL</zType>
-		<English>Camel</English>
+		<Translation>Camel</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_ELEPHANT</zType>
-		<English>Elephant</English>
+		<Translation>Elephant</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_FUR</zType>
-		<English>Fur</English>
+		<Translation>Fur</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_INCENSE</zType>
-		<English>Incense</English>
+		<Translation>Incense</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_WINE</zType>
-		<English>Wine</English>
+		<Translation>Wine</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_OLIVE</zType>
-		<English>Olive</English>
+		<Translation>Olive</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_DYE</zType>
-		<English>Dye</English>
+		<Translation>Dye</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_PEARL</zType>
-		<English>Pearl</English>
+		<Translation>Pearl</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_SCROLLS</zType>
-		<English>Scrolls</English>
+		<Translation>Scrolls</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_FOOD_STAPLE</zType>
-		<English>Food Staple</English>
+		<Translation>Food Staple</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_FARMER</zType>
-		<English>Farmer</English>
+		<Translation>Farmer</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_WOODCUTTER</zType>
-		<English>Woodcutter</English>
+		<Translation>Woodcutter</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_STONECUTTER</zType>
-		<English>Stonecutter</English>
+		<Translation>Stonecutter</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_MINER</zType>
-		<English>Miner</English>
+		<Translation>Miner</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_DOCTOR_1</zType>
-		<English>Apprentice Doctor</English>
+		<Translation>Apprentice Doctor</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_DOCTOR_2</zType>
-		<English>Master Doctor</English>
+		<Translation>Master Doctor</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_DOCTOR_3</zType>
-		<English>Elder Doctor</English>
+		<Translation>Elder Doctor</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_ACOLYTE_1</zType>
-		<English>Apprentice Acolyte</English>
+		<Translation>Apprentice Acolyte</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_ACOLYTE_2</zType>
-		<English>Master Acolyte</English>
+		<Translation>Master Acolyte</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_ACOLYTE_3</zType>
-		<English>Elder Acolyte</English>
+		<Translation>Elder Acolyte</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_MONK_1</zType>
-		<English>Apprentice Monk</English>
+		<Translation>Apprentice Monk</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_MONK_2</zType>
-		<English>Master Monk</English>
+		<Translation>Master Monk</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_MONK_3</zType>
-		<English>Elder Monk</English>
+		<Translation>Elder Monk</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_PRIEST_1</zType>
-		<English>Apprentice Priest</English>
+		<Translation>Apprentice Priest</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_PRIEST_2</zType>
-		<English>Master Priest</English>
+		<Translation>Master Priest</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_PRIEST_3</zType>
-		<English>Elder Priest</English>
+		<Translation>Elder Priest</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_BISHOP_1</zType>
-		<English>Apprentice Bishop</English>
+		<Translation>Apprentice Bishop</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_BISHOP_2</zType>
-		<English>Master Bishop</English>
+		<Translation>Master Bishop</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_BISHOP_3</zType>
-		<English>Elder Bishoo</English>
+		<Translation>Elder Bishoo</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_POET_1</zType>
-		<English>Apprentice Poet</English>
+		<Translation>Apprentice Poet</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_POET_2</zType>
-		<English>Master Poet</English>
+		<Translation>Master Poet</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_POET_3</zType>
-		<English>Elder Poet</English>
+		<Translation>Elder Poet</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_SHOPKEEPER_1</zType>
-		<English>Apprentice Shopkeeper</English>
+		<Translation>Apprentice Shopkeeper</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_SHOPKEEPER_2</zType>
-		<English>Master Shopkeeper</English>
+		<Translation>Master Shopkeeper</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_SHOPKEEPER_3</zType>
-		<English>Elder Shopkeeper</English>
+		<Translation>Elder Shopkeeper</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_PHILOSOPHER_1</zType>
-		<English>Apprentice Philosopher</English>
+		<Translation>Apprentice Philosopher</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_PHILOSOPHER_2</zType>
-		<English>Master Philosopher</English>
+		<Translation>Master Philosopher</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_PHILOSOPHER_3</zType>
-		<English>Elder Philosopher</English>
+		<Translation>Elder Philosopher</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_SCRIBE_1</zType>
-		<English>Apprentice Scribe</English>
+		<Translation>Apprentice Scribe</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_SCRIBE_2</zType>
-		<English>Master Scribe</English>
+		<Translation>Master Scribe</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_SCRIBE_3</zType>
-		<English>Elder Scribe</English>
+		<Translation>Elder Scribe</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_OFFICER_1</zType>
-		<English>Apprentice Officer</English>
+		<Translation>Apprentice Officer</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_OFFICER_2</zType>
-		<English>Master Officer</English>
+		<Translation>Master Officer</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_OFFICER_3</zType>
-		<English>Elder Officer</English>
+		<Translation>Elder Officer</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_RURAL</zType>
-		<English>Rural Specialist</English>
+		<Translation>Rural Specialist</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_APPRENTICE</zType>
-		<English>Apprentice Specialist</English>
+		<Translation>Apprentice Specialist</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_MASTER</zType>
-		<English>Master Specialist</English>
+		<Translation>Master Specialist</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_ELDER</zType>
-		<English>Elder Specialist</English>
+		<Translation>Elder Specialist</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_JUDGE_ARCHETYPE_ALL</zType>
-		<English>Orator Leader</English>
+		<Translation>Orator Leader</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_ORATOR_ARCHETYPE_ALL</zType>
-		<English>Judge Leader</English>
+		<Translation>Judge Leader</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_BUILDER_ARCHETYPE_ALL</zType>
-		<English>Builder Leader</English>
+		<Translation>Builder Leader</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_COMMANDER_ARCHETYPE_ALL</zType>
-		<English>Commander Leader</English>
+		<Translation>Commander Leader</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_ZEALOT_ARCHETYPE_STATE</zType>
-		<English>Zealot Leader</English>
+		<Translation>Zealot Leader</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_ROBUST</zType>
-		<English>Robust</English>
+		<Translation>Robust</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_VIGILANT</zType>
-		<English>Vigilant</English>
+		<Translation>Vigilant</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_STRICT</zType>
-		<English>Strict</English>
+		<Translation>Strict</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_DRILLMASTER</zType>
-		<English>Drillmaster</English>
+		<Translation>Drillmaster</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_KEEN</zType>
-		<English>Keen</English>
+		<Translation>Keen</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_EQUESTRIAN</zType>
-		<English>Equestrian</English>
+		<Translation>Equestrian</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_AFFABLE</zType>
-		<English>Affable</English>
+		<Translation>Affable</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_WARLIKE</zType>
-		<English>Warlike</English>
+		<Translation>Warlike</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_ELOQUENT</zType>
-		<English>Eloquent</English>
+		<Translation>Eloquent</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_INSPIRED</zType>
-		<English>Inspired</English>
+		<zType>TEXT_EFFECTCITY_TRAIT_INSPIRING</zType>
+		<Translation>Inspiring</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_INTELLIGENT</zType>
-		<English>Intelligent</English>
+		<Translation>Intelligent</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_PROSPEROUS</zType>
-		<English>Prosperous</English>
+		<Translation>Prosperous</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_FRUGAL</zType>
-		<English>Frugal</English>
+		<Translation>Frugal</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_RIGHTEOUS</zType>
-		<English>Righteous</English>
+		<Translation>Righteous</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CRUEL</zType>
-		<English>Cruel</English>
+		<Translation>Cruel</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CARELESS</zType>
-		<English>Careless</English>
+		<Translation>Careless</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_SLOTHFUL</zType>
-		<English>Slothful</English>
+		<Translation>Slothful</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_UNCOUTH</zType>
-		<English>Uncouth</English>
+		<Translation>Uncouth</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_FOOLISH</zType>
-		<English>Foolish</English>
+		<Translation>Foolish</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_EXTRAVAGANT</zType>
-		<English>Extravagant</English>
+		<Translation>Extravagant</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CORRUPT</zType>
-		<English>Corrupt</English>
+		<Translation>Corrupt</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_DEBAUCHED</zType>
-		<English>Debauched</English>
+		<Translation>Debauched</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_ANGLER</zType>
-		<English>Angler</English>
+		<Translation>Angler</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_PLANTER</zType>
-		<English>Planter</English>
+		<Translation>Planter</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_FORESTER</zType>
-		<English>Forester</English>
+		<Translation>Forester</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_DELVER</zType>
-		<English>Delver</English>
+		<Translation>Delver</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_SMELTER</zType>
-		<English>Smelter</English>
+		<Translation>Smelter</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_HERDER</zType>
-		<English>Herder</English>
+		<Translation>Herder</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_DEALMAKER</zType>
-		<English>Dealmaker</English>
+		<Translation>Dealmaker</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_MISERABLE</zType>
-		<English>Miserable</English>
+		<Translation>Miserable</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_MOURNING</zType>
-		<English>Mourning</English>
+		<Translation>Mourning</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_SOLDIER</zType>
-		<English>Soldier</English>
+		<Translation>Soldier</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_FAMOUNS</zType>
-		<English>Famous</English>
+		<Translation>Famous</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_ENEMY_OF_THE_STATE</zType>
-		<English>Enemy of the State</English>
+		<Translation>Enemy of the State</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_UNIT_CARAVAN</zType>
-		<English>Caravan</English>
+		<Translation>Caravan</Translation>
 	</Entry>
 	<!--Source-->
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SEAT_SOURCE</zType>
-		<English>Seat</English>
+		<Translation>Seat</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CAPITAL_SOURCE</zType>
-		<English>Capital</English>
+		<Translation>Capital</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STATE_RELIGION_SOURCE</zType>
-		<English>State Religion</English>
+		<Translation>State Religion</Translation>
 	</Entry>
 </Root>

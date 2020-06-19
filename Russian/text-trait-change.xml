@@ -4,538 +4,538 @@
 	<!--Assets/GameAssets/Resources/Infos/trait.xml-->
 	<Entry>
 		<zType/>
-		<English/>
+		<Translation/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HERO_ARCHETYPE</zType>
-		<English>Hero</English>
+		<Translation>Герой~Героя~Герою~Героя~Героем~Герое</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_COMMANDER_ARCHETYPE</zType>
-		<English>Commander</English>
+		<Translation>Командир~Командира~Командиру~Командира~Командиром~Командире</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TACTICIAN_ARCHETYPE</zType>
-		<English>Tactician</English>
+		<Translation>Тактик~Тактика~Тактику~Тактика~Тактиком~Тактике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ZEALOT_ARCHETYPE</zType>
-		<English>Zealot</English>
+		<Translation>Фанатик~Фанатика~Фанатику~Фанатика~Фанатиком~Фанатике</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SCHEMER_ARCHETYPE</zType>
-		<English>Schemer</English>
+		<Translation>Интриган~Интригана~Интригану~Интригана~Интриганом~Интригане</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ORATOR_ARCHETYPE</zType>
-		<English>Orator</English>
+		<Translation>Оратор~Оратора~Оратору~Оратора~Оратором~Ораторе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_JUDGE_ARCHETYPE</zType>
-		<English>Judge</English>
+		<Translation>Судья~Судьи~Судье~Судью~Судьей~Судье</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BUILDER_ARCHETYPE</zType>
-		<English>Builder</English>
+		<Translation>Строитель~Строителя~Строителю~Строителя~Строителем~Строителе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SCHOLAR_ARCHETYPE</zType>
-		<English>Scholar</English>
+		<Translation>Ученый~Ученого~Ученому~Ученого~Ученым~Ученом</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DIPLOMAT_ARCHETYPE</zType>
-		<English>Diplomat</English>
+		<Translation>Дипломат~Дипломата~Дипломату~Дипломата~Дипломатом~Дипломате</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ROBUST</zType>
-		<English>Robust</English>
+		<Translation>Сильный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_VIGILANT</zType>
-		<English>Vigilant</English>
+		<Translation>Бдительный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STRICT</zType>
-		<English>Strict</English>
+		<Translation>Строгий</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DRILLMASTER</zType>
-		<English>Drillmaster</English>
+		<Translation>Вояка</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_KEEN</zType>
-		<English>Keen</English>
+		<Translation>Проницательный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EQUESTRIAN</zType>
-		<English>Equestrian</English>
+		<Translation>Всадник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AFFABLE</zType>
-		<English>Affable</English>
+		<Translation>Вежливый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ELOQUENT</zType>
-		<English>Eloquent</English>
+		<Translation>Красноречивый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_WARLIKE</zType>
-		<English>Warlike</English>
+		<Translation>Воинственный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INSPIRED</zType>
-		<English>Inspired</English>
+		<Translation>Вдохновленный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INTELLIGENT</zType>
-		<English>Intelligent</English>
+		<Translation>Умный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PROSPEROUS</zType>
-		<English>Prosperous</English>
+		<Translation>Успешный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FRUGAL</zType>
-		<English>Frugal</English>
+		<Translation>Скромный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RIGHTEOUS</zType>
-		<English>Righteous</English>
+		<Translation>Справедливый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CRUEL</zType>
-		<English>Cruel</English>
+		<Translation>Жестокий</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CARELESS</zType>
-		<English>Careless</English>
+		<Translation>Беспечный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SLOTHFUL</zType>
-		<English>Slothful</English>
+		<Translation>Ленивый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CORRUPT</zType>
-		<English>Corrupt</English>
+		<Translation>Безнравственный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_UNCOUTH</zType>
-		<English>Uncouth</English>
+		<Translation>Грубый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FOOLISH</zType>
-		<English>Foolish</English>
+		<Translation>Глупый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXTRAVAGANT</zType>
-		<English>Extravagant</English>
+		<Translation>Экстравагантный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DEBAUCHED</zType>
-		<English>Debauched</English>
+		<Translation>Скандальный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ANGLER</zType>
-		<English>Angler</English>
+		<Translation>Моряк</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PLANTER</zType>
-		<English>Planter</English>
+		<Translation>Фермер</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FORESTER</zType>
-		<English>Forester</English>
+		<Translation>Лесник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DELVER</zType>
-		<English>Delver</English>
+		<Translation>Поставщик</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SMELTER</zType>
-		<English>Smelter</English>
+		<Translation>Плавильщик</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HERDER</zType>
-		<English>Herder</English>
+		<Translation>Пастух</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DEALMAKER</zType>
-		<English>Dealmaker</English>
+		<Translation>Делец</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRACKER</zType>
-		<English>Tracker</English>
+		<Translation>Охотник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SWIFT</zType>
-		<English>Swift</English>
+		<Translation>Неуловимый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HARDY</zType>
-		<English>Hardy</English>
+		<Translation>Выносливый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EAGLE_EYE</zType>
-		<English>Eagle Eye</English>
+		<Translation>Орлинный глаз</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MARKSMAN</zType>
-		<English>Marksman</English>
+		<Translation>Меткий стрелок</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ENGINEER</zType>
-		<English>Engineer</English>
+		<Translation>Инженер</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BESIEGER</zType>
-		<English>Besieger</English>
+		<Translation>Мастер осады</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GARRISON</zType>
-		<English>Garrison</English>
+		<Translation>Гарнизон</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BLOODTHIRSTY</zType>
-		<English>Bloodthirsty</English>
+		<Translation>Кровожадный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HECKLER</zType>
-		<English>Heckler</English>
+		<Translation>Гроза генералов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STEADFAST</zType>
-		<English>Steadfast</English>
+		<Translation>Непоколебимый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HERBALIST</zType>
-		<English>Herbalist</English>
+		<Translation>Травник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HIGHLANDER</zType>
-		<English>Highlander</English>
+		<Translation>Горец</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RANGER</zType>
-		<English>Ranger</English>
+		<Translation>Странник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXPLORING</zType>
-		<English>Exploring</English>
+		<Translation>Исследователь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRAVELING</zType>
-		<English>Traveling</English>
+		<Translation>Путешественник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BRAVE</zType>
-		<English>Brave</English>
+		<Translation>Храбрый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SHIELDBEARER</zType>
-		<English>Shieldbearer</English>
+		<Translation>Щитоносец</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FIERCE</zType>
-		<English>Fierce</English>
+		<Translation>Свирепый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HORSEBANE</zType>
-		<English>Horsebane</English>
+		<Translation>Гроза всадников</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AGGRESSOR</zType>
-		<English>Aggressor</English>
+		<Translation>Агрессор</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BOLD</zType>
-		<English>Bold</English>
+		<Translation>Смелый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_COWARDLY</zType>
-		<English>Cowardly</English>
+		<Translation>Трусливый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GRACIOUS</zType>
-		<English>Gracious</English>
+		<Translation>Милостивый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GREEDY</zType>
-		<English>Greedy</English>
+		<Translation>Алчный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CUNNING</zType>
-		<English>Cunning</English>
+		<Translation>Коварный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ROMANTIC</zType>
-		<English>Romantic</English>
+		<Translation>Романтик</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EDUCATED</zType>
-		<English>Educated</English>
+		<Translation>Образованный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_COMPASSIONATE</zType>
-		<English>Compassionate</English>
+		<Translation>Сочувствующий</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INSPIRING</zType>
-		<English>Inspiring</English>
+		<Translation>Вдохновляющий</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LOYAL</zType>
-		<English>Loyal</English>
+		<Translation>Преданный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BITTER</zType>
-		<English>Bitter</English>
+		<Translation>Суровый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SPOILED</zType>
-		<English>Spoiled</English>
+		<Translation>Избалованный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HONEST</zType>
-		<English>Honest</English>
+		<Translation>Честный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DISHONEST</zType>
-		<English>Dishonest</English>
+		<Translation>Нечестный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PIOUS</zType>
-		<English>Pious</English>
+		<Translation>Праведный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HUMBLE</zType>
-		<English>Humble</English>
+		<Translation>Набожный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HEARTBROKEN</zType>
-		<English>Heartbroken</English>
+		<Translation>Убитый горем</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INTOLERANT</zType>
-		<English>Intolerant</English>
+		<Translation>Нетерпимый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_VENGEFUL</zType>
-		<English>Vengeful</English>
+		<Translation>Мстительный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SUPERSTITIOUS</zType>
-		<English>Superstitious</English>
+		<Translation>Суеверный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RUTHLESS</zType>
-		<English>Ruthless</English>
+		<Translation>Беспощадный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PROUD</zType>
-		<English>Proud</English>
+		<Translation>Гордый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BEAUTIFUL</zType>
-		<English>Beautiful</English>
+		<Translation>Прекрасный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_WITTY</zType>
-		<English>Witty</English>
+		<Translation>Остроумный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_TACTICS</zType>
-		<English>Tactics Student</English>
+		<Translation>Ученик тактика</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_RHETORIC</zType>
-		<English>Rhetoric Student</English>
+		<Translation>Ученик риторика</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_COMMERCE</zType>
-		<English>Commerce Student</English>
+		<Translation>Ученик торговца</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_PHILOSOPHY</zType>
-		<English>Philosophy Student</English>
+		<Translation>Ученик философа</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BLESSED</zType>
-		<English>Blessed</English>
+		<Translation>Благословенный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CURSED</zType>
-		<English>Cursed</English>
+		<Translation>Проклятый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ILL</zType>
-		<English>Ill</English>
+		<Translation>Больной</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SEVERELY_ILL</zType>
-		<English>Severely Ill</English>
+		<Translation>Тяжело больной</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INCUBATED</zType>
-		<English>Incubated</English>
+		<Translation>Выношенный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POISONER</zType>
-		<English>Master of Poisons</English>
+		<Translation>Мастер ядов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POISONED</zType>
-		<English>Poisoned</English>
+		<Translation>Отравленный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MISERABLE</zType>
-		<English>Miserable</English>
+		<Translation>Жалкий</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SCARRED</zType>
-		<English>Scarred</English>
+		<Translation>Покрытый шрамами</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CRIPPLED</zType>
-		<English>Crippled</English>
+		<Translation>Изувеченный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BLINDED</zType>
-		<English>Blinded</English>
+		<Translation>Ослепленный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FLED_COUNTRY</zType>
-		<English>Fled Country</English>
+		<Translation>Беглец</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_IMPRISONED</zType>
-		<English>Imprisoned</English>
+		<Translation>Заключенный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RELEASED</zType>
-		<English>Released</English>
+		<Translation>Освобожденный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ON_THE_RUN</zType>
-		<English>Fugitive</English>
+		<Translation>Дезертир</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MISSING</zType>
-		<English>Missing</English>
+		<Translation>Пропавший</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HIDING_ABROAD</zType>
-		<English>Hiding Abroad</English>
+		<Translation>Беженец</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ELOPED</zType>
-		<English>Eloped</English>
+		<Translation>Скрывающийся</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CAPTURED</zType>
-		<English>Captured</English>
+		<Translation>Заложник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXILED</zType>
-		<English>Exiled</English>
+		<Translation>Высланный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GAY</zType>
-		<English>Gay</English>
+		<Translation>Беззаботный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BASTARD</zType>
-		<English>Bastard</English>
+		<Translation>Незаконнорожденный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SLIGHTED</zType>
-		<English>Slighted</English>
+		<Translation>Ущемленный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INFAMOUS</zType>
-		<English>Infamous</English>
+		<Translation>Бесславный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FAMOUS</zType>
-		<English>Famous</English>
+		<Translation>Знаменитый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POPULAR_HERO</zType>
-		<English>Popular Hero</English>
+		<Translation>Популярный герой</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ADOPTED</zType>
-		<English>Adopted</English>
+		<Translation>Усыновленный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ABDICATED</zType>
-		<English>Abdicated</English>
+		<Translation>Отрекшийся</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXOTIC</zType>
-		<English>Exotic</English>
+		<Translation>Иноземный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXCLUDED</zType>
-		<English>Excluded from Succession</English>
+		<Translation>Лишенный права наследства</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DIVINE</zType>
-		<English>Divine</English>
+		<Translation>Божественный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SOLDIER</zType>
-		<English>Soldier</English>
+		<Translation>Солдат</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DRUNK</zType>
-		<English>Drunk</English>
+		<Translation>Пьяница</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INSANE</zType>
-		<English>Insane</English>
+		<Translation>Безумец</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MOURNING</zType>
-		<English>Mourning</English>
+		<Translation>Скорбящий</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ARCHON</zType>
-		<English>Archon</English>
+		<Translation>Властитель</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MYSTERIOUS_SWORD</zType>
-		<English>Mysterious Sword Owner</English>
+		<Translation>Владелец таинственного меча</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SWORD_OF_THE_GODS</zType>
-		<English>Sword of the Gods Owner</English>
+		<Translation>Владелец меча Богов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PET_FISH</zType>
-		<English>Pet Fish Owner</English>
+		<Translation>Владелец рыбки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PET_MONKEY</zType>
-		<English>Pet Monkey Owner</English>
+		<Translation>Владелец обезьяны</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MONKEY_ASSASSIN</zType>
-		<English>Monkey Assassin</English>
+		<Translation>Убийца обезьян</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_OVERSEER_OF_THE_FIELDS</zType>
-		<English>Overseer of the Fields</English>
+		<Translation>Надзиратель полей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POSSESSOR_OF_VENERATION</zType>
-		<English>Possessor of Veneration</English>
+		<Translation>Глава культа</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STEWARD_OF_THE_CHAMBER</zType>
-		<English>Steward of the Chamber</English>
+		<Translation>Надзиратель</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ENEMY_OF_THE_STATE</zType>
-		<English>Enemy of the State</English>
+		<Translation>Враг государства</Translation>
 	</Entry>
 </Root>

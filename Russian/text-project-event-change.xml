@@ -5,154 +5,158 @@
 	<!--NOTE: improvement names that are mass nouns or plural do not need multiple types in English-->
 	<Entry>
 		<zType/>
-		<English/>
+		<Translation/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SWORD_CULT</zType>
-		<English>Sword Cult</English>
+		<Translation>Культ меча</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SWORD_CULT_TITHE</zType>
-		<English>Sword Cult Tithe</English>
+		<Translation>Десятина культа меча</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HOSTILE_GARRISON</zType>
-		<English>Hostile Garrison</English>
+		<Translation>Вражеский гарнизон</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PUBLIC_MURAL</zType>
-		<English>Public Mural</English>
+		<Translation>Народная фреска</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TRIUMPH</zType>
-		<English>Triumph</English>
+		<Translation>Триумф</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PURPLE_DYE</zType>
-		<English>Purple Dye</English>
+		<Translation>Пурпурная краска</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PROPAGANDA</zType>
-		<English>Propaganda</English>
+		<Translation>Пропаганда</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CHILD_LABOR</zType>
-		<English>Child Labor</English>
+		<Translation>Детский труд</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CORRUPTION_REFORM</zType>
-		<English>Corruption Reform</English>
+		<Translation>Коррупционная реформа</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_ROYAL_INSCRIPTIONS</zType>
-		<English>Royal Inscriptions</English>
+		<Translation>Королевские писания</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_IMPERIAL_NECROPOLIS</zType>
-		<English>Imperial Necropolis</English>
+		<Translation>Императорский некрополь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FORCED_DEPORTATIONS</zType>
-		<English>Forced Deportations</English>
+		<Translation>Принудительная депортация</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GLADIATORS</zType>
-		<English>Gladiators</English>
+		<Translation>Гладиаторы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PLAYS</zType>
-		<English>Dramatic Plays</English>
+		<Translation>Драматические пьесы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MERCHANT_TOWN</zType>
-		<English>Merchant Town</English>
+		<Translation>Торговый городок</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_OUTBREAK</zType>
-		<English>Outbreak</English>
+		<Translation>Мятеж</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MIDWIFERY</zType>
-		<English>Midwifery</English>
+		<Translation>Акушерство</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_LUXURIOUS_DELIGHTS</zType>
-		<English>Luxurious Delights</English>
+		<Translation>Роскошные удовольствия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_NEIGHBORS_FEAST_PERSIA</zType>
-		<English>Annual Feast for Persian Guests</English>
+		<Translation>Ежегодный праздник персидских гостей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MISTHOPHORIA</zType>
-		<English>Misthophoria</English>
+		<Translation>Мистофория</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GRAIN_DOLE</zType>
-		<English>Grain Dole</English>
+		<Translation>Зерновая Доля</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FOREIGN_FIGHTERS</zType>
-		<English>Foreign Fighters</English>
+		<Translation>Чужеземные Воины</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_WAR_COUNCIL</zType>
-		<English>War Council</English>
+		<Translation>Военный совет</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SEWER_SYSTEM</zType>
-		<English>Sewer System</English>
+		<Translation>Канализация</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CASE_HARDENING</zType>
-		<English>Case-Hardening</English>
+		<Translation>Цементирование</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TURPAN_WELLS</zType>
-		<English>Turpan Wells</English>
+		<Translation>Турфанские скважины</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_NATIONAL_HOLIDAY</zType>
-		<English>National Holiday</English>
+		<Translation>Национальный праздник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SCIENTIFIC_METHOD</zType>
-		<English>Scientific Method</English>
+		<Translation>Научный метод</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PROTECTION_EDICTS</zType>
-		<English>Protection Edicts</English>
+		<Translation>Эдикты о защите</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HORREUM</zType>
-		<English>Horreum Storehouse</English>
+		<Translation>Склад Хорреум</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_AVESTA_TREASURY</zType>
-		<English>Avesta Treasury</English>
+		<Translation>Казначейство Авеста</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_DISEASED_SETTLERS</zType>
-		<English>Diseased Citizens</English>
+		<Translation>Больные граждане</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TERRACE_LOVE_SHRINE</zType>
-		<English>Ziggurat Love Shrine</English>
+		<Translation>Зиккурат Любви</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TERRACE_WISDOM_SHRINE</zType>
-		<English>Ziggurat Wisdom Shrine</English>
+		<Translation>Зиккурат Мудрости</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TERRACE_WAR_SHRINE</zType>
-		<English>Ziggurat War Shrine</English>
+		<Translation>Зиккурата Войны</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CONSULAR_TRIBUNES</zType>
-		<English>Consular Tribunes</English>
+		<Translation>Консульская трибуна</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CONFUCIANISM</zType>
-		<English>Confucianism</English>
+		<Translation>Конфуцианство</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SALT_PRODUCTION</zType>
+		<Translation>Salt Production</Translation>
 	</Entry>
 </Root>

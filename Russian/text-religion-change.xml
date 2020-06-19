@@ -1,27 +1,27 @@
 <Root>
-	<!--English Indices: Noun~Adjective~Indefinite Article w/ Adjective~Plural-->
-	<Entry>
-		<zType/>
-		<English/>
-	</Entry>
-	<Entry>
-		<zType>TEXT_RELIGION_ZOROASTRIANISM</zType>
-		<English>Zoroastrianism~Zoroastrian~a Zoroastrian~Zoroastrians</English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_RELIGION_JUDAISM</zType>
-		<English>Judaism~Jewish~a Jewish~Jews</English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_RELIGION_CHRISTIANITY</zType>
-		<English>Christianity~Christian~a Christian~Christians</English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_RELIGION_MANICHAEISM</zType>
-		<English>Manichaeism~Manichaean~a Manichaean~Manichaeans</English>
-	</Entry>
+  <!--Translated by Elena Davydova (Bada)-->
+  <Entry>
+    <zType />
+    <Translation />
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_ZOROASTRIANISM</zType>
+    <Translation>Зороастризм~Зороастризма~Зороастризму~Зороастризм~Зороастризмом~Зороастризме~Зороастрийский~Зороастрийского~Зороастрийскому~Зороастрийского~Зороастрийским~Зороастрийском~Зороастрийские~Зороастрийских~Зороастрийским~Зороастрийских~Зороастрийскими~Зороастрийских~Зороастрийцы~Зороастрийцев~Зороастрийцам~Зороастрийцев~Зороастрийцами~Зороастрийцах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_JUDAISM</zType>
+    <Translation>Иудаизм~Иудаизма~Иудаизму~Иудаизм~Иудаизмом~Иудаизме~Иудейский~Иудейского~Иудейскому~Иудейского~Иудейским~Иудейском~Иудейские~Иудейских~Иудейским~Иудейских~Иудейскими~Иудейских~Иудеи~Иудеев~Иудеям~Иудеев~Иудеями~Иудеях</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_CHRISTIANITY</zType>
+    <Translation>Христианство~Христианства~Христианству~Христианство~Христианством~Христианстве~Христианский~Христианского~Христианскому~Христианского~Христианским~Христианском~Христианские~Христианских~Христианским~Христианских~Христианскими~Христианских~Христиане~Христиан~Христианам~Христиан~Христианами~Христианах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_MANICHAEISM</zType>
+    <Translation>Манихеизм~Манихеизма~Манихеизму~Манихеизм~Манихеизмом~Манихеизме~Манихейский~Манихейского~Манихейскому~Манихейского~Манихейским~Манихейском~Манихейские~Манихейских~Манихейским~Манихейских~Манихейскими~Манихейских~Манихеи~Манихеев~Манихеям~Манихеев~Манихеями~Манихеях</Translation>
+  </Entry>
   <Entry>
     <zType>TEXT_RELIGION_CUSTOM</zType>
-    <English>{RELIGION-NOUN}~{RELIGION-ADJECTIVE}~a(n) {RELIGION-ADJECTIVE}~{RELIGION-ADJECTIVE}(s)</English>
+    <Translation>{RELIGION-NOUN}~{RELIGION-ADJECTIVE}~a(n) {RELIGION-ADJECTIVE}~{RELIGION-ADJECTIVE}(s)</Translation>
   </Entry>
 </Root>

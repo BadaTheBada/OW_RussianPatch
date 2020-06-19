@@ -1,225 +1,271 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Andy Auseon (Mohawk Games) -->
+<!--Translated by AlexRjg-->
+<!--Editing & Proofreading by Elena Davydova (Bada)-->
 <Root>
 	<!--Name-->
 	<Entry>
 		<zType/>
-		<English/>
+		<Translation/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_AMBASSADOR</zType>
-		<English>Make Ambassador</English>
+		<Translation>Назначить послом</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CHANCELLOR</zType>
-		<English>Make Chancellor</English>
+		<Translation>Назначить канцлером</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_SPYMASTER</zType>
-		<English>Make Spymaster</English>
+		<Translation>Назначить начальником разведки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TEAM_ALLIANCE</zType>
-		<English>Player Alliance with</English>
+		<Translation>Вступить в союз</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_TEAM_ALLIANCE_PLUS</zType>
-		<English>Player Alliance via</English>
+		<zType>TEXT_MISSION_TEAM_ALLIANCE_TARGET</zType>
+		<Translation>Вступить в союз с</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TEAM_ALLIANCE_CHARACTER</zType>
+		<Translation>Вступить в союз с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE</zType>
-		<English>Player Peace with</English>
+		<Translation>Заключить мир с нацией</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_PLAYER_PEACE_PLUS</zType>
-		<English>Player Peace via</English>
+		<zType>TEXT_MISSION_PLAYER_PEACE_TARGET</zType>
+		<Translation>Заключить мир с</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PEACE_CHARACTER</zType>
+		<Translation>Заключить мир с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE</zType>
-		<English>Player Truce with</English>
+		<Translation>Заключить перемирие с нацией</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_PLAYER_TRUCE_PLUS</zType>
-		<English>Player Truce via</English>
+		<zType>TEXT_MISSION_PLAYER_TRUCE_TARGET</zType>
+		<Translation>Заключить перемирие с</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_TRUCE_CHARACTER</zType>
+		<Translation>Заключить перемирие с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_DECLARE_WAR</zType>
-		<English>Declare War</English>
+		<Translation>Объявить войну нации</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_PLAYER_DECLARE_WAR_PLUS</zType>
-		<English>Declare War on</English>
+		<zType>TEXT_MISSION_PLAYER_DECLARE_WAR_CHARACTER</zType>
+		<Translation>Объявить войну с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_BREAK_PEACE</zType>
-		<English>Break Peace</English>
+		<Translation>Нарушить мир с нацией</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_PLAYER_BREAK_PEACE_PLUS</zType>
-		<English>Break Peace with</English>
+		<zType>TEXT_MISSION_PLAYER_BREAK_PEACE_CHARACTER</zType>
+		<Translation>Нарушить мир с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_END_ALLIANCE</zType>
-		<English>End Alliance</English>
+		<Translation>Выйти из союза с нацией</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_PLAYER_END_ALLIANCE_PLUS</zType>
-		<English>End Alliance with</English>
+		<zType>TEXT_MISSION_PLAYER_END_ALLIANCE_CHARACTER</zType>
+		<Translation>Выйти из союза с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_CANCEL_TRADE</zType>
-		<English>Cancel All Trade</English>
+		<Translation>Прекратить торговлю</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_PLAYER_CANCEL_TRADE_PLUS</zType>
-		<English>Cancel All Trade with</English>
+		<zType>TEXT_MISSION_PLAYER_CANCEL_TRADE_CHARACTER</zType>
+		<Translation>Прекратить торговлю с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_ALLIANCE</zType>
-		<English>Barbarian Alliance with</English>
+		<Translation>Вступить в союз с племенем</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_BARBARIAN_ALLIANCE_PLUS</zType>
-		<English>Barbarian Alliance via</English>
+		<zType>TEXT_MISSION_BARBARIAN_ALLIANCE_TARGET</zType>
+		<Translation>Вступить в союз с</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_ALLIANCE_CHARACTER</zType>
+		<Translation>Вступить в союз с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_PEACE</zType>
-		<English>Barbarian Peace with</English>
+		<Translation>Заключить мир с племенем</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_BARBARIAN_PEACE_PLUS</zType>
-		<English>Barbarian Peace via</English>
+		<zType>TEXT_MISSION_BARBARIAN_PEACE_TARGET</zType>
+		<Translation>Заключить мир с</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_PEACE_CHARACTER</zType>
+		<Translation>Заключить мир с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_TRUCE</zType>
-		<English>Barbarian Truce with</English>
+		<Translation>Заключить перемирие с племенем</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_BARBARIAN_TRUCE_PLUS</zType>
-		<English>Barbarian Truce via</English>
+		<zType>TEXT_MISSION_BARBARIAN_TRUCE_TARGET</zType>
+		<Translation>Заключить перемирие с</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_TRUCE_CHARACTER</zType>
+		<Translation>Заключить перемирие с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_DECLARE_WAR</zType>
-		<English>Declare War</English>
+		<Translation>Объявить войну племени</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_BARBARIAN_DECLARE_WAR_PLUS</zType>
-		<English>Declare War on</English>
+		<zType>TEXT_MISSION_BARBARIAN_DECLARE_WAR_CHARACTER</zType>
+		<Translation>Объявить войну с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_BREAK_PEACE</zType>
-		<English>Break Peace</English>
+		<Translation>Нарушить мир с племенем</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_BARBARIAN_BREAK_PEACE_PLUS</zType>
-		<English>Break Peace with</English>
+		<zType>TEXT_MISSION_BARBARIAN_BREAK_PEACE_CHARACTER</zType>
+		<Translation>Нарушить мир с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_END_ALLIANCE</zType>
-		<English>End Alliance</English>
+		<Translation>Выйти из союза с племенем</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_BARBARIAN_END_ALLIANCE_PLUS</zType>
-		<English>End Alliance with</English>
+		<zType>TEXT_MISSION_BARBARIAN_END_ALLIANCE_CHARACTER</zType>
+		<Translation>Выйти из союза с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ADOPT_RELIGION</zType>
-		<English>Adopt Religion</English>
+		<Translation>Принять религию</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_FAMILY_MARRIAGE</zType>
-		<English>Family Marriage</English>
+		<Translation>Заключить брак с семьей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_MARRY_COURTIER</zType>
-		<English>Marry Courtier</English>
+		<Translation>Заключить брак с придворным</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_MARRY_COURTIER_PLUS</zType>
-		<English>Marry</English>
+		<zType>TEXT_MISSION_MARRY_COURTIER_CHARACTER</zType>
+		<Translation>Заключить брак</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ABDICATE</zType>
-		<English>Abdicate Throne</English>
+		<Translation>Отречься от престола</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ADOPT</zType>
-		<English>Adopt Child</English>
+		<Translation>Взять приемного ребенка</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_ADOPT_PLUS</zType>
-		<English>Adopt by</English>
+		<zType>TEXT_MISSION_ADOPT_CHARACTER</zType>
+		<Translation>Взять приемного ребенка</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_LEGITIMIZE</zType>
-		<English>Legitimize</English>
+		<Translation>Узаконить</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CHOSEN_HEIR</zType>
-		<English>Make Chosen Heir</English>
+		<Translation>Объявить наследником</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INFILTRATE</zType>
-		<English>Infiltrate Nation</English>
+		<Translation>Внедрить шпиона</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_INFILTRATE_PLUS</zType>
-		<English>Infiltrate Nation via</English>
+		<zType>TEXT_MISSION_INFILTRATE_TARGET</zType>
+		<Translation>Внедрить шпиона к</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_INFILTRATE_CHARACTER</zType>
+		<Translation>Внедрить шпиона с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ASSASSINATE</zType>
-		<English>Assassinate</English>
+		<Translation>Убить</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_ASSASSINATE_PLUS</zType>
-		<English>Assassinate via</English>
+		<zType>TEXT_MISSION_ASSASSINATE_CHARACTER</zType>
+		<Translation>Убить с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRADE_MISSION</zType>
-		<English>Trade Mission with</English>
+		<Translation>Торговая делегация</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_TRADE_MISSION_PLUS</zType>
-		<English>Trade Mission via</English>
+		<zType>TEXT_MISSION_TRADE_MISSION_TARGET</zType>
+		<Translation>Торговая делегация в</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRADE_MISSION_CHARACTER</zType>
+		<Translation>Торговая делегация с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_FAMILY_GIFT</zType>
-		<English>Family Gifts</English>
+		<Translation>Подарить семье</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_FAMILY_GIFT_PLUS</zType>
-		<English>Family Gifts via</English>
+		<zType>TEXT_MISSION_FAMILY_GIFT_CHARACTER</zType>
+		<Translation>Подарить семье с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_IMPRISON</zType>
-		<English>Imprison</English>
+		<Translation>Посадить в тюрьму</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_IMPRISON_PLUS</zType>
-		<English>Imprison via</English>
+		<zType>TEXT_MISSION_IMPRISON_CHARACTER</zType>
+		<Translation>Посадить в тюрьму с помощью</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_RELEASE</zType>
-		<English>Release from Prison</English>
+		<Translation>Освободить из тюрьмы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CAPTURE</zType>
-		<English>Capture</English>
+		<Translation>Захватить</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CAPTURED_RANSOM</zType>
-		<English>Pay Ransom</English>
+		<Translation>Заплатить выкуп</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_DIVORCE</zType>
-		<English>Divorce Spouse</English>
+		<Translation>Развестись</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_DIVORCE_TARGET</zType>
+		<Translation>Развестись с</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_BARBARIAN_WAR</zType>
-		<English>Ask to Declare War on</English>
+		<Translation>Попросить племя объявить войну</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_BARBARIAN_WAR_TARGET</zType>
+		<Translation>Попросить объявить войну с</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PLAYER_WAR</zType>
-		<English>Ask to Declare War on</English>
+		<Translation>Попросить нацию объявить войну</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PLAYER_WAR_TARGET</zType>
+		<Translation>Попросить объявить войну с</Translation>
 	</Entry>
 </Root>
