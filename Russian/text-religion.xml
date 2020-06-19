@@ -1,0 +1,27 @@
+<Root>
+	<!--English Indices: Noun~Adjective~Indefinite Article w/ Adjective~Plural-->
+	<Entry>
+		<zType/>
+		<English/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RELIGION_ZOROASTRIANISM</zType>
+		<English>Zoroastrianism~Zoroastrian~a Zoroastrian~Zoroastrians</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RELIGION_JUDAISM</zType>
+		<English>Judaism~Jewish~a Jewish~Jews</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RELIGION_CHRISTIANITY</zType>
+		<English>Christianity~Christian~a Christian~Christians</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RELIGION_MANICHAEISM</zType>
+		<English>Manichaeism~Manichaean~a Manichaean~Manichaeans</English>
+	</Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_CUSTOM</zType>
+    <English>{RELIGION-NOUN}~{RELIGION-ADJECTIVE}~a(n) {RELIGION-ADJECTIVE}~{RELIGION-ADJECTIVE}(s)</English>
+  </Entry>
+</Root>

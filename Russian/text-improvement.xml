@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<!--Assets/GameAssets/Resources/Infos/improvement.xml-->
+	<!--NOTE: improvement names that are mass nouns or plural do not need multiple types in English-->
+	<Entry>
+		<zType/>
+		<English/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_ANCIENT_RUINS</zType>
+		<English>Ancient Ruins~an Ancient Ruins~Ancient Ruins</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CITY_SITE</zType>
+		<English>City Site~a City Site~City Sites</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_RUINS_1</zType>
+		<English>Hovel Ruins</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_RUINS_2</zType>
+		<English>Outpost Ruins</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_RUINS_3</zType>
+		<English>Encampment Ruins</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_RUINS_4</zType>
+		<English>Fortress Ruins</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SETTLEMENT_1</zType>
+		<English>Hovel~a Hovel~Hovels</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SETTLEMENT_2</zType>
+		<English>Outpost~an Outpost~Outposts</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SETTLEMENT_3</zType>
+		<English>Encampment~an Encampment~Encampments</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SETTLEMENT_4</zType>
+		<English>Fortress~a Fortress~Fortresses</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_FORT</zType>
+		<English>Fort~a Fort~Forts</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_FARM</zType>
+		<English>Farm~a Farm~Farms</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MINE</zType>
+		<English>Mine~a Mine~Mines</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LUMBERMILL</zType>
+		<English>Lumbermill~a Lumbermill~Lumbermills</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_QUARRY</zType>
+		<English>Quarry~a Quarry~Quarries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_PASTURE</zType>
+		<English>Pasture~a Pasture~Pastures</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CAMP</zType>
+		<English>Camp~a Camp~Camps</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GROVE</zType>
+		<English>Grove~a Grove~Groves</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_NETS</zType>
+		<English>Nets</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HARBOR</zType>
+		<English>Harbor~a Harbor~Harbors</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GRANARY</zType>
+		<English>Granary~a Granary~Granaries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_WATERMILL</zType>
+		<English>Watermill~a Watermill~Watermills</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_WINDMILL</zType>
+		<English>Windmill~a Windmill~Windmills</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HAMLET</zType>
+		<English>Hamlet~a Hamlet~Hamlets</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_VILLAGE</zType>
+		<English>Village~a Village~Villages</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_TOWN</zType>
+		<English>Town~a Town~Towns</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MINOR_CITY</zType>
+		<English>Minor City~a Minor City~Minor Cities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GARRISON_1</zType>
+		<English>Garrison~a Garrison~Garrisons</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GARRISON_2</zType>
+		<English>Stronghold~a Stronghold~Strongholds</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GARRISON_3</zType>
+		<English>Citadel~a Citadel~Citadels</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_AQUEDUCT</zType>
+		<English>Aqueduct~an Aqueduct~Aqueducts</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_BARRACKS</zType>
+		<English>Barracks~a Barracks~Barracks</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_RANGE</zType>
+		<English>Range~a Range~Ranges</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_THEATER_1</zType>
+		<English>Odeon~an Odeon~Odeons</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_THEATER_2</zType>
+		<English>Amphitheater~an Amphitheater~Amphitheaters</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_THEATER_3</zType>
+		<English>Colosseum~a Colosseum~Colosseums</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_BATHS_1</zType>
+		<English>Cold Baths</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_BATHS_2</zType>
+		<English>Warm Baths</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_BATHS_3</zType>
+		<English>Heated Baths</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MARKET_1</zType>
+		<English>Market~a Market~Markets</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MARKET_2</zType>
+		<English>Grocer~a Grocer~Grocers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MARKET_3</zType>
+		<English>Fair~a Fair~Fairs</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LIBRARY_1</zType>
+		<English>Library~a Library~Libraries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LIBRARY_2</zType>
+		<English>Academy~an Academy~Academies</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LIBRARY_3</zType>
+		<English>University~an University~Universities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_COURTHOUSE_1</zType>
+		<English>Courthouse~a Courthouse~Courthouses</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_COURTHOUSE_2</zType>
+		<English>Ministry~a Ministry~Ministries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_COURTHOUSE_3</zType>
+		<English>Palace~a Palace~Palaces</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_NINURTA</zType>
+		<English>Shrine of Ninurta</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_MARS</zType>
+		<English>Shrine of Mars</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_NUSKA</zType>
+		<English>Shrine of Nuska</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ATAR</zType>
+		<English>Shrine of Atar</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_VULCAN</zType>
+		<English>Shrine of Vulcan</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_NABU</zType>
+		<English>Shrine of Nabu</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ATHENA</zType>
+		<English>Shrine of Athena</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_SHAMAHS</zType>
+		<English>Shrine of Shamahs</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_RA</zType>
+		<English>Shrine of Ra</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_MITHRA</zType>
+		<English>Shrine of Mithra</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_MELQART</zType>
+		<English>Shrine of Melqart</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_POSEIDON</zType>
+		<English>Shrine of Poseidon</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ANAHITA</zType>
+		<English>Shrine of Anahita</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ISHTAR</zType>
+		<English>Shrine of Ishtar</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ASTARTE</zType>
+		<English>Shrine of Astarte</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_VENUS</zType>
+		<English>Shrine of Venus</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ERESHKIGAL</zType>
+		<English>Shrine of Ereshkigal</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_OSIRIS</zType>
+		<English>Shrine of Osiris</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_HADES</zType>
+		<English>Shrine of Hades</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ESHMUN</zType>
+		<English>Shrine of Eshmun</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ISIS</zType>
+		<English>Shrine of Isis</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ASHUR</zType>
+		<English>Shrine of Ashur</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_MARDUK</zType>
+		<English>Shrine of Marduk</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ZEUS</zType>
+		<English>Shrine of Zeus</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_TANIT</zType>
+		<English>Shrine of Tanit</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_TISHTRYA</zType>
+		<English>Shrine of Tishtrya</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_NEITH</zType>
+		<English>Shrine of Neith</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_DIANA</zType>
+		<English>Shrine of Diana</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MONASTERY_ZOROASTRIANISM</zType>
+		<English>Zoroastrian Monastery~a Zoroastrian Monastery~Zoroastrian Monasteries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MONASTERY_JUDAISM</zType>
+		<English>Jewish Monastery~a Jewish Monastery~Jewish Monasteries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MONASTERY_CHRISTIANITY</zType>
+		<English>Christian Monastery~a Christian Monastery~Christian Monasteries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MONASTERY_MANICHAEISM</zType>
+		<English>Manichaean Monastery~a Manichaean Monastery~Manichaean Monasteries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_TEMPLE_ZOROASTRIANISM</zType>
+		<English>Zoroastrian Temple~a Zoroastrian Temple~Zoroastrian Temples</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_TEMPLE_JUDAISM</zType>
+		<English>Jewish Temple~a Jewish Temple~Jewish Temples</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_TEMPLE_CHRISTIANITY</zType>
+		<English>Christian Temple~a Christian Temple~Christian Temples</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_TEMPLE_MANICHAEISM</zType>
+		<English>Manichaean Temple~a Manichaean Temple~Manichaean Temples</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CATHEDRAL_ZOROASTRIANISM</zType>
+		<English>Zoroastrian Cathedral~a Zoroastrian Cathedral~Zoroastrian Cathedrals</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CATHEDRAL_JUDAISM</zType>
+		<English>Jewish Cathedral~a Jewish Cathedral~Jewish Cathedrals</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CATHEDRAL_CHRISTIANITY</zType>
+		<English>Christian Cathedral~a Christian Cathedral~Christian Cathedrals</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CATHEDRAL_MANICHAEISM</zType>
+		<English>Manichaean Cathedral~a Manichaean Cathedral~Manichaean Cathedrals</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zType>
+		<English>The Adur Burzen-Mihr</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HOLY_SITE_JUDAISM</zType>
+		<English>The Temple of Solomon</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY</zType>
+		<English>The Church of the Holy Sepulchre</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HOLY_SITE_MANICHAEISM</zType>
+		<English>The Cao'an</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_PYRAMIDS</zType>
+		<English>The Pyramids</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GREAT_ZIGGURAT</zType>
+		<English>The Great Ziggurat</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_ORACLE</zType>
+		<English>The Oracle</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HANGING_GARDENS</zType>
+		<English>The Hanging Gardens</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_NECROPOLIS</zType>
+		<English>The Necropolis</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_ISHTAR_GATE</zType>
+		<English>The Ishtar Gate</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LIGHTHOUSE</zType>
+		<English>The Lighthouse</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_APADANA</zType>
+		<English>The Apadana</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MAUSOLEUM</zType>
+		<English>The Mausoleum</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_ACROPOLIS</zType>
+		<English>The Acropolis</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_COLOSSUS</zType>
+		<English>The Colossus</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MUSAEUM</zType>
+		<English>The Musaeum</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CIRCUS_MAXIMUS</zType>
+		<English>The Circus Maximus</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_PANTHEON</zType>
+		<English>The Pantheon</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HAGIA_SOPHIA</zType>
+		<English>The Hagia Sophia</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GRAND_BAZAAR</zType>
+		<English>The Grand Bazaar</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LAURION_MINE</zType>
+		<English>Laurion Mine~a Laurion Mine~Laurion Mines</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_FOREST_FIRE_TOMB</zType>
+		<English>Ancient Tomb~an Ancient Tomb~Ancient Tombs</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_FOREST_FIRE_MONUMENT</zType>
+		<English>National Monument~a National Monument~National Monuments</English>
+	</Entry>
+</Root>

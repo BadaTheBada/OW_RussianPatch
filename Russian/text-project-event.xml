@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<!--Assets/GameAssets/Resources/Infos/improvement.xml-->
+	<!--NOTE: improvement names that are mass nouns or plural do not need multiple types in English-->
+	<Entry>
+		<zType/>
+		<English/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SWORD_CULT</zType>
+		<English>Sword Cult</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SWORD_CULT_TITHE</zType>
+		<English>Sword Cult Tithe</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HOSTILE_GARRISON</zType>
+		<English>Hostile Garrison</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PUBLIC_MURAL</zType>
+		<English>Public Mural</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TRIUMPH</zType>
+		<English>Triumph</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PURPLE_DYE</zType>
+		<English>Purple Dye</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PROPAGANDA</zType>
+		<English>Propaganda</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CHILD_LABOR</zType>
+		<English>Child Labor</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CORRUPTION_REFORM</zType>
+		<English>Corruption Reform</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_ROYAL_INSCRIPTIONS</zType>
+		<English>Royal Inscriptions</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_IMPERIAL_NECROPOLIS</zType>
+		<English>Imperial Necropolis</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FORCED_DEPORTATIONS</zType>
+		<English>Forced Deportations</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_GLADIATORS</zType>
+		<English>Gladiators</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PLAYS</zType>
+		<English>Dramatic Plays</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MERCHANT_TOWN</zType>
+		<English>Merchant Town</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_OUTBREAK</zType>
+		<English>Outbreak</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MIDWIFERY</zType>
+		<English>Midwifery</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_LUXURIOUS_DELIGHTS</zType>
+		<English>Luxurious Delights</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_NEIGHBORS_FEAST_PERSIA</zType>
+		<English>Annual Feast for Persian Guests</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MISTHOPHORIA</zType>
+		<English>Misthophoria</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_GRAIN_DOLE</zType>
+		<English>Grain Dole</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FOREIGN_FIGHTERS</zType>
+		<English>Foreign Fighters</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WAR_COUNCIL</zType>
+		<English>War Council</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SEWER_SYSTEM</zType>
+		<English>Sewer System</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CASE_HARDENING</zType>
+		<English>Case-Hardening</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TURPAN_WELLS</zType>
+		<English>Turpan Wells</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_NATIONAL_HOLIDAY</zType>
+		<English>National Holiday</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SCIENTIFIC_METHOD</zType>
+		<English>Scientific Method</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PROTECTION_EDICTS</zType>
+		<English>Protection Edicts</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HORREUM</zType>
+		<English>Horreum Storehouse</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_AVESTA_TREASURY</zType>
+		<English>Avesta Treasury</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DISEASED_SETTLERS</zType>
+		<English>Diseased Citizens</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TERRACE_LOVE_SHRINE</zType>
+		<English>Ziggurat Love Shrine</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TERRACE_WISDOM_SHRINE</zType>
+		<English>Ziggurat Wisdom Shrine</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TERRACE_WAR_SHRINE</zType>
+		<English>Ziggurat War Shrine</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONSULAR_TRIBUNES</zType>
+		<English>Consular Tribunes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONFUCIANISM</zType>
+		<English>Confucianism</English>
+	</Entry>
+</Root>

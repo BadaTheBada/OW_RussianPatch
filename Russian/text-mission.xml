@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Andy Auseon (Mohawk Games) -->
+<Root>
+	<!--Name-->
+	<Entry>
+		<zType/>
+		<English/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_AMBASSADOR</zType>
+		<English>Make Ambassador</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_CHANCELLOR</zType>
+		<English>Make Chancellor</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SPYMASTER</zType>
+		<English>Make Spymaster</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TEAM_ALLIANCE</zType>
+		<English>Player Alliance with</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TEAM_ALLIANCE_PLUS</zType>
+		<English>Player Alliance via</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PEACE</zType>
+		<English>Player Peace with</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PEACE_PLUS</zType>
+		<English>Player Peace via</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_TRUCE</zType>
+		<English>Player Truce with</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_TRUCE_PLUS</zType>
+		<English>Player Truce via</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_DECLARE_WAR</zType>
+		<English>Declare War</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_DECLARE_WAR_PLUS</zType>
+		<English>Declare War on</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_BREAK_PEACE</zType>
+		<English>Break Peace</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_BREAK_PEACE_PLUS</zType>
+		<English>Break Peace with</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_END_ALLIANCE</zType>
+		<English>End Alliance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_END_ALLIANCE_PLUS</zType>
+		<English>End Alliance with</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_CANCEL_TRADE</zType>
+		<English>Cancel All Trade</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_CANCEL_TRADE_PLUS</zType>
+		<English>Cancel All Trade with</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_ALLIANCE</zType>
+		<English>Barbarian Alliance with</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_ALLIANCE_PLUS</zType>
+		<English>Barbarian Alliance via</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_PEACE</zType>
+		<English>Barbarian Peace with</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_PEACE_PLUS</zType>
+		<English>Barbarian Peace via</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_TRUCE</zType>
+		<English>Barbarian Truce with</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_TRUCE_PLUS</zType>
+		<English>Barbarian Truce via</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_DECLARE_WAR</zType>
+		<English>Declare War</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_DECLARE_WAR_PLUS</zType>
+		<English>Declare War on</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_BREAK_PEACE</zType>
+		<English>Break Peace</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_BREAK_PEACE_PLUS</zType>
+		<English>Break Peace with</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_END_ALLIANCE</zType>
+		<English>End Alliance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_END_ALLIANCE_PLUS</zType>
+		<English>End Alliance with</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_ADOPT_RELIGION</zType>
+		<English>Adopt Religion</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_FAMILY_MARRIAGE</zType>
+		<English>Family Marriage</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_MARRY_COURTIER</zType>
+		<English>Marry Courtier</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_MARRY_COURTIER_PLUS</zType>
+		<English>Marry</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_ABDICATE</zType>
+		<English>Abdicate Throne</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_ADOPT</zType>
+		<English>Adopt Child</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_ADOPT_PLUS</zType>
+		<English>Adopt by</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_LEGITIMIZE</zType>
+		<English>Legitimize</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_CHOSEN_HEIR</zType>
+		<English>Make Chosen Heir</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_INFILTRATE</zType>
+		<English>Infiltrate Nation</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_INFILTRATE_PLUS</zType>
+		<English>Infiltrate Nation via</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_ASSASSINATE</zType>
+		<English>Assassinate</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_ASSASSINATE_PLUS</zType>
+		<English>Assassinate via</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRADE_MISSION</zType>
+		<English>Trade Mission with</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRADE_MISSION_PLUS</zType>
+		<English>Trade Mission via</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_FAMILY_GIFT</zType>
+		<English>Family Gifts</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_FAMILY_GIFT_PLUS</zType>
+		<English>Family Gifts via</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_IMPRISON</zType>
+		<English>Imprison</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_IMPRISON_PLUS</zType>
+		<English>Imprison via</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_RELEASE</zType>
+		<English>Release from Prison</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_CAPTURE</zType>
+		<English>Capture</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_CAPTURED_RANSOM</zType>
+		<English>Pay Ransom</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_DIVORCE</zType>
+		<English>Divorce Spouse</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_BARBARIAN_WAR</zType>
+		<English>Ask to Declare War on</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PLAYER_WAR</zType>
+		<English>Ask to Declare War on</English>
+	</Entry>
+</Root>

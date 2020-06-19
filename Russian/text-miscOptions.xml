@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+    <Entry>
+        <zType/>
+        <English/>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_EMAIL_NAME</zType>
+        <English>Email</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_EMAIL_DESC</zType>
+        <English>Your email address will be used for play by cloud games (when they become available), or to contact you if necessary when you submit bugs.</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_CAMERA_FOLLOW_AI_MOVES_NAME</zType>
+        <English>Follow AI Moves</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_CAMERA_FOLLOW_AI_MOVES_DESC</zType>
+        <English>When should the camera follow AI moves?</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_RESOLUTION_NAME</zType>
+        <English>Resolution</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_RESOLUTION_DESC</zType>
+        <English/>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_MONITOR_NAME</zType>
+        <English>Monitor</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_MONITOR_DESC</zType>
+        <English/>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_FRAME_LIMIT_NAME</zType>
+        <English>Frame Limit</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_FRAME_LIMIT_DESC</zType>
+	    <English>Set the frame limit</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_GRAPHICS_PRESET_NAME</zType>
+        <English>Graphics Preset</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_GRAPHICS_PRESET_DESC</zType>
+	    <English>Graphics Presets for all options</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_RENDERING_QUALITY_NAME</zType>
+        <English>Rendering Quality</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_RENDERING_QUALITY_DESC</zType>
+		<English>Rendering Quality Presets</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_TERRAIN_QUALITY_NAME</zType>
+        <English>Terrain Quality</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_TERRAIN_QUALITY_DESC</zType>
+	    <English>Terrain rendering quality and memory usage</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_FOW_QUALITY_NAME</zType>
+        <English>FOW Quality</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_FOW_QUALITY_DESC</zType>
+		<English>FOW rendering quality</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_COLORBLIND_FILTER_NAME</zType>
+        <English>Colorblind Filter</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_COLORBLIND_FILTER_DESC</zType>
+	    <English>Color blind filters for a range of types</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_COLORBLIND_FILTER_STRENGTH_NAME</zType>
+        <English>Filter Strength</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_COLORBLIND_FILTER_STRENGTH_DESC</zType>
+	    <English>Adjust the amount of the colorblind filter</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_CAMERA_SPEED_NAME</zType>
+        <English>Camera Speed</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_CAMERA_SPEED_DESC</zType>
+	    <English>Camera scroll speed</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_FULLSCREEN_NAME</zType>
+        <English>Fullscreen</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_FULLSCREEN_DESC</zType>
+	    <English>Fullscreen mode</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_ANTIALIASING_NAME</zType>
+        <English>Antialiasing</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_ANTIALIASING_DESC</zType>
+	    <English>Enable FXAA antialiasing</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_AMBIENT_OCCLUSION_NAME</zType>
+        <English>Ambient Occlusion</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_AMBIENT_OCCLUSION_DESC</zType>
+	    <English>Enable Ambient Occlusion post-process</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_BLOOM_NAME</zType>
+        <English>Bloom</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_BLOOM_DESC</zType>
+	    <English>Enable Bloom post-process</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_VIGNETTE_NAME</zType>
+        <English>Vignette</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_VIGNETTE_DESC</zType>
+	    <English>Enable Vignette camera effect</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_MOTION_BLUR_NAME</zType>
+        <English>Motion Blur</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_MOTION_BLUR_DESC</zType>
+	    <English>Enable Motion Blur post-process</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_COLOR_CORRECTION_NAME</zType>
+        <English>Color Correction</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_COLOR_CORRECTION_DESC</zType>
+	    <English>Enable Color correction post-process</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_MUSIC_VOLUME_NAME</zType>
+        <English>Music Volume</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_MUSIC_VOLUME_DESC</zType>
+        <English/>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_SFX_VOLUME_NAME</zType>
+        <English>Effects Volume</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_SFX_VOLUME_DESC</zType>
+	    <English>Effects volume level</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_HUD_SCALE_NAME</zType>
+        <English>HUD Scale</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_HUD_SCALE_DESC</zType>
+        <English>Change the size of UI elements on the main game screen</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_HEALTHBAR_SCALE_NAME</zType>
+        <English>Healthbar Scale</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_HEALTHBAR_SCALE_DESC</zType>
+        <English>Change the size of health bars</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_TOOLTIP_SCALE_NAME</zType>
+        <English>Tooltip Scale</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_TOOLTIP_SCALE_DESC</zType>
+        <English>Change the size of tooltips</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_LANGUAGE_NAME</zType>
+        <English>Language</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MISCOPTION_LANGUAGE_DESC</zType>
+        <English>Change the language of game text</English>
+    </Entry>
+</Root>

@@ -1,0 +1,797 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+    <Entry>
+        <zType/>
+        <English/>
+    </Entry>
+    <Entry>
+        <zType>TEXT_GENERIC_CONFIRM</zType>
+        <English>Confirm</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_GENERIC_CANCEL</zType>
+        <English>Cancel</English>
+    </Entry>
+
+    <!--menu-screens.xml-->
+    <Entry>
+        <zType>TEXT_MENU_SCREEN_SP_BUTTON</zType>
+        <English>Single Player</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MENU_SCREEN_MP_BUTTON</zType>
+        <English>Multiplayer</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MENU_SCREEN_TOOLS_BUTTON</zType>
+        <English>Tools</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MENU_SCREEN_OPTIONS_BUTTON</zType>
+        <English>Options</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MENU_SCREEN_QUIT_BUTTON</zType>
+        <English>Quit to Desktop</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MENU_SCREEN_PREVIOUS_BUTTON</zType>
+        <English>Previous</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MENU_SCREEN_NEXT_BUTTON</zType>
+        <English>Next</English>
+    </Entry>
+
+    <!-- selected-city -->
+    <Entry>
+        <zType>TEXT_GIFT_CITY_TEAMMATE</zType>
+        <English>Gift City</English>
+    </Entry>
+
+    <!-- selected-worker-->
+    <Entry>
+        <zType>TEXT_WORKER_FILTERS_LABEL</zType>
+        <English>Filters</English>
+    </Entry>
+
+    <!-- other selection panels-->
+    <Entry>
+        <zType>TEXT_MANAGE_LUXURIES</zType>
+        <English>Manage Luxuries</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MANAGE_LUXURIES_DESC</zType>
+        <English>Send or Stop Sending Luxuries</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SEND_LUXURY</zType>
+        <English>Send {0}</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_STOP_SENDING_LUXURY</zType>
+        <English>Stop Sending {0}</English>
+    </Entry>
+
+    <!--single player menu-->
+
+    <Entry>
+        <zType>SP_MENU_SCREEN_NEWGAME_BUTTON</zType>
+        <English>New Game</English>
+    </Entry>
+    <Entry>
+        <zType>SP_MENU_SCREEN_LOADGAME_BUTTON</zType>
+        <English>Load Game</English>
+    </Entry>
+    <Entry>
+        <zType>SP_MENU_SCREEN_CLOUD_BUTTON</zType>
+        <English>Cloud Load</English>
+    </Entry>
+    <Entry>
+        <zType>SP_MENU_SCREEN_SCEN_BUTTON</zType>
+        <English>Scenario</English>
+    </Entry>
+    <Entry>
+        <zType>SP_MENU_SCREEN_FEATUREDGAME_BUTTON</zType>
+        <English>Featured Game</English>
+    </Entry>
+    <Entry>
+        <zType>SP_MENU_SCREEN_GOFTW_BUTTON</zType>
+        <English>Game of the Week</English>
+    </Entry>
+    <Entry>
+        <zType>SP_MENU_SCREEN_BACK_BUTTON</zType>
+        <English>Back</English>
+    </Entry>
+
+    <!--multiplayer menu-->
+
+    <Entry>
+        <zType>MP_MENU_SCREEN_JOIN_BUTTON</zType>
+        <English>Join</English>
+    </Entry>
+
+    <Entry>
+        <zType>MP_MENU_SCREEN_NEWGAME_BUTTON</zType>
+        <English>New Game</English>
+    </Entry>
+    <Entry>
+        <zType>MP_MENU_SCREEN_LOADGAME_BUTTON</zType>
+        <English>Load Game</English>
+    </Entry>
+    <Entry>
+        <zType>MP_MENU_SCREEN_CLOUD_BUTTON</zType>
+        <English>Cloud Load</English>
+    </Entry>
+    <Entry>
+        <zType>MP_MENU_SCREEN_BACK_BUTTON</zType>
+        <English>Back</English>
+    </Entry>
+
+    <!--cloud-->
+
+    <Entry>
+        <zType>CLOUD_SCREEN_BACK_BUTTON</zType>
+        <English>Back</English>
+    </Entry>
+
+    <!--multiplayer games screen-->
+
+    <Entry>
+        <zType>MP_GAME_SCREEN_BUTTON</zType>
+        <English>Multiplayer</English>
+    </Entry>
+    <Entry>
+        <zType>MP_GAME_SCREEN_GBROWS_BUTTON</zType>
+        <English>Game Browser</English>
+    </Entry>
+    <Entry>
+        <zType>MP_GAME_SCREEN_BROWSER_BUTTON</zType>
+        <English>Game Browser</English>
+    </Entry>
+
+    <!--games header in multiplayer-->
+    <Entry>
+        <zType>TEXT_GAME_HEADER_NAME_CELL</zType>
+        <English>Name</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_GAME_HEADER_PLAYERS_CELL</zType>
+        <English>Players</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_GAME_HEADER_SERVER_CELL</zType>
+        <English>Server</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_GAME_HEADER_VERSION_CELL</zType>
+        <English>Version</English>
+    </Entry>
+
+    <!--multiplayer-->
+    <Entry>
+        <zType>MP_PLAYERS_SCREEN_OBSERVE_BUTTON</zType>
+        <English>Observe</English>
+    </Entry>
+    <Entry>
+        <zType>MP_PLAYERS_SCREEN_BACK_BUTTON</zType>
+        <English>Back</English>
+    </Entry>
+    <!--tools-->
+    <Entry>
+        <zType>TOOLS_SCREEN_MAP_EDITOR_BUTTON</zType>
+        <English>Map Editor</English>
+    </Entry>
+    <Entry>
+        <zType>TOOLS_SCREEN_EVENT_BROWSER_BUTTON</zType>
+        <English>Event Browser</English>
+    </Entry>
+    <Entry>
+        <zType>TOOLS_SCREEN_ENCYCLOPEDIA_BUTTON</zType>
+        <English>Encyclopedia</English>
+    </Entry>
+    <Entry>
+        <zType>TOOLS_SCREEN_BACK_BUTTON</zType>
+        <English>Back</English>
+    </Entry>
+
+
+    <!--minimap.xml-->
+
+    <!--mini map-->
+    <Entry>
+        <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_NO_OVERLAY</zType>
+        <English>No Overlay</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_ZOC</zType>
+        <English>Zone of Control [X]</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_DANGER</zType>
+        <English>Danger [C]</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_CONNECTIONS</zType>
+        <English>Connections [V]</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_IDLEUNITS</zType>
+        <English>Idle Units [B]</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_TILERES</zType>
+        <English>Tile Resources [N]</English>
+    </Entry>
+
+
+    <!--mp-setup-screen.xml-->
+
+    <!--multiplayer setup screen-->
+    <Entry>
+        <zType>TEXT_MP_SETUP_SEC_BUTTON_BACK</zType>
+        <English>Back</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_SEC_BUTTON_ADVANCED</zType>
+        <English>Advanced</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_TITLE_LABEL_HOSTG</zType>
+        <English>Host Game</English>
+    </Entry>
+
+    <!--servers-->
+    <Entry>
+        <zType>TEXT_MP_SETUP_OPTIONS_LABEL_SERVERS</zType>
+        <English>Servers</English>
+    </Entry>
+
+    <!--network-->
+    <Entry>
+        <zType>TEXT_MP_SETUP_OPTIONS_LABEL_NETWORK</zType>
+        <English>Network</English>
+    </Entry>
+
+    <!--game options-->
+    <Entry>
+        <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_GAMENAME</zType>
+        <English>Game Name</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_PLAYERS</zType>
+        <English>Players</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TEAMS</zType>
+        <English>Teams</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_BARBARIANS</zType>
+        <English>Barbarians</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SUCCESSION</zType>
+        <English>Succession</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MORTALITY</zType>
+        <English>Mortality</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_EVENTLEVEL</zType>
+        <English>Event Level</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TURNTIMER</zType>
+        <English>Turn Timer</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TURNSTYLE</zType>
+        <English>Turn Style</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SIMULTURNS</zType>
+        <English>Simultaneous Turns</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_VICTORY</zType>
+        <English>Victory</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAPTYPE</zType>
+        <English>Map Type</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAPTYPE_RANDOM</zType>
+        <English>Random Map</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAPTYPE_PREMADE</zType>
+        <English>Premade Map</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAP</zType>
+        <English>Map</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAP_FILE</zType>
+        <English>Map File</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAP_SIZE</zType>
+        <English>Map Size</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SEED</zType>
+        <English>Seed</English>
+    </Entry>
+
+    <!-- players-->
+    <Entry>
+        <zType>TEXT_MP_SETUP_PLAYERS_NAME</zType>
+        <English>Name</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_PLAYERS_DIFFICULTY</zType>
+        <English>Difficulty</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_PLAYERS_TEAM</zType>
+        <English>Team</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_PLAYERS_EMAIL</zType>
+        <English>Email</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_PLAYERS_USERNAME</zType>
+        <English>Username</English>
+    </Entry>
+
+    <!-- schedule-->
+    <Entry>
+        <zType>TEXT_MP_SETUP_SCHEDULE_NETWORKPOST</zType>
+        <English>Network Port</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_START</zType>
+        <English>Pause Start</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_END</zType>
+        <English>Pause End</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_ADD</zType>
+        <English>Add Pause</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_CLEAR</zType>
+        <English>Clear Pauses</English>
+    </Entry>
+
+
+
+    <!--options-menu.xml-->
+
+    <!--title bar-->
+    <Entry>
+        <zType>TEXT_OPTIONS_MENU_TITLEBAR_GAMEPLAY</zType>
+        <English>Gameplay</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_OPTIONS_MENU_TITLEBAR_GRAPHICS</zType>
+        <English>Graphics</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_OPTIONS_MENU_TITLEBAR_AUDIO</zType>
+        <English>Audio</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_OPTIONS_MENU_TITLEBAR_UI</zType>
+        <English>UI</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_OPTIONS_MENU_TITLEBAR_CONTROLS</zType>
+        <English>Controls</English>
+    </Entry>
+    <!--<Entry>
+		<zType>TEXT_OPTIONS_MENU_TITLEBAR_COLORS</zType>
+		<English>Colors</English>
+	</Entry>-->
+
+    <!--controls-->
+    <Entry>
+        <zType>TEXT_OPTIONS_MENU_CONTROLS_SAVE</zType>
+        <English>Save</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_OPTIONS_MENU_CONTROLS_RESET</zType>
+        <English>Reset</English>
+    </Entry>
+
+    <!--scenario-setup-screen.xml -->
+    <Entry>
+        <zType>TEXT_SCENARIO_SETUP_NEWSCENARIO</zType>
+        <English>New Scenario</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SCENARIO_SETUP_PLAYERNAME</zType>
+        <English>Player Name</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SCENARIO_SETUP_SCENARIO</zType>
+        <English>Scenario</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SCENARIO_SETUP_OPPONENTS</zType>
+        <English>Opponents</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SCENARIO_SETUP_BARBARIANS</zType>
+        <English>Barbarians</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SCENARIO_SETUP_DIFFICULTY</zType>
+        <English>Difficulty</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SCENARIO_SETUP_CANCEL</zType>
+        <English>Cancel</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SCENARIO_SETUP_STARTGAME</zType>
+        <English>Start Game</English>
+    </Entry>
+
+    <!--sp-setup-screen.xml-->
+
+    <!--tabs-->
+    <Entry>
+        <zType>TEXT_SP_SETUP_TABS_BIO</zType>
+        <English>Bio</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SP_SETUP_TABS_STATS</zType>
+        <English>Stats</English>
+    </Entry>
+
+    <Entry>
+        <zType>TEXT_SP_SETUP_TABS_SETUP_SIMPLE</zType>
+        <English>Simple Setup</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SP_SETUP_TABS_SETUP_ADVANCED</zType>
+        <English>Advanced Setup</English>
+    </Entry>
+
+    <!--stats-->
+    <Entry>
+        <zType>TEXT_SP_SETUP_STATS_STARTSWITH</zType>
+        <English>Starts With</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SP_SETUP_TABS_SETUP_UNIQUE</zType>
+        <English>Unique</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SP_SETUP_TABS_SETUP_FAMILIES</zType>
+        <English>Families</English>
+    </Entry>
+
+    <!--random-->
+    <Entry>
+        <zType>TEXT_SP_SETUP_RANDOM</zType>
+        <English>Random</English>
+    </Entry>
+
+    <!--simple-->
+    <Entry>
+        <zType>TEXT_SP_SETUP_SIMPLE_DIFFICULTY</zType>
+        <English>Difficulty</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SP_SETUP_SIMPLE_MAPTYPE</zType>
+        <English>Map Type</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SP_SETUP_SIMPLE_RANDOM_MAP</zType>
+        <English>Random Map</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SP_SETUP_SIMPLE_PREMADE_MAP</zType>
+        <English>Premade Map</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SP_SETUP_SIMPLE_MAPSIZE</zType>
+        <English>Map Size</English>
+    </Entry>
+
+    <!--advanced-->
+    <Entry>
+        <zType>TEXT_SP_SETUP_ADVANCED_NATION</zType>
+        <English>Nation</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SP_SETUP_ADVANCED_NUMOPPS</zType>
+        <English>Number of Opponents</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SP_SETUP_ADVANCED_MORTALITY</zType>
+        <English>Mortality</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SP_SETUP_ADVANCED_EVENTLEVEL</zType>
+        <English>Event Level</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SP_SETUP_ADVANCED_SUCCESSION</zType>
+        <English>Succession</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SP_SETUP_ADVANCED_DIFFICULTY</zType>
+        <English>Difficulty</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SP_SETUP_ADVANCED_BARBSTRENGTH</zType>
+        <English>Barbarian Strength</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SP_SETUP_ADVANCED_AIAGGRESSION</zType>
+        <English>AI Aggression</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SP_SETUP_ADVANCED_AIHEADSTART</zType>
+        <English>AI Head Start</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SP_SETUP_ADVANCED_SEED</zType>
+        <English>Seed</English>
+    </Entry>
+
+    <!--tab-panel.xml-->
+
+    <!--character tab-->
+    <Entry>
+        <zType>TEXT_TAB_PANEL_CHARTAB_CHARACTERS</zType>
+        <English>Characters</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TAB_PANEL_CHARTAB_SPOUSE</zType>
+        <English>Spouse</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TAB_PANEL_CHARTAB_HEIRS</zType>
+        <English>Heirs</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TAB_PANEL_CHARTAB_COURT_COURTIERS</zType>
+        <English>Courtiers</English>
+    </Entry>
+
+    <!--relationships tab-->
+    <Entry>
+        <zType>TEXT_TAB_PANEL_RELATIONSTAB_RELIGIONS</zType>
+        <English>Religions</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TAB_PANEL_RELATIONSTAB_FAMILIES</zType>
+        <English>Families</English>
+    </Entry>
+
+    <!--diplomacy tab-->
+    <Entry>
+        <zType>TEXT_TAB_PANEL_DIPLOTAB_EMPIRES</zType>
+        <English>Empires</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TAB_PANEL_DIPLOTAB_TRIBES</zType>
+        <English>Tribes</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TAB_PANEL_DIPLOTAB_CITIES</zType>
+        <English>Cities</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TAB_PANEL_DIPLOTAB_UNITS</zType>
+        <English>Units</English>
+    </Entry>
+
+    <!--tolltips.xml-->
+
+    <Entry>
+        <zType>TEXT_TOOL_TIPS_REQUIREMENTS</zType>
+        <English>Requirements</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TOOL_TIPS_COST</zType>
+        <English>Cost</English>
+    </Entry>
+
+    <!--unit info-->
+    <Entry>
+        <zType>TEXT_TOOL_TIPS_UNLOCKBONUS</zType>
+        <English>Unlock Bonus</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TOOL_TIPS_EFFECT</zType>
+        <English>Effect</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TOOL_TIPS_UNLOCKS</zType>
+        <English>Unlocks</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TOOL_TIPS_REQUIRES</zType>
+        <English>Requires</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TOOL_TIPS_BONUSCARDS</zType>
+        <English>Bonus Cards</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TOOL_TIPS_RESEARCHING</zType>
+        <English>Researching</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TOOL_TIPS_AVAILABLE</zType>
+        <English>Available</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TOOL_TIPS_TECHDECK</zType>
+        <English>Tech Deck</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TOOL_TIPS_DISCARDPILE</zType>
+        <English>Discard Pile</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TOOL_TIPS_SHOWTECHTREE</zType>
+        <English>Show Technology Tree [Press F6]</English>
+    </Entry>
+
+
+    <!--top-bar.xml-->
+
+    <Entry>
+        <zType>TEXT_TOP_BAR_BUY</zType>
+        <English>Buy</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TOP_BAR_SELL</zType>
+        <English>Sell</English>
+    </Entry>
+
+
+    <!--city-list.xml-->
+
+    <Entry>
+        <zType>TEXT_CITY_LIST_CITIES</zType>
+        <English>Cities</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_CITY_LIST_PRODUCTION</zType>
+        <English>Production</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_CITY_LIST_GOVERNOR</zType>
+        <English>Governor</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_CITY_LIST_FAMILY</zType>
+        <English>Family</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_CITY_LIST_POPULATION</zType>
+        <English>Population</English>
+    </Entry>
+
+
+    <!--overview-map.xml-->
+
+    <Entry>
+        <zType>TEXT_OVERVIEW_MAP_MAPOPTIONS</zType>
+        <English>Map Options</English>
+    </Entry>
+
+    <!--appears on hover-->
+    <Entry>
+        <zType>TEXT_OVERVIEW_MAP_REGION</zType>
+        <English>Region</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_OVERVIEW_MAP_BORDERS</zType>
+        <English>Borders</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_OVERVIEW_MAP_TRADENETWORK</zType>
+        <English>Trade Network</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_OVERVIEW_MAP_DANGER</zType>
+        <English>Danger</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_OVERVIEW_MAP_ZOC</zType>
+        <English>Zone of Control</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_OVERVIEW_MAP_MARKERS</zType>
+        <English>Markers</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_OVERVIEW_MAP_UNITS</zType>
+        <English>Units</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_OVERVIEW_MAP_RESOURCES</zType>
+        <English>Resources</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_OVERVIEW_MAP_CITYSITES</zType>
+        <English>City States</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_OVERVIEW_MAP_OTHER</zType>
+        <English>Other</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_OVERVIEW_MAP_WORLDEXTENTS</zType>
+        <English>World Extents</English>
+    </Entry>
+
+    <!--popup-inheritance.xml-->
+
+    <Entry>
+        <zType>TEXT_POPUP_INHERITANCE</zType>
+        <English>Inheritance</English>
+    </Entry>
+
+    <!--comparisonportrait-->
+    <Entry>
+        <zType>TEXT_POPUP_INHERITANCE_CURRENTHEIR</zType>
+        <English>Current Heir</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_POPUP_INHERITANCE_NEWHEIR</zType>
+        <English>New Heir</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_POPUP_INHERITANCE_CHOOSELAW</zType>
+        <English>Choose Law</English>
+    </Entry>
+
+    <!--toprightwidget-->
+    <Entry>
+        <zType>TEXT_POPUP_INHERITANCE_WIDGET_CHANGELAWS</zType>
+        <English>Change Laws</English>
+    </Entry>
+    
+    <!--city-widget-->
+    <Entry>
+        <zType>TEXT_WIDGET_CITY_IDLE</zType>
+        <English>Idle</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_WIDGET_CITY_UNKNOWN</zType>
+        <English>Unknown</English>
+    </Entry>
+
+    <!--character-->
+    <Entry>
+        <zType>TEXT_POPUP_INHERITANCE_CHARACTER_ACTIONS</zType>
+        <English>Actions</English>
+    </Entry>
+
+    <!-- tech tree-->
+    <Entry>
+        <zType>TEXT_TECH_TREE_OVERRIDE_CURRENT_RESEARCH</zType>
+        <English>[CTRL+Click] to switch active research</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TECH_TREE_BONUS_CARD_DISCARDED</zType>
+        <English>Permanently trashed when discarded</English>
+    </Entry>
+
+</Root>

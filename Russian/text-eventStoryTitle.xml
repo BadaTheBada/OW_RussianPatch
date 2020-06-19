@@ -1,0 +1,4148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<English/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_TRUCE_TITLE</zType>
+		<English>Player Truce</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_TITLE</zType>
+		<English>Player War</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PEACE_RESPONSE_TITLE</zType>
+		<English>Peace Response</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRUCE_RESPONSE_TITLE</zType>
+		<English>Truce Response</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_BARBARIAN_WAR_TITLE</zType>
+		<English>A War Declaration</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_PLAYER_WAR_TITLE</zType>
+		<English>A War Declaration</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_DECLARE_WAR_TITLE</zType>
+		<English>Declare War</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_BREAK_PEACE_TITLE</zType>
+		<English>Break Peace</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_END_ALLIANCE_TITLE</zType>
+		<English>End Alliance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_CANCEL_TRADE_TITLE</zType>
+		<English>Cancel Trade</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_DECLARE_WAR_TITLE</zType>
+		<English>Declare War</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_BREAK_PEACE_TITLE</zType>
+		<English>Break Peace</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_END_ALLIANCE_TITLE</zType>
+		<English>End Alliance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SEASIDE_FIND_TITLE</zType>
+		<English><![CDATA[Seaside Find]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_CODES_OF_JUSTICE_TITLE</zType>
+		<English><![CDATA[Codes of Justice]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_SAGE_COUNSEL_TITLE</zType>
+		<English><![CDATA[Sage Counsel]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_BARBARIANS_AT_THE_GATE_TITLE</zType>
+		<English><![CDATA[Barbarians at the Gate]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_MOUTHPIECE_OF_THE_GODS_TITLE</zType>
+		<English><![CDATA[Mouthpiece of the Gods]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_DIVINE_MANDATE_TITLE</zType>
+		<English><![CDATA[Divine Mandate]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_UNDER_SUSPICION_TITLE</zType>
+		<English><![CDATA[Under Suspicion]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_ARTS_AND_SCIENCES_TITLE</zType>
+		<English><![CDATA[Arts and Sciences]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_OF_THE_PEOPLE_TITLE</zType>
+		<English><![CDATA[Of the People]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_TEST_OF_FAITH_TITLE</zType>
+		<English><![CDATA[Test of Faith]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_QUESTION_AUTHORITY_TITLE</zType>
+		<English><![CDATA[Question Authority]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_COLLISION_COURSE_TITLE</zType>
+		<English><![CDATA[Collision Course]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_ENABLERS_TITLE</zType>
+		<English><![CDATA[Enablers]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_ROYAL_TRAGEDIES_TITLE</zType>
+		<English><![CDATA[Royal Tragedies]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_A_DARK_PALL_TITLE</zType>
+		<English><![CDATA[A Dark Pall]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_DUEL_OF_FATES_TITLE</zType>
+		<English><![CDATA[Duel of Fates]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_DUEL_OF_FATES_VICTORIOUS_TITLE</zType>
+		<English><![CDATA[Victorious!]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_DUEL_OF_FATES_DEFEATED_TITLE</zType>
+		<English><![CDATA[Defeated!]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_FAMILY_RETREAT_TITLE</zType>
+		<English><![CDATA[Family Retreat]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_THE_FINER_THINGS_TITLE</zType>
+		<English><![CDATA[The Finer Things]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_A_CHILL_IN_THE_PALACE_TITLE</zType>
+		<English><![CDATA[A Chill in the Palace]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_FACING_THE_HORDE_TITLE</zType>
+		<English><![CDATA[Facing the Horde]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_FORCED_DEPORTATIONS_TITLE</zType>
+		<English><![CDATA[Forced Deportations]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DINOSAUR_BONES_TITLE</zType>
+		<English><![CDATA[Dinosaur Bones]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_GOOD_NEWS_TITLE</zType>
+		<English><![CDATA[Good News]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_BIREME_SELECTED_TITLE</zType>
+		<English>Tutorial Bireme Selected</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_SPEARMAN_SELECTED_TITLE</zType>
+		<English>Tutorial Spearman Selected</English>
+	</Entry>
+	<Entry beginGroup="Exploration">
+		<zType>TEXT_EVENTSTORY_RUINS_SURVIVORS_TITLE</zType>
+		<English>Survivors</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_RITUAL_PERFORMANCE_TITLE</zType>
+		<English>Ritual Performance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_CARVED_WALL_TITLE</zType>
+		<English>Carved Wall</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_MONUMENTS_OF_LAW_TITLE</zType>
+		<English>Monuments of Law</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_HUNGRY_LOREKEEPERS_TITLE</zType>
+		<English>Hungry Lorekeepers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_HIDDEN_JEWELS_TITLE</zType>
+		<English>Hidden Jewels</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_FRIGHTENED_FAMILIES_TITLE</zType>
+		<English>Frightened Families</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_ELDERLY_COUPLE_TITLE</zType>
+		<English>Elderly Couple</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_ELDERLY_COUPLE_WITCH_TITLE</zType>
+		<English>Mad Priestess</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_DESPOILED_RUINS_TITLE</zType>
+		<English>Despoiled Ruins</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_HAUNTED_QUARRY_TITLE</zType>
+		<English>Haunted Quarry</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_BURLY_SMITH_TITLE</zType>
+		<English>Burly Smith</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_GOOD_FENCES_TITLE</zType>
+		<English>Good Fences</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_TRIBAL_HUNTERS_TITLE</zType>
+		<English>Tribal Hunters</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_STAR_CHARTS_TITLE</zType>
+		<English>Star Charts</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_FRUIT_TREES_TITLE</zType>
+		<English>Fruit Trees</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_OLD_SOLDIER_TITLE</zType>
+		<English>Veteran Soldier</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_WEARY_MARAUDERS_TITLE</zType>
+		<English>Weary Raiders</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_GREAT_MIGRATION_TITLE</zType>
+		<English><![CDATA[Great Migration]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_VULGAR_SPEECH_TITLE</zType>
+		<English><![CDATA[Vulgar Speech]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_ANCIENT_BARBARIANS_TITLE</zType>
+		<English><![CDATA[Ancient Barbarians]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_THE_WATCHERS_TITLE</zType>
+		<English><![CDATA[The Watchers]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ANCIENT_SITE_TITLE</zType>
+		<English>Ancient Site</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SACRED_TOMB_TITLE</zType>
+		<English>Sacred Tomb</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SEASHORE_FIND_TITLE</zType>
+		<English><![CDATA[Seashore Find]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_EARLY_DISCIPLES_TITLE</zType>
+		<English><![CDATA[Early Disciples]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_THE_FLOATING_CITY_TITLE</zType>
+		<English><![CDATA[The Floating City]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_NEW_HUMANS_TITLE</zType>
+		<English><![CDATA[New Humans]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_SUNKEN_TOMBS_TITLE</zType>
+		<English><![CDATA[Sunken Tombs]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_THE_KINGS_ROADS_TITLE</zType>
+		<English><![CDATA[The King's Roads]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_GEOGLYPHS_TITLE</zType>
+		<English><![CDATA[Geoglyphs]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_RAISED_FIELDS_TITLE</zType>
+		<English><![CDATA[Raised Fields]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_GRAVE_CIRCLES_TITLE</zType>
+		<English><![CDATA[Grave Circle]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_EMERALD_MINES_TITLE</zType>
+		<English><![CDATA[Emerald Mines]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_EMERALD_MINES_CAVE_IN_TITLE</zType>
+		<English><![CDATA[Cave In!]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_EMERALD_MINE_REBUILT_TITLE</zType>
+		<English><![CDATA[Emerald Mine Rebuilt]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_IN_THE_CLOUDS_TITLE</zType>
+		<English><![CDATA[In the Clouds]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_HEAVEN_AND_EARTH_TITLE</zType>
+		<English><![CDATA[Heaven and Earth]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_GOLD_WORKERS_TITLE</zType>
+		<English><![CDATA[Gold Workers]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_BEADS_AND_FIGURINES_TITLE</zType>
+		<English><![CDATA[Beads and Figurines]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_WRATH_OF_THE_WATCHERS_TITLE</zType>
+		<English>Wrath of the Watchers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_PROPHECY_TITLE</zType>
+		<English>Prophecy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_THE_DIVINER_TITLE</zType>
+		<English>The Diviner</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RIDDLE_OF_THE_GATE_TITLE</zType>
+		<English>The Riddle of the Gate</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RIDDLE_OF_THE_SPHINX_TITLE</zType>
+		<English>The Riddle of the Sphinx</English>
+	</Entry>
+	<Entry beginGroup="Contact">
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_CALM_EMISSARY_TITLE</zType>
+		<English>Calm Emissary</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_SEEDY_MESSENGER_TITLE</zType>
+		<English>Seedy Messenger</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_GIFT_EXCHANGE_TITLE</zType>
+		<English>Gift Exchange</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_REFUGEE_OUTLAWS_TITLE</zType>
+		<English>Refugee Outlaws</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_RIPE_LANDS_TITLE</zType>
+		<English>Ripe Lands</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_HAUGHTY_EMISSARY_TITLE</zType>
+		<English>Haughty Emissary</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_GRINNING_EMISSARY_TITLE</zType>
+		<English>Grinning Emissary</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_CULTURAL_DELEGATION_TITLE</zType>
+		<English>Cultural Delegation</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_DELIGHTED_EMISSARY_TITLE</zType>
+		<English>Delighted Envoy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_FUMING_MESSENGER_TITLE</zType>
+		<English>Fuming Messenger</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WAR_AMBASSADOR_TITLE</zType>
+		<English>War Ambassador</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_NUMBERLESS_GAULS_CONTACT_TITLE</zType>
+		<English>The Numberless</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_CONTACT_TITLE</zType>
+		<English>First Contact</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_CONTACT_TITLE_01</zType>
+		<English>Stories and Souvenirs</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_CONTACT_TITLE_02</zType>
+		<English>Friendly Meeting</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FRIEND_OR_FOE_TITLE</zType>
+		<English>Friend or Foe?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEIGHBORS_TITLE</zType>
+		<English>Neighbors</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEIGHBORS_PRIDEFUL_PERSIA_VICTORIOUS_CHAMPION_TITLE</zType>
+		<English>Victorious Champion</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEIGHBORS_PRIDEFUL_PERSIA_DEFEATED_CHAMPION_TITLE</zType>
+		<English>Defeated Champion</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_WITH_DISTANT_NATION_TITLE</zType>
+		<English>Unknown Nation</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_ON_THE_MOVE_TITLE</zType>
+		<English><![CDATA[On the Move]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_GROWING_TENSION_TITLE</zType>
+		<English><![CDATA[Growing Tension]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_A_LEARNING_OPPORTUNITY_TITLE</zType>
+		<English><![CDATA[A Learning Opportunity]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_BORDER_DISPUTE_TITLE</zType>
+		<English>Border Dispute</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_QUALITY_ORE_TITLE</zType>
+		<English><![CDATA[Quality Ore]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ATTACKED_BY_A_BEAR_TITLE</zType>
+		<English><![CDATA[Attacked By a Bear]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ATTACKED_BY_A_BEAR_AID_TITLE</zType>
+		<English><![CDATA[Attacked By a Bear]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ATTACKED_BY_A_BEAR_NOTIFY_TITLE</zType>
+		<English><![CDATA[Attacked By a Bear]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_THE_INJURED_PLAYER_TITLE</zType>
+		<English>Injured {PLAYER-0,1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_POLITICAL_PRISONER_TITLE</zType>
+		<English>Political Prisoner</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_THE_FOOL_TITLE</zType>
+		<English>The Fool</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_PIEFACES_LESSONS_TITLE</zType>
+		<English>Pieface's Lessons</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_MOMENTOUS_MEETING_TITLE</zType>
+		<English>Momentous Meeting</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_LETHAL_AFFLICTION_TITLE</zType>
+		<English>Lethal Affliction</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_HONORARY_COUNSEL_TITLE</zType>
+		<English>{CHARACTER-SHORT-2}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_PLOTTING_HEIR_TITLE</zType>
+		<English>Show Respect</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_DEADLY_INHERITANCE_TITLE</zType>
+		<English>Deadly Inheritance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WRITING_ON_THE_WALL_TITLE</zType>
+		<English>Writing on the Wall</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_FIGHTING_CLASS_TITLE</zType>
+		<English>The Fighting Class</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_IMMUNITY_TITLE</zType>
+		<English>Immunity</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_FINAL_MESSAGE_TITLE</zType>
+		<English>The Final Message</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_SECRET_OF_THE_FOOL_TITLE</zType>
+		<English>Secret of the Fool</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_THE_RISE_OF_PIEFACE_TITLE</zType>
+		<English>The Rise of Pieface</English>
+	</Entry>
+	<Entry beginGroup="Diplomacy">
+		<zType>TEXT_EVENTSTORY_HOSTILE_NEIGHBORS_TITLE</zType>
+		<English><![CDATA[Hostile Neighbors]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_LUMBER_TRADE_TITLE</zType>
+		<English><![CDATA[Lumber Trade]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_ACQUIRED_TASTE_TITLE</zType>
+		<English><![CDATA[Acquired Taste]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_ALLIANCE_OFFER_TITLE</zType>
+		<English>Barbarian Alliance Offer</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_ALLIANCE_TITLE</zType>
+		<English>Barbarian Alliance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_PEACE_OFFER_TITLE</zType>
+		<English>Barbarian Peace Offer</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_TRUCE_OFFER_TITLE</zType>
+		<English>Barbarian Truce Offer</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_WAR_TITLE</zType>
+		<English>Barbarian Threat</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WARLIKE_PRINCESS_TITLE</zType>
+		<English><![CDATA[Warlike <masculine_CHARACTER-0>Prince<feminine>Princess<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_ENVOY_TITLE</zType>
+		<English>Barbarian Envoy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FLORID_DIPLOMAT_TITLE</zType>
+		<English>Florid Diplomat</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DISCERNING_JUDGMENT_TITLE</zType>
+		<English>Discerning Judgment</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WAR_PREPARATIONS_TITLE</zType>
+		<English>War Preparations</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AN_UNLIKELY_MATCH_TITLE</zType>
+		<English>An Unlikely Match</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AN_UNLIKELY_MATCH_DELAY_TITLE</zType>
+		<English>A Promise of a Match</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AN_UNLIKELY_MATCH_FAVORABLE_TITLE</zType>
+		<English>A Favorable Outcome</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AN_UNLIKELY_MATCH_SUBMISSION_TITLE</zType>
+		<English>Neither, Nor</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_INVASION_TITLE</zType>
+		<English>Barbarian Invasion Threat</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBAL_MIGRATION_TITLE</zType>
+		<English>Tribal Migration</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRAVE_OFFENSE_TITLE</zType>
+		<English>Grave Offense</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HOSTILE_GARRISON_TITLE</zType>
+		<English>Hostile Garrison</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HOSTILE_GARRISON_EXPEL_TITLE</zType>
+		<English>Expelling the Garrison</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCALES_OF_TRIBUTE_TITLE</zType>
+		<English>Scales of Tribute</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DESPERATE_MESSENGER_TITLE</zType>
+		<English>Desperate Messenger</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_TRIBUTE_TITLE</zType>
+		<English>Barbarian Tribute</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SECURING_PEACE_TITLE</zType>
+		<English>Securing Peace</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SECURING_PEACE_FURIOUS_EMISSARY_TITLE</zType>
+		<English>Furious Emissary</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SECURING_PEACE_RETURNING_EMISSARY_THANKS_TITLE</zType>
+		<English>Returning Emissary</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SECURING_PEACE_RETURNING_EMISSARY_MISUNDERSTANDING_TITLE</zType>
+		<English>Returning Emissary</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_TITLE</zType>
+		<English>Player Peace</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_BUILDING_TRUST_TITLE</zType>
+		<English>Building Trust</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PAUSE_IN_HOSTILITIES_TITLE</zType>
+		<English>Pause in Hostilities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASSASSINATION_OF_MONARCH_TITLE</zType>
+		<English>Assassination of Monarch</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASSASSINATION_OF_MONARCH_STALL_TITLE</zType>
+		<English>Assassination of Monarch</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASSASSINATION_OF_MONARCH_ACCEPT_TITLE</zType>
+		<English>Assassination of Monarch</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASSASSINATION_OF_MONARCH_STALL_AGAIN_TITLE</zType>
+		<English>Assassination of Monarch</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASSASSINATION_OF_MONARCH_HOLE_TITLE</zType>
+		<English>Assassination of Monarch</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASSASSINATION_OF_MONARCH_SUCCESS_TITLE</zType>
+		<English>Assassination of Monarch</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ALLIANCE_PROPOSAL_TITLE</zType>
+		<English>Alliance Proposal</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PEACE_PROPOSAL_TITLE</zType>
+		<English>Peace Proposal</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRUCE_PROPOSAL_TITLE</zType>
+		<English>Truce Proposal</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CITY_CAPTURED_TRUCE_TITLE</zType>
+		<English><![CDATA[City Captured]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BOASTFUL_HEIR_TITLE</zType>
+		<English><![CDATA[Boastful Heir]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SEEKING_KNOWLEDGE_TITLE</zType>
+		<English><![CDATA[Seeking Knowledge]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WALLS_TITLE</zType>
+		<English><![CDATA[Walls]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AN_UPGRADE_TITLE</zType>
+		<English><![CDATA[An Upgrade]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CITIZENSHIP_TITLE</zType>
+		<English><![CDATA[Citizenship]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_FRIEND_IN_NEED_TITLE</zType>
+		<English><![CDATA[A Friend In Need]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ROAD_TO_HEAVEN_TITLE</zType>
+		<English><![CDATA[Road to Heaven]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_TINY_FAVOR_TITLE</zType>
+		<English><![CDATA[A Tiny Favor]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MARTIAL_CODE_TITLE</zType>
+		<English><![CDATA[Martial Code]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TIT_FOR_TAT_TITLE</zType>
+		<English><![CDATA[Tit for Tat]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WINDMILLS_AND_ONAGERS_TITLE</zType>
+		<English><![CDATA[Windmills and Onagers]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RETURNING_A_FAVOR_TITLE</zType>
+		<English><![CDATA[Returning a Favor]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_SOLID_FOUNDATION_TITLE</zType>
+		<English><![CDATA[Solid Foundation]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_DISTANT_EMPIRE_THREATENS_TITLE</zType>
+		<English><![CDATA[Distant Empire Threatens]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AT_PEACE_HUNTING_GROUNDS_DISPUTE_TITLE</zType>
+		<English><![CDATA[Hunting Grounds Dispute]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_AT_PEACE_PROBLEM_TITLE</zType>
+		<English>{PLAYER-0,2} Raiders</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_AT_PEACE_INCIDENT_TITLE</zType>
+		<English>Foreign Offenses</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_AT_TRUCE_PROBLEM_TITLE</zType>
+		<English>Rabble Rousers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_AT_TRUCE_INCIDENT_TITLE</zType>
+		<English>Diplomatic Scandal</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_TITLE</zType>
+		<English><![CDATA[Agitated Nation]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRADE_MISSION_TITLE</zType>
+		<English>Trade Mission</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRADE_OFFER_TITLE</zType>
+		<English>Trade Offer</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CANCEL_TRADE_DEMAND_TITLE</zType>
+		<English>Cancel Trade</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DECLARE_WAR_DEMAND_TITLE</zType>
+		<English>War Demand</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DECLARE_WAR_DEMAND_BARBARIAN_TITLE</zType>
+		<English>War Demand</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_CAUTIOUS_TITLE</zType>
+		<English><![CDATA[Grievances]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_CAUTIOUS_DELAY_TITLE</zType>
+		<English><![CDATA[No More Delays]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_UPSET_TITLE</zType>
+		<English><![CDATA[Crimes in {PLAYER-0}]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_PLEASED_TITLE</zType>
+		<English><![CDATA[Avoiding Tensions]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_TITLE</zType>
+		<English><![CDATA[Talk of War]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_GIFT_TITLE</zType>
+		<English><![CDATA[Raising the Stakes]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_TRADE_TITLE</zType>
+		<English><![CDATA[Making Connections]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_PREPARE_TITLE</zType>
+		<English><![CDATA[Shadow of War]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_LEADER4_TITLE</zType>
+		<English><![CDATA[War on the Horizon]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_UPSET_TITLE</zType>
+		<English><![CDATA[Wealth or War?]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AMBITION_CAPTURE_PLAYER_CITIES_TITLE</zType>
+		<English>Drums of War</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_WAR_OR_INVASION_TITLE</zType>
+		<English>The Coming Tide</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CHOOSE_WAR_TITLE</zType>
+		<English>Choosing Sides</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_WAR_STRONGER_TITLE</zType>
+		<English>On the March</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_INVASION_DISTANT_TITLE</zType>
+		<English>Distant Threats</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_WAR_AMBITION_TITLE</zType>
+		<English>A Strong Message</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_BUILDER_ARCHETYPE_PLEASED_TITLE</zType>
+		<English><![CDATA[Food for Peace]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_BUILDER_ARCHETYPE_CAUTIOUS_TITLE</zType>
+		<English><![CDATA[Repairing Ties]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_BUILDER_ARCHETYPE_CAUTIOUS_LEADER4_TITLE</zType>
+		<English><![CDATA[Still Time]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_BUILDER_ARCHETYPE_CAUTIOUS_LEADER4_WAR_TITLE</zType>
+		<English><![CDATA[Proof]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_BUILDER_ARCHETYPE_CAUTIOUS_LEADER4_INTIMIDATED_TITLE</zType>
+		<English><![CDATA[A Peaceful Plea]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_COMMANDER_ARCHETYPE_ANGRY_TITLE</zType>
+		<English><![CDATA[Anger Erupts]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_COMMANDER_ARCHETYPE_ANGRY_LEADER4_TITLE</zType>
+		<English><![CDATA[Rally the Nation]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_LUXURY_TITLE</zType>
+		<English><![CDATA[Gifts by Swordpoint]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_DIPLOMAT_ARCHETYPE_ANGRY_TITLE</zType>
+		<English><![CDATA[Making Amends]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_DIPLOMAT_ARCHETYPE_UPSET_TITLE</zType>
+		<English><![CDATA[An Opening]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_ZEALOT_CAUTIOUS_OR_BETTER_TITLE</zType>
+		<English>Divine Mission</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_HERO_ARCHETYPE_ANGRY_TITLE</zType>
+		<English>A Hero Rises</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHEMER_ARCHETYPE_ANGRY_TITLE</zType>
+		<English>War of Schemes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHEMER_ARCHETYPE_PLEASED_TITLE</zType>
+		<English>Misidrection</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_DECLARE_TITLE</zType>
+		<English>Declaration of link(DIPLOMACY_WAR)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_END_TITLE</zType>
+		<English>Our link(DIPLOMACY_PEACE) is Over</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_DIPLO_MARRIAGE_TITLE</zType>
+		<English>Diplomatic Match</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WAR_OFFER_RELIGION_STATE_TITLE</zType>
+		<English>Immortal Peril</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WAR_OFFER_STRONGER_TITLE</zType>
+		<English>Submission</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WAR_OFFER_MUCH_STRONGER_TITLE</zType>
+		<English>Surrender or Die</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WAR_OFFER_ALREADY_FIGHTING_TITLE</zType>
+		<English>Moment of Weakness</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_RELIGION_SPREAD_TITLE</zType>
+		<English>Funds for the Faith</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_ASK_FAVOR_TITLE</zType>
+		<English>A Humble Request</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_FAMILY_RELIGION_DENOUNCE_TITLE</zType>
+		<English>Heated Debate</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_FAMILY_RELIGION_WAR_TITLE</zType>
+		<English>Wrath of the {FAMILY-2,1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_FAMILY_LAW_DENOUNCE_TITLE</zType>
+		<English>Denouncement</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_FAMILY_LAW_WAR_TITLE</zType>
+		<English>Unlawful</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WORLD_TOUR_TITLE</zType>
+		<English>World Tour</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_OOPS_TITLE</zType>
+		<English>Oops!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DINNER_WITH_A_RIVAL_TITLE</zType>
+		<English>Dinner with a Rival</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DINNER_WITH_RIVALS_TITLE</zType>
+		<English>Dinner with Rivals</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BETWEEN_US_TITLE</zType>
+		<English>Between Us</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TOKEN_OF_GOODWILL_TITLE</zType>
+		<English>Token of Goodwill</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXCHANGE_OF_IDEAS_TITLE</zType>
+		<English>Exchange of Ideas</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BATTERED_TITLE</zType>
+		<English>Battered</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SHARING_THE_LOOT_TITLE</zType>
+		<English>Sharing the Loot</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_UNDER_NATION_TITLE</zType>
+		<English>Under {PLAYER-1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUSPECTED_SPY_TITLE</zType>
+		<English>Suspected Spy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FACE_IN_GOLD_TITLE</zType>
+		<English>Face in Gold</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MECHANICAL_WONDERS_TITLE</zType>
+		<English>Mechanical Wonders</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_FLIRTATION_TITLE</zType>
+		<English>A Flirtation</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYERS_POSITIVE_OPINION_1_TITLE</zType>
+		<English>[IMPROVE RELATIONS]</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYERS_POSITIVE_OPINION_2_TITLE</zType>
+		<English>[IMPROVE RELATIONS]</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYERS_POSITIVE_OPINION_3_TITLE</zType>
+		<English>[IMPROVE RELATIONS]</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CARAVAN_OF_LOVE_TITLE</zType>
+		<English>Caravan of Love</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_UNREQUITED_TITLE</zType>
+		<English>Unrequited</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRUE_INHERITANCE_TITLE</zType>
+		<English>True Inheritance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RETURN_CITY_TITLE</zType>
+		<English>[RETURN CITY]</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RETURN_CITY_BARBARIAN_TITLE</zType>
+		<English>[RETURN CITY]</English>
+	</Entry>
+	<Entry beginGroup="Combat">
+		<zType>TEXT_EVENTSTORY_LEADER_SMITING_FOES_TITLE</zType>
+		<English>Smiting Foes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_BATTLEFIELD_BRILLIANCE_TITLE</zType>
+		<English>Battlefield Brilliance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ORDER_OF_BUSINESS_TITLE</zType>
+		<English><![CDATA[Order of Business]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_WAR_BLUNDERS_TITLE</zType>
+		<English>War Blunders</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ABANDONED_SUPPLIES_TITLE</zType>
+		<English>Abandoned Supplies</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CAPTURED_PRISONERS_TITLE</zType>
+		<English>Captured Prisoners</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_INACCURATE_TROOPS_TITLE</zType>
+		<English>Inaccurate Troops</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BATTLEFIELD_PROMOTION_TITLE</zType>
+		<English><![CDATA[Battlefield Promotion]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HONOR_AND_GLORY_TITLE</zType>
+		<English><![CDATA[Honor and Glory]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_PEOPLES_GENERAL_TITLE</zType>
+		<English>The People's General</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CAPTURED_GENERAL_TITLE</zType>
+		<English>Captured General</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FACIAL_WOUND_TITLE</zType>
+		<English>Facial Wound</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SHATTERED_KNEE_TITLE</zType>
+		<English>Shattered Knee</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOST_SIGHT_TITLE</zType>
+		<English>Lost Sight</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_WEAPONS_OF_WAR_TITLE</zType>
+		<English><![CDATA[Weapons of War]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_SECRET_ALLIANCES_TITLE</zType>
+		<English><![CDATA[Secret Alliances]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_YOUNG_HOSTAGE_TITLE</zType>
+		<English><![CDATA[Young Hostage]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_WITCH_QUEEN_TITLE</zType>
+		<English><![CDATA[Witch Queen]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_TEACHING_THE_ENEMY_TITLE</zType>
+		<English><![CDATA[Teaching the Enemy]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_HOMELAND_BURNING_TITLE</zType>
+		<English><![CDATA[{CITY-0} Burning]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_LIBERATED_TITLE</zType>
+		<English><![CDATA[Liberated]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_EXOTIC_INFLUENCE_TITLE</zType>
+		<English><![CDATA[Exotic Influence]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_KINGS_RANSOM_TITLE</zType>
+		<English><![CDATA[A King's Ransom]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STRANGE_ENCOUNTER_TITLE</zType>
+		<English><![CDATA[Strange Encounter]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STRANGE_ENCOUNTER_CURIOUS_ARTIFACT_TITLE</zType>
+		<English><![CDATA[Curious Artifact]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PRISONERS_OF_WAR_TITLE</zType>
+		<English><![CDATA[Prisoners of War]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_TOMBS_TITLE</zType>
+		<English><![CDATA[Burial Mounds]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CULT_OF_FLAME_TITLE</zType>
+		<English><![CDATA[Cult of Flame]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_PRINCE_TITLE</zType>
+		<English><![CDATA[Barbarian Prince]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_TRIBAL_CONFEDERATION_TITLE</zType>
+		<English><![CDATA[Tribal Confederation]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_RIVALS_TITLE</zType>
+		<English><![CDATA[Barbarian Rivals]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SAVAGE_PLAGUE_TITLE</zType>
+		<English><![CDATA[Savage Plague]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_REBEL_GLADIATORS_TITLE</zType>
+		<English>Rebel Gladiators</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_HORSE_LORDS_TITLE</zType>
+		<English><![CDATA[Horse Lords]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HONOR_AND_FIDELITY_TITLE</zType>
+		<English><![CDATA[Honor and Fidelity]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CITY_GLADIATOR_ARMY_TITLE</zType>
+		<English>Gladiator Army</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOVE_AND_WAR_TITLE</zType>
+		<English>Love or War</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_ROUSING_WORDS_TITLE</zType>
+		<English>Rousing Words</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ACQUIRED_TASTES_TITLE</zType>
+		<English>Acquired Tastes</English>
+	</Entry>
+	<Entry beginGroup="Family">
+		<zType>TEXT_EVENTSTORY_FAMILY_GIFT_TITLE</zType>
+		<English>A Kind Gesture</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_IN_YOUR_HONOR_TITLE</zType>
+		<English>In Your Honor</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEVOTED_FOLLOWERS_TITLE</zType>
+		<English>Devoted Followers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_UNEXPECTED_FEELINGS_TITLE</zType>
+		<English>Unexpected Feelings</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WHAT_IS_ART_TITLE</zType>
+		<English>What is Art?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHASTENED_TITLE</zType>
+		<English>Chastened</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DELIVERY_MISTAKE_TITLE</zType>
+		<English>Delivery Mistake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_POLITICS_TITLE</zType>
+		<English>Family Politics</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRANSLATIONS_TITLE</zType>
+		<English>Translations</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FEMALE_EDUCATION_TITLE</zType>
+		<English>Educating Our Women</English>
+	</Entry>
+	<Entry beginGroup="Marriage">
+		<zType>TEXT_EVENTSTORY_MARRIAGE_OFFER_TITLE</zType>
+		<English>Marriage Offer</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MISSION_MARRIAGE_FAMILY_TITLE</zType>
+		<English>Family Marriage Offer</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MATCHMAKER_0_TITLE</zType>
+		<English>Matchmaker</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MATCHMAKER_1_TITLE</zType>
+		<English>Matchmaker </English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MATCHMAKER_2_TITLE</zType>
+		<English>Matchmaker</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MARRIAGE_PROPOSAL_TITLE</zType>
+		<English>Marriage Proposal</English>
+	</Entry>
+	<Entry beginGroup="Character">
+		<zType>TEXT_EVENTSTORY_DELICIOUS_DRINKS_TITLE</zType>
+		<English>Delicious Drinks</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUDDEN_INSIGHT_TITLE</zType>
+		<English>Sudden Insight</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TIME_FOR_A_BREAK_TITLE</zType>
+		<English>Time for a Break</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPARE_TIME_TITLE</zType>
+		<English>Spare Time</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EPIC_POETRY_TITLE</zType>
+		<English>Epic Poetry</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOOKING_OUTWARD_TITLE</zType>
+		<English>Looking Outward</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_LOST_RELATIVE_TITLE</zType>
+		<English><![CDATA[Lost Relative]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_A_PRIVATE_AUDIENCE_TITLE</zType>
+		<English><![CDATA[A Private Audience]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_DEMAND_FOR_JUSTICE_TITLE</zType>
+		<English><![CDATA[Demand for Justice]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_INVESTIGATION_COMPLETE_TITLE</zType>
+		<English><![CDATA[Investigation Complete]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_PEACEMAKER_TITLE</zType>
+		<English><![CDATA[Peace Broker]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_COURTLY_DRAMA_TITLE</zType>
+		<English><![CDATA[Courtly Drama]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_RISKY_EXPEDITION_TITLE</zType>
+		<English><![CDATA[Risky Expedition]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_SIMPLE_GIFTS_TITLE</zType>
+		<English><![CDATA[Simple Gifts]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_TAX_HIKE_TITLE</zType>
+		<English><![CDATA[Tax Hike]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_FORBIDDEN_KNOWLEDGE_TITLE</zType>
+		<English><![CDATA[Forbidden Knowledge]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_KIDNAPPED_CONSORT_TITLE</zType>
+		<English><![CDATA[Kidnapped Consort]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_AMITY_OR_TREASON_TITLE</zType>
+		<English><![CDATA[Amity or Treason?]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_THE_MORNING_AFTER_TITLE</zType>
+		<English><![CDATA[The Morning After]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_TEDIUM_ON_THE_THRONE_TITLE</zType>
+		<English><![CDATA[Tedium on the Throne]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_THE_WILD_HUNT_TITLE</zType>
+		<English><![CDATA[The Wild Hunt]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOREIGN_SCHOLAR_TITLE</zType>
+		<English>Foreign Scholar</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_A_FAMILY_WARNING_TITLE</zType>
+		<English><![CDATA[A Family Warning]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_JOB_OPENING_TITLE</zType>
+		<English><![CDATA[Job Opening]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_FAMILY_COUNCIL_TITLE</zType>
+		<English><![CDATA[Family Council]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_AN_EXODUS_TITLE</zType>
+		<English><![CDATA[An Exodus]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_A_BITTER_ALLIANCE_TITLE</zType>
+		<English><![CDATA[A Bitter Alliance]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_MILITARY_MIND_TITLE</zType>
+		<English><![CDATA[Military Mind]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_A_MAN_OF_PEACE_TITLE</zType>
+		<English><![CDATA[A Man of Peace]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_DAUGHTERS_DREAM_TITLE</zType>
+		<English><![CDATA[Daughter's Dream]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_TOO_MUCH_OF_A_GOOD_THING_TITLE</zType>
+		<English><![CDATA[Too Much of a Good Thing]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_BURNED_LIBRARY_TITLE</zType>
+		<English><![CDATA[Burned Library]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_SAFE_PASSAGE_TITLE</zType>
+		<English><![CDATA[Safe Passage]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_HORSEBACK_RIDING_TITLE</zType>
+		<English>Horseback Riding</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_PERSUASION_TITLE</zType>
+		<English>Persuasion</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_CREATIVE_PURSUITS_TITLE</zType>
+		<English>Creative Pursuits</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_SPONSOR_A_LABORATORY_TITLE</zType>
+		<English>Sponsor a Laboratory</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_TILL_THE_EARTH_TITLE</zType>
+		<English>Till the Earth</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_LEGAL_INSTRUCTION_TITLE</zType>
+		<English>Legal Instruction</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_COMBAT_TRAINING_TITLE</zType>
+		<English>Combat Training</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_MONASTIC_LIVING_TITLE</zType>
+		<English>Monastic Living</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_DEEPER_MEANING_TITLE</zType>
+		<English>Deeper Meaning</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUMOR_HAS_IT_TITLE</zType>
+		<English>Rumor Has It</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ENCHANTING_CONVERSATION_TITLE</zType>
+		<English><![CDATA[Enchanting Conversation]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FRUITFUL_AFFAIR_TITLE</zType>
+		<English><![CDATA[Fruitful Affair]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EMPTY_BED_TITLE</zType>
+		<English><![CDATA[Empty Bed]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_REVEALED_AFFAIR_TITLE</zType>
+		<English><![CDATA[Revealed Affair]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_INDIFFERENT_QUEEN_TITLE</zType>
+		<English><![CDATA[Indifferent Queen]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_OF_PASSION_TITLE</zType>
+		<English><![CDATA[Child of Passion]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DISTRACTING_CHILD_TITLE</zType>
+		<English>Distracting Child</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_OUTDOOR_PASTIME_TITLE</zType>
+		<English>Outdoor Pastime</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RESTLESS_HANDS_TITLE</zType>
+		<English>Restless Hands</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_DARK_OMENS_TITLE</zType>
+		<English>Dark Omens</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_ROYAL_BIRTH_TITLE</zType>
+		<English>Royal Birth</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_NEW_THOUGHTS_TITLE</zType>
+		<English>New Thoughts</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_EDUCATION_TITLE</zType>
+		<English>Heir Education</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_TITLE</zType>
+		<English>Bullying Heir</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_ESCALATION_TITLE</zType>
+		<English>Escalated Feud</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_ESCALATION_SUCCEEDED_TITLE</zType>
+		<English>Successful Assassination</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_ESCALATION_DISCOVERED_TITLE</zType>
+		<English>Successful Assassination</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_ESCALATION_FAILED_TITLE</zType>
+		<English>Failed Assassination</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_ESCALATION_CALLED_OFF_TITLE</zType>
+		<English>Assassins Called Off</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_BRUTAL_HEIR_TITLE</zType>
+		<English><![CDATA[Brutal Heir]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_HOLY_WAR_TITLE</zType>
+		<English><![CDATA[Holy War]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_COMING_OF_AGE_TITLE</zType>
+		<English>Coming of Age</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PREPARE_YOUR_HEIR_TITLE</zType>
+		<English>Prepare your Heir</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_JOYOUS_WEDDING_TITLE</zType>
+		<English>Joyous Wedding</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_WEDDING_FAUX_PAS_TITLE</zType>
+		<English>Wedding Faux Pas</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_CRUSHING_BLOW_TITLE</zType>
+		<English>Crushing Blow</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_BUDDING_ARCHER_TITLE</zType>
+		<English>Budding Archer</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SLAIN_CHAMPION_TITLE</zType>
+		<English>Brave Deeds</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AXES_HIGH_TITLE</zType>
+		<English>Maces High</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_CRISIS_TITLE</zType>
+		<English>Heir Crisis</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_CRISIS_SAFE_TITLE</zType>
+		<English>Perfect Crime</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_CRISIS_CAUGHT_TITLE</zType>
+		<English>Murder Discovered</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_OF_CORRUPTION_TITLE</zType>
+		<English><![CDATA[Heir of Corruption]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_OUR_CONSERVATIVE_ELDERS_TITLE</zType>
+		<English><![CDATA[Our Conservative Elders]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_ADOPTION_TITLE</zType>
+		<English>Family Adoption</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_POTENTIAL_HEIR_TITLE</zType>
+		<English>Potential Heir</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEGITIMIZE_HEIR_TITLE</zType>
+		<English>Legitimize Heir</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DWINDLING_LINE_TITLE</zType>
+		<English>Dwindling Line</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DANGEROUS_HEIRS_TITLE</zType>
+		<English>Dangerous Heirs</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DANGEROUS_HEIRS_DEATH_TITLE</zType>
+		<English>Deadly Heirs</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUCCESSION_SELF_REFLECTION_TITLE</zType>
+		<English>Self-Reflection</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUCCESSION_NEW_LEAF_TITLE</zType>
+		<English>New Leaf</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUCCESSION_CHANCE_FOR_PEACE_TITLE</zType>
+		<English>Chance for Peace</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUCCESSION_SNAKE_SIGNS_TITLE</zType>
+		<English>Snake Signs</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUCCESSION_CORONATION_FESTIVAL_TITLE</zType>
+		<English>Coronation Festival</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUCCESSION_PATRIOTIC_FERVOR_TITLE</zType>
+		<English>Patriotic Fervor</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUCCESSION_FAMILY_DELEGATION_TITLE</zType>
+		<English>Foreign Delegation</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUCCESSION_TAKING_THE_CROWN_TITLE</zType>
+		<English>Taking the Crown</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MASTER_OF_WHISPERS_TITLE</zType>
+		<English>Master of Whispers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPYMASTER_MASTER_OF_POISONS_TITLE</zType>
+		<English><![CDATA[Master of Poisons]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASSASSINATION_BETRAYAL_TITLE</zType>
+		<English>Assassination Betrayal</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASSASSINATION_REVENGE_TITLE</zType>
+		<English>Assassination Revenge</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASSASSINATION_RUMORS_TITLE</zType>
+		<English>Assassination Rumors</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_PARTISANS_TITLE</zType>
+		<English>Family Partisans</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SABOTAGE_TITLE</zType>
+		<English>Sabotage</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_SQUABBLE_LAND_TITLE</zType>
+		<English>Land Dispute</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_SQUABBLE_HONOR_GUARD_TITLE</zType>
+		<English>Honor Guard</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_SQUABBLE_RUMORS_TITLE</zType>
+		<English>Vicious Rumors</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_SQUABBLE_INVITATIONS_TITLE</zType>
+		<English>Dual Invitations</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_TITLE</zType>
+		<English>Family Quarrel</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_PURSUE_TITLE</zType>
+		<English>Family Quarrel</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_HORSE_TITLE</zType>
+		<English>Family Quarrel</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_SIEGE_TITLE</zType>
+		<English>Family Quarrel</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_FATIGUED_TITLE</zType>
+		<English>Family Quarrel</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_ATTACK_TITLE</zType>
+		<English>Family Quarrel</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ACROPOLIS_GUARD_TITLE</zType>
+		<English>Acropolis Guard</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_GAMES_TITLE</zType>
+		<English>Family Games</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_START_LAW_TITLE</zType>
+		<English>Change Law</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ESTABLISH_THEOLOGY_TITLE</zType>
+		<English>Establish Theology</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HOMELESS_CHILDREN_TITLE</zType>
+		<English>Homeless Children </English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DECADENCE_TITLE</zType>
+		<English><![CDATA[Decadence]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STRICTER_RULES_TITLE</zType>
+		<English>Stricter Rules</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RAMPANT_CORRUPTION_TITLE</zType>
+		<English>Rampant Corruption</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RADICAL_PHILOSOPHER_TITLE</zType>
+		<English>Radical Philosopher</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTEST_OF_RHETORIC_TITLE</zType>
+		<English>Contest of Rhetoric</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EAGER_EXPLORERS_TITLE</zType>
+		<English>Eager Explorers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_IMPROPER_VASSAL_TITLE</zType>
+		<English>Improper Vassal</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEATED_RIVALRY_TITLE</zType>
+		<English>Heated Rivalry</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAVORED_VASSAL_TITLE</zType>
+		<English>Favorite Vassal</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAVORED_VASSAL_FEAST_TITLE</zType>
+		<English>Vassal Feast</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAVORED_VASSAL_CEREMONY_TITLE</zType>
+		<English>Vassal Ceremony</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_INQUIRING_MINDS_TITLE</zType>
+		<English>Inquiring Minds</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_INQUIRING_MINDS_SUCCESS_TITLE</zType>
+		<English>Inquiring Minds</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GREAT_PERSON_A1_TITLE</zType>
+		<English>Great Achievers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GREAT_PERSON_A2_TITLE</zType>
+		<English>Brilliant Achievers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GREAT_PERSON_B1_TITLE</zType>
+		<English>Great Thinkers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GREAT_PERSON_B2_TITLE</zType>
+		<English>Brilliant Thinkers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_WISDOM_LITERATURE_TITLE</zType>
+		<English>Wisdom Literature</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_A_PROMOTION_TITLE</zType>
+		<English><![CDATA[A Promotion]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_DIPLOMATIC_MISSION_TITLE</zType>
+		<English><![CDATA[Diplomatic Mission]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_RIFT_IN_THE_COURT_TITLE</zType>
+		<English><![CDATA[Rift in the Court]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_ANNEXATION_TITLE</zType>
+		<English><![CDATA[Annexation]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_POISON_ON_THE_TREE_TITLE</zType>
+		<English><![CDATA[Poison on the Tree]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_A_GRUESOME_EXAMPLE_TITLE</zType>
+		<English><![CDATA[A Gruesome Example]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_FOREIGN_FIGHTERS_TITLE</zType>
+		<English><![CDATA[Foreign Fighters]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_OFFENSIVE_BEHAVIOR_TITLE</zType>
+		<English><![CDATA[Offensive Behavior]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_THE_UNIVERSAL_ORDER_TITLE</zType>
+		<English><![CDATA[The Universal Order]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_FARMING_BY_STAR_TITLE</zType>
+		<English><![CDATA[Farming by Star]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_THE_MECHANISM_TITLE</zType>
+		<English><![CDATA[The Mechanism]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_TABOOS_TITLE</zType>
+		<English><![CDATA[Taboos]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_SCIENCE_OR_MAGIC_TITLE</zType>
+		<English><![CDATA[Science or Magic?]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_UNETHICAL_PRACTICES_TITLE</zType>
+		<English><![CDATA[Unethical Practices]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_LIFESTYLES_OF_THE_RICH_TITLE</zType>
+		<English><![CDATA[Lifestyles of the Rich]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_LEFT_BEHIND_TITLE</zType>
+		<English><![CDATA[Left Behind]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_MERCHANT_TOWN_TITLE</zType>
+		<English>Merchant Town</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_STICKY_FINGERS_TITLE</zType>
+		<English><![CDATA[Sticky Fingers]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_A_LONG_FALL_TITLE</zType>
+		<English><![CDATA[A Long Fall]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_TRAMPLED_TITLE</zType>
+		<English><![CDATA[Trampled]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_STRICKEN_DOWN_TITLE</zType>
+		<English><![CDATA[Stricken Down]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_VANISHED_TITLE</zType>
+		<English><![CDATA[Vanished]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_DARK_WATERS_TITLE</zType>
+		<English><![CDATA[Dark Waters]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_DEADLY_DRINK_TITLE</zType>
+		<English><![CDATA[Deadly Drink]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_BRAWL_TITLE</zType>
+		<English><![CDATA[Brawl]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_THE_PRICE_OF_POWER_TITLE</zType>
+		<English><![CDATA[The Price of Power]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_ACT_OF_MALICE_TITLE</zType>
+		<English><![CDATA[Act of Malice]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_NO_SIGNS_OF_LIFE_TITLE</zType>
+		<English><![CDATA[No Signs of Life]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_MYSTERIOUS_INFANT_TITLE</zType>
+		<English><![CDATA[Mysterious Infant]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_FRAGILE_TITLE</zType>
+		<English><![CDATA[Fragile]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_NATAL_ASTROLOGER_TITLE</zType>
+		<English><![CDATA[Natal Astrologer]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_JOY_AND_PAIN_TITLE</zType>
+		<English><![CDATA[Joy and Pain]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_THE_CALLING_TITLE</zType>
+		<English><![CDATA[The Calling]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_KILLED_IN_ACTION_TITLE</zType>
+		<English><![CDATA[Killed in Action]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_ENLISTMENT_TITLE</zType>
+		<English><![CDATA[Enlistment]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_COMMON_LOVE_TITLE</zType>
+		<English><![CDATA[Common Love]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_STRONG_OPINIONS_TITLE</zType>
+		<English><![CDATA[Strong Opinions]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_BIG_QUESTIONS_TITLE</zType>
+		<English>Big Questions</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_PETTY_CRIMES_TITLE</zType>
+		<English><![CDATA[Petty Crimes]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_THE_PUPPIES_TITLE</zType>
+		<English><![CDATA[The Puppies]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_AFFAIRS_OF_THE_CITY_TITLE</zType>
+		<English><![CDATA[Affairs of the People]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_WISE_INVESTMENTS_TITLE</zType>
+		<English><![CDATA[Wise Investments]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_WITH_CHILD_M_TITLE</zType>
+		<English><![CDATA[Paternity]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_WITH_CHILD_F_TITLE</zType>
+		<English><![CDATA[With Child]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_THE_BIRTHDAY_GIFT_TITLE</zType>
+		<English><![CDATA[The Birthday Gift]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_FALSE_ACCUSATION_TITLE</zType>
+		<English><![CDATA[False Accusation]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_SEE_THE_WORLD_TITLE</zType>
+		<English><![CDATA[See the World]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_FEATS_OF_VALOR_TITLE</zType>
+		<English><![CDATA[Feats of Valor]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_THE_BAD_SEED_TITLE</zType>
+		<English><![CDATA[The Bad Seed]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_ELOPED_TITLE</zType>
+		<English><![CDATA[Eloped!]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_A_QUESTION_OF_SUCCESSION_TITLE</zType>
+		<English><![CDATA[A Question of Succession]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_DOWNWARD_SPIRAL_TITLE</zType>
+		<English><![CDATA[Downward Spiral]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_OPPORTUNISTS_TITLE</zType>
+		<English><![CDATA[Opportunists]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_THE_RETURN_TITLE</zType>
+		<English><![CDATA[The Return]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_HARSH_WORDS_TITLE</zType>
+		<English><![CDATA[Harsh Words]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_REVENANTS_TITLE</zType>
+		<English><![CDATA[Revenants]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_WISDOM_WITH_AGE_TITLE</zType>
+		<English>Wisdom with Age</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_BLOODLESS_REBELLION_TITLE</zType>
+		<English><![CDATA[Bloodless Rebellion]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_LEGACY_OF_GOLD_TITLE</zType>
+		<English><![CDATA[Legacy of Gold]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_TWILIGHT_YEARS_TITLE</zType>
+		<English><![CDATA[Twilight Years]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_THE_HEIRS_CUP_TITLE</zType>
+		<English><![CDATA[The Heir's Cup]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_THE_HEIRS_CUP_POISONED_TITLE</zType>
+		<English><![CDATA[Poisoned!]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_FINAL_CAMPAIGN_TITLE</zType>
+		<English><![CDATA[The Final Campaign]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_BIOGRAPHY_TITLE</zType>
+		<English><![CDATA[Biography]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_NO_SMALL_FAVOR_TITLE</zType>
+		<English><![CDATA[No Small Favor]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_PROBLEM_CHILD_TITLE</zType>
+		<English><![CDATA[Problem Child]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_DEATH_IN_THE_FAMILY_TITLE</zType>
+		<English><![CDATA[Death in the Family]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_A_SPARK_TITLE</zType>
+		<English><![CDATA[A Spark]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SOMETHING_REAL_TITLE</zType>
+		<English><![CDATA[Something Real]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_LOVE_TRIANGLE_TITLE</zType>
+		<English><![CDATA[Love Triangle]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATED_RIVAL_MENTOR_TITLE</zType>
+		<English><![CDATA[Rival Mentor]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_TIME_FOR_REJOICING_TITLE</zType>
+		<English>Time to Rejoice</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATED_CHILD_RETURNS_TITLE</zType>
+		<English>{CHARACTER-SHORT-0} Returns</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATE_AIR_OF_CERTAINTY_TITLE</zType>
+		<English>Family or Loyalty?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_NOT_WITHOUT_RISK_TITLE</zType>
+		<English>Training Accident</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_EXCELLENT_STUDENT_TITLE</zType>
+		<English>Excellent Student</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_WILDERNESS_SURVIVAL_TITLE</zType>
+		<English>Wilderness Survival</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_MASTER_ORATION_TITLE</zType>
+		<English>Master Oration</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_DISCIPLINARY_ACTION_TITLE</zType>
+		<English><![CDATA[Disciplinary Action]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_GOLDEN_VOICE_TITLE</zType>
+		<English>Golden Voice</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_SPENDTHRIFT_TITLE</zType>
+		<English>Spendthrift</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_THE_MISEDUCATION_OF_TITLE</zType>
+		<English>Miseducation of {CHARACTER-SHORT-0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_KINDRED_SPIRITS_TITLE</zType>
+		<English><![CDATA[Kindred Spirits]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATE_TAKING_THE_MANTLE_TITLE</zType>
+		<English><![CDATA[Taking the Mantle]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATE_A_RAISED_VOICE_TITLE</zType>
+		<English><![CDATA[A Raised Voice]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEAR_PARENT_TITLE</zType>
+		<English><![CDATA[Dear <masculine_CHARACTER-1>Father<feminine>Mother<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHANGE_STUDIES_TITLE</zType>
+		<English><![CDATA[Change of Studies]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_REMARKABLE_YOUTH_TITLE</zType>
+		<English><![CDATA[A Remarkable Youth]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CAUSE_FOR_WORRY_TITLE</zType>
+		<English><![CDATA[Cause for Worry]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOVE_BIRDS_RUMORS_TITLE</zType>
+		<English><![CDATA[Love Birds Rumors]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_INFIDELITY_TITLE</zType>
+		<English><![CDATA[Infidelity]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLEA_FOR_MERCY_TITLE</zType>
+		<English><![CDATA[Plea for Mercy]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GOWNS_OF_SILK_TITLE</zType>
+		<English>Gowns of Silk</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_FIRST_TITLE</zType>
+		<English><![CDATA[Family First]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WORD_OF_A_COUP_TITLE</zType>
+		<English><![CDATA[Word of a Coup]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WORD_OF_A_COUP_PLOTS_AND_BETRAYALS_TITLE</zType>
+		<English><![CDATA[Plots and Betrayals]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WORD_OF_A_COUP_THE_COUP_SUCCEEDS_TITLE</zType>
+		<English><![CDATA[The Coup Succeeds]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_UNHAPPY_SIBLING_TITLE</zType>
+		<English><![CDATA[Unhappy Sibling]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DATE_NIGHT_TITLE</zType>
+		<English><![CDATA[Romantic Evening]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DOMESTIC_DISPUTE_TITLE</zType>
+		<English><![CDATA[Domestic Dispute]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SIGNS_OF_LUNACY_TITLE</zType>
+		<English><![CDATA[Signs of Lunacy]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WORRISOME_MATCH_TITLE</zType>
+		<English><![CDATA[Worrisome Match]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_IMPUDENT_MATCH_TITLE</zType>
+		<English><![CDATA[Impudent Match]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_LITTLE_PUSHBACK_TITLE</zType>
+		<English><![CDATA[A Little Pushback]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_VERY_CHARMING_TITLE</zType>
+		<English><![CDATA[Very Charming]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOVE_AFFAIR_TITLE</zType>
+		<English><![CDATA[Love Affair]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_FRIENDLY_VISIT_TITLE</zType>
+		<English>Friendly Visit</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATE_A_FAMILIAR_FACE_TITLE</zType>
+		<English>A Familiar Face</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATE_THE_RETURN_OF_CHARACTER_TITLE</zType>
+		<English>The Return of {CHARACTER-0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_SCOUNDREL_TITLE</zType>
+		<English><![CDATA[A Scoundrel]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATION_A_CITY_CELEBRATES_TITLE</zType>
+		<English>A City Celebrates</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATION_HOMECOMING_TITLE</zType>
+		<English>Homecoming</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHANGE_OF_HEART_TITLE</zType>
+		<English><![CDATA[Change of Heart]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_FRUSTRATING_OUTCOME_TITLE</zType>
+		<English><![CDATA[A Frustrating Outcome]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DISMISSAL_TITLE</zType>
+		<English>Source of Power</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_SPECIAL_RECOGNITION_01_TITLE</zType>
+		<English><![CDATA[Special Recognition]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_SPECIAL_RECOGNITION_02_TITLE</zType>
+		<English><![CDATA[Archon Rising]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_SPECIAL_RECOGNITION_03_TITLE</zType>
+		<English><![CDATA[The Bloody Court]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_NEW_FRIENDS_01_TITLE</zType>
+		<English><![CDATA[Making Friends]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_A_RULER_FALLS_TITLE</zType>
+		<English><![CDATA[A Broken Crown]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_ORIGIN_OF_THE_STATE_TITLE</zType>
+		<English><![CDATA[Origin of the State]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_A_FIERY_RIDE_TITLE</zType>
+		<English>A Fiery Ride</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_PRIZE_HORSE_TITLE</zType>
+		<English><![CDATA[Prize Horse]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_THE_LOSER_TITLE</zType>
+		<English><![CDATA[The Loser]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_CELEBRATION_CHAMPIONS_TITLE</zType>
+		<English><![CDATA[Celebration Champions!]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_RIOTS_IN_THE_STREETS_TITLE</zType>
+		<English>Riots in the Streets</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_TACTICS_ARCHETYPES_TITLE</zType>
+		<English>Tactics Studies</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_RHETORIC_ARCHETYPES_TITLE</zType>
+		<English>Rhetoric Studies</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_COMMERCE_ARCHETYPES_TITLE</zType>
+		<English>Commerce Studies</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_PHILOSOPHY_ARCHETYPES_TITLE</zType>
+		<English>Philosophy Studies</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMER_SUCCESSION_TITLE</zType>
+		<English>Plots and Schemes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMER_SUCCESSION_SPOUSE_TITLE</zType>
+		<English>[SCHEMING SCHEMER SPOUSE]</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_BITE_THE_HAND_TITLE</zType>
+		<English>Bite the Hand</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PAY_TO_PLAY_TITLE</zType>
+		<English>Pay to Play</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_FOREIGN_BRIBES_TITLE</zType>
+		<English>Foreign Bribes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_SYCOPHANT_TITLE</zType>
+		<English>Sycophant</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_PREEMPTIVE_STRIKE_TITLE</zType>
+		<English>Preemptive Strike</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_THE_OLD_GUARD_TITLE</zType>
+		<English>The Old Guard</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_AFFAIRS_OF_THE_HEART_TITLE</zType>
+		<English>Affairs of the Heart</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_WICKED_CHARGES_TITLE</zType>
+		<English>Wicked Charges</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_NEEDLESS_BLOODSHED_TITLE</zType>
+		<English>Needless Bloodshed</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_WARMONGERS_TITLE</zType>
+		<English>Warmongers?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_THE_SPEECHES_TITLE</zType>
+		<English>The Speeches</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_BIRTHRIGHT_TITLE</zType>
+		<English>Birthright</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_STOP_THE_FIGHTING_TITLE</zType>
+		<English>Stop the Fighting</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_ENEMY_COUNSEL_TITLE</zType>
+		<English>Enemy Counsel</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_AUDITED_TITLE</zType>
+		<English>Audited</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_RULER_FOR_LIFE_TITLE</zType>
+		<English>Ruler for Life</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_ASCENSION_TITLE</zType>
+		<English>Ascension</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ALLIANCE_UPKEEP_TITLE</zType>
+		<English>Ongoing Alliance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_LOVE_KILLS_TITLE</zType>
+		<English>Love Kills</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_FAMILY_FEUD_TITLE</zType>
+		<English>Family Feud</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_GREEDY_AMBITION_TITLE</zType>
+		<English>A Glint of Greed</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_BUILDER_AMBITION_TITLE</zType>
+		<English>Building Vision</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_ARCHETYPE_TITLE</zType>
+		<English>Choose a Path</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXPLORING_ENDS_TITLE</zType>
+		<English>Exploration Ends?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_DEATH_EXPLORING_TITLE</zType>
+		<English>End of an Era</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_DEATH_TITLE</zType>
+		<English>End of an Era</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_CHOSEN_HEIR_TITLE</zType>
+		<English>New Blood</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_MAP_DISPUTE_TITLE</zType>
+		<English>Map Dispute</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_DEATH_COMES_TITLE</zType>
+		<English>A Rider in Black</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_A_CALL_FOR_HELP_TITLE</zType>
+		<English>A Call for Help</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_A_PERSONAL_LETTER_TITLE</zType>
+		<English>A Personal Letter</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_INSIDER_TITLE</zType>
+		<English>The Insider</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_INTRUDER_IN_THE_PALACE_TITLE</zType>
+		<English>Palace Intruder</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_VENGEANCE_FROM_AFAR_TITLE</zType>
+		<English>Your Revenge</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_FALLEN_RIVAL_TITLE</zType>
+		<English>A Fallen Rival</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_THE_STEWARD_TITLE</zType>
+		<English>The Steward</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_A_NOBLE_UPBRINGING_TITLE</zType>
+		<English>A Noble Upbringing</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_MAXIMS_OF_PTAHHOTEP_TITLE</zType>
+		<English>Maxims of Ptahhotep</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_OUTDOOR_LESSON_TITLE</zType>
+		<English>Outdoor Lesson</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_ART_OF_WAR_TITLE</zType>
+		<English>Art of War</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_COMBAT_TRAINING_TITLE</zType>
+		<English>Combat Training</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_MONEY_MANAGEMENT_TITLE</zType>
+		<English>Money Management</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_TRADE_NEGOTIATIONS_TITLE</zType>
+		<English>Trade Negotiations</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_HANDS_DIRTY_TITLE</zType>
+		<English>Hands Dirty</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_THE_LION_TITLE</zType>
+		<English>The Lion</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_ACTS_OF_CHARITY_TITLE</zType>
+		<English>Acts of Charity</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_DAY_IN_COURT_TITLE</zType>
+		<English>Day in Court</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_BYSTANDER_TITLE</zType>
+		<English>Bystander</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_AT_DEATHS_DOOR_TITLE</zType>
+		<English>At Death's Door</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_SULKING_HEIR_TITLE</zType>
+		<English>Sulking Heir</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_FUTURE_ACCOMPLISHMENTS_TITLE</zType>
+		<English>Empty Accomplishments</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_TROUBLING_BEHAVIOR_TITLE</zType>
+		<English>Troubling Behavior</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_RISING_TO_THE_ROLE_TITLE</zType>
+		<English>Rising to the Role</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_DEATH_01_TITLE</zType>
+		<English>A Terrible Loss</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_DEATH_02_TITLE</zType>
+		<English>Laid to Rest</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SIBLING_DEATH_01_TITLE</zType>
+		<English><![CDATA[Farewell, <masculine_CHARACTER-0>Brother<feminine>Sister<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_TOAST_TITLE</zType>
+		<English>A Toast</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_TOAST_DUEL_WIN_TITLE</zType>
+		<English>A Duel</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_TOAST_DUEL_LOSE_TITLE</zType>
+		<English>A Duel</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_TOAST_MOTHERS_TOUCH_TITLE</zType>
+		<English><![CDATA[A <masculine_CHARACTER-0>Father's<feminine>Mother's<end> Touch]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MOTHER_IN_EXILE_TITLE</zType>
+		<English><![CDATA[<masculine_CHARACTER-0>Father<feminine>Mother<end> in Exile]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_RETURN_HOME_TITLE</zType>
+		<English>The Return Home</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_RETURN_HOME_DATES_TITLE</zType>
+		<English>The Return Home: The Dates</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_RETURN_HOME_WINE_TITLE</zType>
+		<English>The Return Home: The Wine</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_RETURN_HOME_INCENSE_TITLE</zType>
+		<English>The Return Home: The Incense</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TIME_TO_FEAST_TITLE</zType>
+		<English>Time to Feast</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_DARK_ARTS_TITLE</zType>
+		<English>The Dark Arts</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_NEW_GENERAL_TITLE</zType>
+		<English>A New General</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONFIRMATION_TITLE</zType>
+		<English>A Confirmation</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_UNFAITHFUL_TIDINGS_TITLE</zType>
+		<English>Unfaithful Tidings</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_FUNERAL_PROCESSION_TITLE</zType>
+		<English>Funeral Procession</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_VISITOR_FROM_THE_EAST_TITLE</zType>
+		<English>Visitor from the East</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_LOVESICK_TITLE</zType>
+		<English>Lovesick</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_YOUTHFUL_ZEAL_TITLE</zType>
+		<English>Youthful Zeal</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_EAGER_FOR_COMBAT_TITLE</zType>
+		<English>Eager for Combat</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_PEACEABLE_KINGDOM_TITLE</zType>
+		<English>Peaceable Kingdom</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_RETURNING_SOLDIER_TITLE</zType>
+		<English>Returning Soldier</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_PHYSICAL_CONFRONTATION_TITLE</zType>
+		<English>Physical Confrontation</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_ANCIENT_LESSONS_TITLE</zType>
+		<English>Ancient Lessons</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_RULE_OF_LAW_TITLE</zType>
+		<English>Rule of Law</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_UNHEALTHY_INTERESTS_TITLE</zType>
+		<English>Unhealthy Interests</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_A_FUNNY_FEELING_TITLE</zType>
+		<English>A Funny Feeling</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_BETRAYED_TITLE</zType>
+		<English>Traitorous Tutor</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_MYSTERY_SOLVED_TITLE</zType>
+		<English>Mystery Solved</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_ABDUCTED_HEIR_TITLE</zType>
+		<English>Abducted Heir</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_HOME_SAFE_TITLE</zType>
+		<English>Home Safe</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_DEAD_END_TITLE</zType>
+		<English>Dead End</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_LISTLESS_GOVERNING_TITLE</zType>
+		<English>Impatience</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_A_KEEN_EYE_TITLE</zType>
+		<English>A Keen Eye</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_SECRET_STRIKE_TITLE</zType>
+		<English>Secret Strike</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_A_TIME_TO_REAP_TITLE</zType>
+		<English>A Time to Reap</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_ENTRAILS_TITLE</zType>
+		<English>Entrails</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_COURT_MOURNS_TITLE</zType>
+		<English>The Court Mourns</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_DISTURBING_THE_PEACE_TITLE</zType>
+		<English>Disturbing the Peace</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_OUTRAGE_IN_CITY_TITLE</zType>
+		<English>Outrage in {CITY-1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_REKINDLED_LOVE_TITLE</zType>
+		<English>Rekindled Passion</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_A_TALE_OF_MISFORTUNE_TITLE</zType>
+		<English>A Tale of Misfortune</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_BRIGHT_OUTLOOK_TITLE</zType>
+		<English>Bright Outlook</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FREED_SLAVE_TITLE</zType>
+		<English>Freed Slave</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_PERSONAL_INFLUENCE_TITLE</zType>
+		<English>Personal Influence</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_SYMBOLIC_GESTURE_TITLE</zType>
+		<English>Symbolic Gesture</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_WILD_REVELS_TITLE</zType>
+		<English>Wild Revels</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_RIDING_CONTEST_TITLE</zType>
+		<English>Riding Contest</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_AMNESTY_TITLE</zType>
+		<English>Amnesty</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_HUNGER_IN_CITY_TITLE</zType>
+		<English>Hunger in {CITY-1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_MEMORABLE_PERFORMANCE_TITLE</zType>
+		<English>Memorable Performance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_SIGN_OF_RESPECT_TITLE</zType>
+		<English>Sign of Respect</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_SECRET_FUND_TITLE</zType>
+		<English>Secret Fund</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_EXOTIC_GETAWAY_TITLE</zType>
+		<English>Exotic Getaway</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_MIDNIGHT_MEETING_TITLE</zType>
+		<English>Midnight Meeting</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_AMBUSH_TITLE</zType>
+		<English>Ambush</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_A_HIGH_PRICE_TITLE</zType>
+		<English>A High Price</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_PUSHED_TOO_FAR_TITLE</zType>
+		<English>Pushed Too Far</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_ROLE_MODEL_TITLE</zType>
+		<English>Role Model</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_COMMUNITY_CHEST_TITLE</zType>
+		<English>Community Chest</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_THE_TRAVELER_TITLE</zType>
+		<English>The Traveler</English>
+	</Entry>
+	<Entry beginGroup="City">
+		<zType>TEXT_EVENTSTORY_HAPPINESS_IMMIGRANTS_TITLE</zType>
+		<English>Immigrants</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_IMMIGRANTS_MILITARY_TITLE</zType>
+		<English>Immigrant Recruits</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_SEASONAL_FESTIVAL_TITLE</zType>
+		<English>Seasonal Festival</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_TAX_SURPLUS_TITLE</zType>
+		<English>Tax Surplus</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_ANCIENT_TEMPLE_TITLE</zType>
+		<English>Ancient Temple</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_CITIZEN_DEFENSE_TITLE</zType>
+		<English>Citizen Defense</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_SCAVENGERS_TITLE</zType>
+		<English>Scavengers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_VOLUNTEERS_TITLE</zType>
+		<English>Volunteers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_PROMISING_STUDENT_TITLE</zType>
+		<English>Promising Student</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_FOUND_ZOROASTRIANISM_TITLE</zType>
+		<English>Zoroaster</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_FOUND_JUDAISM_TITLE</zType>
+		<English>Moses</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_VALUABLE_EXPERIENCE_TITLE</zType>
+		<English>Valuable Experience</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_GIFTED_INVENTOR_TITLE</zType>
+		<English>Gifted Inventor</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_DILIGENT_CLERK_TITLE</zType>
+		<English>Diligent Clerk</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_MATHEMATICAL_BREAKTHROUGH_TITLE</zType>
+		<English>Mathematical Breakthrough</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_ASPIRING_OFFICER_TITLE</zType>
+		<English>Aspiring Officer</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_BENEVOLENT_TRADER_TITLE</zType>
+		<English>Benevolent Trader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_TALENTED_POLITICIAN_TITLE</zType>
+		<English>Talented Politician</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_FASHIONABLE_PAINTER_TITLE</zType>
+		<English>Fashionable Painter</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_ATHLETIC_GAMES_TITLE</zType>
+		<English>Athletic Games</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_POETRY_CONTEST_TITLE</zType>
+		<English>Poetry Contest</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_PUBLIC_FEAST_TITLE</zType>
+		<English>Public Feast</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_SHIP_BORNE_PLAGUE_TITLE</zType>
+		<English><![CDATA[Ship-Borne Plague]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_MIDWIVES_TITLE</zType>
+		<English><![CDATA[Midwives]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_EARTHQUAKE_TITLE</zType>
+		<English><![CDATA[Earthquake]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MINES_OF_LAURION_TITLE</zType>
+		<English><![CDATA[The Mines of Laurion]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOREST_FIRE_TITLE</zType>
+		<English><![CDATA[Forest Fire]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOREST_FIRE_WOOD_TITLE</zType>
+		<English><![CDATA[Forest Fire]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOREST_FIRE_EMBERS_TITLE</zType>
+		<English><![CDATA[Forest Fire]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOREST_FIRE_ORPHAN_TITLE</zType>
+		<English><![CDATA[Forest Fire]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOREST_FIRE_TOMB_TITLE</zType>
+		<English><![CDATA[Forest Fire]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOREST_FIRE_MONUMENT_TITLE</zType>
+		<English><![CDATA[Forest Fire]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEW_TYPE_OF_ANIMAL_DISCOVERED_RODENT_TITLE</zType>
+		<English><![CDATA[New Type of Animal Discovered]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEW_TYPE_OF_ANIMAL_DISCOVERED_FISH_CRABS_TITLE</zType>
+		<English><![CDATA[New Type of Animal Discovered]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEW_TYPE_OF_ANIMAL_DISCOVERED_FISH_BIRDS_TITLE</zType>
+		<English><![CDATA[New Type of Animal Discovered]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEW_TYPE_OF_ANIMAL_DISCOVERED_LIZARD_TITLE</zType>
+		<English><![CDATA[New Type of Animal Discovered]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEW_TYPE_OF_ANIMAL_DISCOVERED_SNAKE_TITLE</zType>
+		<English><![CDATA[New Type of Animal Discovered]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEW_TYPE_OF_ANIMAL_DISCOVERED_FROG_TITLE</zType>
+		<English><![CDATA[New Type of Animal Discovered]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEW_TYPE_OF_ANIMAL_DISCOVERED_SPIDER_TITLE</zType>
+		<English><![CDATA[New Type of Animal Discovered]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEW_TYPE_OF_ANIMAL_DISCOVERED_GEMS_TITLE</zType>
+		<English><![CDATA[New Type of Animal Discovered]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_OPPORTUNITIES_FOR_ALL_TITLE</zType>
+		<English><![CDATA[Opportunities for All]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_A_BEACON_TITLE</zType>
+		<English><![CDATA[A Beacon]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_TEMPLE_HYMNS_TITLE</zType>
+		<English><![CDATA[Temple Hymns]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_FREEDOM_MOVEMENT_TITLE</zType>
+		<English><![CDATA[Freedom Movement]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_PAID_FUNCTION_TITLE</zType>
+		<English><![CDATA[Paid Function]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_THE_PUBLIC_PURSE_TITLE</zType>
+		<English><![CDATA[The Public Purse]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_A_GOLDEN_AGE_TITLE</zType>
+		<English><![CDATA[A Golden Age]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_THE_ZIGGURAT_TITLE</zType>
+		<English>The Ziggurat of {CITY-0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_EXPERTISE_ANGLER_TITLE</zType>
+		<English>Expertise: Fisher</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_OEDIPUS_TYRANNUS_TITLE</zType>
+		<English>Oedipus Tyrannus</English>
+	</Entry>
+	<Entry beginGroup="Miscellaneous">
+		<zType>TEXT_EVENTSTORY_ADOPT_RELIGION_TITLE</zType>
+		<English>State Religion?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_START_SLAVERY_TITLE</zType>
+		<English>Slavery Now?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_SLAVERY_FREEDOM_TITLE</zType>
+		<English>Slavery or Freedom</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CENTRALIZATION_VASSALAGE_TITLE</zType>
+		<English>Centralization or Vassalage</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TYRANNY_CONSTITUTION_TITLE</zType>
+		<English>Tyranny or Constitution</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EPICS_EXPLORATION_TITLE</zType>
+		<English>Epics or Exploration</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_COLONIZATION_SERFDOM_TITLE</zType>
+		<English>Colonization or Serfdom</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PROFESSIONAL_ARMY_VOLUNTEERS_TITLE</zType>
+		<English>Professional Army or Volunteers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PHILOSOPHY_ENGINEERING_TITLE</zType>
+		<English>Philosophy or Engineering</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MONOTHEISM_POLYTHEISM_TITLE</zType>
+		<English>Monotheism or Polytheism</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GUILDS_ELITES_TITLE</zType>
+		<English>Guilds or Elites</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TOLERANCE_ORTHODOXY_TITLE</zType>
+		<English>Tolerance or Orthodoxy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ICONOGRAPHY_CALLIGRAPHY_TITLE</zType>
+		<English>Iconography or Calligraphy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASCETICISM_HOLY_WAR_TITLE</zType>
+		<English>Asceticism or Holy War</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DIVINE_RULE_SECULARISM_TITLE</zType>
+		<English>Divine Rule or Secularism</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ISOLATIONISM_TRADE_LEAGUE_TITLE</zType>
+		<English>Isolationism or Trade League</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_COIN_DEBASEMENT_MONETARY_REFORM_TITLE</zType>
+		<English>Fiscal Policy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_FOUNDED_TITLE</zType>
+		<English>{RELIGION-1}?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CEREMONIAL_OFFERING_TITLE</zType>
+		<English>Ceremonial Offering</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOUNDING_SIGNS_TITLE</zType>
+		<English>Founding Signs</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOUNDING_SIGNS_SUCCESS_TITLE</zType>
+		<English>Founding Signs</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_VIRTUOUS_REFORMERS_TITLE</zType>
+		<English>Virtuous Reformers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_UNHAPPY_PEASANTS_TITLE</zType>
+		<English>Unhappy Peasants</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARSH_RULE_TITLE</zType>
+		<English>Harsh Rule</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_PYRAMIDS_TITLE</zType>
+		<English>The Pyramids</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_GREAT_ZIGGURAT_TITLE</zType>
+		<English>The Great Ziggurat</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_ORACLE_TITLE</zType>
+		<English>The Oracle</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_HANGING_GARDENS_TITLE</zType>
+		<English>The Hanging Gardens</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_NECROPOLIS_TITLE</zType>
+		<English>The Necropolis</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_ISHTAR_GATE_TITLE</zType>
+		<English>The Ishtar Gate</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_LIGHTHOUSE_TITLE</zType>
+		<English>The Lighthouse</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_APADANA_TITLE</zType>
+		<English>The Apadana</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_MAUSOLEUM_TITLE</zType>
+		<English>The Mausoleum</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_ACROPOLIS_TITLE</zType>
+		<English>The Acropolis</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_COLOSSUS_TITLE</zType>
+		<English>The Colossus</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_MUSAEUM_TITLE</zType>
+		<English>The Musaeum</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_CIRCUS_MAXIMUS_TITLE</zType>
+		<English>The Circus Maximus</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_PANTHEON_TITLE</zType>
+		<English>The Pantheon</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_HAGIA_SOPHIA_TITLE</zType>
+		<English>The Hagia Sophia</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_GRAND_BAZAAR_TITLE</zType>
+		<English>The Grand Bazaar</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_COLOSSUS_TITLE</zType>
+		<English>The Colossus</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LIGHTHOUSE_TITLE</zType>
+		<English>The Lighthouse</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HANGING_GARDENS_TITLE</zType>
+		<English>The Hanging Gardens</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ORACLE_1_TITLE</zType>
+		<English>The Oracle of {CITY-1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ORACLE_2_TITLE</zType>
+		<English>The Oracle of {CITY-1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PYRAMIDS_TITLE</zType>
+		<English>The Pyramids</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ISHTAR_GATE_TITLE</zType>
+		<English>The Ishtar Gate</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ACROPOLIS_TITLE</zType>
+		<English>The Acropolis</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NECROPOLIS_TITLE</zType>
+		<English>The Necropolis</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ANCIENT_STATUE_TITLE</zType>
+		<English>Ancient Statue</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ANCIENT_STATUE_STOLEN_TITLE</zType>
+		<English>Stolen Statue</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ANCIENT_STATUE_APPREHENDED_TITLE</zType>
+		<English>Apprehended Thief</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PRECIOUS_METALS_TITLE</zType>
+		<English>Precious Metals</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_QUESTIONABLE_CARVING_TITLE</zType>
+		<English>Questionable Carving</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_COTTAGE_DECOR_TITLE</zType>
+		<English>Cottage Decor</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUNAWAY_SLAVE_TITLE</zType>
+		<English>Runaway Slave</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PRIESTLY_DWELLING_TITLE</zType>
+		<English>Holy Dwelling</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_VETERAN_COLONIES_TITLE</zType>
+		<English>Veteran Colonies</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAINING_NEWS_TITLE</zType>
+		<English>Training News</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_AXEMAN_TITLE</zType>
+		<English>Mercenary Axemen</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_SPEARMAN_TITLE</zType>
+		<English>Mercenary Spearmen</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_MACEMAN_TITLE</zType>
+		<English>Mercenary Macemen</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_SWORDSMAN_TITLE</zType>
+		<English>Mercenary Swordsmen</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_PIKEMAN_TITLE</zType>
+		<English>Mercenary Pikemen</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_ARCHER_TITLE</zType>
+		<English>Mercenary Archers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_LONGBOWMAN_TITLE</zType>
+		<English>Mercenary Longbowmen</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_CROSSBOWMAN_TITLE</zType>
+		<English>Mercenary Crossbowmen</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_POLYBOLOS_TITLE</zType>
+		<English>Mercenary Polybolos</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_CHARIOT_TITLE</zType>
+		<English>Mercenary Chariots</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_HORSEMAN_TITLE</zType>
+		<English>Mercenary Horsemen</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_HORSE_ARCHER_TITLE</zType>
+		<English>Mercenary Horse Archers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_CAMEL_ARCHER_TITLE</zType>
+		<English>Mercenary Camel Archers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_WAR_ELEPHANT_TITLE</zType>
+		<English>Mercenary War Elephants</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_CATAPHRACT_TITLE</zType>
+		<English>Mercenary Cataphracts</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PILLAGING_BARBARIANS_TITLE</zType>
+		<English>Pillaging Barbarians</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PILLAGING_BARBARIANS_SUCCESS_TITLE</zType>
+		<English>Sweet Revenge</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FRONTIER_WALL_TITLE</zType>
+		<English>Frontier Wall</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_TITLE</zType>
+		<English>Exotic Pets</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_FISH_PEACE_TITLE</zType>
+		<English>Relaxing Fish</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_FISH_FAN_TITLE</zType>
+		<English>Lovely Fish</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_FISH_THOUGHTS_TITLE</zType>
+		<English>Tasty Fish</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_FISH_HORROR_TITLE</zType>
+		<English>A Fish's Fate</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_FISH_REST_TITLE</zType>
+		<English>Fish at Rest</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_THIEF_TITLE</zType>
+		<English>Thieving Monkey</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_DISTRACTING_TITLE</zType>
+		<English>Distracting Monkey</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_DIPLOMAT_TITLE</zType>
+		<English>Persuasive Monkey</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_GRUDGE_TITLE</zType>
+		<English>Suspicious Monkey</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_GRUDGE_SUCCESS_TITLE</zType>
+		<English>Victorious Monkey</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_GRUDGE_FAILURE_TITLE</zType>
+		<English>Defeated Monkey</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_GRUDGE_UNINTERESTED_TITLE</zType>
+		<English>Bored Monkey</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_GRUDGE_REVERSAL_TITLE</zType>
+		<English>Traitorous Monkey</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_CAMPAIGN_TITLE</zType>
+		<English>Inspiring Monkey</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_BAD_POLITICS_TITLE</zType>
+		<English>Imprudent Monkey</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_CHARM_TITLE</zType>
+		<English>Charming Monkey</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_DESTRUCTION_TITLE</zType>
+		<English>Destructive Monkey</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_SCIENCE_TITLE</zType>
+		<English>Instructive Monkey</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_CULTURE_TITLE</zType>
+		<English>Popular Monkey</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_REST_TITLE</zType>
+		<English>Monkey at Rest</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MYSTERIOUS_SWORD_TITLE</zType>
+		<English>Mysterious Sword</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MYSTERIOUS_SWORD_USING_TITLE</zType>
+		<English>Using the Sword</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MYSTERIOUS_SWORD_PILGRIMS_TITLE</zType>
+		<English>Sword Cult Pilgrims</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MYSTERIOUS_SWORD_BREAK_TITLE</zType>
+		<English>Shattered Sword</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MYSTERIOUS_SWORD_DEATH_TITLE</zType>
+		<English>Sword Disappearance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMOUS_VICTOR_TITLE</zType>
+		<English>Famous Victor</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONSPIRACY_TITLE</zType>
+		<English>Conspiracy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_KNIVES_OF_THE_CONSPIRACY_TITLE</zType>
+		<English>Knives of the Conspiracy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TEMPTING_RUMORS_TITLE</zType>
+		<English>Tempting Rumors</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_SUCCESSION_TITLE</zType>
+		<English>Succession Change</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASCETIC_MOVEMENT_TITLE</zType>
+		<English>Ascetic Movement</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WAYWARD_SUBJECT_TITLE</zType>
+		<English>Wayward Subject</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GEM_SEEKERS_TITLE</zType>
+		<English>Gem Seekers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEW_AMBASSADOR_TITLE</zType>
+		<English>New Ambassador</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DARKENED_MOON_TITLE</zType>
+		<English>Darkened Moon</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RENOWNED_BEAUTY_TITLE</zType>
+		<English>Renowned Beauty</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_LITERATE_TITLE</zType>
+		<English><![CDATA[The Literate]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PROPAGANDA_TITLE</zType>
+		<English><![CDATA[Propaganda]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_INSOLENT_GENERALS_TITLE</zType>
+		<English><![CDATA[Insolent Generals]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_MUST_I_DO_EVERYTHING_TITLE</zType>
+		<English><![CDATA[Must I Do Everything?]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_BALANCE_OF_POWER_TITLE</zType>
+		<English><![CDATA[Balance of Power]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_TIME_TO_CELEBRATE_TITLE</zType>
+		<English><![CDATA[Time to Celebrate]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_A_SINGULAR_VISION_TITLE</zType>
+		<English><![CDATA[A Singular Vision]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_SHARE_THE_BURDEN_TITLE</zType>
+		<English><![CDATA[Share the Burden]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_THE_STREET_SINGER_TITLE</zType>
+		<English><![CDATA[The Street Singer]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_NEW_HORIZONS_TITLE</zType>
+		<English><![CDATA[New Horizons]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_IDLE_HANDS_TITLE</zType>
+		<English><![CDATA[Idle Hands]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_A_FEEBLE_MILITARY_TITLE</zType>
+		<English><![CDATA[A Feeble Force]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_CAPTIVES_OF_BELIEF_TITLE</zType>
+		<English><![CDATA[Captives of Belief]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_HEAVENS_CHOSEN_TITLE</zType>
+		<English><![CDATA[Heaven's Chosen]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_FRIEND_OF_THE_FAITH_TITLE</zType>
+		<English><![CDATA[Friend of the Faith]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_ABUNDANCE_OF_RICHES_TITLE</zType>
+		<English><![CDATA[Abundance of Riches]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_UNPAID_DEBTS_TITLE</zType>
+		<English><![CDATA[Unpaid Debts]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_VIEW_FROM_THE_THRONE_TITLE</zType>
+		<English><![CDATA[View from the Throne]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_WARM_RELATIONS_TITLE</zType>
+		<English><![CDATA[Warm Relations]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_ETERNAL_REST_TITLE</zType>
+		<English>The Mausoleum</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_GODS_AND_MEN_TITLE</zType>
+		<English>The Pantheon</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_THE_CIRCUS_TITLE</zType>
+		<English>The Circus Maximus</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_A_SPIRITUAL_CROSSROADS_TITLE</zType>
+		<English>Hagia Sophia</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_BEACON_OF_KNOWLEDGE_TITLE</zType>
+		<English>The Musaeum</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_PUBLIC_SPECTACLE_TITLE</zType>
+		<English>The Colosseum</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_MOUNTAIN_LIGHTS_TITLE</zType>
+		<English><![CDATA[Mountain Lights]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_FIRE_IN_THE_MARKET_TITLE</zType>
+		<English><![CDATA[Fire in the Market]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_NOMADS_TITLE</zType>
+		<English><![CDATA[Nomads]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_READING_THE_WORD_TITLE</zType>
+		<English><![CDATA[Reading the Word]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_THE_APOSTLES_TITLE</zType>
+		<English><![CDATA[The Apostles]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_KINGDOM_OF_GOD_TITLE</zType>
+		<English>Kingdom of God</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_YOUR_BLESSING_TITLE</zType>
+		<English><![CDATA[Your Blessing]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_LIGHT_AND_DARK_TITLE</zType>
+		<English><![CDATA[Light and Dark]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_GADFLY_TITLE</zType>
+		<English><![CDATA[Gadfly]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_SHOOTING_STAR_TITLE</zType>
+		<English><![CDATA[Shooting Star]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_MY_CONDOLENCES_TITLE</zType>
+		<English><![CDATA[My Condolences]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOCAL_BRIGANDS_TITLE</zType>
+		<English><![CDATA[Local Brigands]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOCAL_BRIGANDS_ENDING_A_TITLE</zType>
+		<English><![CDATA[Local Brigands]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOCAL_BRIGANDS_ENDING_B_TITLE</zType>
+		<English><![CDATA[Local Brigands]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOCAL_BRIGANDS_ENDING_C_TITLE</zType>
+		<English><![CDATA[Local Brigands]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AN_UNLIKELY_SCENARIO_TITLE</zType>
+		<English><![CDATA[An Unlikely Scenario]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGIOUS_FREEDOM_TITLE</zType>
+		<English><![CDATA[Religious Freedom]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AMBASSADOR_CANDIDATES_TITLE</zType>
+		<English><![CDATA[Ambassador Candidates]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHANCELLOR_CANDIDATES_TITLE</zType>
+		<English><![CDATA[Chancellor Candidates]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPYMASTER_CANDIDATES_TITLE</zType>
+		<English><![CDATA[Spymaster Candidates]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_VAULTING_SEWER_SYSTEM_TITLE</zType>
+		<English>Sewer System</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_VAULTING_HOUSES_OF_THE_HOLY_TITLE</zType>
+		<English>Houses of the Holy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_VAULTING_NEW_OBSESSION_TITLE</zType>
+		<English>New Obsession</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_BODKIN_ACCOMPLICES_TITLE</zType>
+		<English>Accomplices</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_BODKIN_THE_COURTS_MEN_TITLE</zType>
+		<English>The Court's Men</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_LATEEN_MAIDEN_VOYAGE_TITLE</zType>
+		<English>Maiden Voyage</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_LATEEN_ADRIFT_TITLE</zType>
+		<English>Adrift</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_LATEEN_CAPSIZED_SPIES_TITLE</zType>
+		<English>Capsized Spies</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_HYDRAULICS_THE_AUTOMATON_TITLE</zType>
+		<English>The Automaton</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_BODKIN_THE_POINTY_END_TITLE</zType>
+		<English>The Pointy End</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_HYDRAULICS_RUNNING_WATERS_TITLE</zType>
+		<English>Running Waters</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_WINDLASS_EARLY_ADOPTERS_TITLE</zType>
+		<English>Early Adopters</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_WINDLASS_ROPE_AND_WINCH_TITLE</zType>
+		<English>Rope and Winch</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_WINDLASS_ACCIDENTS_HAPPEN_TITLE</zType>
+		<English>Accidents Happen</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_SARISSA_COMPANION_CAVALRY_TITLE</zType>
+		<English>Protect the Flanks</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_SARISSA_FOOLISH_DISPLAY_TITLE</zType>
+		<English>Foolish Display</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_BARDING_NOBLE_EXCESS_TITLE</zType>
+		<English>Noble Excess</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_BARDING_A_FRIENDLY_REQUEST_TITLE</zType>
+		<English>A Friendly Request</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_BARDING_CLEMENCY_TITLE</zType>
+		<English>Clemency</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_BARDING_SURVIVORS_TITLE</zType>
+		<English>Survivors</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_TREACHERY_TITLE</zType>
+		<English>Treachery</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_ALLIED_INTELLIGENCE_TITLE</zType>
+		<English>Allied Intelligence</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_GOOD_CHEER_TITLE</zType>
+		<English>Good Cheer</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_GIFT_OF_LAND_TITLE</zType>
+		<English>Gift of Land</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_BATH_HOUSE_CONSPIRACY_TITLE</zType>
+		<English>The Bath Conspiracy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_A_NEW_METHOD_TITLE</zType>
+		<English>A New Method</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_PERSECUTION_IN_CITY_TITLE</zType>
+		<English>Persecution in {CITY-3}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SEDITIOUS_MEETINGS_TITLE</zType>
+		<English>Seditious Meetings</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_THE_PROTEGE_TITLE</zType>
+		<English>The Protege</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_TACTICS_TITLE</zType>
+		<English>Studies Complete</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_RHETORIC_TITLE</zType>
+		<English>Studies Complete</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_COMMERCE_TITLE</zType>
+		<English>Studies Complete</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_PHILOSOPHY_TITLE</zType>
+		<English>Studies Complete</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_IN_YOUR_DEBT_TITLE</zType>
+		<English>In Your Debt</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_JEALOUS_RAGE_TITLE</zType>
+		<English>Jealous Rage</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_GOLDEN_OPPORTUNITY_TITLE</zType>
+		<English>Growth Opportunity</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_BAD_BLOOD_TITLE</zType>
+		<English>Bad Blood</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_BEST_SERVED_COLD_TITLE</zType>
+		<English>Best Served Cold</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_JAILBREAK_TITLE</zType>
+		<English>Jailbreak</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_LOVER_NO_MORE_TITLE</zType>
+		<English>Lover No More</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_FAMILY_DEBTS_TITLE</zType>
+		<English>Family Debts</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_CITY_ON_THE_BRINK_TITLE</zType>
+		<English>City on the Brink</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_PLAYING_POLITICS_TITLE</zType>
+		<English>Political Influence</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_FALSE_GOSSIP_TITLE</zType>
+		<English>False Gossip</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_CAVE_OF_PATRIARCHS_TITLE</zType>
+		<English>Cave of Patriarchs</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_ENSLAVED_BY_EGYPT_TITLE</zType>
+		<English>Enslaved by Egypt</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_THEY_DO_NOT_BELONG_TITLE</zType>
+		<English>They Do Not Belong</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_BOW_BEFORE_US_TITLE</zType>
+		<English>Bow Before Us</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_THE_CONVERTED_TITLE</zType>
+		<English>The Converted</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_HOLY_WAR_TITLE</zType>
+		<English>Holy War</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_AWAITING_EXECUTION_TITLE</zType>
+		<English>Awaiting Execution</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_OUR_ALLEGIANCE_TITLE</zType>
+		<English>Our Allegiance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_LOST_WISDOM_TITLE</zType>
+		<English>Lost Wisdom</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_BLOOD_IN_THE_STREETS_TITLE</zType>
+		<English>Blood in the Streets</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_THE_TWENTY_SAINTS_TITLE</zType>
+		<English>The Twenty Saints</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_BANNED_TITLE</zType>
+		<English>Ban Manichaeism?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_SPREAD_TITLE</zType>
+		<English>Local Beliefs</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ZOROASTRIANISM_TEMPLES_TITLE</zType>
+		<English>Places of Worship</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ZOROASTRIANISM_FOUNDED_TITLE</zType>
+		<English>Zoroastrianism Founded</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_JUDAISM_FOUNDED_TITLE</zType>
+		<English>Judaism Founded</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_JUDAISM_TEMPLES_TITLE</zType>
+		<English>Places of Worship</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHRISTIAN_CATHEDRALS_TITLE</zType>
+		<English>Places of Worship</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MANICHAEISM_CATHEDRALS_TITLE</zType>
+		<English>Places of Worship</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_CREATURES_OF_THE_COAST_TITLE</zType>
+		<English>Creatures of the Coast</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_DREAMS_OF_HOME_TITLE</zType>
+		<English>Dreams of Home</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_CITIZEN_OF_THE_WORLD_TITLE</zType>
+		<English>Citizen of the World</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_THE_LAND_OF_HAIRY_MEN_TITLE</zType>
+		<English>The Land of Hairy Men</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_MONSOON_TITLE</zType>
+		<English>Monsoon!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_SHARED_INTERESTS_TITLE</zType>
+		<English>Shared Interests</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_AN_ADMIRER_TITLE</zType>
+		<English>An Admirer</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_MORE_THAN_ALLIES_TITLE</zType>
+		<English>More Than Allies</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_MAKING_PEACE_TITLE</zType>
+		<English>Making Peace</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_RELEASED_TITLE</zType>
+		<English>Released</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_IN_THE_BLOOD_TITLE</zType>
+		<English>In the Blood</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_PARANOID_TITLE</zType>
+		<English>Paranoid</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_THE_RANT_TITLE</zType>
+		<English>The Rant</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_GUEST_OF_HONOR_TITLE</zType>
+		<English>Guest of Honor</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_VISITING_PRINCESS_TITLE</zType>
+		<English>Visiting Princess</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_INNER_CIRCLE_TITLE</zType>
+		<English>Inner Circle</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_A_SPIRITUAL_CONNECTION_TITLE</zType>
+		<English>A Spiritual Connection</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_A_GENEROUS_DONATION_TITLE</zType>
+		<English>A Generous Donation</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_URGING_CAUTION_TITLE</zType>
+		<English>Urging Caution</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_MORAL_DEGRADATION_TITLE</zType>
+		<English>Moral Degradation</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_GIVE_AN_INCH_TITLE</zType>
+		<English>Give an inch</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_PROOF_OF_FRIENDSHIP_TITLE</zType>
+		<English>Proof of Friendship</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TWO_VISIONS_TITLE</zType>
+		<English>Blame Game</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_RUNAWAY_PRINCE_TITLE</zType>
+		<English><![CDATA[The Runaway <masculine_CHARACTER-0>Prince<feminine>Princess<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_TO_HEIR_TITLE</zType>
+		<English>Heir to Heir</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_IN_ABSENTIA_TITLE</zType>
+		<English><![CDATA[Speaking <masculine_CHARACTER-1>His<feminine>Her<end> Mind]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STRANGER_AT_THE_DOOR_TITLE</zType>
+		<English>Stranger at the Door</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_AMBITION_CHARISMA_TITLE</zType>
+		<English>People Skills</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_AMBITION_WISDOM_TITLE</zType>
+		<English>Wise Outlook</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_AMBITION_COURAGE_TITLE</zType>
+		<English>Internal Strength</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_AMBITION_DISCIPLINE_TITLE</zType>
+		<English>Ordered Mind</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_SOUTHERN_EXPEDITION_TITLE</zType>
+		<English>Southern Expedition</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_OSTRACIZED_TITLE</zType>
+		<English>Ostracized</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_PLEASURE_BANQUET_TITLE</zType>
+		<English>Pleasure Banquet</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MYSTERIOUS_SICKNESS_TITLE</zType>
+		<English>Mysterious Sickness</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_POX_SPREADS_TITLE</zType>
+		<English>The Pox Spreads</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AFTER_THE_DEATH_TITLE</zType>
+		<English>After the Death</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_UNCANNY_TITLE</zType>
+		<English>Uncanny</English>
+	</Entry>
+	<Entry beginGroup="Tutorial">
+		<zType>TEXT_EVENTSTORY_VICTORY_POINTS_TITLE</zType>
+		<English>POINTS VICTORY!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_VICTORY_DOUBLE_TITLE</zType>
+		<English>DOUBLE VICTORY!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_VICTORY_AMBITION_TITLE</zType>
+		<English>AMBITION VICTORY!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_VICTORY_TIME_TITLE</zType>
+		<English>TIME VICTORY!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_VICTORY_CONQUEST_TITLE</zType>
+		<English>CONQUEST VICTORY!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GAME_LOSS_TITLE</zType>
+		<English>DEFEAT</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_INTRO_TITLE</zType>
+		<English>Welcome to Old World</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCOUT_SELECTED_TITLE</zType>
+		<English>Scout Selected</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_ORDERS_TITLE</zType>
+		<English>Orders</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SECOND_CITY_TITLE</zType>
+		<English>Your Second City</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_WORKER_SELECTED_TITLE</zType>
+		<English>The Worker</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_SLINGER_SELECTED_TITLE</zType>
+		<English>The Slinger</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_WARRIOR_SELECTED_TITLE</zType>
+		<English>Tutorial Warrior Selected</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_BARBARIAN_CAMP_CLEARED_TITLE</zType>
+		<English>Tutorial Barbarian Camp Cleared</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_CITY_CAPTURED_TITLE</zType>
+		<English>Tutorial City Captured</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_CULTURE_TITLE</zType>
+		<English>Tutorial Culture</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_TRIBE_CONTACT_TITLE</zType>
+		<English>Tutorial Tribe Contact</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_HARVEST_RESOURCE_TITLE</zType>
+		<English>Tutorial Harvest Resource</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_UNIT_ON_COOLDOWN_TITLE</zType>
+		<English>Tutorial Unit On Cooldown</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_UNIT_FATIGUED_TITLE</zType>
+		<English>Tutorial Unit Fatigued</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_OUT_OF_ORDERS_TITLE</zType>
+		<English>Tutorial Out Of Orders</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_RELIGION_TITLE</zType>
+		<English>Tutorial Religion</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_CHARIOT_SELECTED_TITLE</zType>
+		<English>Chariot Tutorial</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_NATION_CONTACT_TITLE</zType>
+		<English>Tutorial Nation Contact</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_AMBITION_TITLE</zType>
+		<English>Tutorial Ambition</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_BARBARIANS_TITLE</zType>
+		<English>Tutorial Barbarians</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_SUCCESSION_TITLE</zType>
+		<English>Tutorial Succession</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_LEGITIMACY_TITLE</zType>
+		<English>Tutorial Legitimacy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_MARRIAGE_TITLE</zType>
+		<English>Tutorial Marriage</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_PROMOTION_TITLE</zType>
+		<English>Take the Field</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_AXEMAN_SELECTED_TITLE</zType>
+		<English>Tutorial Axeman Selected</English>
+	</Entry>
+</Root>

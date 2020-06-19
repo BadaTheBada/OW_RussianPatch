@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<!-- InfoEventOption -->
+	<Entry>
+		<zType/>
+		<English/>
+	</Entry>
+	<!-- InfoLanguage -->
+	<Entry>
+		<zType>TEXT_LANGUAGE_ENGLISH</zType>
+		<English>English (US)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LANGUAGE_DEBUG</zType>
+		<English>Text Debug</English>
+	</Entry>
+	<!-- InfoTerrain -->
+	<Entry>
+		<zType>TEXT_TERRAIN_WATER</zType>
+		<English>Water</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_URBAN</zType>
+		<English>Urban</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_LUSH</zType>
+		<English>Lush</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_TEMPERATE</zType>
+		<English>Temperate</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_ARID</zType>
+		<English>Arid</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_SAND</zType>
+		<English>Sand</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_TUNDRA</zType>
+		<English>Tundra</English>
+	</Entry>
+	<!--InfoBuild-->
+	<Entry>
+		<zType>TEXT_BUILD_PROJECT</zType>
+		<English>Project</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BUILD_SPECIALIST</zType>
+		<English>Specialist</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BUILD_UNIT</zType>
+		<English>Unit</English>
+	</Entry>
+	<!--InfoConcept-->
+	<Entry>
+		<zType>TEXT_CONCEPT_ALLIANCE_BARB</zType>
+		<English>Barbarian Alliance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_ALLIANCE_PLAYER</zType>
+		<English>Player Alliance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_BARBARIAN_INVADE</zType>
+		<English>Barbarian Invasion</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_BUY_TILE</zType>
+		<English>Buy Tiles</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_CULTURE_EVENT</zType>
+		<English>Culture Event</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_CLEAR</zType>
+		<English>Clear</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_CONDUCT_TRADE_MISSION</zType>
+		<English>Conduct Trade Mission</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_CRITICAL_HIT</zType>
+		<English>Critical Hit</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_ENVY</zType>
+		<English>Envy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_GENERAL</zType>
+		<English>General</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_GOVERNOR</zType>
+		<English>Governor</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_HARVEST_RESOURCE</zType>
+		<English>Harvest Resource</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_JOIN_COURT</zType>
+		<English>Join Court</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_IDLE</zType>
+		<English>Idle</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_IGNORES_ZOC</zType>
+		<English>Ignores ZOC</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_LUXURY</zType>
+		<English>Luxuries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_PROJECT_INFO</zType>
+		<English>Project</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_RAISE_IMPROVEMENTS</zType>
+		<English>Raise Improvements</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_REBEL</zType>
+		<English>Rebel</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_ROUT</zType>
+		<English>Rout</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_SETTLEMENT</zType>
+		<English>Settlement</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_URBAN</zType>
+		<English><![CDATA[Urban~an Urban<comment this text is an adjective>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_ZOC</zType>
+		<English>ZOC</English>
+	</Entry>
+	<!--InfoVegetation-->
+	<Entry>
+		<zType>TEXT_VEGETATION_TREES</zType>
+		<English>Trees</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_TREES_REMOVE</zType>
+		<English>Cut Trees</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_TREES_CUT</zType>
+		<English>Trees (Cut)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_TREES_CUT_REMOVE</zType>
+		<English>Clear Land</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_SCRUB</zType>
+		<English>Scrub~a Scrub~Scrubs</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_SCRUB_REMOVE</zType>
+		<English>Cut Scrub</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_SCRUB_CUT</zType>
+		<English>Scrub (Cut)~a Scrub (Cut)~Scrubs (Cut)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_SCRUB_CUT_REMOVE</zType>
+		<English>Clear Land</English>
+	</Entry>
+	<!--InfoSpecialist-->
+	<Entry>
+		<zType>TEXT_SPECIALIST_FARMER</zType>
+		<English>Farmer~a Farmer~Farmers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_WOODCUTTER</zType>
+		<English>Woodcutter~a Woodcutter~Woodcutters</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_STONECUTTER</zType>
+		<English>Stonecutter~a Stonecutter~Stonecutters</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_MINER</zType>
+		<English>Miner~a Miner~Miners</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_RANCHER</zType>
+		<English>Rancher~a Rancher~Ranchers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_TRAPPER</zType>
+		<English>Trapper~a Trapper~Trappers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_GARDENER</zType>
+		<English>Gardener~a Gardener~Gardeners</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_FISHER</zType>
+		<English>Fisher~a Fisher~Fishers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_ACOLYTE_1</zType>
+		<English>Apprentice Acolyte~an Apprentice Acolyte~Apprentice Acolytes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_ACOLYTE_2</zType>
+		<English>Master Acolyte~a Master Acolyte~Master Acolytes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_ACOLYTE_3</zType>
+		<English>Elder Acolyte~an Elder Acolyte~Elder Acolytes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_DOCTOR_1</zType>
+		<English>Apprentice Doctor~an Apprentice Doctor~Apprentice Doctors</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_DOCTOR_2</zType>
+		<English>Master Doctor~a Master Doctor~Master Doctors</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_DOCTOR_3</zType>
+		<English>Elder Doctor~an Elder Doctor~Elder Doctors</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_MONK_1</zType>
+		<English>Apprentice Monk~an Apprentice Monk~Apprentice Monks</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_MONK_2</zType>
+		<English>Master Monk~a Master Monk~Master Monks</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_MONK_3</zType>
+		<English>Elder Monk~an Elder Monk~Elder Monks</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_PRIEST_1</zType>
+		<English>Apprentice Priest~an Apprentice Priest~Apprentice Priests</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_PRIEST_2</zType>
+		<English>Master Priest~a Master Priest~Master Priests</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_PRIEST_3</zType>
+		<English>Elder Priest~a Elder Priest~Elder Priests</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_BISHOP_1</zType>
+		<English>Apprentice Bishop~an Apprentice Bishop~Apprentice Bishops</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_BISHOP_2</zType>
+		<English>Master Bishop~a Master Bishop~Master Bishops</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_BISHOP_3</zType>
+		<English>Elder Bishop~an Elder Bishop~Elder Bishops</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_POET_1</zType>
+		<English>Apprentice Poet~an Apprentice Poet~Apprentice Poets</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_POET_2</zType>
+		<English>Master Poet~a Master Poet~Master Poets</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_POET_3</zType>
+		<English>Elder Poet~an Elder Poet~Elder Poets</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SHOPKEEPER_1</zType>
+		<English>Apprentice Shopkeeper~an Apprentice Shopkeeper~Apprentice Shopkeepers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SHOPKEEPER_2</zType>
+		<English>Master Shopkeeper~a Master Shopkeeper~Master Shopkeepers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SHOPKEEPER_3</zType>
+		<English>Elder Shopkeeper~an Elder Shopkeeper~Elder Shopkeepers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_PHILOSOPHER_1</zType>
+		<English>Apprentice Philosopher~an Apprentice Philosopher~Apprentice Philosophers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_PHILOSOPHER_2</zType>
+		<English>Master Philosopher~a Master Philosopher~Master Philosophers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_PHILOSOPHER_3</zType>
+		<English>Elder Philosopher~an Elder Philosopher~Elder Philosophers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SCRIBE_1</zType>
+		<English>Apprentice Scribe~an Apprentice Scribe~Apprentice Scribes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SCRIBE_2</zType>
+		<English>Master Scribe~a Master Scribe~Master Scribes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SCRIBE_3</zType>
+		<English>Elder Scribe~an Elder Scribe~Elder Scribes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_OFFICER_1</zType>
+		<English>Apprentice Officer~an Apprentice Officer~Apprentice Officers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_OFFICER_2</zType>
+		<English>Master Officer~a Master Officer~Master Officers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_OFFICER_3</zType>
+		<English>Elder Officer~an Elder Officer~Elder Officers</English>
+	</Entry>
+	<!--InfoOpinionBarbarian-->
+	<!--Assets/GameAssets/Resources/Infos/opinionBarbarian.xml-->
+	<Entry>
+		<zType>TEXT_OPINIONBARBARIAN_FURIOUS</zType>
+		<English>Furious</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONBARBARIAN_ANGRY</zType>
+		<English>Angry</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONBARBARIAN_UPSET</zType>
+		<English>Upset</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONBARBARIAN_CAUTIOUS</zType>
+		<English>Cautious</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONBARBARIAN_PLEASED</zType>
+		<English>Pleased</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONBARBARIAN_FRIENDLY</zType>
+		<English>Friendly</English>
+	</Entry>
+	<!--InfoOpinionCharacter-->
+	<!--Assets/GameAssets/Resources/Infos/opinionCharacter.xml-->
+	<Entry>
+		<zType>TEXT_OPINIONCHARACTER_FURIOUS</zType>
+		<English>Furious</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONCHARACTER_ANGRY</zType>
+		<English>Angry</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONCHARACTER_UPSET</zType>
+		<English>Upset</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONCHARACTER_CAUTIOUS</zType>
+		<English>Cautious</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONCHARACTER_PLEASED</zType>
+		<English>Pleased</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONCHARACTER_FRIENDLY</zType>
+		<English>Friendly</English>
+	</Entry>
+	<!--InfoOpinionPlayer-->
+	<!--Assets/GameAssets/Resources/Infos/opinionPlayer.xml-->
+	<Entry>
+		<zType>TEXT_OPINIONPLAYER_FURIOUS</zType>
+		<English>Furious</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONPLAYER_ANGRY</zType>
+		<English>Angry</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONPLAYER_UPSET</zType>
+		<English>Upset</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONPLAYER_CAUTIOUS</zType>
+		<English>Cautious</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONPLAYER_PLEASED</zType>
+		<English>Pleased</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONPLAYER_FRIENDLY</zType>
+		<English>Friendly</English>
+	</Entry>
+	<!--InfoGoal-->
+	<Entry>
+		<zType>TEXT_GOAL_SLAVERY</zType>
+		<English>Enact Slavery</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FREEDOM</zType>
+		<English>Enact Freedom</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TYRANNY</zType>
+		<English>Enact Tyranny</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_CONSTITUTION</zType>
+		<English>Enact Constitution</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_EPICS</zType>
+		<English>Enact Epics</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_EXPLORATION</zType>
+		<English>Enact Exploration</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_CENTRALIZATION</zType>
+		<English>Enact Centralization</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_VASSALAGE</zType>
+		<English>Enact Vassalage</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_COLONIZATION</zType>
+		<English>Enact Colonization</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SERFDOM</zType>
+		<English>Enact Serfdom</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_PROFESSIONAL_ARMY</zType>
+		<English>Enact Professional Army</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_VOLUNTEERS</zType>
+		<English>Enact Volunteers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_PHILOSOPHY</zType>
+		<English>Enact Philosophy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ENGINEERING</zType>
+		<English>Enact Engineering</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_MONOTHEISM</zType>
+		<English>Enact Monotheism</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_POLYTHEISM</zType>
+		<English>Enact Polytheism</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_GUILDS</zType>
+		<English>Enact Guilds</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ELITES</zType>
+		<English>Enact Elites</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TOLERANCE</zType>
+		<English>Enact Tolerance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ORTHODOXY</zType>
+		<English>Enact Orthodoxy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ICONOGRAPHY</zType>
+		<English>Enact Iconography</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_CALLIGRAPHY</zType>
+		<English>Enact Calligraphy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_DIVINE_RULE</zType>
+		<English>Enact Divine Rule</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SECULARISM</zType>
+		<English>Enact Secularism</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ASCETICISM</zType>
+		<English>Enact Asceticism</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_HOLY_WAR</zType>
+		<English>Enact Holy War</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ISOLATIONISM</zType>
+		<English>Enact Isolationism</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TRADE_LEAGUE</zType>
+		<English>Enact Trade League</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_COIN_DEBASEMENT</zType>
+		<English>Enact Coin Debasement</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_MONETARY_REFORM</zType>
+		<English>Enact Monetary Reform</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_LAWS</zType>
+		<English>Enact 4 Laws</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_EIGHT_LAWS</zType>
+		<English>Enact 8 Laws</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ALL_LAWS</zType>
+		<English>Enact All Laws</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_VENERATION</zType>
+		<English>Establish Veneration</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_MYTHOLOGY</zType>
+		<English>Establish Mythology</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_LEGALISM</zType>
+		<English>Establish Legalism</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_DUALISM</zType>
+		<English>Establish Dualism</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_REVELATION</zType>
+		<English>Establish Revelation</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ENLIGHTENMENT</zType>
+		<English>Establish Enlightenment</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_REDEMPTION</zType>
+		<English>Establish Redemption</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_CITIES</zType>
+		<English>Control Four Cities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SEVEN_CITIES</zType>
+		<English>Control Seven Cities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TEN_CITIES</zType>
+		<English>Control Ten Cities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_THREE_CONNECTED_CITIES</zType>
+		<English>Control Three Connected Cities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_CONNECTED_CITIES</zType>
+		<English>Control Six Connected Cities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_NINE_CONNECTED_CITIES</zType>
+		<English>Control Nine Connected Cities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TEN_POPULATION</zType>
+		<English>Control Ten Population</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_30_POPULATION</zType>
+		<English>Control 30 Population</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_100_POPULATION</zType>
+		<English>Control 100 Population</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_HIGHEST_POPULATION</zType>
+		<English>Highest Population</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_GAULS_5</zType>
+		<English>Kill 5 link(BARBARIAN_GAULS)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_VANDALS_5</zType>
+		<English>Kill 5 link(BARBARIAN_VANDALS)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_DANES_5</zType>
+		<English>Kill 5 link(BARBARIAN_DANES)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_THRACIANS_5</zType>
+		<English>Kill 5 link(BARBARIAN_THRACIANS)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SCYTHIANS_5</zType>
+		<English>Kill 5 link(BARBARIAN_SCYTHIANS)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_NUMIDIANS_5</zType>
+		<English>Kill 5 link(BARBARIAN_NUMIDIANS)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOOD_400</zType>
+		<English>Produce 400 icon(YIELD_FOOD)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOOD_800</zType>
+		<English>Produce 800 icon(YIELD_FOOD)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_WOOD_400</zType>
+		<English>Produce 400 icon(YIELD_WOOD)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_WOOD_800</zType>
+		<English>Produce 800 icon(YIELD_WOOD)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_STONE_400</zType>
+		<English>Produce 400 icon(YIELD_STONE)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_STONE_800</zType>
+		<English>Produce 800 icon(YIELD_STONE)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_IRON_400</zType>
+		<English>Produce 400 icon(YIELD_IRON)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_IRON_800</zType>
+		<English>Produce 800 icon(YIELD_IRON)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_20_GOODS_TURN</zType>
+		<English>+20 icon(YIELD_FOOD), icon(YIELD_IRON), icon(YIELD_WOOD), and icon(YIELD_STONE)/Year</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_50_GOODS_TURN</zType>
+		<English>+50 icon(YIELD_FOOD), icon(YIELD_IRON), icon(YIELD_WOOD), and icon(YIELD_STONE)/Year</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_CIVICS_2000</zType>
+		<English>Stockpile 2000 icon(YIELD_CIVICS)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TRAINING_2000</zType>
+		<English>Stockpile 2000 icon(YIELD_TRAINING)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_MONEY_2000</zType>
+		<English>Stockpile 2,000icon(YIELD_MONEY)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_MONEY_5000</zType>
+		<English>Stockpile 5,000icon(YIELD_MONEY)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_MONEY_10000</zType>
+		<English>Stockpile 10,000icon(YIELD_MONEY)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_500_MONEY_TURN</zType>
+		<English>+500icon(YIELD_MONEY)/Year</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_WORKERS</zType>
+		<English>Control Five link(UNIT_WORKER,2)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_FARMS</zType>
+		<English>Control Six link(IMPROVEMENT_FARM,2)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_LUMBERMILLS</zType>
+		<English>Control Six link(IMPROVEMENT_LUMBERMILL,2)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_QUARRIES</zType>
+		<English>Control Six link(IMPROVEMENT_QUARRY,2)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_MINES</zType>
+		<English>Control Six link(IMPROVEMENT_MINE,2)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_PASTURES</zType>
+		<English>Control Six link(IMPROVEMENT_PASTURE,2)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_CAMPS</zType>
+		<English>Control Six link(IMPROVEMENT_CAMP,2)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_GROVES</zType>
+		<English>Control Six link(IMPROVEMENT_GROVE,2)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_NETS</zType>
+		<English>Control Six link(IMPROVEMENT_NETS,2)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_HARBORS</zType>
+		<English>Control Four Harbors</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_GRANARY</zType>
+		<English>Control Four Granaries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_BARRACKS_RANGES</zType>
+		<English>Control Six Barracks or Ranges</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_BATHS_1</zType>
+		<English>Control Four Cold Baths</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_BATHS_2</zType>
+		<English>Control Four Warm Baths</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_BATHS_3</zType>
+		<English>Control Four Heated Baths</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_THEATER_1</zType>
+		<English>Control Four Odeon</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_THEATER_2</zType>
+		<English>Control Four Amphitheaters</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_THEATER_3</zType>
+		<English>Control Four Colosseums</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_MARKET_1</zType>
+		<English>Control Four Markets</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_MARKET_2</zType>
+		<English>Control Four Grocers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_MARKET_3</zType>
+		<English>Control Four Fairs</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_LIBRARY_1</zType>
+		<English>Control Four Libraries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_LIBRARY_2</zType>
+		<English>Control Four Academies</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_LIBRARY_3</zType>
+		<English>Control Four Universities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_COURTHOUSE_1</zType>
+		<English>Control Four Courthouses</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_COURTHOUSE_2</zType>
+		<English>Control Four Ministries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_COURTHOUSE_3</zType>
+		<English>Control Four Palaces</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_GARRISON_1</zType>
+		<English>Control Four Garrisons</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_GARRISON_2</zType>
+		<English>Control Four Strongholds</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_GARRISON_3</zType>
+		<English>Control Four Citadels</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_EIGHT_SHRINES</zType>
+		<English>Control Eight Shrines</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_MONASTERY</zType>
+		<English>Control Four Monasteries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_TEMPLE</zType>
+		<English>Control Four Temples</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_THREE_CATHEDRAL</zType>
+		<English>Control Three Cathedrals</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_EIGHT_TOWNS</zType>
+		<English>Control Eight Towns</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_RESOURCE_IMPROVEMENTS</zType>
+		<English>Six Pastures, Camps, Groves, or Nets</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_URBAN_IMPROVEMENTS</zType>
+		<English>Control Six Urban Improvements</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_REPAIRED</zType>
+		<English>Repair Six Improvements</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_EIGHT_REPAIRED</zType>
+		<English>Repair Eight Improvements</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_LEGENDARY_IMPROVEMENTS</zType>
+		<English>Build Colossuem, Fair, University, and Palace</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_PYRAMIDS</zType>
+		<English>Control The Pyramids</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_GREAT_ZIGGURAT</zType>
+		<English>Control The Great Ziggurat</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ORACLE</zType>
+		<English>Control The Oracle</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_HANGING_GARDENS</zType>
+		<English>Control The Hanging Gardens</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_NECROPOLIS</zType>
+		<English>Control The Necropolis</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ISHTAR_GATE</zType>
+		<English>Control The Ishtar Gate</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_LIGHTHOUSE</zType>
+		<English>Control The Lighthouse</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_APADANA</zType>
+		<English>Control The Apadana</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_MAUSOLEUM</zType>
+		<English>Control The Mausoleum</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ACROPOLIS</zType>
+		<English>Control The Acropolis</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_COLOSSUS</zType>
+		<English>Control The Colossus</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_MUSAEUM</zType>
+		<English>Control The Musaeum</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_CIRCUS_MAXIMUS</zType>
+		<English>Control The Circus Maximus</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_PANTHEON</zType>
+		<English>Control The PanControl Theon</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_HAGIA_SOPHIA</zType>
+		<English>Control The Hagia Sophia</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_GRAND_BAZAAR</zType>
+		<English>Control The Grand Bazaar</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_DEVELOPING</zType>
+		<English>Control Five Developing Cities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_STRONG</zType>
+		<English>Control Four Strong Cities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_THREE_LEGENDARY</zType>
+		<English>Control Three Legendary Cities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_LEGENDARY</zType>
+		<English>Control Six Legendary Cities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_WONDERS</zType>
+		<English>Control 2 Wonders (1 Strong)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_WONDERS</zType>
+		<English>Control 4 Wonders (1 Legendary)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SEVEN_WONDERS</zType>
+		<English>Control 7 Wonders </English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_POETS</zType>
+		<English>Control Two Elder Poets</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_OFFICERS</zType>
+		<English>Control Two Elder Officers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_SCRIBES</zType>
+		<English>Control Two Elder Scribes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_MONKS</zType>
+		<English>Control Two Elder Monks</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_PRIESTS</zType>
+		<English>Control Two Elder Priests</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_SHOPKEEPERS</zType>
+		<English>Control Two Elder Shopkeepers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_PHILOSOPHERS</zType>
+		<English>Control Two Elder Philosophers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_10_SPECIALISTS</zType>
+		<English>Control Ten Specialists</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_30_SPECIALISTS</zType>
+		<English>Control 30 Specialists</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_10_ELDER_SPECIALISTS</zType>
+		<English>Control 10 Elder Specialists</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_20_ELDER_SPECIALISTS</zType>
+		<English>Control 20 Elder Specialists</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_WALLS</zType>
+		<English>Control Six Walls</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_MOATS</zType>
+		<English>Control Six Moats</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_TOWERS</zType>
+		<English>Control Six Towers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_TREASURIES</zType>
+		<English>Control Six Treasuries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_FORUMS</zType>
+		<English>Control Six Forums</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_ARCHIVES</zType>
+		<English>Control Six Archives</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_FESTIVALS</zType>
+		<English>Control Six Festivals</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_CONVOYS</zType>
+		<English>Control Six Convoys</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_LEGENDARY_PROJECTS</zType>
+		<English>Legendary Treasury, Forum, and Archive</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_THREE_BARB_CLEARED</zType>
+		<English>Clear Three Barbarian Sites</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_BARB_CLEARED</zType>
+		<English>Clear Five Barbarian Sites</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SEVEN_BARB_CLEARED</zType>
+		<English>Clear Seven Barbarian Sites</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_BARBARIAN_PEACE</zType>
+		<English>Make Peace with Barbarians</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_BARBARIAN_ALLIANCE</zType>
+		<English>Make Barbarian Alliance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_BARBARIAN_CONVERSION</zType>
+		<English>Convert Barbarian to Religion</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_THREE_PEACE</zType>
+		<English>Peace with Three Tribes or Empires</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ONE_RECAPTURE_CITY</zType>
+		<English>Recapture One City</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_RECAPTURE_CITY</zType>
+		<English>Recapture Two Cities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_CAPTURE_CITIES</zType>
+		<English>Capture Four Foreign Cities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ONE_CAPTIAL</zType>
+		<English>Capture a Foreign Capital</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_EIGHT_CAPTURE_CITIES</zType>
+		<English>Capture Eight Foreign Cities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUND_RELIGION</zType>
+		<English>Found Religion</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_STATE_RELIGION</zType>
+		<English>Establish a State Religion</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ESTABLISH_THEOLOGY</zType>
+		<English>Establish Theology</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_RELIGION_SPREAD</zType>
+		<English>Spread Religion (4x)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_EIGHT_RELIGION_SPREAD</zType>
+		<English>Spread Religion (8x)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_TECHS</zType>
+		<English>Discover Six Techs</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SEVEN_TECHS</zType>
+		<English>Discover Seven Techs</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_EIGHT_TECHS</zType>
+		<English>Discover Eight Techs</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SCHOLARSHIP_VAULTING</zType>
+		<English>Discover Scholarship and Vaulting</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_5_KILLS</zType>
+		<English>Kill Five Enemy Units</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_10_KILLS</zType>
+		<English>Kill Ten Enemy Units</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_15_KILLS</zType>
+		<English>Kill 15 Enemy Units</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_20_KILLS</zType>
+		<English>Kill 20 Enemy Units</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_PROMOTIONS</zType>
+		<English>Five Promotions</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TEN_PROMOTIONS</zType>
+		<English>Ten Promotions</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_MAX_LEVEL_UNIT</zType>
+		<English>Two Max Level Units (Melee and Ranged)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_MILITARY</zType>
+		<English>Control Five Military Units</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_RANGED</zType>
+		<English>Control Five Ranged Units</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_MOUNTED</zType>
+		<English>Control Five Mounted Units</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_SIEGE</zType>
+		<English>Control Five Siege Units</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_RANGED_MOUNTED</zType>
+		<English>Two Ranged and Two Mounted Units</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_LONGBOWMAN_CROSSBOWMAN</zType>
+		<English>Five Longbowmen or Crossbowmen</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_POLYBOLOS_CATAPHRACT</zType>
+		<English>Five Polybolos or Cataphracts</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_SWORDSMAN_PIKEMAN</zType>
+		<English>Five Swordsmen or Pikemen</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_20_UNITS</zType>
+		<English>Control 20 Military Units (5 Cataphracts)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_HIGHEST_MILITARY</zType>
+		<English>Highest Military</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_BATTERING_RAM</zType>
+		<English>Control Two Battering Rams</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_SIEGE_TOWER</zType>
+		<English>Control Two Siege Towers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_AKKADIAN_ARCHER</zType>
+		<English>Control Two Akkadian Archers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_CIMMERIAN_ARCHER</zType>
+		<English>Control Two Cimmerian Archers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_AFRICAN_ELEPHANT</zType>
+		<English>Control Two Africans Elephants</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_TURRETED_ELEPHANT</zType>
+		<English>Control Two Turreted Elephants</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_LIGHT_CHARIOT</zType>
+		<English>Control Two Light Chariots</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_KUSHITE_CAVALRY</zType>
+		<English>Control Two Kushite Cavalry</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_HOPLITE</zType>
+		<English>Control Two Hoplites</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_PHALANGITE</zType>
+		<English>Control Two Phalangites</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_PALTON_CAVALRY</zType>
+		<English>Control Two Palton Cavalry</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_CATAPHRACT_ARCHER</zType>
+		<English>Control Two Cataphract Archers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_HASTATUS</zType>
+		<English>Control Two Hastatus</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_LEGIONARY</zType>
+		<English>Control Two Legionaries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_COURTIERS</zType>
+		<English>Add Two Courtiers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_COURTIERS</zType>
+		<English>Add Four Courtiers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_REVEAL_40</zType>
+		<English>Reveal 40% of the Map</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_REVEAL_60</zType>
+		<English>Reveal 60% of the Map</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_REVEAL_80</zType>
+		<English>Reveal 80% of the Map</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_CAPTURE_THREE_CITIES</zType>
+		<English>Capture Three Cities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_CAPTURE_FOUR_CITIES</zType>
+		<English>Capture Four Cities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_CLEAR_THREE_BARBS</zType>
+		<English>Clear Three Barbarian Sites</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_TEMPLES_ZOROASTRIANISM</zType>
+		<English>Control Six Zoroastrian Temples</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_TEMPLES_JUDAISM</zType>
+		<English>Control Six Jewish Temples</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_THREE_CATHEDRALS_CHRISTIANITY</zType>
+		<English>Control Three Christian Cathedrals</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_THREE_CATHEDRALS_MANICHAEISM</zType>
+		<English>Control Three Manichaean Cathedrals</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_QUEST_INQUIRING_MINDS</zType>
+		<English>Complete 3 Inquiries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_QUEST_FOUNDING_SIGNS</zType>
+		<English>Found a City</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_QUEST_KILL_5_ENEMIES</zType>
+		<English>Kill 5 Enemies</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_QUEST_KILL_5_BARBS</zType>
+		<English>Kill 5 Barbarians</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_QUEST_PHILOSOPHY</zType>
+		<English>Enact Philosophy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_QUEST_ENACT_ORTHODOXY</zType>
+		<English>ENACT_ORTHODOXY</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_QUEST_COLOSSUS</zType>
+		<English>Control The Colossus</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_ASSYRIA_STORY</zType>
+		<English>      I am Ashurbanipal, king of the universe, descendants of great kings. I was the fourth in line for the succession, but my father, Esarhaddon, picked me to rule Assyria because of my bravery and intelligence while sending an older brother to rule a distant kingdom. Unrest comes from his land, and I need to show him how to be the greatest king of them all.
+
+      While my father was alive, I worked as a spymaster and studied etiquette and military training. I constructed the first systematically organized library of the Old World, containing 30,000 clay tablets. I was known for fluency in languages, especially Akkadian and Sumerian, endearing me to many old families.
+
+      I commissioned reliefs of myself hunting lions, a public event which was reserved for Assyrian royalty.
+    </English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_BABYLONIA_STORY</zType>
+		<English>    Son of a Mesopotamian king and husband to Amytis of Medea, and forever a worshiper of the god Marduk. In the name of my father, I elevated my city Babylon to be the jewel of the region. I am trained in military tactics, conquered kingdoms, and crushed rebellions.
+
+    I built The Hanging Gardens for my wife so she can feel closer to the hills of Persia, and The Ishtar Gate to honor Marduk. I connected them both with the Processing Way and all visitors were bewildered by the beauty of my empire.
+
+    Under my rule, women had equal rights as men did, we created intellectuals institutes and temples, and my focus was on art, culture, science, mathematics, and craftsmanship. In a decade, I turned Babylon into a city of light.
+
+ I am Nebuchadnezzar.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_CARTHAGE_STORY</zType>
+		<English>    I am a Phoenecian princess who fled her home in Tyre, carrying the name Elissa. Escaping my brother Pygmalion who murdered my beloved husband Acerbas, a priest of Hercules, I arrived in North Africa.
+
+     With my husband’s riches, I bargained with the Berber king Iarbus who wanted to marry me. He mockingly promised me all the land that I could cover with the skin of a dead ox. I cut the skin into the thinnest pieces and, along with my Tyrian settlers, laid out the borders of my beloved city.
+
+    I am ready to become Dido the Wanderer, Queen of Carthage, goddess to my people.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_EGYPT_STORY</zType>
+		<English>    I am Hatshepsut, a female Pharoah, though declared myself officially male throughout my reign.
+
+    I had to use my ruse to come to the throne, using my vast knowledge of religion which endeared me to my people and declared me wife of the God Amun. I am, also, of royal blood on both sides. Married to my brother Thutmose II, I bore a female heir, Neferure. After that, I could not bear more children.
+
+    Occasionally I wore a metal beard but it is a fair price to pay in order to drive my people to a better destiny.
+
+    Under my reign, Egypt created many trade networks and re-established itself as a nation of builders. My love for science and education allowed me to befriend the most talented architects who helped the Egyptian Empire spread its buildings throughout the known world.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_GREECE_STORY</zType>
+		<English>    I am King Philip II of Macedon, son of King Amyntas III, founder of the Unified Macedonian State.
+
+    I received a diplomatic and military education from Epaminondas and established a federation of Greek states known as the League of Corinth. I reformed the Ancient Macedonian Army and established the Macedon Phalanx.
+
+    As a teen, I may have had an older male lover, a general I lived with named Pammenes.
+
+    Over the course of my life, I married seven times. One of my wives, Olympias, gave me a son, and I named him Alexander. He was born the year my horse won in the Olympic Games. Alexander is now 13.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_PERSIA_STORY</zType>
+		<English>    I am Cyrus the Great, second of my name, King of Kings, and son of King Cambyses.
+
+    My grandfather, King Astyages, of the Medean Empire, intended to have me killed upon birth. Instead, I lived to conquer his kingdom and make it mine.
+
+    I founded the first Persian empire. Under my rule, all civilized states are free to worship their Gods. I brought into subjection every nation without exception.
+
+    Isaiah the Prophet refers to me as Messiah, calling me “His Anointed One.” I am the only non-Jewish figure in the Bible to be so called.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_ROME_STORY</zType>
+		<English>    Son of the god Mars, I was saved and raised by a she-wolf with my twin brother, Remus. Aware of his cunning ways, I kept my caution around him, and moved on to found my own tribe unwilling to share my power with him. 
+
+    My humble beginnings as an unwanted outcast helped me find hardy men willing to fight alongside me. Unwilling to let us marry their daughters, we kidnapped and married them, anyway. Now, I am allied with powerful tribes.
+
+    The need to recast the narrative is a must, and I will become a righteous leader blessed with divine favor. 
+
+    I am Romulus, and I have founded Roma, the city destined to rule the world.</English>
+	</Entry>
+</Root>

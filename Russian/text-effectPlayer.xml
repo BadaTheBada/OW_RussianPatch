@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<!--Assets/GameAssets/Resources/Infos/effectPlayer.xml-->
+	<Entry>
+		<zType/>
+		<English/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_BASE</zType>
+		<English>Base</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_AMBITION</zType>
+		<English>Ambition</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LEGACY</zType>
+		<English>Legacy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_ABLE</zType>
+		<English>The Able</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_JUST</zType>
+		<English>The Just</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_GOOD</zType>
+		<English>The Good</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_STRONG</zType>
+		<English>The Strong</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_NOBLE</zType>
+		<English>The Noble</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_GLORIOUS</zType>
+		<English>The Glorious</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_MAGNIFICENT</zType>
+		<English>The Magnificent</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_GREAT</zType>
+		<English>The Great</English>
+	</Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_PYRAMIDS</zType>
+    <English>The Pyramids</English>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_GREAT_ZIGGURAT</zType>
+    <English>The Great Ziggurat</English>
+  </Entry>
+  <Entry>
+		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_ORACLE</zType>
+		<English>The Oracle</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_HANGING_GARDENS</zType>
+		<English>The Hanging Gardens</English>
+	</Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_NECROPOLIS</zType>
+    <English>The Necropolis</English>
+  </Entry>
+  <Entry>
+		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_LIGHTHOUSE</zType>
+		<English>The Lighthouse</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_APADANA</zType>
+		<English>The Apadana</English>
+	</Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_MAUSOLEUM</zType>
+    <English>The Mausoleum</English>
+  </Entry>
+  <Entry>
+		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_ACROPOLIS</zType>
+		<English>The Acropolis</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_COLOSSUS</zType>
+		<English>The Colossus</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_MUSAEUM</zType>
+		<English>The Musaeum</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_CIRCUS_MAXIMUS</zType>
+		<English>The Circus Maximus</English>
+	</Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_PANTHEON</zType>
+    <English>The Pantheon</English>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_HAGIA_SOPHIA</zType>
+    <English>The Hagia Sophia</English>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_GRAND_BAZAAR</zType>
+    <English>The Grand Bazaar</English>
+  </Entry>
+  <Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_SLAVERY</zType>
+		<English>Slavery</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_FREEDOM</zType>
+		<English>Freedom</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_CENTRALIZATION</zType>
+		<English>Centralization</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_VASSALAGE</zType>
+		<English>Vassalage</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_TYRANNY</zType>
+		<English>Tyranny</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_CONSTITUTION</zType>
+		<English>Constitution</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_CONSTITUTION_DECREE</zType>
+		<English>Decree in Capital</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_EPICS</zType>
+		<English>Epics</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_EXPLORATION</zType>
+		<English>Exploration</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_COLONIZATION</zType>
+		<English>Colonization</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_SERFDOM</zType>
+		<English>Serfdom</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_MONOTHEISM</zType>
+		<English>Monotheism</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_POLYTHEISM</zType>
+		<English>Polytheism</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_PROFESSIONAL_ARMY</zType>
+		<English>Professional Army</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_VOLUNTEERS</zType>
+		<English>Volunteers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_TOLERANCE</zType>
+		<English>Tolerance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ORTHODOXY</zType>
+		<English>Orthodoxy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_GUILDS</zType>
+		<English>Guilds</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ELITES</zType>
+		<English>Elites</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_PHILOSOPHY</zType>
+		<English>Philosophy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ENGINEERING</zType>
+		<English>Engineering</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ICONOGRAPHY</zType>
+		<English>Iconography</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_CALLIGRAPHY</zType>
+		<English>Calligraphy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ASCETICISM</zType>
+		<English>Asceticism</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_HOLY_WAR</zType>
+		<English>Holy War</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_DIVINE_RULE</zType>
+		<English>Divine Rule</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_SECULARISM</zType>
+		<English>Secularism</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ISOLATIONISM</zType>
+		<English>Isolationism</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_TRADE_LEAGUE</zType>
+		<English>Trade League</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_TRADE_LEAGUE_CONVOY</zType>
+		<English>Convoy</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_COIN_DEBASEMENT</zType>
+		<English>Coin Debasement</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_MONETARY_REFORM</zType>
+		<English>Monetary Reform</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_NATION_ASSYRIA</zType>
+		<English>Assyria</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_NATION_BABYLONIA</zType>
+		<English>Babylonia</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_NATION_CARTHAGE</zType>
+		<English>Carthage</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_NATION_EGYPT</zType>
+		<English>Egypt</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_NATION_GREECE</zType>
+		<English>Greece</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_NATION_GREECE_OLYMPICS</zType>
+		<English>Olympics</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_NATION_ROME</zType>
+		<English>Rome</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_NATION_PERSIA</zType>
+		<English>Persia</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_RELIGION_JUDAISM</zType>
+		<English>Mythology</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_RELIGION_ZOROASTRIANISM</zType>
+		<English>Zoroastrianism</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_RELIGION_CHRISTIANITY</zType>
+		<English>Christianity</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_RELIGION_MANICHAEISM</zType>
+		<English>Manichaeism</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TECH_LABOR_FORCE</zType>
+		<English>Roads</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TECH_DRAMA</zType>
+		<English>Music</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TECH_POLITICAL_REFORM</zType>
+		<English>Political Reform</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TECH_MILITARY_REFORM</zType>
+		<English>Military Reform</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TECH_ECONOMIC_REFORM</zType>
+		<English>Economic Reform</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_TACTICIAN_ARCHETYPE</zType>
+		<English>Tactician Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_JUDGE_ARCHETYPE</zType>
+		<English>Judge Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_ORATOR_ARCHETYPE</zType>
+		<English>Orator Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE</zType>
+		<English>Scholar Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE_INQUIRY</zType>
+		<English>Inquiry in Capital</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_BUILDER_ARCHETYPE</zType>
+		<English>Builder Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHEMER_ARCHETYPE</zType>
+		<English>Schemer Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_COMMANDER_ARCHETYPE</zType>
+		<English>Commander Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_ZEALOT_ARCHETYPE</zType>
+		<English>Zealot Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_DIPLOMAT_ARCHETYPE</zType>
+		<English>Diplomat Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_HERO_ARCHETYPE</zType>
+		<English>Hero Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_MISERABLE</zType>
+		<English>Miserable</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_DRUNK</zType>
+		<English>Drunk</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_ROMANTIC</zType>
+		<English>Romantic</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_MOURNING</zType>
+		<English>Mourning</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_CUNNING</zType>
+		<English>Cunning</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_SOLDIER</zType>
+		<English>Soldier</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_CIVICS</zType>
+		<English>Low Civics</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_CIVICS</zType>
+		<English>Medium Civics</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_CIVICS</zType>
+		<English>High Civics</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_CIVICS</zType>
+		<English>Very High Civics</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_TRAINING</zType>
+		<English>Low Training</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_TRAINING</zType>
+		<English>Medium Training</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_TRAINING</zType>
+		<English>High Training</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_TRAINING</zType>
+		<English>Very High Training</English>
+	</Entry>
+</Root>

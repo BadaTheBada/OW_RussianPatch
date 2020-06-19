@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<!--Assets/GameAssets/Resources/Infos/improvement.xml-->
+	<!--NOTE: improvement names that are mass nouns or plural do not need multiple types in English-->
+	<Entry>
+		<zType/>
+		<English/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_REPAIR</zType>
+		<English>Repairs</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MONARCH</zType>
+		<English>Monarch~a Monarch~Monarchs</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_GOVERNOR</zType>
+		<English>Governor~a Governor~Governors</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WALLS</zType>
+		<English>Walls</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MOAT</zType>
+		<English>Moat~a Moat~Moats</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TOWERS</zType>
+		<English>Towers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TREASURY_1</zType>
+		<English>Treasury I~a Treasury I~Treasuries I</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TREASURY_2</zType>
+		<English>Treasury II~a Treasury II~Treasuries II</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TREASURY_3</zType>
+		<English>Treasury III~a Treasury III~Treasuries III</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TREASURY_4</zType>
+		<English>Treasury IV~a Treasury IV~Treasuries IV</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FORUM_1</zType>
+		<English>Forum I~a Forum I~Forums I</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FORUM_2</zType>
+		<English>Forum II~a Forum II~Forums II</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FORUM_3</zType>
+		<English>Forum III~a Forum III~Forums III</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FORUM_4</zType>
+		<English>Forum IV~a Forum IV~Forums IV</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_ARCHIVE_1</zType>
+		<English>Archive I~an Archive I~Archives I</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_ARCHIVE_2</zType>
+		<English>Archive II~an Archive II~Archives II</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_ARCHIVE_3</zType>
+		<English>Archive III~an Archive III~Archives III</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_ARCHIVE_4</zType>
+		<English>Archive IV~an Archive IV~Archives IV</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DECREE_1</zType>
+		<English>Decree I~a Decree I~Decrees I</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DECREE_2</zType>
+		<English>Decree II~a Decree II~Decrees II</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DECREE_3</zType>
+		<English>Decree III~a Decree III~Decrees III</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DECREE_4</zType>
+		<English>Decree IV~a Decree IV~Decrees IV</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FESTIVAL</zType>
+		<English>Festival~a Festival~Festivals</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FESTIVAL_1</zType>
+		<English>Festival I~a Festival I~Festivals I</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FESTIVAL_2</zType>
+		<English>Festival II~a Festival II~Festivals II</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FESTIVAL_3</zType>
+		<English>Festival III~a Festival III~Festivals III</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FESTIVAL_4</zType>
+		<English>Festival IV~a Festival IV~Festivals IV</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_INQUIRY</zType>
+		<English>Inquiry~an Inquiry~Inquiries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_INQUIRY_1</zType>
+		<English>Inquiry I~an Inquiry I~Inquiries I</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_INQUIRY_2</zType>
+		<English>Inquiry II~an Inquiry II~Inquiries II</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_INQUIRY_3</zType>
+		<English>Inquiry III~an Inquiry III~Inquiries III</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_INQUIRY_4</zType>
+		<English>Inquiry IV~an Inquiry IV~Inquiries IV</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HUNT</zType>
+		<English>Hunt~a Hunt~Hunts</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HUNT_1</zType>
+		<English>Hunt I~a Hunt I~Hunts I</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HUNT_2</zType>
+		<English>Hunt II~a Hunt II~Hunts II</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HUNT_3</zType>
+		<English>Hunt III~a Hunt III~Hunts III</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HUNT_4</zType>
+		<English>Hunt IV~a Hunt IV~Hunts IV</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_OLYMPICS</zType>
+		<English>Olympiad~an Olympiad~Olympiads</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_OLYMPICS_1</zType>
+		<English>Olympiad I~an Olympiad I~Olympiads I</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_OLYMPICS_2</zType>
+		<English>Olympiad II~an Olympiad II~Olympiads II</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_OLYMPICS_3</zType>
+		<English>Olympiad III~an Olympiad III~Olympiads III</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_OLYMPICS_4</zType>
+		<English>Olympiad IV~an Olympiad IV~Olympiads IV</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONVOY</zType>
+		<English>Convoy~a Convoy~Convoys</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONVOY_1</zType>
+		<English>Convoy I~a Convoy I~Convoys I</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONVOY_2</zType>
+		<English>Convoy II~a Convoy II~Convoys II</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONVOY_3</zType>
+		<English>Convoy III~a Convoy III~Convoys III</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONVOY_4</zType>
+		<English>Convoy IV~a Convoy IV~Convoys IV</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_COUNCIL_1</zType>
+		<English>Council I~a Council I~Councils I</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_COUNCIL_2</zType>
+		<English>Council II~a Council II~Councils II</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_COUNCIL_3</zType>
+		<English>Council III~a Council III~Councils III</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_COUNCIL_4</zType>
+		<English>Council IV~a Council IV~Councils IV</English>
+	</Entry>
+</Root>

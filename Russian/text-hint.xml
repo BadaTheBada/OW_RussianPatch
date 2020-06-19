@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<!--Generic-->
+	<Entry>
+		<zType/>
+		<English/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_1</zType>
+		<English>Units in a Forest get a defensive bonus against Ranged Attacks.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_2</zType>
+		<English>Units on Flat terrain are vulnerable to attacks from Mounted Units.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_3</zType>
+		<English>Melee Infantry can Fortify, gaining a defensive bonus while they remain on their current tile.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_4</zType>
+		<English>Land Units can move quickly across water that your Cities and Achored Boats control.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_5</zType>
+		<English>Press V to see your Trade Network and Connections.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_6</zType>
+		<English>Trainingicon(YIELD_TRAINING) stockpiles are capped at int(MAX_TRAINING). Above this value, they'll be converted to Ordersicon(YIELD_ORDERS).</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_7</zType>
+		<English>You can only use 3 of your Nation's 4 Families each game. Experiment to find out which combinations work best!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_8</zType>
+		<English>Unused Civicsicon(YIELD_CIVICS) and Trainingicon(YIELD_TRAINING) in your Cities are added to your Nation's stockpile.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_9</zType>
+		<English>If you don't want to use all of your Ordersicon(YIELD_ORDERS), you can end your turn by pressing '5'.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_10</zType>
+		<English>Your workers can chop wood from nearby trees. The trees will regrow in several years if they aren't completely removed!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_11</zType>
+		<English>If you don't have enough materials to start a Unit or Improvement, hold ALT and click to automatically buy what you're missing (assuming you have enough Moneyicon(YIELD_MONEY).</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_12</zType>
+		<English>Building an Improvement on a Hill will increase the time it takes to finish by a year.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_13</zType>
+		<English>Barbarians are xenophobic tribes hostile to all nations. There are no diplomatic consequences for attacking their units or taking over their land. They have no allies, not even other Barbarians.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_14</zType>
+		<English>If your territory has scant supplies of Woodicon(YIELD_WOOD), consider training military units that rely on Foodicon(YIELD_FOOD) or Ironicon(YIELD_IRON). Concentrate your limited Woodicon(YIELD_WOOD) supply on building Rural tile improvements.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_15</zType>
+		<English>Quarries built next to Mountains produce more Stoneicon(YIELD_STONE) for each adjacent Mountain tile. Quarries gain a minor increase when they are built in Arid terrain.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_16</zType>
+		<English>Lumbermills built adjacent to Camps gain increased Woodicon(YIELD_WOOD) output; The hunters control predators, forge trails through the forest, etc</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_17</zType>
+		<English>Being at war against several opponents can leave your armies overwhelmed, unable to execute enough Ordersicon(YIELD_ORDERS) to fight effectively on every front. Use diplomacy to avoid this fate, where possible.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_18</zType>
+		<English>Researching your way to the Lumbermill Improvement takes time. You may need to send Workers to forests and thickets outside your borders, to Chop Woodicon(YIELD_WOOD) from Trees and Scrub.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_19</zType>
+		<English>Expect demand for Foodicon(YIELD_FOOD) to rise as your cities grow and mature.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_20</zType>
+		<English>Upgrading units to more advanced technology is materially expensive, but it can rapidly increase your military might.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_21</zType>
+		<English>Roads help units move farther with each icon(YIELD_ORDERS)Order spent, especially when the Road passes through difficult terrain.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_22</zType>
+		<English>Ranged units gain an extra tile of Range if positioned on Hills, unless their target is also on Hills.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_23</zType>
+		<English>Stationing a military unit on a conquered city site marks the territory as yours. Failing to guard the site may result in it being claimed by a new Barbarian Settlement or settled by your rivals.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_24</zType>
+		<English>Growing your number of Ordersicon(YIELD_ORDERS) should be a priority. The more territory and units that you control, the more Ordersicon(YIELD_ORDERS) your Nation will need to function and to defend itself.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_25</zType>
+		<English>The power of each Law tends to increase, the more that your Nation grows. When choosing research, do not neglect unlocking new Laws.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_26</zType>
+		<English>A city may build ships if it controls water tiles labeled as Coast.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_27</zType>
+		<English>Scouts can keep an eye on a large number of tiles. They can provide valuable intelligence regarding enemy strength and movements.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_28</zType>
+		<English>Cities with high Growthicon(YIELD_GROWTH) train new Settlers, Workers, and Scouts more rapidly.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_29</zType>
+		<English>The rate at which military units are produced by a city is tied directly to its Trainingicon(YIELD_TRAINING) output.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_30</zType>
+		<English>The rate at which Projects are completed at a city depends on its Civicsicon(YIELD_CIVICS) output.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_31</zType>
+		<English>Urban specialists can be upgraded multiple times, greatly increasing the output of an Urban building.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_32</zType>
+		<English>Most Urban building types require Stoneicon(YIELD_STONE) to construct. Expect high demand for Stoneicon(YIELD_STONE) as the game matures and you unlock new technologies.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_33</zType>
+		<English>Ranged units are efficient in battle, often attacking an enemy without having to spend Ordersicon(YIELD_ORDERS) on movement.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_34</zType>
+		<English>Cutting Woodicon(YIELD_WOOD) from Scrub costs no Ordersicon(YIELD_ORDERS). If you move a Worker through a Scrub tile on its way to another destination, you can collect some free Woodicon(YIELD_WOOD).</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_35</zType>
+		<English>Militia and Conscript units cannot be Promoted, but they are produced with Growthicon(YIELD_GROWTH) instead of Trainingicon(YIELD_TRAINING). Cities with high Growthicon(YIELD_GROWTH) output may be able to train them rapidly.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_36</zType>
+		<English>Mounted units have the Rout ability. When they slay an enemy unit, they occupy that unit's tile. Although they cannot move again, they can attack again if another target is adjacent to them.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_37</zType>
+		<English>Consider spending Trainingicon(YIELD_TRAINING) to give Promotions to some of your units. Units who have engaged in combat and earned experience cost less Trainingicon(YIELD_TRAINING) to promote.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_38</zType>
+		<English>Tribes are not Nations. When at War with you, only their units near your units or territory pose a threat, unless you anger them enough for them to launch an Invasion.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_39</zType>
+		<English>Coastal cities control less land than inland cities, but they tend to be less vulnerable to attack.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_40</zType>
+		<English>Colder air forces clouds to drop their rain as they gain altitude to move over mountains. Most mountains have a lush band, where the rain falls, and a rain shadow on the opposite side, depending on regional wind patterns.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_41</zType>
+		<English>Consider dealing with Events early in your turn. Some Event options require you to spend Ordersicon(YIELD_ORDERS).</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_42</zType>
+		<English>A Barbarian Alliance allows you to found Cities peacefully next to your Ally's Sites.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_43</zType>
+		<English>Civicsicon(YIELD_CIVICS) stockpiles are capped at int(MAX_CIVICS). Above this value, they'll be converted to Scienceicon(YIELD_SCIENCE).</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_44</zType>
+		<English>Damaged Workers take an extra turn to build improvements.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_45</zType>
+		<English>[CTRL+Click] to automatically March a Unit to move past its Fatigue range.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_46</zType>
+		<English>Hold [Z] to hide Trees and Scrub.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_47</zType>
+		<English>Hold [X] to highlight Zones of Control.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_48</zType>
+		<English>Hold [C] to highlight Tiles which enemy Units can target.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_49</zType>
+		<English>Hold [V] to highlight Cities Connected to your Capital.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_50</zType>
+		<English>Hold [B] to highlight Units which can still be used.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_51</zType>
+		<English>Hold [N] to show what each of your Improvements produces.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_52</zType>
+		<English>If your Leader is not able to complete an Ambition before death, it becomes a Legacy. Legacies count towards an Ambition Victory but are worth less Legitimacyicon(YIELD_LEGITIMACY).</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_53</zType>
+		<English>Barbarian level, chosen under Advanced Setup, affects the number of empty city sites near your capital.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_54</zType>
+		<English>Non-coastal Urban buildings must be adjacent to the City or to two other Urban buildings.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_55</zType>
+		<English>Urban buildings on the coast need only be adjacent to one other Urban building or the City.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_56</zType>
+		<English>Multi-level improvement classes (Courthouses, Markets, Baths, etc.) are cheaper to build if they are adjacent to improvements of the same class.</English>
+	</Entry>
+  <Entry>
+    <zType>TEXT_HINT_57</zType>
+    <English>With a Worker selected, hold CTRL and move the cursor over a tile to see what Improvements can be built there.</English>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_58</zType>
+    <English>Scouts are invisible in Trees.</English>
+  </Entry>
+</Root>

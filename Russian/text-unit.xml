@@ -1,0 +1,287 @@
+<Root>
+	<!--Name-->
+	<Entry>
+		<zType/>
+		<English/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_SETTLER</zType>
+		<English>Settler~a Settler~Settlers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_WORKER</zType>
+		<English>Worker~a Worker~Workers</English>
+	</Entry>
+  <Entry>
+    <zType>TEXT_UNIT_SCOUT</zType>
+    <English>Scout~a Scout~Scouts</English>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_CARAVAN</zType>
+    <English>Caravan~a Caravan~Caravans</English>
+  </Entry>
+  <Entry>
+		<zType>TEXT_UNIT_RELIGION_DISCIPLE</zType>
+		<English>{UNIT-RELIGION,1} Disciple~{UNIT-RELIGION,2} Disciple~{UNIT-RELIGION,1} Disciples</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_MILITIA</zType>
+		<English>Militia~a Militia~Militias</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_LEVY</zType>
+		<English>Conscript~a Conscript~Conscripts</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_WARRIOR</zType>
+		<English>Warrior~a Warrior~Warriors</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_AXEMAN</zType>
+		<English>Axeman~an Axeman~Axemen</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_SPEARMAN</zType>
+		<English>Spearman~a Spearman~Spearmen</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_MACEMAN</zType>
+		<English>Maceman~a Maceman~Macemen</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_SWORDSMAN</zType>
+		<English>Swordsman~a Swordsman~Swordsmen</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_PIKEMAN</zType>
+		<English>Pikeman~a Pikeman~Pikemen</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_SLINGER</zType>
+		<English>Slinger~a Slinger~Slingers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_ARCHER</zType>
+		<English>Archer~an Archer~Archers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_LONGBOWMAN</zType>
+		<English>Longbowman~a Longbowman~Longbowmen</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CROSSBOWMAN</zType>
+		<English>Crossbowman~a Crossbowman~Crossbowmen</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_POLYBOLOS</zType>
+		<English>Polybolos~a Polybolos~Polyboloi</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CHARIOT</zType>
+		<English>Chariot~a Chariot~Chariots</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_HORSEMAN</zType>
+		<English>Horseman~a Horseman~Horsemen</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CATAPHRACT</zType>
+		<English>Cataphract~a Cataphract~Cataphracts</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_HORSE_ARCHER</zType>
+		<English>Horse Archer~a Horse Archer~Horse Archers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CAMEL_ARCHER</zType>
+		<English>Camel Archer~a Camel Archer~Camel Archers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_WAR_ELEPHANT</zType>
+		<English>War Elephant~a War Elephant~War Elephants</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_BALLISTA</zType>
+		<English>Ballista~a Ballista~Ballistas</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_ONAGER</zType>
+		<English>Onager~an Onager~Onagers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_MANGONEL</zType>
+		<English>Mangonel~a Mangonel~Mangonels</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_BIREME</zType>
+		<English>Bireme~a Bireme~Biremes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_TRIREME</zType>
+		<English>Trireme~a Trireme~Triremes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_DROMON</zType>
+		<English>Dromon~a Dromon~Dromons</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_BATTERING_RAM</zType>
+		<English>Battering Ram~a Battering Ram~Battering Rams</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_SIEGE_TOWER</zType>
+		<English>Siege Tower~a Siege Tower~Siege Towers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_AKKADIAN_ARCHER</zType>
+		<English>Akkadian Archer~an Akkadian Archer~Akkadian Archers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CIMMERIAN_ARCHER</zType>
+		<English>Cimmerian Archer~a Cimmerian Archer~Cimmerian Archers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_AFRICAN_ELEPHANT</zType>
+		<English>African Elephants~an African Elephant~African Elephants</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_TURRETED_ELEPHANT</zType>
+		<English>Turreted Elephant~a Turreted Elephant~Turreted Elephants</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_LIGHT_CHARIOT</zType>
+		<English>Light Chariot~a Light Chariot~Light Chariots</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_KUSHITE_CAVALRY</zType>
+		<English>Kushite Cavalry~a Kushite Cavalry~Kushite Cavalries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_HOPLITE</zType>
+		<English>Hoplite~a Hoplite~Hoplites</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_PHALANGITE</zType>
+		<English>Phalangite~a Phalangite~Phalangites</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_PALTON_CAVALRY</zType>
+		<English>Palton Cavalry~a Palton Cavalry~Palton Cavalries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CATAPHRACT_ARCHER</zType>
+		<English>Cataphract Archer~a Cataphract Archer~Cataphract Archers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_HASTATUS</zType>
+		<English>Hastatus~a Hastatus~Hastati</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_LEGIONARY</zType>
+		<English>Legionary~a Legionary~Legionaries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_MARAUDER_1</zType>
+		<English>Marauder~a Marauder~Marauders</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_SKIRMISHER_1</zType>
+		<English>Skirmisher~a Skirmisher~Skirmishers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_NOMAD_MARAUDER_1</zType>
+		<English>Nomad Marauder~a Nomad Marauder~Nomad Marauders</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_NOMAD_SKIRMISHER_1</zType>
+		<English>Nomad Skirmisher~a Nomad Skirmisher~Nomad Skirmishers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_MARAUDER_2</zType>
+		<English>Elite Marauder~an Elite Marauder~Elite Marauders</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_SKIRMISHER_2</zType>
+		<English>Elite Skirmisher~an Elite Skirmisher~Elite Skirmishers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_NOMAD_MARAUDER_2</zType>
+		<English>Elite Nomad Marauder~an Elite Nomad Marauder~Elite Nomad Marauders</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_NOMAD_SKIRMISHER_2</zType>
+		<English>Elite Nomad Skirmisher~an Elite Nomad Skirmisher~Elite Nomad Skirmishers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_WARLORD_1</zType>
+		<English>Warlord~a Warlord~Warlords</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_JAVELINEER_1</zType>
+		<English>Javelineer~a Javelineer~Javelineers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_NOMAD_WARLORD_1</zType>
+		<English>Nomad Warlord~a Nomad Warlord~Nomad Warlords</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_GAESATA_1</zType>
+		<English>Gaesata~a Gaesata~Gaesatae</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_HUSCARL_1</zType>
+		<English>Huscarl~a Huscarl~Huscarls</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CLUBTHROWER_1</zType>
+		<English>Clubthrower~a Clubthrower~Clubthrowers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_PELTAST_1</zType>
+		<English>Peltast~a Peltast~Peltasts</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_AMAZON_CAVALRY_1</zType>
+		<English>Amazon Cavalry~an Amazon Cavalry~Amazon Cavalries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_LIBYAN_CAVALRY_1</zType>
+		<English>Libyan Cavalry~a Libyan Cavalry~Libyan Cavalries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_WARLORD_2</zType>
+		<English>Elite Warlord~an Elite Warlord~Elite Warlords</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_JAVELINEER_2</zType>
+		<English>Elite Javelineer~an Elite Javelineer~Elite Javelineers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_NOMAD_WARLORD_2</zType>
+		<English>Elite Nomad Warlord~an Elite Nomad Warlord~Elite Nomad Warlords</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_GAESATA_2</zType>
+		<English>Elite Gaesata~an Elite Gaesata~Elite Gaesatae</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_HUSCARL_2</zType>
+		<English>Elite Huscarl~an Elite Huscarl~Elite Huscarls</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CLUBTHROWER_2</zType>
+		<English>Elite Clubthrower~an Elite Clubthrower~Elite Clubthrowers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_PELTAST_2</zType>
+		<English>Elite Peltast~an Elite Peltast~Elite Peltasts</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_AMAZON_CAVALRY_2</zType>
+		<English>Elite Amazon Cavalry~an Elite Amazon Cavalry~Elite Amazon Cavalries</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_LIBYAN_CAVALRY_2</zType>
+		<English>Elite Libyan Cavalry~an Elite Libyan Cavalry~Elite Libyan Cavalries</English>
+	</Entry>
+</Root>
