@@ -6,43 +6,43 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_POPULATION_BOOM</zType>
-		<Translation>В {CITY} взрывной рост населения</Translation>
+		<Translation>{CITY} переживает взрывной рост населения</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_CIVICS_BOOM</zType>
-		<Translation>В {CITY} расцвет права</Translation>
+		<Translation>{CITY} переживает расцвет права</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_TRAINING_BOOM</zType>
-		<Translation>В {CITY} прошли военные учения</Translation>
+		<Translation>В г. {CITY} прошли военные учения</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_SCIENCE_BOOM</zType>
-		<Translation>В {CITY} расцвет науки</Translation>
+		<Translation>{CITY} переживает расцвет науки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_MONEY_BOOM</zType>
-		<Translation>В {CITY} расцвет коммерции</Translation>
+		<Translation>{CITY} переживает расцвет коммерции</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_ORDERS_BOOM</zType>
-		<Translation>В {CITY} небывалый рост активности бюрократов</Translation>
+		<Translation>В г. {CITY} небывалый рост активности бюрократов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_SOLDIER</zType>
-		<Translation>Появился великий солдат родом из {CITY}</Translation>
+		<Translation>Появился великий солдат родом из г. {CITY}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_MINISTER</zType>
-		<Translation>Появился великий министр родом из {CITY}</Translation>
+		<Translation>Появился великий министр родом из г. {CITY}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_MERCHANT</zType>
-		<Translation>Появился великий купец родом из {CITY}</Translation>
+		<Translation>Появился великий купец родом из г. {CITY}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_SCIENTIST</zType>
-		<Translation>Появился великий ученый родом из {CITY}</Translation>
+		<Translation>Появился великий ученый родом из г. {CITY}</Translation>
 	</Entry>
 	<!--Name-->
 	<Entry>
