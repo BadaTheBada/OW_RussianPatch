@@ -1989,14 +1989,6 @@
     <Translation><![CDATA[Улучшит характеристики королевских отпрысков (для детей возрастом от {0_age} <singular_0>года<plural>лет<plural2>лет<end>)<br>Ученики: ]]></Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_HELPTEXT_LINK_HELP_UNIT_CYCLE_KEY</zType>
-    <Translation>Нажать [{0_key}] для смены отрядов.</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_HELPTEXT_LINK_HELP_UNIT_CENTER_KEY</zType>
-    <Translation>Нажать [{0_key}], чтобы увидеть отряд.</Translation>
-  </Entry>
-  <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_UNIT_HIDE_KEY</zType>
     <Translation>Удерживать [{0_key}], чтобы не отображать отряды.</Translation>
   </Entry>
