@@ -21,9 +21,9 @@ Do we dare defy them?]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PEACE_RESPONSE_NO_TRIBUTE</zType>
-		<English><![CDATA[{PLAYER-0,2} riders storm into the capital, requesting an audience with the court. They have come to deliver another request for peace.
+		<English>{PLAYER-0,1} riders arrive in the capital, requesting an audience with the court. They have come to deliver another request for peace.
 
-How shall we respond?]]></English>
+How shall we respond?</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PEACE_RESPONSE_DEMAND_TRIBUTE</zType>
@@ -453,9 +453,9 @@ Our gamble has paid off.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_IN_THE_CLOUDS</zType>
-		<English><![CDATA[A massive edifice surrounds this hilltop “city in the clouds,” which looks to have housed many thousands of citizens. Shattered by tree roots and overgrown with dense foliage, this settlement appears to have been an early {BARBARIAN-2,2} capital.
+		<English>A massive edifice surrounds this hilltop “city in the clouds,” which looks to have housed many thousands of citizens. Shattered by tree roots and overgrown with dense foliage, this settlement appears to have been an early {BARBARIAN-2,1} capital.
 
-Restoring the crumbling ruin might improve relations, or it could end up a waste of our precious resources.]]></English>
+Restoring the crumbling ruin might improve relations, or it could end up a waste of our precious resources.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_HEAVEN_AND_EARTH</zType>
@@ -502,6 +502,97 @@ She claims to be a seer and oracle, a voice of the divine. "I will serve you fai
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RIDDLE_OF_THE_SPHINX</zType>
 		<English>The sphinx ask, "Which creature has one voice and yet becomes four-footed and then two-footed and finally three-footed?"</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_ALL_THAT_GLITTERS</zType>
+		<English>Thanks to the recently discovered cache of gold, ministers in {CITY-1} plan to fund the construction of a new royal treasury. Of course, this windfall may be better spent on the people than on ourselves.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_CAUGHT_IN_THE_ACT</zType>
+		<English>Our scout is caught pilfering a wagonload of the recently discovered silver, and he is brought before the court for justice. The man pleads for his life, hoping that a life of service to the throne will be enough to earn his freedom. </English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_MARVELOUS_SPECIMENS</zType>
+		<English>Deep in the ore deposits, our scouts unearth a collection of strange and marvelous specimens. Although these impressions resemble fish and birds found in our lakes and forests, they exhibit many strange characteristics.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_RITUAL_SCENT</zType>
+		<English>The positive effects of the recently harvested incense have made it highly prized by {RELIGION-3,1} groups. They wish to obtain the entire crop for their ceremonies to keep harmful spirits away, but many in {CITY-2} wish to use it for the simple purpose of improving daily life.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_STANDOFF</zType>
+		<English>As our scouts explore the newly discovered gem deposit, they come upon a small band of {PLAYER-2,2} that also has its eye on the rich vein. Both groups regard the other suspiciously, and they wait for someone to make the first move.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_HIGH_SPIRITS</zType>
+		<English>Among the fields of twisting grape vines, our scouts meet a wandering scholar who has drunk his fill of the local varietals. The man offers his service to the court, though he may be of more use helping our scouts bring home the harvest.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_CAMEL_BITE</zType>
+		<English>Our scout was bitten while corraling a caravan of camels, and he will need to take some time to recover from his injury. This particular breed of creature has a cruel disposition.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_TOUGH_GAME</zType>
+		<English>The game here has a tough, sinewy texture, and the flavor leaves much to be desired. However, when boiled and treated, the animals' insides can be used for many practical purposes.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_WILD_HORSES</zType>
+		<English>When the recently discovered horses reach {CITY-2}, your servants inquire as to how the beasts should be used. There is always a need for work animals in the capital, but the decision of how they will be used remains, as always, with you.
+</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_CORNER_THE_MARKET</zType>
+		<English>The style of marble recently discovered has fetched a high price in the local bazaars, and noble families wish to raise prices to corner the market. What shall we tell merchants?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_LUXURY_OR_UTILITY</zType>
+		<English><![CDATA[With the recent acquisition of fine fur, your <masculine_CHARACTER-2>husband<feminine>wife<end> has asked <masculine_CHARACTER-2>his<feminine>her<end> servants for the creation of new fashions to showcase the luxury. However, several members of the court wish to use the warm material to outfit our soldiers, who suffer in cold conditions.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_PIG_IN_THE_PALACE</zType>
+		<English>Somehow, a wild pig has appeared inside the palace. Its squeals fill the corridors, as courtiers and servants scurry for safety! 
+
+You suspect that the beast was in the drove of pigs recently brought back to {CITY-2} from the wilderness. You also suspect that young {CHARACTER-SHORT-3} set it loose.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_HELPING_HANDS</zType>
+		<English>Along with the wheat they harvested from the nearby countryside, our scouts return to {CITY-2} with a group of hardy tribal farmers. These nomads possess a unique knowledge of this particular grain, and they could be put to use on our farms.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_OLIVE_OIL</zType>
+		<English>A large supply of fresh olive oil has been pressed with the recently harvested crop of olives. The timing is fortunate. Both {PLAYER-3} and {PLAYER-4} have developed an affinity for our olive oil, and this rich reserve would make an excellent gift.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_SORGHUM_SEEDS</zType>
+		<English>Scouts have returned with pouches of sorgum seeds, which will allow us to cultivate the crop locally. Farmers have already begun to sow open fields in {CITY-2}. For what purpose should they raise thiis grain?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_YOUNG_SHEPHERD</zType>
+		<English>As our scout herds the recently discovered sheep, he discovers a young girl tending to the animals. She appears to be a {BARBARIAN-4,1} child who has wandered far from her tribe. She is alone but for her small, loyal flock.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_PEARL_DIVERS</zType>
+		<English>Our scouts have encountered a group of experienced pearl divers off the coast. For a small contribution, these brave men and women are willing to add more treasures to our harvest. 
+
+Both the {FAMILY-1} and {FAMILY-2} families have expressed a desire for more pearls. Perhaps this is an opportunity to win favor on the court.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_RESCUE_AT_SEA</zType>
+		<English>In an attempt to collect more crabs than his nets allow, our scout capsizes his boat and must be rescued by local fishermen. 
+
+Afterwards, these friendly gatherers have express an interest in migrating to {PLAYER-2} to start a new life. Where shall they settle?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_BEAST_OF_BURDEN</zType>
+		<English>One of the elephants in the newly discovered herd appears to have been domesticated. It wears a saddle and military ornamentation. Perhaps we can remind the beast of its training.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_GREAT_POTENTIAL</zType>
+		<English><![CDATA[Examining the latest salt harvest, scientists and merchants recognize the potential for large-scale salt production for food preservation and nutrition. {CHARACTER-3}, governor of {CITY-2}, requests that we provide funds from the treasury to develop this process for <masculine_CHARACTER-3>his<feminine>her<end> city.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_SHIP_SICKNESS</zType>
+		<English>Scientists in {CITY-2} claim that eating citrus fruit can help combat the withering effects of a long sea voyage. It is a controversial position but one worth considering. Our scout's latest harvest of citrus could take the usual route into the hands of local merchants, or we could divert it to the shipyards and sailors.</English>
 	</Entry>
 	<Entry beginGroup="Contact">
 		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_CALM_EMISSARY</zType>
@@ -2020,7 +2111,7 @@ Shall we even acknowledge this absurd message?</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_ROUSING_WORDS</zType>
-		<English>The latest recruits have finished their training and are eager to fight. Officers have arranged a visit to the royal the parade grounds, where you will give a rousing speech as we send the soldiers on their way.
+		<English>The latest recruits have finished their training and are eager to fight. Officers have arranged a visit to the royal parade grounds, where you will give a rousing speech as we send the soldiers on their way.
 
 What will be the subject of your uplifting oration?</English>
 	</Entry>
@@ -3133,7 +3224,7 @@ How do you wish to honor your fallen hero?]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHILD_STRONG_OPINIONS</zType>
-		<English><![CDATA[While passing your <masculine_CHARACTER-1>son's<feminine>daughter's<end> {CHARACTER-1} chambers, you overhear <masculine_CHARACTER-1>him<feminine>her<end> criticizing the court, specifically your leadership. Interrupting politely, you offer to explain your choices, and to educate <masculine_CHARACTER-1>him<feminine>her<end> in the challenges of governing. 
+		<English><![CDATA[While passing the chambers of your <masculine_CHARACTER-1>son<feminine>daughter<end>, {CHARACTER-1}, you overhear <masculine_CHARACTER-1>him<feminine>her<end> criticizing the court, specifically your leadership. Interrupting politely, you offer to explain your choices, and to educate <masculine_CHARACTER-1>him<feminine>her<end> in the challenges of governing. 
 
 Skeptical, {CHARACTER-1} listens to your philosophy.]]></English>
 	</Entry>
@@ -3868,7 +3959,7 @@ What shall we command?]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_DEATH_BASIC_01</zType>
-		<English>Bells ring. Mourners fill the streets. {CHARACTER-0} has died. It is the end of era, and all of {PLAYER-1} pauses to honor the contributions of our fallen ruler. 
+		<English>Bells ring. Mourners fill the streets. {CHARACTER-0} has died. It is the end of an era, and all of {PLAYER-1} pauses to honor the contributions of our fallen ruler. 
 
 The reign of {CHARACTER-1} has begun.</English>
 	</Entry>
@@ -3990,7 +4081,7 @@ How shall {CHARACTER-SHORT-1} spend this sunny day in the wild?]]></English>
 		<zType>TEXT_EVENTSTORY_TUTOR_COMBAT_TRAINING</zType>
 		<English><![CDATA[Young and impetuous, {CHARACTER-SHORT-1} is constantly fighting and wrestling with the children of the palace servants. It is time for <masculine_CHARACTER-1>him<feminine>her<end> to harness all that extra energy.
 
-{CHARACTER-SHORT-0} will train <masculine_CHARACTER-1>him<feminine>her<end> in the art of combat. What style of fighting should <masculine_CHARACTER-0>he<feminine>her<end> emphasize?]]></English>
+{CHARACTER-SHORT-0} will train <masculine_CHARACTER-1>him<feminine>her<end> in the art of combat. What style of fighting should <masculine_CHARACTER-0>he<feminine>she<end> emphasize?]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTOR_MONEY_MANAGEMENT</zType>
@@ -4000,9 +4091,9 @@ What shall <masculine_CHARACTER-0>he<feminine>she<end> teach {CHARACTER-SHORT-1}
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTOR_TRADE_NEGOTIATIONS</zType>
-		<English><![CDATA[{CHARACTER-SHORT-0} brings {CHARACTER-SHORT-1} to a trade discussion with {PLAYER-2,1} merchants, so <masculine_CHARACTER-1>he<feminine>she<end> can learn rules of negotiation. The young student sits quietly in room, listening intently.
+		<English><![CDATA[{CHARACTER-SHORT-0} brings {CHARACTER-SHORT-1} to a trade discussion with {PLAYER-2,1} merchants, so <masculine_CHARACTER-1>he<feminine>she<end> can learn rules of negotiation. The young student sits quietly in the room, listening intently.
 
-During the meeting, the {PLAYER-2,1} merchants asks {CHARACTER-SHORT-1} how <masculine_CHARACTER-1>he<feminine>she<end> would approach trade. <masculine_CHARACTER-1>He<feminine>She<end> answers...]]></English>
+During the meeting, the {PLAYER-2,1} merchants ask {CHARACTER-SHORT-1} how <masculine_CHARACTER-1>he<feminine>she<end> would approach trade. <masculine_CHARACTER-1>He<feminine>She<end> answers...]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTOR_HANDS_DIRTY</zType>
@@ -4066,7 +4157,7 @@ When asked about ambitions, {CHARACTER-SHORT-0} only shrugs and suggests ploys t
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SPOUSE_DEATH_01</zType>
-		<English><![CDATA[After a vigil attending by close friends and family, your beloved <masculine_CHARACTER-0>husband<feminine>wife<end>, {CHARACTER-0} has died. The coming nights will be lonely, but you will persist with the support of your loved ones.
+		<English><![CDATA[After a vigil attended by close friends and family, your beloved <masculine_CHARACTER-0>husband<feminine>wife<end>, {CHARACTER-0} has died. The coming nights will be lonely, but you will persist with the support of your loved ones.
 
 {CHARACTER-SHORT-0} will be missed.]]></English>
 	</Entry>
@@ -4124,7 +4215,7 @@ However, {CHARACTER-SHORT-1} would not wake in the morning and seems to have die
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TIME_TO_FEAST</zType>
-		<English>Your spouse, {CHARACTER-1}, demands that you hold a banquet to celebrate the achievements of your heir, {CHARACTER-2}, and start paving the way to have him lead your armies one day.</English>
+		<English><![CDATA[Your spouse, {CHARACTER-1}, demands that you hold a banquet to celebrate the achievements of your heir, {CHARACTER-2}, and start paving the way to have <masculine_CHARACTER-2>him<feminine>her<end> lead your armies one day.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_DARK_ARTS</zType>
@@ -4218,7 +4309,7 @@ Until you began suffering from stomach pains and a cold sweat that keeps you up 
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTOR_BETRAYED</zType>
-		<English><![CDATA[When servants go to wake {CHARACTER-1} for <masculine_CHARACTER-1>his<feminine>her<end> studies, they find <masculine_CHARACTER-0>him<feminine>her<end> missing. As check of the tutor's chamber finds {CHARACTER-SHORT-0} gone as well.
+		<English><![CDATA[When servants go to wake {CHARACTER-1} for <masculine_CHARACTER-1>his<feminine>her<end> studies, they find <masculine_CHARACTER-1>him<feminine>her<end> missing. A check of the tutor's chamber finds {CHARACTER-SHORT-0} gone as well.
 
 After a brief investigation by the palace guards, the truth surfaces. {CHARACTER-SHORT-0} was an agent working for an unknown foreign power, and <masculine_CHARACTER-0>he<feminine>she<end> has absconded with the heir.]]></English>
 	</Entry>
@@ -4450,9 +4541,9 @@ How shall they respond?]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HAPPINESS_CITIZEN_DEFENSE</zType>
-		<English><![CDATA[Eager citizens of {CITY-0} come forward, wishing to help support the city's defenses. They have the will, all they need is the direction. 
+		<English>Eager citizens of {CITY-0} come forward, wishing to help support the city's defenses. They have the will. All they need is the direction. 
 
-What shall we tell them?]]></English>
+What shall we tell them?</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HAPPINESS_SCAVENGERS</zType>
@@ -4620,7 +4711,7 @@ What shall we do with them?  ]]></English>
 		<zType>TEXT_EVENTSTORY_NEW_TYPE_OF_ANIMAL_DISCOVERED_FISH_BIRDS</zType>
 		<English><![CDATA[Scientists in {CITY-1} claim to have discovered a new species of fish in the coastal waters outside the city. During their migration season, these large, pink fish often become the target of passing birds.
 
-Whjat shall we do with them?]]></English>
+What shall we do with them?]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_NEW_TYPE_OF_ANIMAL_DISCOVERED_LIZARD</zType>
@@ -6371,7 +6462,7 @@ The locals have left a large cache of link(YIELD_FOOD) behind. Use this to begin
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_CITY_CAPTURED</zType>
-		<English>You've taken a {CITY-1} from your enemy! While they no longer control this City, it will take some time for the people to accept you as their new ruler. Keep a unit stationed on the City for a few years and the people will soon realize that you're the new ruler in town.</English>
+		<English>You have taken {CITY-1} from your enemy! While they no longer control this City, it will take some time for the people to accept you as their new ruler. Keep a unit stationed on the City for a few years and the people will soon realize that you're the new ruler in town.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_CULTURE</zType>
@@ -6425,7 +6516,7 @@ Completing an Ambition immediately unlocks another, and completing ten will win 
 		<zType>TEXT_EVENTSTORY_TUTORIAL_SUCCESSION</zType>
 		<English>Your family line has a new Heir, {CHARACTER-0}! Training strong Heirs will be vital for the survival of your Nation, as once your current Ruler is gone someone will need to take the reins.
 
-Once your Heir has grown up a bit you'll be able to choose a subject for them to study, guiding them into the role you need them to fulfill. Your family is able to do more than rule though, employing them as Governors and Councilors can be powerful options as you build your court.</English>
+Once your Heir has grown up a bit you'll be able to choose a subject for them to study, guiding them into the role you need them to fulfill. Your family is able to do more than rule; employing them as Governors and Councilors can be powerful options as you build your court.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_LEGITIMACY</zType>

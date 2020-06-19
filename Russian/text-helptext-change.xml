@@ -123,6 +123,10 @@
 		<English>{0}: {1}/{2}</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_BULLET_LIST_BUILDER_FIRST</zType>
+		<English>icon(bullet){0}</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_BULLET_LIST_BUILDER</zType>
 		<English><![CDATA[{0}<br>icon(bullet){1}]]></English>
 	</Entry>
@@ -366,6 +370,10 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_LEGITIMACY_BONUS</zType>
 		<English>Events</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_NEXT_UNIT</zType>
+		<English>Next Unit</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_OPINION_PREFERENCES</zType>
@@ -705,7 +713,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TURN_STATE_IDLE_NEXT_UNIT</zType>
-		<English><![CDATA[Cycle to Next Unit ({0_unit})<true_1> {1_presskey}<false><end><br><TEXT_HOTKEY_RIGHT_CLICK><true_2> or {2_presskey}<false><end> to Pass to Next Unit ({0_unit})]]></English>
+		<English><![CDATA[Cycle to Next Unit ({0_unit})<true_1> {1_presskey}<false><end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_TURN_STATE_UNIT_CYCLE_KEY</zType>
+		<English><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK><true_0> or {0_presskey}<false><end> to Pass to Next Unit]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_TURN_STATE_UNIT_CENTER_KEY</zType>
+		<English>Press [{0_key}] to Center Camera on Unit.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TURN_STATE_IDLE_CHOOSE_CITY_PRODUCTION</zType>
@@ -940,11 +956,15 @@
 		<zType>TEXT_HELPTEXT_WIDGET_PLAYER_NATION_CAPITAL_CITY</zType>
 		<English>Capital City: {0_city}</English>
 	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_WIDGET_TABPANEL_COURT_MEMBERS</zType>
-		<English>Courtier(s):</English>
-	</Entry>
-	<Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_WIDGET_TABPANEL_COURT_MEMBERS</zType>
+    <English>Courtier(s):</English>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_WIDGET_TABPANEL_NO_CONTACTS</zType>
+    <English>No Nations or Tribes Contacted Yet</English>
+  </Entry>
+  <Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TABPANEL_UNIT_CYCLES</zType>
 		<English>{0_cycleLink} ({1_number})</English>
 	</Entry>
@@ -1183,7 +1203,7 @@ tiles within this Unit's movement range</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_SKIP_SEAT_BONUS</zType>
-		<English>Skipped Founding Family Seat: </English>
+		<English>Skipped Founding link(CONCEPT_FAMILY_SEAT): </English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_FOUND_CITY_MAX_FAMILIES</zType>
@@ -1287,10 +1307,14 @@ tiles within this Unit's movement range</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_COLONIZE_TILE</zType>
-		<English>Colonize Tile for {0_money} ({1_city})</English>
+		<English><![CDATA[Colonize Tile for {0_money}<true_1> in {1_city}<false><end>]]></English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_HELPTEXT_WIDGET_COLONIZE_TILE_REQUIRES</zType>
+		<zType>TEXT_HELPTEXT_WIDGET_BECOME_AGENT</zType>
+		<English><![CDATA[Become {0_agent} for {1_money}<true_2> in {2_city}<false><end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_REQUIRES_LIST</zType>
 		<English>Requires {0_list}</English>
 	</Entry>
 	<Entry>
@@ -1575,6 +1599,10 @@ tiles within this Unit's movement range</English>
 	</Entry>
 	<!--Link Help-->
 	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_AGENT</zType>
+		<English>Reveals Currrent City</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_HELP_ALLIANCE_BARB</zType>
 		<English><![CDATA[Can move and attack with the Units of this Tribe.<br>Can found cities near their settlements.<br>Will share your Diplomatic state with other Tribes.<br>Can only have an Alliance with one Tribe.<br>Alliance will last until the end of the current Leader's reign.]]></English>
 	</Entry>
@@ -1697,7 +1725,7 @@ tiles within this Unit's movement range</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_DISCONTENT</zType>
-		<English>Discontent Level {0_value}:</English>
+		<English>Discontent Level: {0_value}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_DISCONTENT_FAMILY_OPINION</zType>
@@ -1736,6 +1764,10 @@ You can enter and heal in each other's territory.</English>
 		<English>Families with less Cities than the others have higher Envy.</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_FAMILY_SEAT</zType>
+		<English>The first City given to this Family.</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_FAMILY_CITIES</zType>
 		<English>{0_family} Cities:</English>
 	</Entry>
@@ -1752,7 +1784,7 @@ You can enter and heal in each other's territory.</English>
 		<English>Total Population</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_HELPTEXT_LINK_HELP_FAMILY_SEAT</zType>
+		<zType>TEXT_HELPTEXT_LINK_HELP_FAMILY_SEAT_EFFECTS</zType>
 		<English>First {0_family} City Founded:</English>
 	</Entry>
 	<Entry>
@@ -1960,14 +1992,6 @@ You can enter and heal in each other's territory.</English>
 		<English><![CDATA[Will improve the ratings of descendants of the current Leader (must be a child older than {0_age})<br>Current Student(s):]]></English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_HELPTEXT_LINK_HELP_UNIT_CYCLE_KEY</zType>
-		<English>Press [{0_key}] to Cycle Untis.</English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_LINK_HELP_UNIT_CENTER_KEY</zType>
-		<English>Press [{0_key}] to Center Camera on Unit.</English>
-	</Entry>
-	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_UNIT_HIDE_KEY</zType>
 		<English>Hold [{0_key}] to hide all Units.</English>
 	</Entry>
@@ -2024,8 +2048,93 @@ You can enter and heal in each other's territory.</English>
 		<English>If any of your opponents reach {0_points} points, the game ends!</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_VICTORY_TOTAL</zType>
+		<English>Total: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_VICTORY_FROM_CITIES</zType>
+		<English>{0}: from Cities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_VICTORY_FROM_TILE</zType>
+		<English>{0}: from {1_tile}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_VICTORY_FROM_CULTURE_CITIES</zType>
+		<English>{0}: from {1_culture} Cities</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_VICTORY_FROM</zType>
+		<English>{0}: from {1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_VICTORY_NO_WONDERS</zType>
+		<English>0: from Wonders</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_ZOC</zType>
 		<English><![CDATA[A unit's Zone-of-Control extends to all adjacent tiles (except across a {0_riverLink}).<br>and prevents enemy units from moving from one ZOC tile to another.<br>Hold [{1_key}] to see Unit ZOCs.]]></English>
+	</Entry>
+	<!--Tile Tooltip-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_OWNER</zType>
+		<English>Owner</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_RESOURCE</zType>
+		<English>Resource</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_HARVEST</zType>
+		<English>Harvest</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_REMOVE_VEGETATION</zType>
+		<English>Remove {0}: {1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_IMPROVEMENT</zType>
+		<English>Improvement</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_ADJACENT_BONUS</zType>
+		<English>Adjacent: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_SPECIALIST</zType>
+		<English>Specialist</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_PAUSED</zType>
+		<English>{0} (PAUSED)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_IMPROVEMENT_UPGRADE</zType>
+		<English><![CDATA[Upgrades to<true_0> {0_barbarian}<false><end> {1_improvment}: {2_turns}]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_IMPROVEMENT_PILLAGED</zType>
+		<English><![CDATA[Disappears in {0} <singular_0>Year<plural>Years<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_IMPROVEMENT_UNFINISHED</zType>
+		<English>Work Left: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_IMPROVEMENT_START_ADJACENT</zType>
+		<English>Adjacent: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_IMPROVEMENT_START_RECOMMENDED</zType>
+		<English>(Recommended)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_IMPROVEMENT_START_REQUIRES</zType>
+		<English>(Requires {0_tech})</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_RECENTLY_SEEN</zType>
+		<English>Recently Seen: </English>
 	</Entry>
 	<!--Yield Net Help-->
 	<Entry>
@@ -2080,6 +2189,45 @@ You can enter and heal in each other's territory.</English>
 		<zType>TEXT_HELPTEXT_YIELD_NET_TRADE_ROUTES</zType>
 		<English>{0}: Trade Routes</English>
 	</Entry>
+	<!--City Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_TITLE</zType>
+		<English>City: {0_name}/{1_owner}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_FAMILY</zType>
+		<English>Family: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_GOVERNOR</zType>
+		<English>Governor: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_HP</zType>
+		<English>HP: {0}/{1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_STRENGTH</zType>
+		<English>Strength: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_CITIZENS</zType>
+		<English><![CDATA[<singular_1>{0}<plural>{0,2}<end>: {1_num}]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_ID</zType>
+		<English>ID: {0}</English>
+	</Entry>
+	<!--City Capital Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_CAPITAL_EFFECT</zType>
+		<English>Effects of being the Capital:</English>
+	</Entry>
+
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_CAPITAL_NO_EFFECT</zType>
+		<English>No Effect</English>
+	</Entry>
 	<!--Improvement Requires Help-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_PREFIX</zType>
@@ -2100,15 +2248,15 @@ You can enter and heal in each other's territory.</English>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_HOLY_CITY</zType>
 		<English>Requires Holy City</English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_COAST</zType>
-		<English>Coast</English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_WATER_COAST</zType>
-		<English>Coastal Water</English>
-	</Entry>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_COAST_LAND</zType>
+    <English>Coastal Land</English>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_COAST_WATER</zType>
+    <English>Coastal Water</English>
+  </Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_ADJACENT_CITY</zType>
 		<English>Adjacent City Center</English>
@@ -2214,11 +2362,36 @@ You can enter and heal in each other's territory.</English>
 		<zType>TEXT_HELPTEXT_TECH_BONUS_CARDS</zType>
 		<English><![CDATA[Bonus <singular_0>Card<plural>Cards<end>: {0_list}]]></English>
 	</Entry>
-	<!--Unit Type Help-->
+	<!--Improvement Tooltip-->
 	<Entry>
-		<zType>TEXT_HELPTEXT_UNIT_TYPE_HP</zType>
-		<English>HP: {0}/{1}</English>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_TOOLTIP_BUILD</zType>
+		<English>Build {0}</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_TOOLTIP_BUY_HINT</zType>
+		<English><![CDATA[Hold <TEXT_HOTKEY_ALT> to Buy: {0}]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_FROM</zType>
+		<English>{0} from {1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_FROM_ADJACENT</zType>
+		<English>{0} from Adjacent {1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_PERCENT_FROM</zType>
+		<English>x{0}% from {1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_FROM_X</zType>
+		<English><![CDATA[{0} from {1}<true_2> x{2}<false><end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_CITY_YIELD_PERCENT_OF_YIELD</zType>
+		<English>{0} of {1_yield} in {2_city} from {3_effect}</English>
+	</Entry>
+	<!--Unit Type Help-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_HP_MAX</zType>
 		<English>HP: {0}</English>
@@ -2252,24 +2425,60 @@ You can enter and heal in each other's territory.</English>
 		<English><![CDATA[{0_attackType}<true_1> ({1})<false><end> at {2}%]]></English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_DEAD</zType>
+		<English>Dead Unit</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_ATTACKS</zType>
 		<English>Attacks {0_list}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_STRENGTH_VS</zType>
-		<English>{0_value} Strength vs. {1_unitTrait}</English>
+		<English>Strength vs. {0_unitTrait}: </English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_STRENGTH_ATTACKING_VS</zType>
-		<English>{0_value} Attack Strength vs. {1_unitTrait}</English>
+		<English>Attack Strength vs. {0_unitTrait}: </English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_STRENGTH_DEFENDING_VS</zType>
-		<English>{0_value} Defense Strength vs. {1_unitTrait}</English>
+		<English>Defense Strength vs. {0_unitTrait}: </English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_STRENGTH_MELEE_VS</zType>
-		<English>{0_value} Melee Strength vs. {1_unitTrait}</English>
+		<English>Melee Strength vs. {0_unitTrait}: </English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_FAMILY_LABEL</zType>
+		<English>Family</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_FORTIFIED_LABEL</zType>
+		<English>Fortified</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_LEVEL_MAX</zType>
+		<English>{0} (MAX)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_LEVEL_LABEL</zType>
+		<English>Level</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_TRAITS_LABEL</zType>
+		<English>Traits</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_FATIGUE_LABEL</zType>
+		<English>Fatigue</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_HEALTH_LABEL</zType>
+		<English>Health</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_COOLDOWN</zType>
+		<English>Cooldown ({0})</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_SPREADS_RELIGION</zType>
@@ -2354,6 +2563,68 @@ You can enter and heal in each other's territory.</English>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_REQUIRES_STATE_RELIGION</zType>
 		<English>State Religion</English>
+	</Entry>
+	<!--Unit Movement-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_MOVEMENT</zType>
+		<English>Movement: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_BASE_STAT</zType>
+		<English>Base: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_HEALTH</zType>
+		<English>Health: {0}/{1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_STRENGTH</zType>
+		<English>Strength: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_RANGE</zType>
+		<English>Range: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_CRITICAL</zType>
+		<English>Critical: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_FATIGUE</zType>
+		<English><![CDATA[Fatigue:<br><true_0>{0}<false>No<end> more moves]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_LEVEL</zType>
+		<English>Level:</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TRAIT</zType>
+		<English>{0_trait} Units:</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TRAIT_INTO_MODIFIER</zType>
+		<English>Into {0}: {1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TRAIT_DEFENDING</zType>
+		<English>Defending {0}: {1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TRAIT_ATTACK_ACROSS</zType>
+		<English>Across {0}: {1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TRAIT_INTO_FRACTION_MODIFIER</zType>
+		<English>Into {0}/{1}: {2}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TRAIT_ZOC_BLOCKS</zType>
+		<English>ZOC blocks {0}</English>
+	</Entry>
+	<!--Promotion Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_PROMOTION_LEADS_TO</zType>
+		<English>Leads to {0}</English>
 	</Entry>
 	<!--Improvement Set Help-->
 	<Entry>
@@ -2449,6 +2720,10 @@ You can enter and heal in each other's territory.</English>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_CAN_ROUT</zType>
 		<English>Can {0_routLink} after Combat</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_PUSH</zType>
+		<English>Target Retreats after Combat</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_IGNORES_DISTANCE</zType>
@@ -2806,6 +3081,10 @@ You can enter and heal in each other's territory.</English>
 		<English>Prevents Barbarian Respawning</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_YIELDS_PER_YEAR</zType>
+		<English>{0_yields} per Year</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_BONUS_ALL_CITIES</zType>
 		<English>[All Cities] </English>
 	</Entry>
@@ -2833,6 +3112,14 @@ You can enter and heal in each other's territory.</English>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_BUILT_BY_RELIGIOUS_UNITS</zType>
 		<English>Built by Religious Units</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_COSTS</zType>
+		<English>Costs {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_COST_PER_YEAR</zType>
+		<English>{0} ({1}/Year)</English>
+	</Entry>
 	<!--City Connected Help-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_CITY_CONNECTED</zType>
@@ -2854,6 +3141,26 @@ You can enter and heal in each other's territory.</English>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CITY_MIN_CITIZENS</zType>
 		<English>Cities must always have {0_num} {1_citizenLink}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_SPECIALISTS_COUNT</zType>
+		<English>Specialists: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_STRENGTH_TITLE</zType>
+		<English>Strength:</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_STRENGTH_BASE</zType>
+		<English>Base: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_STRENGTH_POPULATION</zType>
+		<English>Population: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_STRENGTH_DEFENSE</zType>
+		<English>{0} Defense</English>
 	</Entry>
 	<!--Effect Player Help-->
 	<Entry>
@@ -2993,6 +3300,10 @@ You can enter and heal in each other's territory.</English>
 		<English>Can {0_buyTiles}</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_CAN_AGENT</zType>
+		<English>Can Make an {0_agents}</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_RIVER_MOVEMENT_BONUS</zType>
 		<English>Movement Bonus along {0_river}</English>
 	</Entry>
@@ -3057,6 +3368,10 @@ You can enter and heal in each other's territory.</English>
 		<English>Unlocks Project (in {0_capital}): {1_project}</English>
 	</Entry>
 	<!--FamilyClass Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_FAMILY_CLASS_NATIONS_WITH_CLASS</zType>
+		<English>Nations with this Family Class:</English>
+	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_CLASS_CHARACTER_COMMON_TRAITS</zType>
 		<English>Common Traits: </English>
@@ -3186,10 +3501,42 @@ You can enter and heal in each other's territory.</English>
 		<zType>TEXT_HELPTEXT_BARBARIAN_PROXIMITY</zType>
 		<English>Proximity: {0}*</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BARBARIAN_LEVEL</zType>
+		<English>Barbarian Level: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BARBARIAN_LEVEL_NOT_DECLARE_WAR</zType>
+		<English>Tribes will not Declare War</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BARBARIAN_LEVEL_WAR_PROBABILITY</zType>
+		<English>War Probability: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BARBARIAN_LEVEL_NO_BARBARIANS</zType>
+		<English>No Barbarians in the Game</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BARBARIAN_LEVEL_RAID_CHANCE</zType>
+		<English>Raid Chance/Year: {0}%</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BARBARIAN_LEVEL_FATIGUE</zType>
+		<English>+{0} Fatigue for Barbarians</English>
+	</Entry>
 	<!--Unit Attack Preview-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_ATTACK_PREVIEW_ADJACENT_SAME_UNIT</zType>
 		<English>Adjacent {0_unit}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_ATTACK_PREVIEW_SAME_FAMILY</zType>
+		<English>Same Family:</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_ATTACK_PREVIEW_ENEMY_SAME_FAMILY</zType>
+		<English>:Same Family</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_ATTACK_PREVIEW_UNIT_TRAIT_BONUS</zType>
@@ -3269,7 +3616,7 @@ You can enter and heal in each other's territory.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CITY_YIELD_PROGRESS_CULTURE</zType>
-		<English> ({0_culture} {1_number}: {2_value}/{3_value})</English>
+		<English> ({0_culture}: {1_value}/{2_value})</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CITY_YIELD_PROGRESS_DISCONTENT</zType>
@@ -3309,6 +3656,10 @@ You can enter and heal in each other's territory.</English>
 		<English>{0_law} (Law)</English>
 	</Entry>
 	<!--Bonus Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_BONUS_MEMORY_ALL_FAMILY_CITIES_START</zType>
+		<English>[{0_family} Cities] </English>
+	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_BONUS_MEMORY_ALL_PLAYERS_START</zType>
 		<English>[All Players] </English>
@@ -3465,15 +3816,15 @@ You can enter and heal in each other's territory.</English>
 		<zType>TEXT_HELPTEXT_BONUS_MAKE_COURTIER</zType>
 		<English>Make Courtier: {0_courtier}</English>
 	</Entry>
-  <Entry>
-    <zType>TEXT_HELPTEXT_BONUS_START_LAW</zType>
-    <English>Start Law ({0_cost}): {1_law}</English>
-  </Entry>
-  <Entry>
-    <zType>TEXT_HELPTEXT_BONUS_END_LAW</zType>
-    <English>End Law: {0_law}</English>
-  </Entry>
-  <Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BONUS_START_LAW</zType>
+		<English>Start Law ({0_cost}): {1_law}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BONUS_END_LAW</zType>
+		<English>End Law: {0_law}</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_BONUS_FREE_LAW</zType>
 		<English>Free Law: {0_law}</English>
 	</Entry>
@@ -3504,6 +3855,68 @@ You can enter and heal in each other's territory.</English>
 	<Entry>
 		<zType>TEXT_HELPTEXT_BONUS_ACQUIRE_TECH</zType>
 		<English>Acquire {0_techList} (Technology)</English>
+	</Entry>
+	<!--Make Council-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_COUNCIL_RIVAL_NATION_OPINION</zType>
+		<English>{0} Rival Nation Opinion</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_COUNCIL_TRIBE_OPINION</zType>
+		<English>{0} Tribe Opinion</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_COUNCIL_FAMILY_OPINION</zType>
+		<English>{0} Family Opinion</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_COUNCIL_CHARACTER_XP</zType>
+		<English>{0} XP/Year</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_COUNCIL_CHARACTER_OPINION</zType>
+		<English>{0} Opinion</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_COUNCIL_CHARACTER_SLIGHTED</zType>
+		<English>Replacing {0} will add link(TRAIT_SLIGHTED)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_COUNCIL_MISSIONS</zType>
+		<English>Missions:</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_COURTIER_HELP</zType>
+		<English>Will {0_tutorVerb} your descendants (if not a General, Governor, or on the Council).</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_COURTIER_HELP_TUTOR_VERB</zType>
+		<English><![CDATA[Tutor<comment: this is the verb that will be used in the above sentence>]]></English>
+	</Entry>
+	<!--Culture Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_CULTURE_HELP_CITY</zType>
+		<English>{0} Culture: {1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CULTURE_HELP</zType>
+		<English>{0} (Culture)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CULTURE_HELP_VPS</zType>
+		<English>{0} VPs</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CULTURE_HELP_GOVERNOR_XP</zType>
+		<English>Governors: {0} XP/Year</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CULTURE_HELP_CAN_HURRY</zType>
+		<English>Can Hurry City Production</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CULTURE_HELP_ENABLES_IMPROVEMENT</zType>
+		<English>Enables: {0_list}</English>
 	</Entry>
 	<!--Mission Help-->
 	<Entry>
@@ -3613,6 +4026,10 @@ You can enter and heal in each other's territory.</English>
 		<English>* = Ended Turn</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_PLAYER_LEADER_CHARACTER</zType>
+		<English>Leader: {0}</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_WAR_STATE_WITH</zType>
 		<English>War State: {0} ({1})</English>
 	</Entry>
@@ -3661,10 +4078,6 @@ You can enter and heal in each other's territory.</English>
 		<English>{0_opinion}: Ancient Antipathy vs {1_nation}</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_HELPTEXT_PLAYER_OPINION_LUXURIES</zType>
-		<English>{0_opinion}: Our Luxuries</English>
-	</Entry>
-	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_OPINION_STATE_RELIGION</zType>
 		<English>{0_opinion}: Our State Religion(s)</English>
 	</Entry>
@@ -3685,6 +4098,10 @@ You can enter and heal in each other's territory.</English>
 		<English>{0_opinion}: {1_diplomacy} with Our {2_link}</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_LUXURIES</zType>
+		<English>{0_opinion}: Our Luxuries</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_OPINION_PEACE</zType>
 		<English>{0_opinion}: Lengthy {1_peace}</English>
 	</Entry>
@@ -3699,6 +4116,43 @@ You can enter and heal in each other's territory.</English>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_PROXIMITY</zType>
 		<English>Proximity: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELATIONSHIP_OPINION</zType>
+		<English>Opinion: {0}</English>
+	</Entry>
+	<!--Religion Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_NAME</zType>
+		<English><![CDATA[{0} (Religion)<true_1>, Founded in Year {1}<false><end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_OPINION</zType>
+		<English>Opinion: {0} ({1})</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_IS_YOUR_STATE_RELIGION</zType>
+		<English>Is Your {0_stateReligionLink}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_CAN_ADOPT_AS_STATE_RELIGION</zType>
+		<English>Can Adopt as {0_stateReligionLink}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_FOUNDING_PREREQS</zType>
+		<English>Founding this Religion</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_EACH_CITY_EFFECT</zType>
+		<English>Each City: </English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_FOUNDED_SPREAD_YEARS_HELP</zType>
+		<English><![CDATA[Will spread to a new city in {0} <singular_0>Year<plural>Years<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_SPREAD_HELP</zType>
+		<English><![CDATA[Spreads to new cities every {0} <singular_0>Year<plural>Years<end>]]></English>
 	</Entry>
 	<!--Family Help-->
 	<Entry>
@@ -3853,6 +4307,18 @@ You can enter and heal in each other's territory.</English>
 		<zType>TEXT_HELPTEXT_FAMILY_HOSTILE_UNITS_IN_TERRITORY</zType>
 		<English>{0_value}: Hostile Units are inside Our Territory</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_FAMILY_EACH_CITY_EFFECT</zType>
+		<English><![CDATA[Each <true_0>{0}<false>family<end> City: ]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_FAMILY_EACH_UNIT_EFFECT</zType>
+		<English><![CDATA[Each <true_0>{0}<false>family<end> Unit: ]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_FAMILY_EACH_FAMILY_MEMBER_OPINION</zType>
+		<English>Each Famiy Member: {0} Opinion</English>
+	</Entry>
 	<!--Decision Name-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_DECISION_NAME_CHOOSE_RESEARCH</zType>
@@ -3930,6 +4396,10 @@ You can enter and heal in each other's territory.</English>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_BUY_BUTTON</zType>
 		<English>Colonize ({0_city})</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_BECOME_AGENT_BUTTON</zType>
+		<English>Become Agent ({0_city})</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_TRADE_ROUTE_BUTTON</zType>
@@ -4050,6 +4520,10 @@ You can enter and heal in each other's territory.</English>
 		<English><![CDATA[Choose a Governor for {0_city}]]></English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_CHOOSE_AGENT_POPUP_TITLE</zType>
+		<English><![CDATA[Place an link(CONCEPT_AGENT) in {0_city}]]></English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_CHOOSE_COUNCIL_POPUP_TITLE</zType>
 		<English><![CDATA[Choose your {0_council}]]></English>
 	</Entry>
@@ -4156,7 +4630,7 @@ You can enter and heal in each other's territory.</English>
 		<English>Decision no longer valid. [{0_event}]</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_HELPTEXT_POPUP_DECISION_CHOOSE_AMBITION_TITLE</zType>
+		<zType>TEXT_HELPTEXT_POPUP_DECISION_CHOOSE_AMBITION_HELP</zType>
 		<English>It's time to choose your next Ambition...</English>
 	</Entry>
 	<Entry>
@@ -4182,6 +4656,344 @@ You can enter and heal in each other's territory.</English>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE_CHARACTER_TITLE</zType>
 		<English>Promote {0_character}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_DECISION_CHOOSE_AMBITION_TITLE</zType>
+		<English>Choose Victory Card:</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_DECISION_CHOOSE_CITY_FAMILY_TITLE</zType>
+		<English>Choose {0_city} Family:</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_DECISION_CHOOSE_CITY_GOVERNOR_TITLE</zType>
+		<English>Choose Governor for {0_city}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_DECISION_CHOOSE_CITY_GOVERNOR_CANDIDATES</zType>
+		<English>Candidate(s):</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_DECISION_DIPLOMACY_TITLE</zType>
+		<English>Make {0_diplomacy} with {1} for {2_money}?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE</zType>
+		<English>Upgrade {0_character}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_DEVELOPMENT</zType>
+		<English>Development: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_AI_DIFFICULTY</zType>
+		<English>(AI plays on this level)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_DIFFICULTY_STARTING_YIELDS</zType>
+		<English>Start with {0}</English>
+	</Entry>
+	<!--End Turn-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_END_YEAR</zType>
+		<English>End the Year </English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_END_YEAR_IDLE_CITY</zType>
+		<English>You need to manage an Idle City first...</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_END_YEAR_DECISION</zType>
+		<English>You have an important Decision to make first...</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_END_YEAR_WAITING</zType>
+		<English>Waiting for {0_players}</English>
+	</Entry>
+	<!--Goal Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_COMPLETION</zType>
+		<English>On Completion: </English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_THEOLOGY</zType>
+		<English>State Religion with {0} Theology</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_START_LAW</zType>
+		<English><![CDATA[Start {0} Law<true_1> (Replaces {1})<false><end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_LEGITIMACY</zType>
+		<English>Requires {0} Legitimacy icon(YIELD_LEGITIMACY)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_CITIES</zType>
+		<English><![CDATA[Requires {0} <singular_0>City<plural>Cities<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_CONNECTED_CITIES</zType>
+		<English><![CDATA[Requires {0} {1_connectedLink} <singular_0>City<plural>Cities<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_CITIZENS</zType>
+		<English><![CDATA[Requires {0} <singular_0>{1_citizensLink}<plural>{1,2_citizensLink}<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_SPECIALISTS</zType>
+		<English><![CDATA[Requires {0} <singular_0>Specialist<plural>Specialists<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_POPULATION</zType>
+		<English>Requires {0} Population ({1,2_citizensLink} + Specialists)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_HIGHEST_RIVAL</zType>
+		<English>(Highest Rival: {0})</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_MILITARY_UNITS</zType>
+		<English><![CDATA[Requires {0} Military <singular_0>Unit<plural>Units<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_URBAN_IMPROVEMENTS</zType>
+		<English><![CDATA[Requires {0} Urban <singular_0>Improvement<plural>Improvements<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_WONDERS</zType>
+		<English><![CDATA[Requires {0} <singular_0>Wonder<plural>Wonders<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_ACTIVE_LAWS</zType>
+		<English><![CDATA[Requires {0} Active <singular_0>Law<plural>Laws<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_REVEAL_LAND</zType>
+		<English>Reveal {0} of the Land</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_MAX_LEVEL_UNITS</zType>
+		<English><![CDATA[Requires {0} Max Level <singular_0>Unit<plural>Units<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_TOTAL</zType>
+		<English>Requires {0} Total {1_list}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_CAPTURE_PLAYER_CITIES</zType>
+		<English><![CDATA[Capture {0} <true_1>{1}<false>Enemy<end> <singular_0>City<plural>Cities<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_CAPTURE_BARBARIAN_SITES</zType>
+		<English><![CDATA[Capture {0} <true_1>{1}<false>Barbarian<end> <singular_0>Site<plural>Sites<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_KILL_PLAYER_ENEMY_UNITS</zType>
+		<English><![CDATA[Kill {0} <true_1>{1}<false>Enemy<end> <singular_0>Unit<plural>Units<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_KILL_BARBARIAN_ENEMY_UNITS</zType>
+		<English><![CDATA[Kill {0} <true_1>{1}<false>Barbarian<end> <singular_0>Unit<plural>Units<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_STATE_RELIGION</zType>
+		<English>Requires State Religion</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_DIPLOMACY_WITH</zType>
+		<English><![CDATA[Requires {0_diplomacy} with {1} <singular_1>Tribe or Empire<plural>Tribes or Empires<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_KILL_TRIBE_UNITS</zType>
+		<English><![CDATA[Kill {0} {1_tribe} <singular_0>Unit<plural>Units<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_PRODUCE_YIELD_PER_YEAR</zType>
+		<English>Produce {0} {1_yield}/Year</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_PRODUCE_YIELD_MASS</zType>
+		<English>Produce {0} {1_yield}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_X</zType>
+		<English><![CDATA[Requires {0_num} <singular_0>{1}<plural>{1,2}<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_CITIES_CULTURE</zType>
+		<English><![CDATA[Requires {0_num} <singular_0>City<plural>Cities<end> with {1_cultureLevel}]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_CULTURE_PROGRESS</zType>
+		<English>Culture ({0}/{1})</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_WONDERS_CULTURE</zType>
+		<English><![CDATA[Requires {0_num} <singular_0>Wonder<plural>Wonders<end> with {1_cultureLevel}]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_MAX_YEARS</zType>
+		<English>Max Year(s): {0}</English>
+	</Entry>
+	<!--Law Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_LAW_HELP_NAME</zType>
+		<English><![CDATA[<true_0>{0} (Law)<false><end><true_1> [Current]<false><end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LAW_HELP_EFFECT_UPKEEP</zType>
+		<English>Upkeep: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LAW_HELP_FAMILY_OPINION</zType>
+		<English>{0_family} Opinion: {1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LAW_HELP_COST</zType>
+		<English>Cost: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LAW_HELP_SUCCESSION_LEADER_DEAD</zType>
+		<English>Cannot change Succession Laws when the Leader is Dead</English>
+	</Entry>
+	<!--Cognomen Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_COGNOMEN_HELP_NAME</zType>
+		<English>Cognomen: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_COGNOMEN_HELP_STAT_EQUATION</zType>
+		<English>{0_statName}: {1} X {2} = {3}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_COGNOMEN_HELP_PROGRESS</zType>
+		<English>Progress: {0}/{1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_COGNOMEN_HELP_THRESHOLD</zType>
+		<English>Threshold: {0}</English>
+	</Entry>
+	<!--Memory Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_MEMORY_OPINION</zType>
+		<English><![CDATA[Memory: <true_0>{0}, <false><end> {1} Opinion<true_2> for {2} <singular_2>Year<plural>Years<end><false><end>]]></English>
+	</Entry>
+	<!--Nation Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_NATION_HELP_STARTING_TECHS</zType>
+		<English>Starting Techs:</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_NATION_HELP_STARTING_LAWS</zType>
+		<English>Starting Laws:</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_NATION_HELP_UNIQUE_BUILDINGS</zType>
+		<English>Unique Buildings:</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_NATION_HELP_UNIQUE_UNITS</zType>
+		<English>Unique Units:</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_NATION_HELP_LEADER</zType>
+		<English>Leader: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_NATION_HELP_FAMILIES</zType>
+		<English>Families: {0}</English>
+	</Entry>
+	<!--Opinon Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_LEADER</zType>
+		<English>{0}: Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_LEADERS_SPOUSE</zType>
+		<English>{0}: Leader's Spouse</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_LEADERS_DESCENDANTS</zType>
+		<English>{0}: Leader's Descendants</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_LEADERS_DESCENDANTS_MARRIAGES</zType>
+		<English>{0}: Marriage(s) to Leader's Descendants</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_OUR_STATE_RELIGION</zType>
+		<English>{0}: Our State Religion</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_OPINION_OF</zType>
+		<English>{0} Opinion of {1}: {2}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_TRIBE_OPINION</zType>
+		<English>Tribe Opinion: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_OPINION_OF_YOU</zType>
+		<English>{0} Opinion of You: {1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_CHARACTER_OPINION</zType>
+		<English>Character Opinion: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_FAMILY_OPINION</zType>
+		<English>Family Opinion: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_BIRTH_MODIFIER</zType>
+		<English>Birth Modifier: {0}</English>
+	</Entry>
+	<!--Player Opinion-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_PLAYER_OPINION_NO_EFFECTS</zType>
+		<English>No Effects</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PLAYER_OPINION_OF_PLAYER</zType>
+		<English><![CDATA[{0_player} Opinion of <true_1>{1}<false>You<end>: {2}]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PLAYER_OPINION_RIVAL_NATION</zType>
+		<English>Rival Nation Opinion: {0}</English>
+	</Entry>
+	<!--Religion Opinion-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_OPINION_STATE_RELIGION</zType>
+		<English>{0}: State Religion</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_OPINION_RELIGIOUS_IMPROVEMENTS</zType>
+		<English>{0}: Religious Improvements</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_OPINION_RELIGION_OPINION</zType>
+		<English>Religion Opinion: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_OPINION_EACH_CITY</zType>
+		<English>Each City: </English>
+	</Entry>
+	<!--Opponent Level-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPPONENT_LEVEL</zType>
+		<English>Opponent Level: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPPONENT_LEVEL_WILL_NOT_DECLARE_WAR</zType>
+		<English>Nations will not Declare War</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPPONENT_LEVEL_WAR_PROBABILITY</zType>
+		<English>War Probability: {0}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPPONENT_LEVEL_PLAY_TO_WIN</zType>
+		<English>Nations will try to keep each other from winning</English>
 	</Entry>
 	<!--Tooltips-->
 	<Entry>

@@ -730,7 +730,7 @@
     </Entry>
     <Entry>
         <zType>TEXT_OVERVIEW_MAP_CITYSITES</zType>
-        <English>City States</English>
+        <English>City Sites</English>
     </Entry>
     <Entry>
         <zType>TEXT_OVERVIEW_MAP_OTHER</zType>
@@ -773,15 +773,19 @@
         <zType>TEXT_WIDGET_CITY_IDLE</zType>
         <English>Idle</English>
     </Entry>
-    <Entry>
-        <zType>TEXT_WIDGET_CITY_UNKNOWN</zType>
-        <English>Unknown</English>
-    </Entry>
 
     <!--character-->
     <Entry>
         <zType>TEXT_POPUP_INHERITANCE_CHARACTER_ACTIONS</zType>
         <English>Actions</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_CHARACTER_UPGRADE_DECISION_RATING</zType>
+        <English>Upgrade: +1 {0_ratingtype} ({1_startrating} to {2_endrating})</English>
+    </Entry>
+    <Entry>
+        <zType>TEXT_CHARACTER_UPGRADE_DECISION_TRAIT</zType>
+        <English>Upgrade: {0_trait}</English>
     </Entry>
 
     <!-- tech tree-->

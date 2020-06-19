@@ -54,10 +54,6 @@
 		<English>You have reached the end of the game.</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_GAME_DEFEAT_POPUP</zType>
-		<English>You have been eliminated. Game Over!</English>
-	</Entry>
-	<Entry>
 		<zType>TEXT_GAME_TEAM_DEFEAT_POPUP</zType>
 		<English>The nation of {0_player} has been eliminated!</English>
 	</Entry>

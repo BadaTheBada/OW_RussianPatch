@@ -187,11 +187,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_SLAVERY</zType>
-		<English><![CDATA[We will keep slaves]]></English>
+		<English><![CDATA[We will keep slaves.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_FREEDOM</zType>
-		<English><![CDATA[Our subjects will be free]]></English>
+		<English><![CDATA[Our subjects will be free.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_CENTRALIZATION</zType>
@@ -267,7 +267,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_ISOLATIONISM</zType>
-		<English><![CDATA[{PLAYER-0} will be self succifient.]]></English>
+		<English><![CDATA[{PLAYER-0} will be self-sufficient.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_TRADE_LEAGUE</zType>
@@ -999,7 +999,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_IN_THE_CLOUDS_OPTION_0</zType>
-		<English><![CDATA[Restore the {BARBARIAN-2,2} ancient site.]]></English>
+		<English>Restore the ancient {BARBARIAN-2,1} site.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_IN_THE_CLOUDS_OPTION_1</zType>
@@ -1076,6 +1076,198 @@
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RIDDLE_OF_THE_SPHINX_JOKE</zType>
 		<English>Isn't this the same riddle that Oedipus solved, but isn't he still most famous for marrying his mother.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_ALL_THAT_GLITTERS_OPTION_0</zType>
+		<English>I welcome another place of royal wealth.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_ALL_THAT_GLITTERS_OPTION_1</zType>
+		<English>Our people deserve the wealth of knowledge.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_CAUGHT_IN_THE_ACT_OPTION_0</zType>
+		<English>These crimes cannot go unpunished.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_CAUGHT_IN_THE_ACT_OPTION_1</zType>
+		<English>He is more valuable doing his duty.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_MARVELOUS_SPECIMENS_OPTION_0</zType>
+		<English>We must examine these puzzling remains.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_MARVELOUS_SPECIMENS_OPTION_1</zType>
+		<English>Send {CHARACTER-SHORT-3} to investigate these strange creatures.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_RITUAL_SCENT_OPTION_0</zType>
+		<English>Hold the incense for the population of {CITY-2}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_RITUAL_SCENT_OPTION_1</zType>
+		<English>Allow the {RELIGION-3,3} to use it for rituals.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_STANDOFF_OPTION_0</zType>
+		<English>Continue with our harvesting.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_STANDOFF_OPTION_1</zType>
+		<English>Offer some of our harvest to the {PLAYER-2,2}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_HIGH_SPIRITS_OPTION_0</zType>
+		<English>Let us try this stranger on the court.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_HIGH_SPIRITS_OPTION_1</zType>
+		<English>We shall plant more of these fine grapes.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_CAMEL_BITE_OPTION_0</zType>
+		<English>Have the whole caravan slaughtered for meat.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_CAMEL_BITE_OPTION_1</zType>
+		<English>Give the camels to the {BARBARIAN-3} and be rid of them.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_TOUGH_GAME_OPTION_0</zType>
+		<English>Research new uses for these products.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_TOUGH_GAME_OPTION_1</zType>
+		<English>Breed more of them for their parts.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_WILD_HORSES_OPTION_0</zType>
+		<English>Provide them to military trainers.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_WILD_HORSES_OPTION_1</zType>
+		<English>Give them to farmers to work the fields.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_WILD_HORSES_OPTION_2</zType>
+		<English>Harness them for war.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_CORNER_THE_MARKET_OPTION_0</zType>
+		<English>Reduce the price so more can afford it.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_CORNER_THE_MARKET_OPTION_1</zType>
+		<English>Raise prices to ensure its rarity.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_LUXURY_OR_UTILITY_OPTION_0</zType>
+		<English><![CDATA[Grant {CHARACTER-SHORT-2} <masculine_CHARACTER-2>his<feminine>her<end> desired garments.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_LUXURY_OR_UTILITY_OPTION_1</zType>
+		<English>Give the fur to our brave soldiers.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_PIG_IN_THE_PALACE_OPTION_0</zType>
+		<English><![CDATA[I will help my <masculine_CHARACTER-3>son<feminine>daughter<end> raise it.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_PIG_IN_THE_PALACE_OPTION_1</zType>
+		<English>Roast it for a grand banquet.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_HELPING_HANDS_OPTION_0</zType>
+		<English>Ask them to share their expertise.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_HELPING_HANDS_OPTION_1</zType>
+		<English>We need hands to work the fields.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_OLIVE_OIL_OPTION_0</zType>
+		<English>Send the olive oil to {PLAYER-3}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_OLIVE_OIL_OPTION_1</zType>
+		<English>Send the olive oil to {PLAYER-4}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_OLIVE_OIL_OPTION_2</zType>
+		<English>Why waste such a luxury on foreigners?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_SORGHUM_SEEDS_OPTION_0</zType>
+		<English>{CITY-2} always needs more food production.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_SORGHUM_SEEDS_OPTION_1</zType>
+		<English>Brew wine and other alcoholic beverages.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_SORGHUM_SEEDS_OPTION_2</zType>
+		<English>Use it to feed animals of field and pasture.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_YOUNG_SHEPHERD_OPTION_0</zType>
+		<English>She may come to {CITY-4} with her sheep.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_YOUNG_SHEPHERD_OPTION_1</zType>
+		<English>She will be given a proper childhood.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_YOUNG_SHEPHERD_OPTION_2</zType>
+		<English>She must be returned to the {BARBARIAN-4}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_PEARL_DIVERS_OPTION_0</zType>
+		<English>Fund an expedition and send pearls to the {FAMILY-1,1}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_PEARL_DIVERS_OPTION_1</zType>
+		<English>Fund an expedition and send pearls to the {FAMILY-2,1}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_PEARL_DIVERS_OPTION_2</zType>
+		<English>Support the dive, and I will take the pearls.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_PEARL_DIVERS_OPTION_3</zType>
+		<English>We should save that money.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_RESCUE_AT_SEA_OPTION_0</zType>
+		<English>We need fishers in {CITY-2}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_RESCUE_AT_SEA_OPTION_1</zType>
+		<English>We need fishers in {CITY-3}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_BEAST_OF_BURDEN_OPTION_0</zType>
+		<English>Let the beast live a peaceful life in a city zoo.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_BEAST_OF_BURDEN_OPTION_1</zType>
+		<English>Train the beast to lead our troops in battle.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_GREAT_POTENTIAL_OPTION_0</zType>
+		<English>Proceed with research into salt production.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_GREAT_POTENTIAL_OPTION_1</zType>
+		<English>The court cannot fund this project now.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_SHIP_SICKNESS_OPTION_0</zType>
+		<English>Our brave crews should have them.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HARVEST_SHIP_SICKNESS_OPTION_1</zType>
+		<English>This remedy has not yet been proven.</English>
 	</Entry>
 	<Entry beginGroup="Contact">
 		<zType>TEXT_EVENTOPTION_BARBARIAN_CONTACT_CALM_EMISSARY_TRUCE</zType>
@@ -1179,7 +1371,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BARBARIAN_CONTACT_FUMING_MESSENGER_WAR_2</zType>
-		<English><![CDATA[We will fight, but only with your assistance.]]></English>
+		<English><![CDATA[We will fight, but only with {BARBARIAN-1,1} assistance.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_WAR_AMBASSADOR_TRIBUTE</zType>
@@ -3782,6 +3974,10 @@
 		<English>[OUR HUMILITY ENDEARS US TO BOTH]</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTOPTION_PLAYERS_POSITIVE_OPINION_NO</zType>
+		<English>[NO]</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYERS_POSITIVE_OPINION_2_FIRST</zType>
 		<English>[{PLAYER-0}]</English>
 	</Entry>
@@ -3923,7 +4119,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HONOR_AND_GLORY_TRIUMPH</zType>
-		<English><![CDATA[Hold military celebrations <masculine_CHARACTER-0>his<feminine>her<end> honor.]]></English>
+		<English><![CDATA[Hold military celebrations in <masculine_CHARACTER-0>his<feminine>her<end> honor.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HONOR_AND_GLORY_HAPPY_PEOPLE</zType>
@@ -4123,7 +4319,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BARBARIAN_PRINCE_WARD</zType>
-		<English><![CDATA[I'll keep the boy safe... in my own way.]]></English>
+		<English><![CDATA[I will raise the boy as my own.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BARBARIAN_TRIBAL_CONFEDERATION_OPTION_0</zType>

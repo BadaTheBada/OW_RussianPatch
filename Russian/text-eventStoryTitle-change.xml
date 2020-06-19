@@ -345,6 +345,90 @@
 		<zType>TEXT_EVENTSTORY_RIDDLE_OF_THE_SPHINX_TITLE</zType>
 		<English>The Riddle of the Sphinx</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_ALL_THAT_GLITTERS_TITLE</zType>
+		<English>All that Glitters</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_CAUGHT_IN_THE_ACT_TITLE</zType>
+		<English>Caught in the Act</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_MARVELOUS_SPECIMENS_TITLE</zType>
+		<English>Marvelous Specimens</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_RITUAL_SCENT_TITLE</zType>
+		<English>Ritual Scent</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_STANDOFF_TITLE</zType>
+		<English>Standoff</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_HIGH_SPIRITS_TITLE</zType>
+		<English>High Spirits</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_CAMEL_BITE_TITLE</zType>
+		<English>Camel Bite</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_TOUGH_GAME_TITLE</zType>
+		<English>Tough Game</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_WILD_HORSES_TITLE</zType>
+		<English>Wild Horses</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_CORNER_THE_MARKET_TITLE</zType>
+		<English>Corner the Market</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_LUXURY_OR_UTILITY_TITLE</zType>
+		<English>Luxury or Utility</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_PIG_IN_THE_PALACE_TITLE</zType>
+		<English>Pig in the Palace</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_HELPING_HANDS_TITLE</zType>
+		<English>Helping Hands</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_OLIVE_OIL_TITLE</zType>
+		<English>Olive Oil</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_SORGHUM_SEEDS_TITLE</zType>
+		<English>Sorghum Seeds</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_YOUNG_SHEPHERD_TITLE</zType>
+		<English>Young Shepherd</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_PEARL_DIVERS_TITLE</zType>
+		<English>Pearl Divers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_RESCUE_AT_SEA_TITLE</zType>
+		<English>Rescue at Sea</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_BEAST_OF_BURDEN_TITLE</zType>
+		<English>Beast of Burden</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_GREAT_POTENTIAL_TITLE</zType>
+		<English>Great Potential</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARVEST_SHIP_SICKNESS_TITLE</zType>
+		<English>Citrus Remedy</English>
+	</Entry>
 	<Entry beginGroup="Contact">
 		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_CALM_EMISSARY_TITLE</zType>
 		<English>Calm Emissary</English>
@@ -483,7 +567,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHARACTER_HONORARY_COUNSEL_TITLE</zType>
-		<English>{CHARACTER-SHORT-2}</English>
+		<English>{CHARACTER-2}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHARACTER_PLOTTING_HEIR_TITLE</zType>

@@ -17,35 +17,39 @@
 		<zType>TEXT_CHARACTER_TITLE_KING_DOWAGER</zType>
 		<English><![CDATA[<masculine_0>King Dowager<feminine>Queen Dowager<end> {0_name}]]></English>
 	</Entry>
-  <Entry>
-    <zType>TEXT_CHARACTER_TITLE_PRINCE</zType>
-    <English><![CDATA[<masculine_0>Prince<feminine>Princess<end> {0_name}]]></English>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CHARACTER_TITLE_PRINCE_CONSORT</zType>
-    <English><![CDATA[<masculine_0>Prince Consort<feminine>Princess Consort<end> {0_name}]]></English>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CHARACTER_TITLE_DUKE</zType>
-    <English><![CDATA[<masculine_0>Duke<feminine>Duchess<end> {0_name}]]></English>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CHARACTER_TITLE_DUKE_CONSORT</zType>
-    <English><![CDATA[<masculine_0>Duke Consort<feminine>Duchess Consort<end> {0_name}]]></English>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CHARACTER_TITLE_COUNCIL</zType>
-    <English>{0_title} {1_name}</English>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CHARACTER_TITLE_GENERAL</zType>
-    <English>Gen. {0_name}</English>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CHARACTER_TITLE_GOVERNOR</zType>
-    <English>Gov. {0_name}</English>
-  </Entry>
-  <!-- Relation -->
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_PRINCE</zType>
+		<English><![CDATA[<masculine_0>Prince<feminine>Princess<end> {0_name}]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_PRINCE_CONSORT</zType>
+		<English><![CDATA[<masculine_0>Prince Consort<feminine>Princess Consort<end> {0_name}]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_DUKE</zType>
+		<English><![CDATA[<masculine_0>Duke<feminine>Duchess<end> {0_name}]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_DUKE_CONSORT</zType>
+		<English><![CDATA[<masculine_0>Duke Consort<feminine>Duchess Consort<end> {0_name}]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_COUNCIL</zType>
+		<English>{0_title} {1_name}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_GENERAL</zType>
+		<English>Gen. {0_name}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_GOVERNOR</zType>
+		<English>Gov. {0_name}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_AGENT</zType>
+		<English>Agent {0_name}</English>
+	</Entry>
+	<!-- Relation -->
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_YOU</zType>
 		<English>You!</English>
@@ -118,15 +122,15 @@
 		<zType>TEXT_CHARACTER_RELATION_STEPPARENT</zType>
 		<English><![CDATA[Your <masculine_0>Stepfather<feminine>Stepmother<end>]]></English>
 	</Entry>
-  <Entry>
-    <zType>TEXT_CHARACTER_RELATION_RELATIVE</zType>
-    <English>Your Relative</English>
-  </Entry>
-  <Entry>
-    <zType>TEXT_CHARACTER_RELATION_IN_LAW</zType>
-    <English>Your In-Law</English>
-  </Entry>
-  <!-- Heir -->
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_RELATIVE</zType>
+		<English>Your Relative</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_IN_LAW</zType>
+		<English>Your In-Law</English>
+	</Entry>
+	<!-- Heir -->
 	<Entry>
 		<zType>TEXT_CHARACTER_HEIR_ORDER_1</zType>
 		<English>Heir</English>
@@ -157,12 +161,16 @@
 		<English>{0_name} {1_cognomen}</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_CHARACTER_GENERAL_OF</zType>
+		<English>General of {0_unit}</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_CHARACTER_GOVERNOR_OF</zType>
 		<English>Governor of {0_city}</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_CHARACTER_GENERAL_OF</zType>
-		<English>General of {0_unit}</English>
+		<zType>TEXT_CHARACTER_AGENT_IN</zType>
+		<English>Agent in {0_city}</English>
 	</Entry>
 	<!-- Name -->
 	<Entry>

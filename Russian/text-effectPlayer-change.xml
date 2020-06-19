@@ -19,6 +19,10 @@
 		<English>Legacy</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTPLAYER_COUNCIL_SPYMASTER</zType>
+		<English>Spymaster</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_ABLE</zType>
 		<English>The Able</English>
 	</Entry>

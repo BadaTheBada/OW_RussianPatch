@@ -16,7 +16,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_SEAT</zType>
-		<English>Family Seat</English>
+		<English>link(CONCEPT_FAMILY_SEAT)</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CONNECTED</zType>
@@ -899,6 +899,10 @@
 		<English>Confucianism</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_SALT_PRODUCTION</zType>
+		<English>Salt Production</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTCITY_RELIGION_JUDAISM</zType>
 		<English>Judaism</English>
 	</Entry>
@@ -1195,8 +1199,8 @@
 		<English>Eloquent</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_INSPIRED</zType>
-		<English>Inspired</English>
+		<zType>TEXT_EFFECTCITY_TRAIT_INSPIRING</zType>
+		<English>Inspiring</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_INTELLIGENT</zType>

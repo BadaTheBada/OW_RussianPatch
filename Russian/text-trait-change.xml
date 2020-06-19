@@ -83,8 +83,8 @@
 		<English>Warlike</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_INSPIRED</zType>
-		<English>Inspired</English>
+		<zType>TEXT_TRAIT_INSPIRING</zType>
+		<English>Inspiring</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INTELLIGENT</zType>
@@ -277,10 +277,6 @@
 	<Entry>
 		<zType>TEXT_TRAIT_COMPASSIONATE</zType>
 		<English>Compassionate</English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_TRAIT_INSPIRING</zType>
-		<English>Inspiring</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LOYAL</zType>

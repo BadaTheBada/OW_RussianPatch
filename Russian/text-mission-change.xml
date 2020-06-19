@@ -20,26 +20,38 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TEAM_ALLIANCE</zType>
+		<English>Player Alliance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TEAM_ALLIANCE_TARGET</zType>
 		<English>Player Alliance with</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_TEAM_ALLIANCE_PLUS</zType>
+		<zType>TEXT_MISSION_TEAM_ALLIANCE_CHARACTER</zType>
 		<English>Player Alliance via</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE</zType>
+		<English>Player Peace</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PEACE_TARGET</zType>
 		<English>Player Peace with</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_PLAYER_PEACE_PLUS</zType>
+		<zType>TEXT_MISSION_PLAYER_PEACE_CHARACTER</zType>
 		<English>Player Peace via</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE</zType>
+		<English>Player Truce</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_TRUCE_TARGET</zType>
 		<English>Player Truce with</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_PLAYER_TRUCE_PLUS</zType>
+		<zType>TEXT_MISSION_PLAYER_TRUCE_CHARACTER</zType>
 		<English>Player Truce via</English>
 	</Entry>
 	<Entry>
@@ -47,7 +59,7 @@
 		<English>Declare War</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_PLAYER_DECLARE_WAR_PLUS</zType>
+		<zType>TEXT_MISSION_PLAYER_DECLARE_WAR_CHARACTER</zType>
 		<English>Declare War on</English>
 	</Entry>
 	<Entry>
@@ -55,7 +67,7 @@
 		<English>Break Peace</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_PLAYER_BREAK_PEACE_PLUS</zType>
+		<zType>TEXT_MISSION_PLAYER_BREAK_PEACE_CHARACTER</zType>
 		<English>Break Peace with</English>
 	</Entry>
 	<Entry>
@@ -63,7 +75,7 @@
 		<English>End Alliance</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_PLAYER_END_ALLIANCE_PLUS</zType>
+		<zType>TEXT_MISSION_PLAYER_END_ALLIANCE_CHARACTER</zType>
 		<English>End Alliance with</English>
 	</Entry>
 	<Entry>
@@ -71,31 +83,43 @@
 		<English>Cancel All Trade</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_PLAYER_CANCEL_TRADE_PLUS</zType>
+		<zType>TEXT_MISSION_PLAYER_CANCEL_TRADE_CHARACTER</zType>
 		<English>Cancel All Trade with</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_ALLIANCE</zType>
+		<English>Barbarian Alliance</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_ALLIANCE_TARGET</zType>
 		<English>Barbarian Alliance with</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_BARBARIAN_ALLIANCE_PLUS</zType>
+		<zType>TEXT_MISSION_BARBARIAN_ALLIANCE_CHARACTER</zType>
 		<English>Barbarian Alliance via</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_PEACE</zType>
+		<English>Barbarian Peace</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_PEACE_TARGET</zType>
 		<English>Barbarian Peace with</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_BARBARIAN_PEACE_PLUS</zType>
+		<zType>TEXT_MISSION_BARBARIAN_PEACE_CHARACTER</zType>
 		<English>Barbarian Peace via</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_TRUCE</zType>
+		<English>Barbarian Truce</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_TRUCE_TARGET</zType>
 		<English>Barbarian Truce with</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_BARBARIAN_TRUCE_PLUS</zType>
+		<zType>TEXT_MISSION_BARBARIAN_TRUCE_CHARACTER</zType>
 		<English>Barbarian Truce via</English>
 	</Entry>
 	<Entry>
@@ -103,7 +127,7 @@
 		<English>Declare War</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_BARBARIAN_DECLARE_WAR_PLUS</zType>
+		<zType>TEXT_MISSION_BARBARIAN_DECLARE_WAR_CHARACTER</zType>
 		<English>Declare War on</English>
 	</Entry>
 	<Entry>
@@ -111,7 +135,7 @@
 		<English>Break Peace</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_BARBARIAN_BREAK_PEACE_PLUS</zType>
+		<zType>TEXT_MISSION_BARBARIAN_BREAK_PEACE_CHARACTER</zType>
 		<English>Break Peace with</English>
 	</Entry>
 	<Entry>
@@ -119,7 +143,7 @@
 		<English>End Alliance</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_BARBARIAN_END_ALLIANCE_PLUS</zType>
+		<zType>TEXT_MISSION_BARBARIAN_END_ALLIANCE_CHARACTER</zType>
 		<English>End Alliance with</English>
 	</Entry>
 	<Entry>
@@ -135,7 +159,7 @@
 		<English>Marry Courtier</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_MARRY_COURTIER_PLUS</zType>
+		<zType>TEXT_MISSION_MARRY_COURTIER_CHARACTER</zType>
 		<English>Marry</English>
 	</Entry>
 	<Entry>
@@ -147,7 +171,7 @@
 		<English>Adopt Child</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_ADOPT_PLUS</zType>
+		<zType>TEXT_MISSION_ADOPT_CHARACTER</zType>
 		<English>Adopt by</English>
 	</Entry>
 	<Entry>
@@ -163,7 +187,11 @@
 		<English>Infiltrate Nation</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_INFILTRATE_PLUS</zType>
+		<zType>TEXT_MISSION_INFILTRATE_TARGET</zType>
+		<English>Infiltrate</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_INFILTRATE_CHARACTER</zType>
 		<English>Infiltrate Nation via</English>
 	</Entry>
 	<Entry>
@@ -171,15 +199,19 @@
 		<English>Assassinate</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_ASSASSINATE_PLUS</zType>
+		<zType>TEXT_MISSION_ASSASSINATE_CHARACTER</zType>
 		<English>Assassinate via</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRADE_MISSION</zType>
+		<English>Trade Mission</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRADE_MISSION_TARGET</zType>
 		<English>Trade Mission with</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_TRADE_MISSION_PLUS</zType>
+		<zType>TEXT_MISSION_TRADE_MISSION_CHARACTER</zType>
 		<English>Trade Mission via</English>
 	</Entry>
 	<Entry>
@@ -187,7 +219,7 @@
 		<English>Family Gifts</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_FAMILY_GIFT_PLUS</zType>
+		<zType>TEXT_MISSION_FAMILY_GIFT_CHARACTER</zType>
 		<English>Family Gifts via</English>
 	</Entry>
 	<Entry>
@@ -195,7 +227,7 @@
 		<English>Imprison</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSION_IMPRISON_PLUS</zType>
+		<zType>TEXT_MISSION_IMPRISON_CHARACTER</zType>
 		<English>Imprison via</English>
 	</Entry>
 	<Entry>
@@ -215,11 +247,23 @@
 		<English>Divorce Spouse</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_MISSION_DIVORCE_TARGET</zType>
+		<English>Divorce</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_MISSION_PLAYER_BARBARIAN_WAR</zType>
+		<English>Ask to Declare War</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_BARBARIAN_WAR_TARGET</zType>
 		<English>Ask to Declare War on</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PLAYER_WAR</zType>
+		<English>Ask to Declare War</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PLAYER_WAR_TARGET</zType>
 		<English>Ask to Declare War on</English>
 	</Entry>
 </Root>
