@@ -8,19 +8,19 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_BASE</zType>
-		<Translation>Base</Translation>
+		<Translation>Базово</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_AMBITION</zType>
-		<Translation>Ambition</Translation>
+		<Translation>Амбиция</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LEGACY</zType>
-		<Translation>Legacy</Translation>
+		<Translation>Наследие</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_COUNCIL_SPYMASTER</zType>
-		<Translation>Spymaster</Translation>
+		<Translation>Начальник разведки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_ABLE</zType>
@@ -56,275 +56,275 @@
 	</Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_PYRAMIDS</zType>
-    <Translation>The Pyramids</Translation>
+    <Translation>Пирамиды</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_GREAT_ZIGGURAT</zType>
-    <Translation>The Great Ziggurat</Translation>
+    <Translation>Великий Зиккурат</Translation>
   </Entry>
   <Entry>
 		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_ORACLE</zType>
-		<Translation>The Oracle</Translation>
+		<Translation>Оракул</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_HANGING_GARDENS</zType>
-		<Translation>The Hanging Gardens</Translation>
+		<Translation>Висячие Сады</Translation>
 	</Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_NECROPOLIS</zType>
-    <Translation>The Necropolis</Translation>
+    <Translation>Некрополь</Translation>
   </Entry>
   <Entry>
 		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_LIGHTHOUSE</zType>
-		<Translation>The Lighthouse</Translation>
+		<Translation>Фаросский Маяк</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_APADANA</zType>
-		<Translation>The Apadana</Translation>
+		<Translation>Ападана</Translation>
 	</Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_MAUSOLEUM</zType>
-    <Translation>The Mausoleum</Translation>
+    <Translation>Галикарнасский Мавзолей</Translation>
   </Entry>
   <Entry>
 		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_ACROPOLIS</zType>
-		<Translation>The Acropolis</Translation>
+		<Translation>Афинский Акрополь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_COLOSSUS</zType>
-		<Translation>The Colossus</Translation>
+		<Translation>Колосс</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_MUSAEUM</zType>
-		<Translation>The Musaeum</Translation>
+		<Translation>Александрийская библиотека</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_CIRCUS_MAXIMUS</zType>
-		<Translation>The Circus Maximus</Translation>
+		<Translation>Большой цирк</Translation>
 	</Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_PANTHEON</zType>
-    <Translation>The Pantheon</Translation>
+    <Translation>Пантеон</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_HAGIA_SOPHIA</zType>
-    <Translation>The Hagia Sophia</Translation>
+    <Translation>Собор Святой Софии</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_GRAND_BAZAAR</zType>
-    <Translation>The Grand Bazaar</Translation>
+    <Translation>Гранд-Базар</Translation>
   </Entry>
   <Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_SLAVERY</zType>
-		<Translation>Slavery</Translation>
+		<Translation>Рабство</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_FREEDOM</zType>
-		<Translation>Freedom</Translation>
+		<Translation>Свобода</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_CENTRALIZATION</zType>
-		<Translation>Centralization</Translation>
+		<Translation>Централизация</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_VASSALAGE</zType>
-		<Translation>Vassalage</Translation>
+		<Translation>Вассалитет</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_TYRANNY</zType>
-		<Translation>Tyranny</Translation>
+		<Translation>Тирания</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_CONSTITUTION</zType>
-		<Translation>Constitution</Translation>
+		<Translation>Конституция</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_CONSTITUTION_DECREE</zType>
-		<Translation>Decree in Capital</Translation>
+		<Translation>Указ в столице</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_EPICS</zType>
-		<Translation>Epics</Translation>
+		<Translation>Героизм</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_EXPLORATION</zType>
-		<Translation>Exploration</Translation>
+		<Translation>Дальняя разведка</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_COLONIZATION</zType>
-		<Translation>Colonization</Translation>
+		<Translation>Колонизация</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_SERFDOM</zType>
-		<Translation>Serfdom</Translation>
+		<Translation>Крепостное право</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_MONOTHEISM</zType>
-		<Translation>Monotheism</Translation>
+		<Translation>Монотеизм</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_POLYTHEISM</zType>
-		<Translation>Polytheism</Translation>
+		<Translation>Политеизм</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_PROFESSIONAL_ARMY</zType>
-		<Translation>Professional Army</Translation>
+		<Translation>Профессиональная армия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_VOLUNTEERS</zType>
-		<Translation>Volunteers</Translation>
+		<Translation>Добровольная служба</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_TOLERANCE</zType>
-		<Translation>Tolerance</Translation>
+		<Translation>Толерантность</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_ORTHODOXY</zType>
-		<Translation>Orthodoxy</Translation>
+		<Translation>Православие</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_GUILDS</zType>
-		<Translation>Guilds</Translation>
+		<Translation>Гильдии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_ELITES</zType>
-		<Translation>Elites</Translation>
+		<Translation>Знать</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_PHILOSOPHY</zType>
-		<Translation>Philosophy</Translation>
+		<Translation>Философия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_ENGINEERING</zType>
-		<Translation>Engineering</Translation>
+		<Translation>Инженерное дело</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_ICONOGRAPHY</zType>
-		<Translation>Iconography</Translation>
+		<Translation>Иконография﻿</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_CALLIGRAPHY</zType>
-		<Translation>Calligraphy</Translation>
+		<Translation>Каллиграфия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_ASCETICISM</zType>
-		<Translation>Asceticism</Translation>
+		<Translation>Аскетизм</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_HOLY_WAR</zType>
-		<Translation>Holy War</Translation>
+		<Translation>Священная война</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_DIVINE_RULE</zType>
-		<Translation>Divine Rule</Translation>
+		<Translation>Божественное происхождение власти</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_SECULARISM</zType>
-		<Translation>Secularism</Translation>
+		<Translation>Секуляризм</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_ISOLATIONISM</zType>
-		<Translation>Isolationism</Translation>
+		<Translation>Изоляционализм</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_TRADE_LEAGUE</zType>
-		<Translation>Trade League</Translation>
+		<Translation>Торговые союзы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_TRADE_LEAGUE_CONVOY</zType>
-		<Translation>Convoy</Translation>
+		<Translation>Караван</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_COIN_DEBASEMENT</zType>
-		<Translation>Coin Debasement</Translation>
+		<Translation>Порча монет</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_MONETARY_REFORM</zType>
-		<Translation>Monetary Reform</Translation>
+		<Translation>Денежная реформа</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_NATION_ASSYRIA</zType>
-		<Translation>Assyria</Translation>
+		<Translation>Ассирия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_NATION_BABYLONIA</zType>
-		<Translation>Babylonia</Translation>
+		<Translation>Вавилония</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_NATION_CARTHAGE</zType>
-		<Translation>Carthage</Translation>
+		<Translation>Карфаген</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_NATION_EGYPT</zType>
-		<Translation>Egypt</Translation>
+		<Translation>Египет</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_NATION_GREECE</zType>
-		<Translation>Greece</Translation>
+		<Translation>Греция</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_NATION_GREECE_OLYMPICS</zType>
-		<Translation>Olympics</Translation>
+		<Translation>Олимпиада</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_NATION_ROME</zType>
-		<Translation>Rome</Translation>
+		<Translation>Рим</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_NATION_PERSIA</zType>
-		<Translation>Persia</Translation>
+		<Translation>Персия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_RELIGION_JUDAISM</zType>
-		<Translation>Mythology</Translation>
+		<Translation>Иудаизм</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_RELIGION_ZOROASTRIANISM</zType>
-		<Translation>Zoroastrianism</Translation>
+		<Translation>Зороастризм</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_RELIGION_CHRISTIANITY</zType>
-		<Translation>Christianity</Translation>
+		<Translation>Христианство</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_RELIGION_MANICHAEISM</zType>
-		<Translation>Manichaeism</Translation>
+		<Translation>Манихеизм</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TECH_LABOR_FORCE</zType>
-		<Translation>Roads</Translation>
+		<Translation>Рабочая сила</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TECH_DRAMA</zType>
-		<Translation>Music</Translation>
+		<Translation>Драма</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TECH_POLITICAL_REFORM</zType>
-		<Translation>Political Reform</Translation>
+		<Translation>Политическая реформа</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TECH_MILITARY_REFORM</zType>
-		<Translation>Military Reform</Translation>
+		<Translation>Военная реформа</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TECH_ECONOMIC_REFORM</zType>
-		<Translation>Economic Reform</Translation>
+		<Translation>Экономическая реформа</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_TACTICIAN_ARCHETYPE</zType>
-		<Translation>Tactician Leader</Translation>
+		<Translation>Тактик Leader</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_JUDGE_ARCHETYPE</zType>
-		<Translation>Judge Leader</Translation>
+		<Translation>Celmz Leader</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_ORATOR_ARCHETYPE</zType>
-		<Translation>Orator Leader</Translation>
+		<Translation>Jhfnjh Leader</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE</zType>
-		<Translation>Scholar Leader</Translation>
+		<Translation>Ученый Leader</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE_INQUIRY</zType>
@@ -332,82 +332,82 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_BUILDER_ARCHETYPE</zType>
-		<Translation>Builder Leader</Translation>
+		<Translation>Строитель Leader</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHEMER_ARCHETYPE</zType>
-		<Translation>Schemer Leader</Translation>
+		<Translation>Интриган Leader</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_COMMANDER_ARCHETYPE</zType>
-		<Translation>Commander Leader</Translation>
+		<Translation>Командир Leader</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_ZEALOT_ARCHETYPE</zType>
-		<Translation>Zealot Leader</Translation>
+		<Translation>Фанатик Leader</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_DIPLOMAT_ARCHETYPE</zType>
-		<Translation>Diplomat Leader</Translation>
+		<Translation>Дипломат Leader</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_HERO_ARCHETYPE</zType>
-		<Translation>Hero Leader</Translation>
+		<Translation>Герой Leader</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_MISERABLE</zType>
-		<Translation>Miserable</Translation>
+		<Translation>Жалкий</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_DRUNK</zType>
-		<Translation>Drunk</Translation>
+		<Translation>Пьяница</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_ROMANTIC</zType>
-		<Translation>Romantic</Translation>
+		<Translation>Романтик</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_MOURNING</zType>
-		<Translation>Mourning</Translation>
+		<Translation>Скорбящий</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_CUNNING</zType>
-		<Translation>Cunning</Translation>
+		<Translation>Коварный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SOLDIER</zType>
-		<Translation>Soldier</Translation>
+		<Translation>Солдат</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_CIVICS</zType>
-		<Translation>Low Civics</Translation>
+		<Translation>Малое кол-во Civics</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_CIVICS</zType>
-		<Translation>Medium Civics</Translation>
+		<Translation>Среднее кол-во Civics</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_CIVICS</zType>
-		<Translation>High Civics</Translation>
+		<Translation>Высокое кол-во Civics</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_CIVICS</zType>
-		<Translation>Very High Civics</Translation>
+		<Translation>Очень высокое кол-во Civics</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_TRAINING</zType>
-		<Translation>Low Training</Translation>
+		<Translation>Малое кол-во Очков тренировки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_TRAINING</zType>
-		<Translation>Medium Training</Translation>
+		<Translation>Среднее кол-во Очков тренировки </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_TRAINING</zType>
-		<Translation>High Training</Translation>
+		<Translation>Высокое кол-во Очков тренировки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_TRAINING</zType>
-		<Translation>Very High Training</Translation>
+		<Translation>Очень высокое кол-во Очков тренировки</Translation>
 	</Entry>
 </Root>
