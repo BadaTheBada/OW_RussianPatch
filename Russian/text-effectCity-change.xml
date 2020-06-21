@@ -428,7 +428,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MONASTERY_MYTHOLOGY</zType>
-		<Translation>Мифологический Монастырь</Translation>
+		<Translation>Монастырь Мифологии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MONASTERY_VENERATION</zType>
@@ -616,11 +616,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_UPSET</zType>
-		<Translation>Симпатия (Религия)</Translation>
+		<Translation>Огорчение (Религия)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_PLEASED</zType>
-		<Translation>Pleased (Религия)</Translation>
+		<Translation>Симпатия (Религия)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_FRIENDLY</zType>
@@ -728,7 +728,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_SWORD_CULT</zType>
-		<Translation>Культ меча</Translation>
+		<Translation>Культ Меча</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_SWORD_CULT_TITHE</zType>
@@ -804,7 +804,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_FEAST_PERSIA</zType>
-		<Translation>Проводить ежегодный праздник для Персидских гостей</Translation>
+		<Translation>Провести Ежегодный праздник для персидских гостей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_TRADE_ROME</zType>
@@ -1144,23 +1144,23 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_JUDGE_ARCHETYPE_ALL</zType>
-		<Translation>Оратор Leader</Translation>
+		<Translation>Правитель Оратор</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_ORATOR_ARCHETYPE_ALL</zType>
-		<Translation>Судья Leader</Translation>
+		<Translation>Правитель Судья</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_BUILDER_ARCHETYPE_ALL</zType>
-		<Translation>Строитель Leader</Translation>
+		<Translation>Правитель Строитель</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_COMMANDER_ARCHETYPE_ALL</zType>
-		<Translation>Командир Leader</Translation>
+		<Translation>Правитель Командир</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_ZEALOT_ARCHETYPE_STATE</zType>
-		<Translation>Фанатик Leader</Translation>
+		<Translation>Правитель Фанатик</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_ROBUST</zType>
@@ -1244,7 +1244,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CORRUPT</zType>
-		<Translation>Безнравственный</Translation>
+		<Translation>Продажный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_DEBAUCHED</zType>
@@ -1305,7 +1305,7 @@
 	<!--Source-->
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SEAT_SOURCE</zType>
-		<Translation>Гнездо</Translation>
+		<Translation>Оплот</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CAPITAL_SOURCE</zType>
