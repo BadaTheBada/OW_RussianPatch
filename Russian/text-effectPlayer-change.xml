@@ -312,23 +312,23 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_TACTICIAN_ARCHETYPE</zType>
-		<Translation>Тактик Leader</Translation>
+		<Translation>Правитель Тактик</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_JUDGE_ARCHETYPE</zType>
-		<Translation>Celmz Leader</Translation>
+		<Translation>Правитель Судья</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_ORATOR_ARCHETYPE</zType>
-		<Translation>Jhfnjh Leader</Translation>
+		<Translation>Правитель Оратор</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE</zType>
-		<Translation>Ученый Leader</Translation>
+		<Translation>Правитель Ученый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE_INQUIRY</zType>
-		<Translation>Inquiry in Capital</Translation>
+		<Translation>Научное изыскание в столице</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_BUILDER_ARCHETYPE</zType>
