@@ -944,19 +944,19 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_GEM</zType>
-		<Translation>Драгоценный камень</Translation>
+		<Translation>Драгоценные камни</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_HORSE</zType>
-		<Translation>Лошадь</Translation>
+		<Translation>Лошади</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_CAMEL</zType>
-		<Translation>Верблюд</Translation>
+		<Translation>Верблюды</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_ELEPHANT</zType>
-		<Translation>Слон</Translation>
+		<Translation>Слоны</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_FUR</zType>
@@ -964,7 +964,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_INCENSE</zType>
-		<Translation>Пряность</Translation>
+		<Translation>Пряности</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_WINE</zType>
@@ -972,15 +972,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_OLIVE</zType>
-		<Translation>Оливка</Translation>
+		<Translation>Оливки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_DYE</zType>
-		<Translation>Краска</Translation>
+		<Translation>Красители</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_PEARL</zType>
-		<Translation>Жемчужина</Translation>
+		<Translation>Жемчуга</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_SCROLLS</zType>
