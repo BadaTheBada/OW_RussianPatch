@@ -332,27 +332,27 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_BUILDER_ARCHETYPE</zType>
-		<Translation>Строитель Leader</Translation>
+		<Translation>Правитель Строитель</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHEMER_ARCHETYPE</zType>
-		<Translation>Интриган Leader</Translation>
+		<Translation>Правитель Интриган</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_COMMANDER_ARCHETYPE</zType>
-		<Translation>Командир Leader</Translation>
+		<Translation>Правитель Командир</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_ZEALOT_ARCHETYPE</zType>
-		<Translation>Фанатик Leader</Translation>
+		<Translation>Правитель Фанатик</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_DIPLOMAT_ARCHETYPE</zType>
-		<Translation>Дипломат Leader</Translation>
+		<Translation>Правитель Дипломат</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_HERO_ARCHETYPE</zType>
-		<Translation>Герой Leader</Translation>
+		<Translation>Правитель Герой</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_MISERABLE</zType>
