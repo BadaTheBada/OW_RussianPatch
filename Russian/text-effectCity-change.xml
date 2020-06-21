@@ -158,6 +158,7 @@
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_ABLE</zType>
 		<Translation>The Able</Translation>
 	</Entry>
+	<!--Требуется перевод-->
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_ABLE_CAPITAL</zType>
 		<Translation>The Able</Translation>
@@ -424,7 +425,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_HOLY_SITE</zType>
-		<Translation>Святой город</Translation>
+		<Translation>Священный город</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MONASTERY_MYTHOLOGY</zType>
@@ -732,7 +733,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_SWORD_CULT_TITHE</zType>
-		<Translation>Десятина Культа Меча</Translation>
+		<Translation>Десятина культа Меча</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_HOSTILE_GARRISON</zType>
@@ -980,7 +981,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_PEARL</zType>
-		<Translation>Жемчуга</Translation>
+		<Translation>Жемчуг</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_SCROLLS</zType>
@@ -1200,7 +1201,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_INSPIRING</zType>
-		<Translation>Вдохновленный</Translation>
+		<Translation>Вдохновляющий</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_INTELLIGENT</zType>
