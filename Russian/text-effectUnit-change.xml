@@ -8,107 +8,107 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COMBAT1</zType>
-		<Translation>Combat I</Translation>
+		<Translation>Бой I</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COMBAT2</zType>
-		<Translation>Combat II</Translation>
+		<Translation>Бой II</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COMBAT3</zType>
-		<Translation>Combat III</Translation>
+		<Translation>Бой III</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_GUARD1</zType>
-		<Translation>Guard I</Translation>
+		<Translation>Охрана I</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_GUARD2</zType>
-		<Translation>Guard II</Translation>
+		<Translation>Охрана II</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_GUARD3</zType>
-		<Translation>Guard III</Translation>
+		<Translation>Охрана III</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FOCUS1</zType>
-		<Translation>Focus I</Translation>
+		<Translation>Фокус I</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FOCUS2</zType>
-		<Translation>Focus II</Translation>
+		<Translation>Фокус II</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FOCUS3</zType>
-		<Translation>Focus III</Translation>
+		<Translation>Фокус III</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HERO</zType>
-		<Translation>Hero</Translation>
+		<Translation>Герой</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COMMANDER</zType>
-		<Translation>Commander</Translation>
+		<Translation>Командир</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TACTICIAN</zType>
-		<Translation>Tactician</Translation>
+		<Translation>Тактик</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ZEALOT</zType>
-		<Translation>Zealot</Translation>
+		<Translation>Фанатик</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SCHEMER</zType>
-		<Translation>Schemer</Translation>
+		<Translation>Интриган</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TRACKER</zType>
-		<Translation>Tracker</Translation>
+		<Translation>Охотник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SWIFT</zType>
-		<Translation>Swift</Translation>
+		<Translation>Неуловимый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HARDY</zType>
-		<Translation>Hardy</Translation>
+		<Translation>Выносливый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_EAGLE_EYE</zType>
-		<Translation>Eagle Eye</Translation>
+		<Translation>Орлинный глаз</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_MARKSMAN</zType>
-		<Translation>Marksman</Translation>
+		<Translation>Меткий стрелок</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ENGINEER</zType>
-		<Translation>Engineer</Translation>
+		<Translation>Инженер</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BESIEGER</zType>
-		<Translation>Besieger</Translation>
+		<Translation>Мастер осады</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_GARRISON</zType>
-		<Translation>Garrison</Translation>
+		<Translation>Гарнизон</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BLOODTHIRSTY</zType>
-		<Translation>Bloodthirsty</Translation>
+		<Translation>Кровожадный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HECKLER</zType>
-		<Translation>Heckler</Translation>
+		<Translation>Гроза генералов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_STEADFAST</zType>
-		<Translation>Steadfast</Translation>
+		<Translation>Непоколебимый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HERBALIST</zType>
-		<Translation>Herbalist</Translation>
+		<Translation>Травник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HEALER</zType>
@@ -116,114 +116,114 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_NOMAD</zType>
-		<Translation>Nomad</Translation>
+		<Translation>Кочевник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COLD</zType>
-		<Translation>Cold</Translation>
+		<Translation>Холод</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HIGHLANDER</zType>
-		<Translation>Highlander</Translation>
+		<Translation>Горец</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_RANGER</zType>
-		<Translation>Ranger</Translation>
+		<Translation>Странник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BRAVE</zType>
-		<Translation>Brave</Translation>
+		<Translation>Храбрый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SHIELDBEARER</zType>
-		<Translation>Shieldbearer</Translation>
+		<Translation>Щитоносец</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FIERCE</zType>
-		<Translation>Fierce</Translation>
+		<Translation>Свирепый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HORSEBANE</zType>
-		<Translation>Horsebane</Translation>
+		<Translation>Гроза всадников</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_AGGRESSOR</zType>
-		<Translation>Aggressor</Translation>
+		<Translation>Агрессор</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ROUT</zType>
-		<Translation>Rout</Translation>
+		<Translation>Бегство</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PANIC</zType>
-		<Translation>Panic</Translation>
+		<Translation>Паника</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_STEALTH</zType>
-		<Translation>Stealth</Translation>
+		<Translation>Скрытность</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ASSAULT</zType>
-		<Translation>Assault</Translation>
+		<Translation>Атака</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FORMATION</zType>
-		<Translation>Formation</Translation>
+		<Translation>Построение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_VALOR</zType>
-		<Translation>Valor</Translation>
+		<Translation>Отвага</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_INGENUITY</zType>
-		<Translation>Ingenuity</Translation>
+		<Translation>Изобретательность</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SADDLEBORN</zType>
-		<Translation>Saddleborn</Translation>
+		<Translation>Прирожденный всадник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SNIPING</zType>
-		<Translation>Sniping</Translation>
+		<Translation>Снайпер</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PATHFINDER</zType>
-		<Translation>Pathfinder</Translation>
+		<Translation>Следопыт</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_FURIOUS</zType>
-		<Translation>Furious (Family)</Translation>
+		<Translation>Ярость (Семья)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_ANGRY</zType>
-		<Translation>Angry (Family)</Translation>
+		<Translation>Злость (Семья)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_UPSET</zType>
-		<Translation>Upset (Family)</Translation>
+		<Translation>Огорчение (Семья)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_PLEASED</zType>
-		<Translation>Pleased (Family)</Translation>
+		<Translation>Симпатия (Семья)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_FRIENDLY</zType>
-		<Translation>Friendly (Family)</Translation>
+		<Translation>Дружелюбие (Семья)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TRAIT_HERO_ARCHETYPE_LEADER</zType>
-		<Translation>Hero (Leader)</Translation>
+		<Translation>Правитель Герой</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TRAIT_TACTICIAN_ARCHETYPE</zType>
-		<Translation>Tactician</Translation>
+		<Translation>Тактик</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TRAIT_CRIPPLED</zType>
-		<Translation>Crippled</Translation>
+		<Translation>Изувеченный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SWORD_OF_THE_GODS</zType>
-		<Translation>Sword of the Gods</Translation>
+		<Translation>Владелец меча Богов</Translation>
 	</Entry>
 </Root>
