@@ -832,11 +832,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_GRAIN_DOLE</zType>
-		<Translation>Зерновая Доля</Translation>
+		<Translation>Зерновая доля</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_FOREIGN_FIGHTERS</zType>
-		<Translation>Чужеземные Воины</Translation>
+		<Translation>Чужеземные воины</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_WAR_COUNCIL</zType>
