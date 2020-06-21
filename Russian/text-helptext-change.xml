@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Translated by Elena Davydova (Bada)-->
 <Root>
   <!--Generic-->
   <Entry>
@@ -423,11 +422,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES</zType>
-    <Translation>[Требует {0}]</Translation>
+    <Translation>[Требует: {0}]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_NO</zType>
-    <Translation>[Не требует {0}]</Translation>
+    <Translation>[Не требует: {0}]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_X</zType>
@@ -507,7 +506,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_HURRY_WARNING_REQUIRES</zType>
-    <Translation>Требует {0} {1}</Translation>
+    <Translation>Требует: {0} {1}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_HURRY_WARNING_CITY_DAMAGED</zType>
@@ -1192,7 +1191,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_FOUND_CITY_NOT_CONNECTED</zType>
-    <Translation>Новый город не будет {0_connectedLink} с г. {1_capitalLink}</Translation>
+    <Translation>Новый город не будет {0_connectedLink} со {1_capitalLink}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_FOUND_CITY_NEEDS_URBAN</zType>
@@ -1750,7 +1749,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_FAMILY_SEAT</zType>
-    <Translation>Первый город семьи {0_family}:</Translation>
+    <Translation>Первый город этой семьи</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_FAMILY_UNITS</zType>
@@ -2485,7 +2484,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_INVISIBLE_IN</zType>
-    <Translation>Невидим в нейтральных {0,10_vegetation}</Translation>
+    <Translation>Невидим в нейтральных {0,11_vegetation}</Translation>
   </Entry>
   <!--Effect City Help No Yields-->
   <Entry>
@@ -2654,7 +2653,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_NEW_UNITS_WITH</zType>
-    <Translation>Новые отряды начинают с {0,4_link}</Translation>
+    <Translation>Новые отряды получают {0,3_link}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_TRAIT_FREE_PROMOTIONS</zType>
@@ -2959,7 +2958,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_CAN_ADD_ROAD</zType>
-    <Translation>Может добавить {0,3_road}</Translation>
+    <Translation>Может проложить {0,3_road}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_CAN_ADD_URBAN</zType>
@@ -3051,7 +3050,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_UNLOCKS_PROJECT_CAPITAL</zType>
-    <Translation>Открывает проект (в {0_capital}): {1_project}</Translation>
+    <Translation>Открывает проект (в {0,5_capital}): {1_project}</Translation>
   </Entry>
   <!--FamilyClass Help-->
   <Entry>
@@ -3578,7 +3577,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_JOB_PREREQ</zType>
-    <Translation>Может служить {0,5_list}</Translation>
+    <Translation>Может служить {0,4_list}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_DEATH_CHANCE</zType>
@@ -3934,7 +3933,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TILE_ADD_ROAD_BUTTON</zType>
-    <Translation>Добавить дорогу</Translation>
+    <Translation>Проложить дорогу</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TILE_ADD_URBAN_BUTTON</zType>
