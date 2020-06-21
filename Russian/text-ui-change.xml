@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Translated by Elena Davydova (Bada)-->
 <Root>
     <Entry>
         <zType/>
@@ -673,9 +672,10 @@
         <zType>TEXT_OVERVIEW_MAP_RESOURCES</zType>
         <Translation>Ресурсы</Translation>
     </Entry>
+	<!--Требуется перевод-->
     <Entry>
         <zType>TEXT_OVERVIEW_MAP_CITYSITES</zType>
-        <Translation>Город-государство</Translation>
+        <Translation>City Sites</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_OVERVIEW_MAP_OTHER</zType>
@@ -713,10 +713,6 @@
         <zType>TEXT_WIDGET_CITY_IDLE</zType>
         <Translation>Без производства</Translation>
     </Entry>
-    <Entry>
-        <zType>TEXT_WIDGET_CITY_UNKNOWN</zType>
-        <Translation>Неизвестно</Translation>
-    </Entry>
     <!--character-->
     <Entry>
         <zType>TEXT_POPUP_INHERITANCE_CHARACTER_ACTIONS</zType>
@@ -730,6 +726,7 @@
         <zType>TEXT_CHARACTER_UPGRADE_DECISION_TRAIT</zType>
         <Translation>Upgrade: {0_trait}</Translation>
     </Entry>
+
     <!-- tech tree-->
     <Entry>
         <zType>TEXT_TECH_TREE_OVERRIDE_CURRENT_RESEARCH</zType>
