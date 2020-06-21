@@ -7,275 +7,275 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_INFILTRATE_REVEAL_DESCRIPTION</zType>
-		<Translation>{CHARACTER-SUBJECT} has successfully infiltrated your rival's territory.</Translation>
+		<Translation>{CHARACTER-SUBJECT} успешно проник на территорию вашего соперника.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL_DESCRIPTION</zType>
-		<Translation>You have successfully assassinated {CHARACTER-TARGET}, and no one suspects a thing...</Translation>
+		<Translation>Вы успешно убили {CHARACTER-TARGET},  и никто ничего не подозревает...</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL_EXPOSED_DESCRIPTION</zType>
-		<Translation>Your assassins successfully eliminated {CHARACTER-TARGET}, but evidence has been traced back to you.</Translation>
+		<Translation>Ваши убийцы успешно ликвидировали {CHARACTER-TARGET}, но улики ведут к вам.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ASSASSINATE_FAIL_EXPOSED_DESCRIPTION</zType>
-		<Translation>Your assassins have failed to kill {CHARACTER-TARGET}. Worse yet, your ignoble plot has been exposed.</Translation>
+		<Translation>Ваши убийцы не смогли убить {CHARACTER-TARGET}. Хуже того, ваш гнусный заговор раскрыт.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_DESCRIPTION</zType>
-		<Translation>Your vassal family appreciates the gifts that your Chancellor {CHARACTER-SUBJECT} brought from you.</Translation>
+		<Translation>Ваша вассальная семья ценит подарки, которые принес от вас ваш Канцлер {CHARACTER-SUBJECT}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_WEAKEN_DESCRIPTION</zType>
-		<Translation>Your vassal family appreciates the gifts that your Chancellor {CHARACTER-SUBJECT} brought, but your other subjects view this pandering as a sign of weakness.</Translation>
+		<Translation>Ваша вассальная семья ценит подарки, которые принес ваш Канцлер {CHARACTER-SUBJECT}, но другие ваши подданные рассматривают это потворство как признак слабости.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_IMPRISON_JUST_DESCRIPTION</zType>
-		<Translation>{CHARACTER-TARGET} has been imprisoned on charges that are generally agreed to be just.</Translation>
+		<Translation><![CDATA[{CHARACTER-TARGET} <masculine_CHARACTER-TARGET>был заключен<feminine>была заключена<end> в тюрьму по обвинению, которое считается справедливым.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_IMPRISON_UNJUST_DESCRIPTION</zType>
-		<Translation>{CHARACTER-TARGET} has been imprisoned on blatantly spurious charges. Some are accusing you of tyranny.</Translation>
+		<Translation><![CDATA[{CHARACTER-TARGET} <masculine_CHARACTER-TARGET>был заключен<feminine>была заключена<end> в тюрьму по вопиюще ложным обвинениям. Некоторые обвиняют вас в тирании.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_IMPRISON_ESCAPE_DESCRIPTION</zType>
-		<Translation>{CHARACTER-TARGET} has escaped arrest and is now on the run!</Translation>
+		<Translation><![CDATA[{CHARACTER-TARGET} <masculine_CHARACTER-TARGET>сбежал<feminine>сбежала<end> из-под ареста и теперь в бегах!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_RELEASE_GRATEFUL_DESCRIPTION</zType>
-		<Translation><![CDATA[{CHARACTER-TARGET} has been released from prison. Grateful to be free again, <masculine_CHARACTER-TARGET>he<feminine>she<end> has forgiven your past slights against <masculine_CHARACTER-TARGET>him<feminine>her<end>.]]></Translation>
+		<Translation><![CDATA[{CHARACTER-TARGET} <masculine_CHARACTER-TARGET>был освобожден<feminine>была освобождена<end> из тюрьмы. В благодарность за то, что снова <masculine_CHARACTER-TARGET>свободен, он простил<feminine>свободна, она простила<end> выши прошлые злодеяния по отношению к <masculine_CHARACTER-TARGET>нему<feminine>ней<end>.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_RELEASE_BITTER_DESCRIPTION</zType>
-		<Translation><![CDATA[{CHARACTER-TARGET} has been released from prison, but harbors a bitter resentment against you for <masculine_CHARACTER-TARGET>his<feminine>her<end> imprisonment.]]></Translation>
+		<Translation><![CDATA[{CHARACTER-TARGET} <masculine_CHARACTER-TARGET>был освобожден<feminine>была освобождена<end> из тюрьмы, но <masculine_CHARACTER-TARGET>затаил<feminine>затаила<end> обиду за свое заточение.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_RELEASE_UNJUST_DESCRIPTION</zType>
-		<Translation><![CDATA[{CHARACTER-TARGET} has been released from prison, and has not been shy about complaining of <masculine_CHARACTER-TARGET>his<feminine>her<end> unjust imprisonment.]]></Translation>
+		<Translation><![CDATA[{CHARACTER-TARGET} <masculine_CHARACTER-TARGET>был освобожден<feminine>была освобождена<end> из тюрьмы, и не <masculine_CHARACTER-TARGET>стыдился<feminine>стыдилась<end> жаловаться на свое наспреведливое заточение]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CAPTURE_SURRENDER_DESCRIPTION</zType>
-		<Translation><![CDATA[Your efforts to capture {CHARACTER-TARGET} have been successful. <masculine_CHARACTER-TARGET>He<feminine>She<end> has surrendered and is being held in captivity.]]></Translation>
+		<Translation><![CDATA[Ваши попытки поймать {CHARACTER-TARGET} увенчались успехом. <masculine_CHARACTER-TARGET>Он сдался<feminine>Она сдалась<end> и находится в плену.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CAPTURE_KILLED_DESCRIPTION</zType>
-		<Translation><![CDATA[{CHARACTER-TARGET} refused to surrender to the party you sent to capture <masculine_CHARACTER-TARGET>him<feminine>her<end>, choosing death over captivity.]]></Translation>
+		<Translation><![CDATA[{CHARACTER-TARGET} <masculine_CHARACTER-TARGET>отказался сдаться группе, которую вы послали за ним<feminine>отказалась сдаться группе, которую вы послали за ней<end>, предпочтя смерть плену.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CAPTURE_FLEE_DESCRIPTION</zType>
-		<Translation><![CDATA[{CHARACTER-TARGET} has eluded your tracking party and escaped the country! <masculine_CHARACTER-TARGET>He<feminine>She<end> is now hiding somewhere beyond your reach...]]></Translation>
+		<Translation><![CDATA[{CHARACTER-TARGET} <masculine_CHARACTER-TARGET>ускользнул от ваших следопытов и сбежал<feminine>ускользнула от ваших следопытов и сбежала<end> из страны, прячясь где-то вне вашей досягаемости...]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CAPTURE_FAIL_DESCRIPTION</zType>
-		<Translation><![CDATA[Your trackers have failed to discover the whereabouts of {CHARACTER-TARGET}. We can only assume that <masculine_CHARACTER-TARGET>he<feminine>she<end> remains on the run.]]></Translation>
+		<Translation><![CDATA[Ваши следопыты не смогли обнаружить местонахождение {CHARACTER-TARGET}. Мы можем только предполагать, что <masculine_CHARACTER-TARGET>он<feminine>она<end> остается в бегах.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_MARRY_COURTIER_DESCRIPTION</zType>
-		<Translation>Good news: {CHARACTER-SUBJECT} has agreed to your marriage proposal. Congratulations!</Translation>
+		<Translation><![CDATA[Хорошая новость: {CHARACTER-SUBJECT} <masculine_CHARACTER-SUBJECT>согласился<feminine>согласилась<end> на ваше предложение руки и сердца. Поздравляем!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CAPTURED_RANSOM_DESCRIPTION</zType>
-		<Translation><![CDATA[You have paid the ransom for {CHARACTER-SUBJECT} and secured <masculine_CHARACTER-SUBJECT>his<feminine>her<end> release!]]></Translation>
+		<Translation><![CDATA[Вы заплатили выкуп за {CHARACTER-SUBJECT} и обеспечили <masculine_CHARACTER-SUBJECT>его<feminine>ее<end> освобождение!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_DIVORCE_MUTUAL_DESCRIPTION</zType>
-		<Translation>After some persuading, {CHARACTER-SUBJECT} has agreed to a mutual divorce agreement.</Translation>
+		<Translation><![CDATA[После некоторых уговоров, {CHARACTER-SUBJECT} <masculine_CHARACTER-SUBJECT>согласился<feminine>согласилась<end> на взаимный развод.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_DIVORCE_FORCED_DESCRIPTION</zType>
-		<Translation><![CDATA[You have forced {CHARACTER-TARGET} to divorce you against <masculine_CHARACTER-TARGET>his<feminine>her<end> will.]]></Translation>
+		<Translation><![CDATA[Вы вынудили {CHARACTER-TARGET} развестись с вами против <masculine_CHARACTER-TARGET>его<feminine>ее<end> воли.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_EVENT_DESCRIPTION</zType>
-		<Translation>The mission of {CHARACTER-SUBJECT} has led to an event...</Translation>
+		<Translation>Задание {CHARACTER-SUBJECT} привело к событию...</Translation>
 	</Entry>
 	<!--Result Name-->
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_AMBASSADOR</zType>
-		<Translation>Ambassador</Translation>
+		<Translation>Посол</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CHANCELLOR</zType>
-		<Translation>Chancellor</Translation>
+		<Translation>Канцлер</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_SPYMASTER</zType>
-		<Translation>Spymaster</Translation>
+		<Translation>Начальник разведки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_TEAM_ALLIANCE_EVENT</zType>
-		<Translation>Alliance Event</Translation>
+		<Translation>Вступление в союз</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_PEACE_EVENT</zType>
-		<Translation>Peace Event</Translation>
+		<Translation>Заключение мира с нацией</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_EVENT</zType>
-		<Translation>Truce Event</Translation>
+		<Translation>Заключение перемирия с нацией</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_DECLARE_WAR_EVENT</zType>
-		<Translation>Declare War</Translation>
+		<Translation>Объявление войны</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_BREAK_PEACE_EVENT</zType>
-		<Translation>Break Peace</Translation>
+		<Translation>Нарушение мира с нацией</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_END_ALLIANCE_EVENT</zType>
-		<Translation>End Alliance</Translation>
+		<Translation>Выход из союза</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_CANCEL_TRADE_EVENT</zType>
-		<Translation>Cancel Trade</Translation>
+		<Translation>Прекращение торговли</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_BARBARIAN_ALLIANCE_EVENT</zType>
-		<Translation>Alliance Event</Translation>
+		<Translation>Вступление в союз с племенем</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_BARBARIAN_PEACE_EVENT</zType>
-		<Translation>Peace Event</Translation>
+		<Translation>Заключение мира с племенем</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_BARBARIAN_TRUCE_EVENT</zType>
-		<Translation>Truce Event</Translation>
+		<Translation>Заключение перемирия с племенем</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_BARBARIAN_DECLARE_WAR_EVENT</zType>
-		<Translation>Declare War</Translation>
+		<Translation>Объявление войны племени</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_BARBARIAN_BREAK_PEACE_EVENT</zType>
-		<Translation>Break Peace</Translation>
+		<Translation>Нарушение мира с племенем</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_BARBARIAN_END_ALLIANCE_EVENT</zType>
-		<Translation>End Alliance</Translation>
+		<Translation>Выход из союза с племенем</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ADOPT_RELIGION_EVENT</zType>
-		<Translation>Adopt Religion</Translation>
+		<Translation>Принятие религии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_FAMILY_MARRIAGE_EVENT</zType>
-		<Translation>Family Marriage</Translation>
+		<Translation>Заключение брака с семьей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ABDICATE</zType>
-		<Translation>Abdicates</Translation>
+		<Translation>Отречение от престола</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ADOPT</zType>
-		<Translation>Adopted</Translation>
+		<Translation>Принятие</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_LEGITIMIZE</zType>
-		<Translation>Legitimized</Translation>
+		<Translation>Узаконенный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CHOSEN_HEIR</zType>
-		<Translation>Heir chosen</Translation>
+		<Translation>Объявление наследника</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_INFILTRATE_REVEAL</zType>
-		<Translation>Territory infiltrated</Translation>
+		<Translation>Внедрение шпиона</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL</zType>
-		<Translation>Target killed</Translation>
+		<Translation>Цель уничтожена</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL_EXPOSED</zType>
-		<Translation>Target killed, plot exposed</Translation>
+		<Translation>Цель уничтожена, заговор раскрыт</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ASSASSINATE_FAIL_EXPOSED</zType>
-		<Translation>Target survives, plot exposed</Translation>
+		<Translation>Цель выжила, заговор раскрыт</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ASSASSINATE_EVENT</zType>
-		<Translation>Assassination Event</Translation>
+		<Translation>Убийство</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_TRADE_MISSION_EVENT</zType>
-		<Translation>Trade Mission Event</Translation>
+		<Translation>Торговая делегация</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS</zType>
-		<Translation>Gifts please the Family</Translation>
+		<Translation>Семья оценила подарки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_WEAKEN</zType>
-		<Translation>Gifts expose our weakness</Translation>
+		<Translation>Подарки показывают нашу слабость</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_EVENT</zType>
-		<Translation>Family Gift Event</Translation>
+		<Translation>Передача подарков семье</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_IMPRISON_JUST</zType>
-		<Translation>Target justly imprisoned</Translation>
+		<Translation>Цель справедливо заключена в тюрьму</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_IMPRISON_UNJUST</zType>
-		<Translation>Target unjustly imprisoned</Translation>
+		<Translation>Цель не справедливо заключена в тюрьму</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_IMPRISON_ESCAPE</zType>
-		<Translation>Target escapes</Translation>
+		<Translation>Цель сбежала из-под ареста</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_RELEASE_GRATEFUL</zType>
-		<Translation>Target is grateful</Translation>
+		<Translation>Пленник благодарен</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_RELEASE_BITTER</zType>
-		<Translation>Target remains bitter</Translation>
+		<Translation>Пленник затаил обиду</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_RELEASE_UNJUST</zType>
-		<Translation>Release considered unjust</Translation>
+		<Translation>Пленник недоволен несправедливым заточением</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CAPTURE_SURRENDER</zType>
-		<Translation>Target surrenders</Translation>
+		<Translation>Цель сдалась</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CAPTURE_KILLED</zType>
-		<Translation>Target is killed resisting capture</Translation>
+		<Translation>Цель убита при сопротивлении захвату</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CAPTURE_FLEE</zType>
-		<Translation>Target flees the country</Translation>
+		<Translation>Цель сбежала из страны</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CAPTURE_FAIL</zType>
-		<Translation>Target cannot be found</Translation>
+		<Translation>Цель не найдена</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_MARRY_COURTIER</zType>
-		<Translation>Marriage</Translation>
+		<Translation>Бракосочетание</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_DIVORCE_MUTUAL</zType>
-		<Translation>Mutual divorce</Translation>
+		<Translation>Взаимный развод</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_DIVORCE_FORCED</zType>
-		<Translation>Forced divorce</Translation>
+		<Translation>Принудительный развод</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_CAPTURED_RANSOM</zType>
-		<Translation>Ransom paid</Translation>
+		<Translation>Выкуп выплачен</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_BARBARIAN_WAR_EVENT</zType>
-		<Translation>Player vs Barbarian War Event</Translation>
+		<Translation>Война с племенем</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_PLAYER_WAR_EVENT</zType>
-		<Translation>Player vs Player War Event</Translation>
+		<Translation>Война с нацией</Translation>
 	</Entry>
 </Root>
