@@ -138,7 +138,7 @@
 	<!--InfoVegetation-->
 	<Entry>
 		<zType>TEXT_VEGETATION_TREES</zType>
-		<Translation>Лес</Translation>
+		<Translation>Лес~Леса~Лесу~Лес~Лесом~Лесе~Леса~Лесов~Лесам~Леса~Лесами~Лесах</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VEGETATION_TREES_REMOVE</zType>
