@@ -205,6 +205,10 @@
 		<Translation>Убить с помощью</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_MISSION_TREACHERY</zType>
+		<Translation>Treachery</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_MISSION_TRADE_MISSION</zType>
 		<Translation>Торговая делегация</Translation>
 	</Entry>
