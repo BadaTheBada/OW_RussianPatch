@@ -1285,6 +1285,66 @@
 		<zType>TEXT_EVENTSTORY_ACQUIRED_TASTES_TITLE</zType>
 		<Translation>Acquired Tastes</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEFIANCE_TITLE</zType>
+		<Translation>Defiance</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CITY_ABLAZE_TITLE</zType>
+		<Translation>City Ablaze</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEW_RECRUITS_TITLE</zType>
+		<Translation>New Recruits</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_JAILED_SPY_TITLE</zType>
+		<Translation>Jailed Spy</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HIDDEN_LABORATORY_TITLE</zType>
+		<Translation>Secret Laboratory</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BATTLEFIELD_STRAIN_TITLE</zType>
+		<Translation>Battlefield Strain</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOG_OF_WAR_TITLE</zType>
+		<Translation>Fog of War</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_COWARD_TITLE</zType>
+		<Translation>The Coward</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_LOST_OF_CITY_TITLE</zType>
+		<Translation>The Lost of {CITY-0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCY_IN_CITY_TITLE</zType>
+		<Translation>Mercy in {CITY-0}?</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NO_WAY_OUT_TITLE</zType>
+		<Translation>No Way Out</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_STAR_TITLE</zType>
+		<Translation>Rising Star</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STORMS_OF_BATTLE_TITLE</zType>
+		<Translation>Storms of Battle</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALL_TO_ACTION_TITLE</zType>
+		<Translation>Call to Action</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AMONG_THE_DEAD_TITLE</zType>
+		<Translation>Among the Dead</Translation>
+	</Entry>
 	<Entry beginGroup="Family">
 		<zType>TEXT_EVENTSTORY_FAMILY_GIFT_TITLE</zType>
 		<Translation>A Kind Gesture</Translation>
@@ -1324,6 +1384,10 @@
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FEMALE_EDUCATION_TITLE</zType>
 		<Translation>Educating Our Women</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEMAND_CITY_TITLE</zType>
+		<Translation>[DEMAND CITY]</Translation>
 	</Entry>
 	<Entry beginGroup="Marriage">
 		<zType>TEXT_EVENTSTORY_MARRIAGE_OFFER_TITLE</zType>
@@ -3065,6 +3129,46 @@
 		<zType>TEXT_EVENTSTORY_OEDIPUS_TYRANNUS_TITLE</zType>
 		<Translation>Oedipus Tyrannus</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CITY_ANARCHY_TITLE</zType>
+		<Translation>Anarchy in {CITY-0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CITY_AUTONOMY_TITLE</zType>
+		<Translation>Autonomy in {CITY-0}</Translation>
+	</Entry>
+	<Entry beginGroup="Religion">
+		<zType>TEXT_EVENTSTORY_GODS_AND_MONSTERS_TITLE</zType>
+		<Translation>Gods and Monsters</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BLESSINGS_OF_OUR_ANCESTORS_TITLE</zType>
+		<Translation>Holy Figures</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGIOUS_LAW_TITLE</zType>
+		<Translation>Religious Law</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ILLUMINATION_TITLE</zType>
+		<Translation>Illumination</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PERSONAL_FAITH_TITLE</zType>
+		<Translation>Personal Faith</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DELIVERANCE_TITLE</zType>
+		<Translation>Deliverance</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MALEVOLENCE_TITLE</zType>
+		<Translation>Malevolence</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MYSTICAL_TRANCE_TITLE</zType>
+		<Translation>Mystical Trance</Translation>
+	</Entry>
 	<Entry beginGroup="Miscellaneous">
 		<zType>TEXT_EVENTSTORY_ADOPT_RELIGION_TITLE</zType>
 		<Translation>State Religion?</Translation>
@@ -4105,6 +4209,18 @@
 		<zType>TEXT_EVENTSTORY_STUDY_UNCANNY_TITLE</zType>
 		<Translation>Uncanny</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HIDDEN_SCROLLS_TITLE</zType>
+		<Translation>Hidden Scrolls</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_REINED_IN_TITLE</zType>
+		<Translation>Reined In</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOST_INTEGRITY_TITLE</zType>
+		<Translation>Lost Integrity</Translation>
+	</Entry>
 	<Entry beginGroup="Tutorial">
 		<zType>TEXT_EVENTSTORY_VICTORY_POINTS_TITLE</zType>
 		<Translation>POINTS VICTORY!</Translation>
@@ -4228,5 +4344,13 @@
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_AXEMAN_SELECTED_TITLE</zType>
 		<Translation>Tutorial Axeman Selected</Translation>
+	</Entry>
+	<Entry beginGroup="Law">
+		<zType>TEXT_EVENTSTORY_THREAT_OF_MUTINY_TITLE</zType>
+		<Translation>Threat of Mutiny</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WEAK_WILL_TITLE</zType>
+		<Translation>Weak Will</Translation>
 	</Entry>
 </Root>

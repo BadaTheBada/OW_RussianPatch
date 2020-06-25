@@ -1,21 +1,522 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Root>
-    <Entry>
-        <zType/>
-        <Translation/>
-    </Entry>
-    <Entry>
-        <zType>TEXT_GENERIC_CONFIRM</zType>
-        <Translation>Подтвердить</Translation>
-    </Entry>
-    <Entry>
-        <zType>TEXT_GENERIC_CANCEL</zType>
-        <Translation>Отмена</Translation>
-    </Entry>
-    <!--menu-screens.xml-->
-    <Entry>
-        <zType>TEXT_MENU_SCREEN_SP_BUTTON</zType>
-        <Translation>Одиночная игра</Translation>
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GENERIC_CONFIRM</zType>
+		<Translation>Подтвердить</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GENERIC_CANCEL</zType>
+		<Translation>Отмена</Translation>
+	</Entry>
+	<!--ClientUI-->
+	<Entry>
+		<zType>TEXT_UI_REDRAW_TECH</zType>
+		<Translation>Redraw</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TRIBE_TURN</zType>
+		<Translation>{0} Turn</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_BARBARIAN_TURN</zType>
+		<Translation>Barbarian Turn</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_YOUR_TURN</zType>
+		<Translation>Your Turn</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_KNOWN_RIVALS_TURN</zType>
+		<Translation>{0}'s Turn</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_RIVALS_TURN</zType>
+		<Translation>Rival's Turn</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_YEAR_ENDED</zType>
+		<Translation>Year Ended</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_END_YEAR</zType>
+		<Translation>End Year</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_YEAR_NUMBER</zType>
+		<Translation>Year {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_YEAR_NUMBER_AND_MAX</zType>
+		<Translation>Year: {0}/{1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_IDLE_LABEL_NEXT_UNIT</zType>
+		<Translation>Next Unit</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_IDLE_LABEL_CHOOSE_PRODUCTION</zType>
+		<Translation><![CDATA[Choose Production<br>({0_city})]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_IDLE_LABEL_OPEN_CITY</zType>
+		<Translation><![CDATA[Open City<br>({0_city})]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_DISMISS_TOOLTIP</zType>
+		<Translation>Right-click to dismiss</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_WATER_TITLE</zType>
+		<Translation>Mare incognitum</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_WATER_BODY</zType>
+		<Translation>HIC SUNT DRACONES</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_LAND_TITLE</zType>
+		<Translation>Terra incognita</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_LAND_BODY</zType>
+		<Translation>HIC SUNT LEONES</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_IMPROVEMENT_ACTION_REMOVE_VEGETATION_TITLE</zType>
+		<Translation>Remove {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_IMPROVEMENT_ACTION_BUILD_ROAD_TITLE</zType>
+		<Translation>Build Road</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_IMPROVEMENT_ACTION_MAKE_URBAN_TITLE</zType>
+		<Translation>Make Urban</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_TOOLTIP_PROGRESS</zType>
+		<Translation>Progress: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_TOOLTIP_LEADS_TO_WITH</zType>
+		<Translation>{0_tech} (with {1})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_BASE</zType>
+		<Translation>Base:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_BASE_ENEMY</zType>
+		<Translation>:Base</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_GENERAL</zType>
+		<Translation>General:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_GENERAL_ENEMY</zType>
+		<Translation>:General</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_SETTLEMENT</zType>
+		<Translation>Settlement</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_AI_MODIFIER</zType>
+		<Translation>AI vs. {0}:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_AI_MODIFIER_ENEMY</zType>
+		<Translation>:AI vs. {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_DISTANCE</zType>
+		<Translation>Distance:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_STRENGTH</zType>
+		<Translation>Strength:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_STRENGTH_ENEMY</zType>
+		<Translation>:Strength</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_KILLING_BLOW</zType>
+		<Translation>Killing Blow</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_FORTIFY_ENEMY</zType>
+		<Translation>:Fortify</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_TESTUDO_ENEMY</zType>
+		<Translation>:Testudo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_FAMILY_TERRITORY</zType>
+		<Translation>Family Territory:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_FAMILY_TERRITORY_ENEMY</zType>
+		<Translation>:Family Territory</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_CRITICAL_CHANCE</zType>
+		<Translation>Critical Chance:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_IMMUNE</zType>
+		<Translation>Immune</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_COOLDOWN_FATIGUED</zType>
+		<Translation>Fatigued</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_WIDGET_AGENT_MARKER</zType>
+		<Translation>A</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_PANEL_TECH_DISCOVERED</zType>
+		<Translation>{0} Discovered</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_PANEL_RESEARCH_TECH</zType>
+		<Translation>Research</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_PANEL_CHOOSE_RESEARCH</zType>
+		<Translation>Choose Research</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_PANEL_REDRAWING</zType>
+		<Translation>Redrawing...</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_PANEL_ONE_YEAR_LEFT</zType>
+		<Translation>1Y</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_SELECTION_MAX_LEVEL</zType>
+		<Translation>(MAX LVL)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_SELECTION_PROJECTS_TAB_LABEL</zType>
+		<Translation>Projects</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_SELECTION_FAMILY</zType>
+		<Translation>Family: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_SELECTION_GREAT_PERSON</zType>
+		<Translation>Great Person</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_SELECTION_GENERAL_UNIT</zType>
+		<Translation>Unit: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_SELECTION_GOVERNING_CITY</zType>
+		<Translation>City: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_SELECTION_CITY_AGENT</zType>
+		<Translation>Agent: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_SELECTION_RATINGS_TITLE</zType>
+		<Translation>Ratings</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ACTIONS_WAKE</zType>
+		<Translation>Wake</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ACTIONS_PASS</zType>
+		<Translation>Pass</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ACTIONS_SLEEP</zType>
+		<Translation>Sleep</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ACTIONS_SENTRY</zType>
+		<Translation>Sentry</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ACTIONS_DISBAND</zType>
+		<Translation>Disband</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ACTIONS_UPGRADE</zType>
+		<Translation>Upgrade</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ACTIONS_PROMOTE</zType>
+		<Translation>Promote</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_ACTIONS_BUILD_UNIT_LEVEL</zType>
+		<Translation>{0} LVL</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_ACTIONS_BUILD_UNIT_XP</zType>
+		<Translation>{0} XP</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_ACTIONS_PROJECTS_CATEGORY</zType>
+		<Translation>Projects</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_ACTIONS_SPECIALISTS_CATEGORY</zType>
+		<Translation>Specialists</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_ACTIONS_PRODUCTION_CATEGORY_GROWTH</zType>
+		<Translation>Growth</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_ACTIONS_PRODUCTION_CATEGORY_TRAINING</zType>
+		<Translation>Training</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_ACTIONS_PRODUCTION_CATEGORY_CIVICS</zType>
+		<Translation>Civics</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_ACTIONS_SEND_RESOURCE</zType>
+		<Translation>Send {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_ACTIONS_STOP_SENDING_RESOURCE</zType>
+		<Translation>Stop Sending {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_ACTIONS_ACTIVE_MISSION</zType>
+		<Translation>{0} (ACTIVE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_ACTIONS_LEAVE_UNIT</zType>
+		<Translation>Leave {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVE_FATHER_LABEL</zType>
+		<Translation>Father</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVE_MOTHER_LABEL</zType>
+		<Translation>Mother</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVE_SPOUSE_LABEL</zType>
+		<Translation>Spouse</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVE_CHILD_LABEL</zType>
+		<Translation>Child</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVES_TITLE</zType>
+		<Translation>Relatives</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_FAMILY_ACTIONS_SEND_LUXURY</zType>
+		<Translation>Send {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_FAMILY_ACTIONS_RETURN_LUXURY</zType>
+		<Translation>Return {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_FAMILY_ACTIONS_TRADE_AND_LUXURIES_TITLE</zType>
+		<Translation><![CDATA[Trade & Luxuries]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_FAMILY_ACTIONS_LIVING_MEMBERS_TITLE</zType>
+		<Translation>Living Members</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_FAMILY_ACTIONS_CITIES_TITLE</zType>
+		<Translation>Cities</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UPGRADE_TO</zType>
+		<Translation>Upgrade to {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_RELIGION_PANEL_STATE_RELIGION</zType>
+		<Translation>{0} (STATE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_GOAL_PANEL_LEGACY</zType>
+		<Translation><![CDATA[{0}<br>(LEGACY)]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_GOAL_PANEL_YEARS_LEFT</zType>
+		<Translation>, Year(s): {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_LIST_IDLE</zType>
+		<Translation>Idle</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_BUILD_COMPLETED</zType>
+		<Translation>{0} Completed</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_COMPLETED_BUILDS_IDLE</zType>
+		<Translation>Idle City</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHAT_TEAM</zType>
+		<Translation>Team</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHAT_ALL</zType>
+		<Translation>All</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TURN_TEXT_YEAR</zType>
+		<Translation><![CDATA[Year {0}<true_1>   ({1_time})<false><end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TURN_TEXT_YEAR_MAX</zType>
+		<Translation><![CDATA[Year {0}/{1}<true_2>   ({2_time})<false><end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TURN_TIMER_PAUSED</zType>
+		<Translation>{0} (PAUSED)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_WINNER_ROSTER_VICTORY</zType>
+		<Translation>VICTORY!!!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_WINNER_ROSTER_LOSS</zType>
+		<Translation>LOSS!!!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_BARBARIAN_INVASION</zType>
+		<Translation><![CDATA[Invasion! ({0} <singular_0>unit<plural>units<end> left)]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_BARBARIAN_UNITS</zType>
+		<Translation>Barbarian Unit(s): {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_BARBARIAN_INVASION_IN_YEARS</zType>
+		<Translation>Barbarian Invasion in {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_RENAME_CITY_POPUP</zType>
+		<Translation>Rename City</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_RENAME_RELIGION_POPUP</zType>
+		<Translation>Rename Religion</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_RENAME_CHARACTER</zType>
+		<Translation>Rename {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_BORDER_GROWTH</zType>
+		<Translation>Border Growth</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_TREE_TOOLTIP_UNAVAILABLE</zType>
+		<Translation>Unavailable</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_TREE_TOOLTIP_CURRENTLY_AVAILABLE</zType>
+		<Translation>Tech Currently Available!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_TREE_TOOLTIP_TECH_ACQUIRED</zType>
+		<Translation>Tech Acquired</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_TREE_TOOLTIP_RESEARCHING</zType>
+		<Translation>Researching...</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_TREE_TOOLTIP_IN_TECH_DECK</zType>
+		<Translation>In the Tech Deck</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_TREE_TOOLTIP_IN_DISCARD_PILE</zType>
+		<Translation>In the Discard Pile</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_TREE_TOOLTIP_TECH_TARGETED</zType>
+		<Translation>Tech is Targeted</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_TREE_TOOLTIP_TARGETED_PREREQ</zType>
+		<Translation>Prerequisite for a targeted tech</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TOOLTIP_LUXURIES</zType>
+		<Translation>Luxuries: </Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TOOLTIP_TRADABLE</zType>
+		<Translation><![CDATA[Tradable: {0_resource}{1_icon}<true_2> (x{2})<false><end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_AMBITION_DESIRED_BY_FAMILY</zType>
+		<Translation>{0} (desired by {1_family} {2_class})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_DISCOVERED</zType>
+		<Translation>[{0} Discovered]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_TRIBE_CONTACTED</zType>
+		<Translation>[Tribe Contacted]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_PLAYER_CONTACTED</zType>
+		<Translation>[Player Contacted]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_CULTURE_EVENT</zType>
+		<Translation><![CDATA[[<true_0>{0} <false><end>{1}]]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_X_FINISHED</zType>
+		<Translation>[{0} Finished]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_GOAL_FINISHED</zType>
+		<Translation>[Goal Finished: {0}]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_KILLED_UNIT</zType>
+		<Translation>[Killed Unit]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_CRITICAL_HIT</zType>
+		<Translation>[Critical Hit]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_INJURY</zType>
+		<Translation>[Injury]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_ATTACKED_UNIT</zType>
+		<Translation>[Attacked Unit]</Translation>
+	</Entry>
+	<!--menu-screens.xml-->
+	<Entry>
+		<zType>TEXT_MENU_SCREEN_SP_BUTTON</zType>
+<Translation>Одиночная игра</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MENU_SCREEN_MP_BUTTON</zType>
@@ -76,35 +577,31 @@
     <Entry>
         <zType>SP_MENU_SCREEN_LOADGAME_BUTTON</zType>
         <Translation>Загрузить игру</Translation>
-    </Entry>
-    <Entry>
-        <zType>SP_MENU_SCREEN_CLOUD_BUTTON</zType>
-        <Translation>Загрузить из облака</Translation>
-    </Entry>
-    <Entry>
-        <zType>SP_MENU_SCREEN_SCEN_BUTTON</zType>
-        <Translation>Сценарии</Translation>
-    </Entry>
-    <Entry>
-        <zType>SP_MENU_SCREEN_FEATUREDGAME_BUTTON</zType>
-        <Translation>Featured Game</Translation>
-    </Entry>
-    <Entry>
-        <zType>SP_MENU_SCREEN_GOFTW_BUTTON</zType>
-        <Translation>Игра недели</Translation>
-    </Entry>
-    <Entry>
-        <zType>SP_MENU_SCREEN_BACK_BUTTON</zType>
-        <Translation>Назад</Translation>
-    </Entry>
-    <!--multiplayer menu-->
-    <Entry>
-        <zType>MP_MENU_SCREEN_JOIN_BUTTON</zType>
-        <Translation>Присоединиться</Translation>
-    </Entry>
-    <Entry>
-        <zType>MP_MENU_SCREEN_NEWGAME_BUTTON</zType>
-        <Translation>Новая игра</Translation>
+	</Entry>
+	<Entry>
+		<zType>SP_MENU_SCREEN_SCEN_BUTTON</zType>
+		<Translation>Сценарии</Translation>
+	</Entry>
+	<Entry>
+		<zType>SP_MENU_SCREEN_FEATUREDGAME_BUTTON</zType>
+		<Translation>Featured Game</Translation>
+	</Entry>
+	<Entry>
+		<zType>SP_MENU_SCREEN_GOFTW_BUTTON</zType>
+		<Translation>Игра недели</Translation>
+	</Entry>
+	<Entry>
+		<zType>SP_MENU_SCREEN_BACK_BUTTON</zType>
+		<Translation>Назад</Translation>
+	</Entry>
+	<!--multiplayer menu-->
+	<Entry>
+		<zType>MP_MENU_SCREEN_JOIN_BUTTON</zType>
+		<Translation>Присоединиться</Translation>
+	</Entry>
+	<Entry>
+		<zType>MP_MENU_SCREEN_NEWGAME_BUTTON</zType>
+<Translation>Новая игра</Translation>
     </Entry>
     <Entry>
         <zType>MP_MENU_SCREEN_LOADGAME_BUTTON</zType>
@@ -178,12 +675,12 @@
     <Entry>
         <zType>TOOLS_SCREEN_BACK_BUTTON</zType>
         <Translation>Назад</Translation>
-    </Entry>
-    <!--minimap.xml-->
-    <!--mini map-->
-    <Entry>
-        <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_NO_OVERLAY</zType>
-        <Translation>Без оверлея</Translation>
+	</Entry>
+	<!--minimap.xml-->
+	<!--mini map-->
+	<Entry>
+		<zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_NO_OVERLAY</zType>
+<Translation>Без оверлея</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_ZOC</zType>
@@ -214,10 +711,14 @@
     <Entry>
         <zType>TEXT_MP_SETUP_SEC_BUTTON_ADVANCED</zType>
         <Translation>Дополнительно</Translation>
-    </Entry>
-    <Entry>
-        <zType>TEXT_MP_SETUP_TITLE_LABEL_HOSTG</zType>
-        <Translation>Хост</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_VICTORY</zType>
+		<Translation>Victory</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_TITLE_LABEL_HOSTG</zType>
+<Translation>Хост</Translation>
     </Entry>
     <!--servers-->
     <Entry>
@@ -689,11 +1190,198 @@
     <Entry>
         <zType>TEXT_POPUP_INHERITANCE</zType>
         <Translation>Наследование</Translation>
-    </Entry>
-    <!--comparisonportrait-->
-    <Entry>
-        <zType>TEXT_POPUP_INHERITANCE_CURRENTHEIR</zType>
-        <Translation>Текущий наследник</Translation>
+	</Entry>
+	<!--unit-list.xml-->
+	<Entry>
+		<zType>TEXT_UNIT_LIST</zType>
+		<Translation>Unit List</Translation>
+	</Entry>
+	<!--tech-tree.xml-->
+	<Entry>
+		<zType>TEXT_TECH_TREE_TECHS</zType>
+		<Translation>Techs</Translation>
+	</Entry>
+	<!--selected-worker.xml-->
+	<Entry>
+		<zType>TEXT_SELECTED_WORKER_TURN</zType>
+		<Translation>Turn</Translation>
+	</Entry>
+	<!--selected-unit.xml-->
+	<Entry>
+		<zType>TEXT_SELECTED_UNIT_UPGRADE</zType>
+		<Translation>Upgrade</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SELECTED_UNIT_TURN</zType>
+		<Translation>Turn</Translation>
+	</Entry>
+	<!--selected-city.xml-->
+	<Entry>
+		<zType>TEXT_SELECTED_CITY_CHOOSE</zType>
+		<Translation>Choose what to work on</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SELECTED_CITY_QUEUE</zType>
+		<Translation>Queue</Translation>
+	</Entry>
+	<!--selected-character.xml-->
+	<Entry>
+		<zType>TEXT_SELECTED_CHARACTER_ACTIONS</zType>
+		<Translation>Actions</Translation>
+	</Entry>
+	<!--religion-tree.xml-->
+	<Entry>
+		<zType>TEXT_RELIGION_TREE_STATE_RELIGIONS</zType>
+		<Translation>State Religions</Translation>
+	</Entry>
+	<!--popup-victory.xml-->
+	<Entry>
+		<zType>TEXT_POPUP_VICTORY_CONDITIONS</zType>
+		<Translation>Victory Conditions</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_VICTORY_AMBITIONS</zType>
+		<Translation>Ambitions</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_VICTORY_SCORE</zType>
+		<Translation>Score</Translation>
+	</Entry>
+	<!--popup-pings.xml-->
+	<Entry>
+		<zType>TEXT_POPUP_PINGS_SUBMIT</zType>
+		<Translation>Submit</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_PINGS_CANCEL</zType>
+		<Translation>Cancel</Translation>
+	</Entry>
+	<!--popup-laws.xml-->
+	<Entry>
+		<zType>TEXT_POPUP_LAWS</zType>
+		<Translation>Laws</Translation>
+	</Entry>
+	<!--popup-input.xml-->
+	<Entry>
+		<zType>TEXT_POPUP_INPUT_TITLE</zType>
+		<Translation>Title</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_INPUT_DESC</zType>
+		<Translation>Description Text</Translation>
+	</Entry>
+	<!--popup-default.xml-->
+	<Entry>
+		<zType>TEXT_POPUP_DEFAULT_TITLE</zType>
+		<Translation>Title</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_DEFAULT_DESC</zType>
+		<Translation>Description Text</Translation>
+	</Entry>
+	<!--leader-info.xml-->
+	<Entry>
+		<zType>TEXT_LEADER_INFO_QUESTS</zType>
+		<Translation>Quests:</Translation>
+	</Entry>
+	<!--help-screen.xml-->
+	<Entry>
+		<zType>TEXT_HELP_SCREEN_STATS_HP</zType>
+		<Translation>HP</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELP_SCREEN_STATS_MOV</zType>
+		<Translation>MOV</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELP_SCREEN_STATS_STR</zType>
+		<Translation>STR</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELP_SCREEN_STATS_RNG</zType>
+		<Translation>RNG</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELP_SCREEN_STATS_VIS</zType>
+		<Translation>VIS</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELP_SCREEN_OTHER</zType>
+		<Translation>Other</Translation>
+	</Entry>
+	<!--game-log.xml-->
+	<Entry>
+		<zType>TEXT_GAME_LOG</zType>
+		<Translation>Game Log</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LOG_LOG</zType>
+		<Translation>Log</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LOG_TIMELINE</zType>
+		<Translation>Timeline</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LOG_AI</zType>
+		<Translation>AI Log</Translation>
+	</Entry>
+	<!--family-list.xml-->
+	<Entry>
+		<zType>TEXT_FAMILY_LIST</zType>
+		<Translation>Families</Translation>
+	</Entry>
+	<!--cycle-idle.xml-->
+	<Entry>
+		<zType>TEXT_CYCLE_IDLE_BUY</zType>
+		<Translation>Buy</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CYCLE_IDLE_SELL</zType>
+		<Translation>Sell</Translation>
+	</Entry>
+	<!--event-editor-bar-option.xml-->
+	<Entry>
+		<zType>TEXT_EVENT_EDITOR_BAR_MF</zType>
+		<Translation>M/F</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENT_EDITOR_BAR_GO</zType>
+		<Translation>GO</Translation>
+	</Entry>
+	<!--choose-research.xml-->
+	<Entry>
+		<zType>TEXT_CHOOSE_RESEARCH_TREE</zType>
+		<Translation>View Tech Tree</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHOOSE_RESEARCH_UNLOCKS</zType>
+		<Translation>Unlocks</Translation>
+	</Entry>
+	<!--choose-character.xml-->
+	<Entry>
+		<zType>TEXT_CHOOSE_CHARACTER</zType>
+		<Translation>Choose</Translation>
+	</Entry>
+	<!--character-list.xml-->
+	<Entry>
+		<zType>TEXT_CHARACTER_LIST</zType>
+		<Translation>Characters</Translation>
+	</Entry>
+	<!--barbarian-list.xml-->
+	<Entry>
+		<zType>TEXT_BARBARIAN_LIST_TRIBES</zType>
+		<Translation>Tribes</Translation>
+	</Entry>
+	<!--ai-log.xml-->
+	<Entry>
+		<zType>TEXT_AI_LOG</zType>
+		<Translation>AI Log</Translation>
+	</Entry>
+	<!--comparisonportrait-->
+	<Entry>
+		<zType>TEXT_POPUP_INHERITANCE_CURRENTHEIR</zType>
+<Translation>Текущий наследник</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_POPUP_INHERITANCE_NEWHEIR</zType>
@@ -717,23 +1405,92 @@
     <Entry>
         <zType>TEXT_POPUP_INHERITANCE_CHARACTER_ACTIONS</zType>
         <Translation>Действия</Translation>
-    </Entry>
-    <Entry>
-        <zType>TEXT_CHARACTER_UPGRADE_DECISION_RATING</zType>
-        <Translation>Upgrade: +1 {0_ratingtype} ({1_startrating} to {2_endrating})</Translation>
-    </Entry>
-    <Entry>
-        <zType>TEXT_CHARACTER_UPGRADE_DECISION_TRAIT</zType>
-        <Translation>Upgrade: {0_trait}</Translation>
-    </Entry>
-
-    <!-- tech tree-->
-    <Entry>
-        <zType>TEXT_TECH_TREE_OVERRIDE_CURRENT_RESEARCH</zType>
-        <Translation>Изменить исследование: [CTRL+Click]</Translation>
-    </Entry>
-    <Entry>
-        <zType>TEXT_TECH_TREE_BONUS_CARD_DISCARDED</zType>
-        <Translation>Немедленное удаление при сбросе</Translation>
-    </Entry>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_UPGRADE_DECISION_RATING</zType>
+		<Translation>Upgrade: +1 {0_ratingtype} ({1_startrating} to {2_endrating})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_UPGRADE_DECISION_TRAIT</zType>
+		<Translation>Upgrade: {0_trait}</Translation>
+	</Entry>
+	<!-- tech tree-->
+	<Entry>
+		<zType>TEXT_TECH_TREE_OVERRIDE_CURRENT_RESEARCH</zType>
+		<Translation>Изменить исследование: [CTRL+Click]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_BONUS_CARD_DISCARDED</zType>
+    <Translation>Немедленное удаление при сбросе</Translation>
+	</Entry>
+	<!--MPSetupScreenPanel-->
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_START_GAME</zType>
+		<Translation>Start Game</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_UNPAUSE_GAME</zType>
+		<Translation>Unpause Game</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_PAUSE_GAME</zType>
+		<Translation>Pause Game</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_LOAD_GAME</zType>
+		<Translation>Load Game</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_SAVE_GAME</zType>
+		<Translation>Save Game</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_WAITING_FOR_GAME_START</zType>
+		<Translation>Waiting for game to start</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_STATUS_ACTIVE_TURN</zType>
+		<Translation>{0_time} Active turn:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_STATUS_PAUSE</zType>
+		<Translation>Pause: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_STATUS_UNPAUSE</zType>
+		<Translation>Unpause: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_NEW_GAME_NAME</zType>
+		<Translation>New Game</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_PICK_NATION_AT_SETTLE</zType>
+		<Translation>Pick your nation when you settle the first city</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_GAME_PICKS_NATION</zType>
+		<Translation>Let the game choose a nation for you.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_START_SIMULTANEOUS_TURNS</zType>
+		<Translation>Play the first turns in simultaneous turn style</Translation>
+	</Entry>
+	<!--OptionsMenuPanel-->
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_SKIP_ALL</zType>
+		<Translation>None</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_WAR</zType>
+		<Translation>War</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_WAR_OR_TRUCE</zType>
+		<Translation>War or Truce</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_ALL</zType>
+		<Translation>All</Translation>
+	</Entry>
 </Root>

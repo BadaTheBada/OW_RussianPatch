@@ -22,6 +22,10 @@
 		<Translation>Ваши убийцы не смогли убить {CHARACTER-TARGET}. Хуже того, ваш гнусный заговор раскрыт.</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_MISSIONRESULT_TREACHERY_DESCRIPTION</zType>
+		<Translation>{CHARACTER-SUBJECT} has successfully weakened the city's defenses.</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_DESCRIPTION</zType>
 		<Translation>Ваша вассальная семья ценит подарки, которые принес от вас ваш Канцлер {CHARACTER-SUBJECT}.</Translation>
 	</Entry>
@@ -197,6 +201,10 @@
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ASSASSINATE_EVENT</zType>
 		<Translation>Убийство</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TREACHERY</zType>
+		<Translation>Treachery finished</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_TRADE_MISSION_EVENT</zType>

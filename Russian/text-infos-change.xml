@@ -697,6 +697,10 @@
 		<Translation>+500icon(YIELD_MONEY) в год</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_GOAL_1000_MONEY_TURN</zType>
+		<Translation>+1000icon(YIELD_MONEY)/Year</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_GOAL_FIVE_WORKERS</zType>
 		<Translation>Контролировать 5 link(UNIT_WORKER,7)</Translation>
 	</Entry>
