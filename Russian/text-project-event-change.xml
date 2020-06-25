@@ -9,11 +9,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SWORD_CULT</zType>
-		<Translation>Культ меча</Translation>
+		<Translation>Культ Меча</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SWORD_CULT_TITHE</zType>
-		<Translation>Десятина культа меча</Translation>
+		<Translation>Десятина Культа Меча</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HOSTILE_GARRISON</zType>
@@ -49,7 +49,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_IMPERIAL_NECROPOLIS</zType>
-		<Translation>Императорский некрополь</Translation>
+		<Translation>Императорский Некрополь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FORCED_DEPORTATIONS</zType>
@@ -89,15 +89,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GRAIN_DOLE</zType>
-		<Translation>Зерновая Доля</Translation>
+		<Translation>Зерновая доля</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FOREIGN_FIGHTERS</zType>
-		<Translation>Чужеземные Воины</Translation>
+		<Translation>Чужеземные воины</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_WAR_COUNCIL</zType>
-		<Translation>Военный совет</Translation>
+		<Translation>Военный Совет</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SEWER_SYSTEM</zType>
@@ -149,7 +149,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CONSULAR_TRIBUNES</zType>
-		<Translation>Консульская трибуна</Translation>
+		<Translation>Консульские трибуны</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CONFUCIANISM</zType>
@@ -157,6 +157,6 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SALT_PRODUCTION</zType>
-		<Translation>Salt Production</Translation>
+		<Translation>Производство соли</Translation>
 	</Entry>
 </Root>

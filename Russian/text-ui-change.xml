@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Translated by Elena Davydova (Bada)-->
 <Root>
     <Entry>
         <zType/>
@@ -421,7 +420,7 @@
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_TABS_STATS</zType>
-        <Translation>Настройки игры</Translation>
+        <Translation>Характеристики</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_TABS_SETUP_SIMPLE</zType>
@@ -579,7 +578,7 @@
     </Entry>
     <Entry>
         <zType>TEXT_TOOL_TIPS_REQUIRES</zType>
-        <Translation>Требует</Translation>
+        <Translation>Требует:</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_TOOL_TIPS_BONUSCARDS</zType>
@@ -673,6 +672,7 @@
         <zType>TEXT_OVERVIEW_MAP_RESOURCES</zType>
         <Translation>Ресурсы</Translation>
     </Entry>
+	<!--Требуется перевод-->
     <Entry>
         <zType>TEXT_OVERVIEW_MAP_CITYSITES</zType>
         <Translation>City Sites</Translation>

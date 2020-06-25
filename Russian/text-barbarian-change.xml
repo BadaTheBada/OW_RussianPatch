@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
-<!--Translated by Elena Davydova (Bada)-->
 <Root>
   <!-- Title -->
   <Entry>
@@ -33,7 +32,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_BARBARIAN_DANES</zType>
-    <Translation>Датчане~Датчан~Датчанам~Датчан~Датчанами~Датчанах</Translation>
+    <Translation>Даны~Дан~Данам~Дан~Данами~Данах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_BARBARIAN_THRACIANS</zType>
