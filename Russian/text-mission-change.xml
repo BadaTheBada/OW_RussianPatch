@@ -170,11 +170,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ADOPT</zType>
-		<Translation>Взять приемного ребенка</Translation>
+		<Translation>Принять</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ADOPT_CHARACTER</zType>
-		<Translation>Взять приемного ребенка</Translation>
+		<Translation>Принять</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_LEGITIMIZE</zType>
@@ -251,10 +251,6 @@
 	<Entry>
 		<zType>TEXT_MISSION_DIVORCE_TARGET</zType>
 		<Translation>Развестись с</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSION_DIVORCE_TARGET</zType>
-		<Translation>Divorce</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_BARBARIAN_WAR</zType>

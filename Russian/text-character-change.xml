@@ -167,10 +167,6 @@
 		<Translation>Генерал {0,1_unit}</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_CHARACTER_GENERAL_OF</zType>
-		<Translation>General of {0_unit}</Translation>
-	</Entry>
-	<Entry>
 		<zType>TEXT_CHARACTER_GOVERNOR_OF</zType>
 		<Translation>Губернатор {0,1_city}</Translation>
 	</Entry>

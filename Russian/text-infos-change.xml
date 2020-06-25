@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Translated by Elena Davydova (Bada) & AlexRjd-->
 <Root>
 	<!-- InfoTerrain -->
 	<Entry>
@@ -46,7 +45,7 @@
 	<!--InfoConcept-->
 	<Entry>
 		<zType>TEXT_CONCEPT_AGENT</zType>
-		<Translation>Agent</Translation>
+		<Translation>Агент</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_ALLIANCE_BARB</zType>
@@ -86,7 +85,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_FAMILY_SEAT</zType>
-		<Translation>Family Seat</Translation>
+		<Translation>Оплот семьи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_GENERAL</zType>
@@ -147,7 +146,7 @@
 	<!--InfoVegetation-->
 	<Entry>
 		<zType>TEXT_VEGETATION_TREES</zType>
-		<Translation>Лес</Translation>
+		<Translation>Лес~Леса~Лесу~Лес~Лесом~Лесе~Леса~Лесов~Лесам~Леса~Лесами~Лесах</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VEGETATION_TREES_REMOVE</zType>
@@ -1629,7 +1628,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_BODKIN_ARROW</zType>
-		<Translation>Наконечник стрелы "Бодкин"~Наконечника стрелы "Бодкин"~Наконечнику стрелы "Бодкин"~Наконечник стрелы "Бодкин"~Наконечником стрелы "Бодкин"~Наконечнике стрелы "Бодкин"</Translation>
+		<Translation>Бронебойные стрелы~Бронебойных стрел~Бронебойным стрелам~Бронебойные стрелы~Бронебойными стрелами~Бронебойных стрелах</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_BODKIN_ARROW_BONUS_TRAINING</zType>
