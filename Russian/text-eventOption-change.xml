@@ -3859,7 +3859,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BATTERED_OPTION_0</zType>
-		<English>We will keep our military in {PLAYER-3}.</English>
+		<English>We will keep our military in {CITY-4}.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BATTERED_OPTION_1</zType>
@@ -3931,7 +3931,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MECHANICAL_WONDERS_OPTION_0</zType>
-		<English><![CDATA[Remember this favor when you become <masculine_CHARACTER-0>king<feminine>queen<end>.]]></English>
+		<English><![CDATA[Remember this favor when you become <masculine_CHARACTER-3>king<feminine>queen<end>.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MECHANICAL_WONDERS_OPTION_1</zType>
@@ -4433,6 +4433,118 @@
 		<zType>TEXT_EVENTOPTION_ACQUIRED_TASTES_BURN</zType>
 		<English>We drink a bit too much in celebrations - and accidentally stoke our fires with the works we seized.</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEFIANCE_OPTION_0</zType>
+		<English>We stand with {CITY-0}! We stand with {PLAYER-1}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEFIANCE_OPTION_1</zType>
+		<English><![CDATA[Dying for your <masculine_CHARACTER-1>king<feminine>queen<end> is the highest honor!]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CITY_ABLAZE_OPTION_0</zType>
+		<English>Retrieve all of the finest treasures and works of art.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CITY_ABLAZE_OPTION_1</zType>
+		<English>Rescue nobles from their baths and estates.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CITY_ABLAZE_OPTION_2</zType>
+		<English>Shelter and care for the lowliest citizens.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_NEW_RECRUITS_OPTION_0</zType>
+		<English>Arm them and send them into battle.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_NEW_RECRUITS_OPTION_1</zType>
+		<English>Let them settle as citizens of {CITY-2}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_JAILED_SPY_OPTION_0</zType>
+		<English>Install her as an officer in {CITY-3}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_JAILED_SPY_OPTION_1</zType>
+		<English>Bring her to court to advise.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HIDDEN_LABORATORY_OPTION_0</zType>
+		<English>Search for the most valuable research.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HIDDEN_LABORATORY_OPTION_1</zType>
+		<English>Seize anything of value and move on.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_BATTLEFIELD_STRAIN_OPTION_0</zType>
+		<English><![CDATA[Send <masculine_CHARACTER-0>him<feminine>her<end> to a temple for care.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_BATTLEFIELD_STRAIN_OPTION_1</zType>
+		<English><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> must lead <masculine_CHARACTER-0>his<feminine>her<end> troops.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_FOG_OF_WAR_OPTION_0</zType>
+		<English>Mistakes can happen in the fog of war</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_THE_COWARD_OPTION_0</zType>
+		<English>Good riddance. Cowards are not welcome in {CITY-3}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_THE_LOST_OF_CITY_OPTION_0</zType>
+		<English>Have the refugees settle in {CITY-3}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_THE_LOST_OF_CITY_OPTION_1</zType>
+		<English>Have the refugees settle in {CITY-4}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_MERCY_IN_CITY_OPTION_0</zType>
+		<English>Execute them to set an example.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_MERCY_IN_CITY_OPTION_1</zType>
+		<English>They will serve {PLAYER-2} now.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_MERCY_IN_CITY_OPTION_2</zType>
+		<English>Leave them be.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_NO_WAY_OUT_OPTION_0</zType>
+		<English><![CDATA[Clearly, <masculine_CHARACTER-2>he<feminine>she<end> was not a leader.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_RISING_STAR_OPTION_0</zType>
+		<English>Effective units should stay together.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_RISING_STAR_OPTION_1</zType>
+		<English>We need more military minds in court.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_STORMS_OF_BATTLE_OPTION_0</zType>
+		<English>Fortune favors the people of {PLAYER-2}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CALL_TO_ACTION_OPTION_0</zType>
+		<English>Allocate more gold for our war efforts.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CALL_TO_ACTION_OPTION_1</zType>
+		<English>We cannot afford more funds.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CALL_TO_ACTION_OPTION_2</zType>
+		<English>I will find other ways to support our troops.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_AMONG_THE_DEAD_OPTION_0</zType>
+		<English>These things happen in wartime.</English>
+	</Entry>
 	<Entry beginGroup="Marriage">
 		<zType>TEXT_EVENTOPTION_MARRIAGE_OFFER_YES</zType>
 		<English><![CDATA[Yes, ring the bells.]]></English>
@@ -4656,6 +4768,18 @@
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FEMALE_EDUCATION_NO</zType>
 		<English>We should keep our conservative ways to please the elderly and the elites.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEMAND_CITY_YES</zType>
+		<English>[YES]</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEMAND_CITY_NO</zType>
+		<English>[NO]</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEMAND_CITY_WITTY</zType>
+		<English>[WITTY]</English>
 	</Entry>
 	<Entry beginGroup="Character">
 		<zType>TEXT_EVENTOPTION_DELICIOUS_DRINKS_BOTTOMS_UP</zType>
@@ -6371,7 +6495,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CHILD_FEATS_OF_VALOR_OPTION_0</zType>
-		<English><![CDATA[Promote <masculine_CHARACTER-1>him<feminine>her<end> to battlefield general.]]></English>
+		<English><![CDATA[Promote <masculine_CHARACTER-1>him<feminine>her<end> on the battlefield.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CHILD_FEATS_OF_VALOR_OPTION_1</zType>
@@ -8945,6 +9069,90 @@
 		<zType>TEXT_EVENTOPTION_OEDIPUS_TYRANNUS_YES</zType>
 		<English>Show it but let's stick to Homer's version in the Odyssey.</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CITY_ANARCHY_DISTRACT</zType>
+		<English>Distract the citizens with lavish games.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CITY_ANARCHY_BURN</zType>
+		<English>Burn the council down while they're in it.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CITY_ANARCHY_INVITE</zType>
+		<English>Invite the council to dinner to win them over.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CITY_AUTONOMY_YES</zType>
+		<English>Let them rule over themselves as long as they pay their taxes.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CITY_AUTONOMY_NO</zType>
+		<English>Never! Find a noble, {PLAYER-2,1} husband for {CHARACTER-SHORT-1}.</English>
+	</Entry>
+	<Entry beginGroup="Religion">
+		<zType>TEXT_EVENTOPTION_GODS_AND_MONSTERS_OPTION_0</zType>
+		<English>We can learn from these {RELIGION-1,1} stories.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_GODS_AND_MONSTERS_OPTION_1</zType>
+		<English>It is better to put our faith in science.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_BLESSINGS_OF_OUR_ANCESTORS_OPTION_0</zType>
+		<English>It is right to honor our ancestors.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_BLESSINGS_OF_OUR_ANCESTORS_OPTION_1</zType>
+		<English>They should worship me instead.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_RELIGIOUS_LAW_OPTION_0</zType>
+		<English>The court shall adopt these measures.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_RELIGIOUS_LAW_OPTION_1</zType>
+		<English>It is not right to mix law and religion.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ILLUMINATION_OPTION_0</zType>
+		<English>These are the one true teachings.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ILLUMINATION_OPTION_1</zType>
+		<English>I wish to hear from more voices.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_PERSONAL_FAITH_OPTION_0</zType>
+		<English>May each of us follow our own insight.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_PERSONAL_FAITH_OPTION_1</zType>
+		<English>I will not allow nobles to influence religion.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DELIVERANCE_OPTION_0</zType>
+		<English>I wish to be among the saved.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DELIVERANCE_OPTION_1</zType>
+		<English>{PLAYER-2} is not beholden to the gods.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_MALEVOLENCE_OPTION_0</zType>
+		<English>We will face these evils together.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_MALEVOLENCE_OPTION_1</zType>
+		<English>The true battle is with enemies of {PLAYER-3}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_MYSTICAL_TRANCE_OPTION_0</zType>
+		<English>Answers lie on a higher plane.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_MYSTICAL_TRANCE_OPTION_1</zType>
+		<English>Sounds like superstition to me.</English>
+	</Entry>
 	<Entry beginGroup="Miscellaneous">
 		<zType>TEXT_EVENTOPTION_ADOPT_RELIGION_YES</zType>
 		<English><![CDATA[Adopt {RELIGION-1}.]]></English>
@@ -9403,11 +9611,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FRONTIER_WALL_WALLS</zType>
-		<English>...</English>
+		<English>link(PROJECT_WALLS) will keep {CITY-2} safe.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FRONTIER_WALL_FORTS</zType>
-		<English>...</English>
+		<English>Build link(IMPROVEMENT_FORT,2) to bring the fight to them.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_FRONTIER_WALL_NO</zType>
+		<English>We should spend our resources elsewhere.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_EXOTIC_PETS_MONKEY</zType>
@@ -10351,7 +10563,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_TREACHERY_OPTION_1</zType>
-		<English>Earn the rebels' loyalty with gifts of charity.</English>
+		<English>Aid the innocents caught in the conflict.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_TREACHERY_OPTION_2</zType>
@@ -10572,14 +10784,6 @@
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_LOVER_NO_MORE_OPTION_0</zType>
 		<English><![CDATA[Order {CHARACTER-SHORT-3} to assassinate the <masculine_CHARACTER-2>king<feminine>queen<end>.]]></English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_RELATIONSHIP_LOVER_NO_MORE_OPTION_0_HELP</zType>
-		<English><![CDATA[After another passionate meeting, your lover, {CHARACTER-0}, reveals <masculine_CHARACTER-0>his<feminine>her<end> growing discontent with the affair. "I will not settle for secrecy any longer. I wish to be <masculine_CHARACTER-0>king<feminine>queen<end>."
-
-<masculine_CHARACTER-0>His<feminine>She<end> suggests an assassination plot to murder your <masculine_CHARACTER-2>husband<feminine>wife<end>, which would take time and planning. Not to mention a cold heart. 
-
-Our spymaster awaits your orders...]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_LOVER_NO_MORE_OPTION_1</zType>
@@ -11245,6 +11449,34 @@ Our spymaster awaits your orders...]]></English>
 		<zType>TEXT_EVENTOPTION_STUDY_UNCANNY_OPTION_2</zType>
 		<English><![CDATA[I will speak with <masculine_CHARACTER-0>him<feminine>her<end> about <masculine_CHARACTER-0>his<feminine>her<end> discoveries.]]></English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HIDDEN_SCROLLS_OPTION_0</zType>
+		<English>I do not wish to disappoint {CHARACTER-SHORT-1}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HIDDEN_SCROLLS_OPTION_1</zType>
+		<English>Politics must be free of emotion.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_REINED_IN_OPTION_0</zType>
+		<English>I must regain my lost authority.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_REINED_IN_OPTION_1</zType>
+		<English>We must uphold the rule of law.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_LOST_INTEGRITY_OPTION_0</zType>
+		<English>Let them go. They are easily replaced.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_LOST_INTEGRITY_OPTION_1</zType>
+		<English>We must restore our military's honor.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_LOST_INTEGRITY_OPTION_2</zType>
+		<English>Tell them whatever it takes for them to stay.</English>
+	</Entry>
 	<Entry beginGroup="Tutorial">
 		<zType>TEXT_EVENTOPTION_VICTORY_OK</zType>
 		<English>Show me how this came to pass. (Open Game Log)</English>
@@ -11472,5 +11704,25 @@ Our spymaster awaits your orders...]]></English>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_AXEMAN_SELECTED_OKAY</zType>
 		<English>I can hit up to three enemies at once!</English>
+	</Entry>
+	<Entry beginGroup="Law">
+		<zType>TEXT_EVENTOPTION_THREAT_OF_MUTINY_OPTION_0</zType>
+		<English>{PLAYER-1} will adopt freedom. law</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_THREAT_OF_MUTINY_OPTION_1</zType>
+		<English><![CDATA[The court obeys the will of its <masculine_CHARACTER-1>king<feminine>queen<end>.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_WEAK_WILL_OPTION_0</zType>
+		<English>Yes, slavery is the natural order.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_WEAK_WILL_OPTION_1</zType>
+		<English>I will not respond to empty threats.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_WEAK_WILL_OPTION_2</zType>
+		<English><![CDATA[<masculine_CHARACTER-1>He<feminine>She<end> should remember <masculine_CHARACTER-1>his<feminine>her<end> place.]]></English>
 	</Entry>
 </Root>

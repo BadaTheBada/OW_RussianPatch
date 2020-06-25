@@ -711,6 +711,10 @@
 		<English>+500icon(YIELD_MONEY)/Year</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_GOAL_1000_MONEY_TURN</zType>
+		<English>+1000icon(YIELD_MONEY)/Year</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_GOAL_FIVE_WORKERS</zType>
 		<English>Control Five link(UNIT_WORKER,2)</English>
 	</Entry>
@@ -924,7 +928,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_PANTHEON</zType>
-		<English>Control The PanControl Theon</English>
+		<English>Control The Pantheon</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_HAGIA_SOPHIA</zType>

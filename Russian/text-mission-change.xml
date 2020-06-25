@@ -203,6 +203,10 @@
 		<English>Assassinate via</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_MISSION_TREACHERY</zType>
+		<English>Treachery</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_MISSION_TRADE_MISSION</zType>
 		<English>Trade Mission</English>
 	</Entry>

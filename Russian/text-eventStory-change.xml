@@ -564,7 +564,7 @@ You suspect that the beast was in the drove of pigs recently brought back to {CI
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_SORGHUM_SEEDS</zType>
-		<English>Scouts have returned with pouches of sorgum seeds, which will allow us to cultivate the crop locally. Farmers have already begun to sow open fields in {CITY-2}. For what purpose should they raise thiis grain?</English>
+		<English>Scouts have returned with pouches of sorghum seeds, which will allow us to cultivate the crop locally. Farmers have already begun to sow open fields in {CITY-2}. For what purpose should they raise thiis grain?</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_YOUNG_SHEPHERD</zType>
@@ -580,7 +580,7 @@ Both the {FAMILY-1} and {FAMILY-2} families have expressed a desire for more pea
 		<zType>TEXT_EVENTSTORY_HARVEST_RESCUE_AT_SEA</zType>
 		<English>In an attempt to collect more crabs than his nets allow, our scout capsizes his boat and must be rescued by local fishermen. 
 
-Afterwards, these friendly gatherers have express an interest in migrating to {PLAYER-2} to start a new life. Where shall they settle?</English>
+Afterwards, these friendly gatherers have expressed an interest in migrating to {PLAYER-2} to start a new life. Where shall they settle?</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_BEAST_OF_BURDEN</zType>
@@ -1210,7 +1210,7 @@ Several of our minor courtiers claim that the boorish fool, Pieface, is in fact 
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARBARIAN_WAR</zType>
-		<English><![CDATA[A {PLAYER-0,1} general in bright, newly forged armor appears before the court. He brings a message: The {BARBARIAN-0} threatens to declare war unless we meet their demands.]]></English>
+		<English><![CDATA[A {PLAYER-1,1} general in bright, newly forged armor appears before the court. He brings a message: The {BARBARIAN-0} threatens to declare war unless we meet their demands.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WARLIKE_PRINCESS</zType>
@@ -1281,7 +1281,7 @@ How shall we respond?]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HOSTILE_GARRISON</zType>
-		<English><![CDATA[The {BARBARIAN-0,0} have a haughty new <masculine_CHARACTER-0>king<feminine>queen<end> who is eager to expand the tribe's power. Envoys inform you that <masculine_CHARACTER-0>he<feminine>she<end> plans to place a permanent garrison in our capital to ensure peace. If we refuse, <masculine_CHARACTER-0>he<feminine>she<end> will invade and install them by force. 
+		<English><![CDATA[The {BARBARIAN-0,0} have a haughty new <masculine_CHARACTER-0>king<feminine>queen<end> who is eager to expand the tribe's power. Envoys inform you that <masculine_CHARACTER-0>he<feminine>she<end> plans to place a permanent garrison in {CITY-1} to ensure peace. If we refuse, <masculine_CHARACTER-0>he<feminine>she<end> will invade and install them by force.
 
 What is our reply?]]></English>
 	</Entry>
@@ -1767,7 +1767,7 @@ Shall we take up this heated debate?</English>
 		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_FAMILY_RELIGION_WAR</zType>
 		<English>The {FAMILY-2} family cannot contain its rage. They assemble in court to insist that, in the name of {RELIGION-3}, the nation declare war on {PLAYER-0} for its unnatural {RELIGION-1,1} beliefs. "We will not abide such a repugnant, unnatural faith!"
 
-How shall we respond?  </English>
+How shall we respond?</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_FAMILY_LAW_DENOUNCE</zType>
@@ -1819,7 +1819,7 @@ Do we want to set a precedent of sharing national secrets for personal favor?]]>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_EXCHANGE_OF_IDEAS</zType>
-		<English><![CDATA[Great scientist {CHARACTER-SHORT-2} has been exchanging messages with <masculine_CHARACTER-2>his<feminine>her<end> counterpart on the {PLAYER-0,1} court, and <masculine_CHARACTER-2>he<feminine>she<end> believes we have much to gain from sharing our link(TECH_METAPHYSICS) with them.
+		<English><![CDATA[Great scientist {CHARACTER-SHORT-2} has been exchanging messages with <masculine_CHARACTER-2>his<feminine>her<end> counterpart on the {PLAYER-0,1} court, and <masculine_CHARACTER-2>he<feminine>she<end> believes we have much to gain from sharing our link(TECH_SCHOLARSHIP) with them.
 
 Is the exchange of ideas worth the risk to national security?]]></English>
 	</Entry>
@@ -1855,9 +1855,9 @@ We will organize a meeting to discuss link(TECH_COINAGE) with the {PLAYER-0,2}, 
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MECHANICAL_WONDERS</zType>
-		<English><![CDATA[{CHARACTER-5}, the heir to the {PLAYER-0,1} throne, makes a surprise visit to the capital. <masculine_CHARACTER-5>He<feminine>She<end> spends much of <masculine_CHARACTER-5>his<feminine>her<end> time in the workshop of great thinker {CHARACTER-SHORT-2}, studying the marvelous contraptions devised by our scientists.
+		<English><![CDATA[{CHARACTER-3}, the heir to the {PLAYER-0,1} throne, makes a surprise visit to the capital. <masculine_CHARACTER-3>He<feminine>She<end> spends much of <masculine_CHARACTER-3>his<feminine>her<end> time in the workshop of great thinker {CHARACTER-SHORT-2}, studying the marvelous contraptions devised by our scientists.
 
-{CHARACTER-SHORT-5} is very interested in learning more about the wonders of link(TECH_MACHINERY), and <masculine_CHARACTER-5>he<feminine>she<end> is willing to pay for it.]]></English>
+{CHARACTER-SHORT-3} is very interested in learning more about the wonders of link(TECH_MACHINERY), and <masculine_CHARACTER-3>he<feminine>she<end> is willing to pay for it.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_FLIRTATION</zType>
@@ -2119,6 +2119,96 @@ What will be the subject of your uplifting oration?</English>
 		<zType>TEXT_EVENTSTORY_ACQUIRED_TASTES</zType>
 		<English>After breaching {CITY-1}, our troops seize the works of great {PLAYER-0,1} philosophers that had been collected over the decades. What shall we do with them?</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEFIANCE</zType>
+		<English>The recent attacks on {CITY-0} have inspired a citizen uprising. Our subjects have armed themselves and are taking to the streets to defend the city. 
+
+The court asks you to issue a declaration celebrating this act of defiance. What will be the theme of your speech?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CITY_ABLAZE</zType>
+		<English>As {PLAYER-1,1} soldiers sack the streets of {CITY-0}, fires break out around the city, causing further damage and disorder. 
+
+The city militia wishes to know what they should rescue before it is too late.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEW_RECRUITS</zType>
+		<English>Seizing portions of {CITY-0}, our soldiers encounter {PLAYER-1,1} jails full of foreign captives. Once freed, many of these prisoners offer to replenish our forces on the front lines.
+
+Shall these prisoners join our military ranks, or do we grant them asylum in {CITY-2}?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_JAILED_SPY</zType>
+		<English>Recent assaults on {CITY-0} have resulted in crowds of prisoners, a few of whom are native {PLAYER-1,2}. One of these captives is a former {PLAYER-1,1} military student jailed for suspected spying. 
+
+We should put her to work supporting our current military campaign.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HIDDEN_LABORATORY</zType>
+		<English>Soldiers sacking the streets of {CITY-1} have uncovered a secret laboratory operated by {PLAYER-0,1} scientists. Chaos reigns, and there is little time to explore the facility. 
+
+Shall our soldiers seize as much as they can or search for the most advanced discoveries?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BATTLEFIELD_STRAIN</zType>
+		<English><![CDATA[After the horrors of the recent skirmish, {CHARACTER-0} appears to be suffering from a strange mental affliction. <masculine_CHARACTER-0>He<feminine>She<end> will not speak, eat, or rise from <masculine_CHARACTER-0>his<feminine>her<end> bed to confer with officerrs. 
+
+Our soldiers are beginning to worry about their leader.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOG_OF_WAR</zType>
+		<English>In the confusion of battle, our soldiers accidentally charge on their fellow {PLAYER-1,1} troops, slaying many before realizing their mistake.
+
+General {CHARACTER-SHORT-0} is among those killed.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_COWARD</zType>
+		<English><![CDATA[The fall of {CITY-0} sends chills through the court, unnerving many who worry that the enemy will soon make its way to the gates of the capital, {CITY-2}.
+
+The morning after the city's seizure, {CHARACTER-1} is missing from <masculine_CHARACTER-1>his<feminine>her<end> chambers. It appears <masculine_CHARACTER-1>he<feminine>she<end> has fled the country.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_LOST_OF_CITY</zType>
+		<English>With the capture of {CITY-0} by {PLAYER-1,1} troops, refugees have begun spilling out into the surrounding countryside. Long caravans of frightened {PLAYER-2,2} seek a place to relocate and rebuild their lives.
+
+Where shall we send them?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCY_IN_CITY</zType>
+		<English>The governer and politicians of {CITY-0} crawl before our conquering officers, pleading for their lives. They vow to serve {PLAYER-2} with every breath left in their bodies.
+
+Of course, the actions of these {PLAYER-1,1} bureaucrats led to the deaths of many brave {PLAYER-2,1} soldiers.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NO_WAY_OUT</zType>
+		<English><![CDATA[As the walls of {CITY-1} begin to collapse, officers of our defending forces rush to the palace to protect the governer, {CHARACTER-2}.
+
+They find {CHARACTER-SHORT-2} dead on the floor of the city council chambers. <masculine_CHARACTER-2>He<feminine>She<end> took <masculine_CHARACTER-1>his<feminine>her<end> own life rather than face the enemy invaders.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_STAR</zType>
+		<English><![CDATA[After the successful defeat of {PLAYER-1,1} forces, General {CHARACTER-2} describes the brave feats of one particular soldier, one <masculine_CHARACTER-2>he<feminine>she<end> believes would make an exemplary court adviser.
+
+Should we elevate this natural leader, or is his wisdom better employed on the battlefield?]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STORMS_OF_BATTLE</zType>
+		<English>As the {PLAYER-2,1} forces throw themselves at the gates of {CITY-0}, a storm appears on the horizon, blowing up dark winds and ill omens. Our citizens shelter behind the city's sturdy walls, but the enemy has nowhere to hide. Rains lash their tents and winds scatter their supplies. Lightning sets one camp ablaze.
+
+The next morning, {CITY-0}'s defenders awake to find the enemy gone.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALL_TO_ACTION</zType>
+		<English><![CDATA[After the rout of our troops by {PLAYER-0,1} forces, General {CHARACTER-2} sends the court a scathing message. Frustrated at the military leadership's mistakes, <masculine_CHARACTER-2>he<feminine>she<end> demands more resources for the soldiers at the front. It is a matter of life and death.
+
+How shall we respond? ]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AMONG_THE_DEAD</zType>
+		<English><![CDATA[Following the heated battle, General {CHARACTER-0} walks the battlefield. <masculine_CHARACTER-0>He<feminine>She<end> discovers a familiar figure among the dead: {CHARACTER-1}, the heir of {PLAYER-2}.
+
+It is too late to keep this tragic news a secret...]]></English>
+	</Entry>
 	<Entry beginGroup="Marriage">
 		<zType>TEXT_EVENTSTORY_MARRIAGE_OFFER</zType>
 		<English><![CDATA[The court has received a new marriage proposal: {CHARACTER-0} and {CHARACTER-1}.
@@ -2234,6 +2324,10 @@ It is {CHARACTER-SHORT-3}'s advice that we remove {CHARACTER-SHORT-4} from any i
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FEMALE_EDUCATION</zType>
 		<English>Many of our elderly and elites are starting to voice concerns about educating women to be their equals. They want us to put a limit to how much education we can allow our women.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEMAND_CITY</zType>
+		<English>[STUB: THE {FAMILY-0} FAMILY IS DEMANDING THAT WE GIVE THEM THE CITY OF {CITY-2}]</English>
 	</Entry>
 	<Entry beginGroup="Character">
 		<zType>TEXT_EVENTSTORY_DELICIOUS_DRINKS</zType>
@@ -3997,7 +4091,7 @@ Let us hope that the rise of {CHARACTER-1}, new <masculine_CHARACTER-1>King<femi
 		<zType>TEXT_EVENTSTORY_FAMILY_CHOSEN_HEIR</zType>
 		<English><![CDATA[In a bid for more power, the {FAMILY-2,1} wish to place one of their own, {CHARACTER-SHORT-2}, on the throne. They decry the ruling bloodline as reckless and corrupt. 
 
-A change in succession may have its advantages, but it will most certainly anger the heir, {CHARACTER-SHORT-1} and <masculine_CHARACTER-1>his<feminine>her<end> bevy of devited followers.]]></English>
+A change in succession may have its advantages, but it will most certainly anger the heir, {CHARACTER-SHORT-1} and <masculine_CHARACTER-1>his<feminine>her<end> bevy of devoted followers.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_MAP_DISPUTE</zType>
@@ -4799,6 +4893,62 @@ As priests begin prayers on the topmost terrace, they ask for your blessing. Sha
 		<zType>TEXT_EVENTSTORY_OEDIPUS_TYRANNUS</zType>
 		<English>The link(IMPROVEMENT_THEATER_1) of Dionysus in {CITY-1} is showing the Poetics of Sophocles and has a play called Oedipus. Shall we put on our own adaptation in {CITY-0}?</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CITY_ANARCHY</zType>
+		<English>In the aftermath of battle, disorder reigns in {CITY-0}. Members of the local governing council refuse to impose order.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CITY_AUTONOMY</zType>
+		<English>The city of {CITY-0} would like to establish autonomy and rules itself independently from {PLAYER-2}. A prominent figure, named {CHARACTER-SHORT-1}, would like to reign over the city as its link(CONCEPT_GOVERNOR).</English>
+	</Entry>
+	<Entry beginGroup="Religion">
+		<zType>TEXT_EVENTSTORY_GODS_AND_MONSTERS</zType>
+		<English>The {RELIGION-1,1} beliefs of the {FAMILY-0} family have taken on a life of their own. Tales of gods, heroes, and monsters are commonplace with worshippers of {RELIGION-1} and are now being taught in the temples.
+
+The {FAMILY-0,1} have encouraged the court to adopt these stories as part of our national culture.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BLESSINGS_OF_OUR_ANCESTORS</zType>
+		<English>Statues of deceased members of the {FAMILY-0} family have started appearing in {RELIGION-1,1} places of worship. It appears that the {FAMILY-0,1} have begun to worship their ancestors as holy figures.
+
+This practice may be useful if adopted across all {PLAYER-2}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGIOUS_LAW</zType>
+		<English><![CDATA[{CHARACTER-0} of the {FAMILY-1} family makes a speech to the court, encouraging us to align our laws with the teachings of {RELIGION-2}. <masculine_CHARACTER-0>He<feminine>She<end> believes that obeying a strict code of social norms is the only way to achieve the blessings of the divine. 
+
+Many in the court find wisdom in <masculine_CHARACTER-0>his<feminine>her<end> words.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ILLUMINATION</zType>
+		<English>An elder of the {RELIGION-0,1} church claims to have been touched by the hand of the divine, and he suffers an illumination of the mind. Inspired, he produces a collection of writings to be taught to the people.
+
+Members of the {FAMILY-1} family urge us to adopt these teachings and recognize the revelations at hand.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PERSONAL_FAITH</zType>
+		<English>Recently, the {FAMILY-0} family has held a series of feasts to expound on their personal spiritual beliefs. These celebrations, steeped in {RELIGION-1,1} ritual, set forth that the battle for salvation is a personal one, led by those with a gift for mystical insight.
+
+These ideas have started spreading beyond the {FAMILY-0,1} estates, and people are taking notice.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DELIVERANCE</zType>
+		<English><![CDATA[In a fiery oration, {CHARACTER-0} labels every member of the court - and every {PLAYER-2,1} subject - as a "sinner" in need of spiritual deliverance. <masculine_CHARACTER-0>His<feminine>Her<end> family, the {FAMILY-1,1}, have become fiercer in their belief that the world is composed of two separate groups: the sinners and the saved.
+
+We may wish to ascribe to <masculine_CHARACTER-0>his<feminine>her<end> beliefs, no matter what the cost.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MALEVOLENCE</zType>
+		<English><![CDATA[{CHARACTER-0}, a prominent leader of the {FAMILY-1} family, visits you privately on the throne. <masculine_CHARACTER-0>He<feminine>She<end> wishes to inform you of the true spiritual conflict at work in {PLAYER-3}... and the world. Your support is needed to combat the malevolence seeking to overthrow all mankind.
+
+Is {CHARACTER-SHORT-0} mad, or is there a wisdom in <masculine_CHARACTER-0>his<feminine>her<end> words?]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MYSTICAL_TRANCE</zType>
+		<English>Several powerful members of the {FAMILY-0} family have started holding spiritual gatherings, where they teach visitors a powerful new form of worship. Falling into a mystical trance, they seek to expel bad emotions in an attempt to end suffering and unlock greater wisdom.
+
+Perhaps you should try it.</English>
+	</Entry>
 	<Entry beginGroup="Miscellaneous">
 		<zType>TEXT_EVENTSTORY_ADOPT_RELIGION</zType>
 		<English>Is it time to adopt {RELIGION-1} as our State Religion?</English>
@@ -5099,7 +5249,7 @@ Which family shall receive this honor?]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_NECROPOLIS</zType>
-		<English><![CDATA[With the completion of the Necropolis in {CITY-1}, it is time to inter our first ruler, {CHARACTER-0}. 
+		<English><![CDATA[After the completion of the Necropolis in {CITY-1}, it is time to inter our last ruler, {CHARACTER-0}. 
 
 How shall <masculine_CHARACTER-0>his<feminine>her<end> life be memorialized?]]></English>
 	</Entry>
@@ -5313,11 +5463,11 @@ How shall the court respond?]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PILLAGING_BARBARIANS_SUCCESS</zType>
-		<English><![CDATA[{BARBARIAN-1,2} homes burn against the shadowy night sky, as our warriors loot and pillage. In the future, the {BARBARIAN-1} will know better than to enter our lands without provocation.]]></English>
+		<English><![CDATA[{BARBARIAN-1,1} homes burn against the shadowy night sky, as our warriors loot and pillage. In the future, the {BARBARIAN-1} will know better than to enter our lands without provocation.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FRONTIER_WALL</zType>
-		<English>...</English>
+		<English>The {BARBARIAN-0} have pillaged our lands, and our people are afraid. We should consider bolstering our defenses in {CITY-2}.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_EXOTIC_PETS</zType>
@@ -5572,15 +5722,15 @@ He desires a new investmen in the {PLAYER-3,1} nation and what it means to its c
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LAW_IDLE_HANDS</zType>
-		<English><![CDATA[The {FAMILY-0} family is pleased at the rate of the nation's expansion. In fact, they see a labor surplus. Weapons should be placed in every idle hand. 
+		<English><![CDATA[The {FAMILY-1} family is pleased at the rate of the nation's expansion. In fact, they see a labor surplus. Weapons should be placed in every idle hand. 
 
-The {FAMILY-0,1} are calling for professional soldiers who spend a lifetime training for battle. The age of the militia is over.]]></English>
+The {FAMILY-1,1} are calling for professional soldiers who spend a lifetime training for battle. The age of the militia is over.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LAW_A_FEEBLE_MILITARY</zType>
-		<English><![CDATA[Great soldier {CHARACTER-1} has overheard the {FAMILY-0,1} grousing about the size of our army, and how volunteers should be enlisted to bolster its size.
+		<English><![CDATA[Great soldier {CHARACTER-2} has overheard the {FAMILY-1,1} grousing about the size of our army, and how volunteers should be enlisted to bolster its size.
 
-{CHARACTER-1} restates <masculine_CHARACTER-1>his<feminine>her<end> confidence in professional soldiers, and worries that volunteers risk the nation's security.]]></English>
+{CHARACTER-2} restates <masculine_CHARACTER-2>his<feminine>her<end> confidence in professional soldiers, and worries that volunteers risk the nation's security.]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LAW_CAPTIVES_OF_BELIEF</zType>
@@ -5888,7 +6038,7 @@ We have the power to override the order of execution, but it would certainly off
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_TREACHERY</zType>
-		<English><![CDATA[We have received a troubling message from the training grounds in {CITY-2}. After sowing seeds of treason among the ranks, General {CHARACTER-0} and his most loyal soldiers have turned traitorous. <masculine_CHARACTER-0>He<feminine>She<end> and <masculine_CHARACTER-0>his<feminine>her<end> troops have seized a local armory are taking to the streets.
+		<English><![CDATA[We have received a troubling message from the training grounds in {CITY-2}. After sowing seeds of treason among the ranks, General {CHARACTER-0} and his most loyal soldiers have turned traitorous. <masculine_CHARACTER-0>He<feminine>She<end> and <masculine_CHARACTER-0>his<feminine>her<end> troops have seized a local armory and are taking to the streets.
 
 What is the court's command?]]></English>
 	</Entry>
@@ -6372,6 +6522,24 @@ Both {CHARACTER-SHORT-3} and {CHARACTER-SHORT-4} have taken to their beds. Not e
 
 Many wish to summon {CHARACTER-SHORT-0} and probe <masculine_CHARACTER-0>his<feminine>her<end> mind for knowledge, but we must remember <masculine_CHARACTER-0>he<feminine>she<end> is still a child.]]></English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HIDDEN_SCROLLS</zType>
+		<English><![CDATA[Stopping by your <masculine_CHARACTER-1>son's<feminine>daughter's<end> chamber for a visit, you discover a cache of scrolls in a compartment behind <masculine_CHARACTER-1>his<feminine>her<end> bed. The writings are critical of the current authoritarian policies government, especially your strict codes of law.
+
+It appears that {CHARACTER-1} has been indoctrinated into a passionate resistance movement.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_REINED_IN</zType>
+		<English><![CDATA[Privately, your <masculine_CHARACTER-1>wife<feminine>husband<end> expresses her unhappiness with how the court governs. "How can a ruler rule when <masculine_CHARACTER-0>he<feminine>she<end> is reined in by a constitution? Are you not the <masculine_CHARACTER-0>King<feminine>Queen<end> of {PLAYER-0}?"
+
+<masculine_CHARACTER-0>She<feminine>He<end> leaves you alone to think about your power.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOST_INTEGRITY</zType>
+		<English>Several generals, including {CHARACTER-1}, come before the throne to express their displeasure with the current state of the {PLAYER-0,1} military. "We are expected to fight alongside children and old men. This is no way to conduct war."
+
+They pledge to retire their posts if no action to restore their integrity is taken.</English>
+	</Entry>
 	<Entry beginGroup="Tutorial">
 		<zType>TEXT_EVENTSTORY_VICTORY_POINTS</zType>
 		<English>(Points Victory)
@@ -6535,5 +6703,15 @@ Higher Legitimacyicon(YIELD_LEGITIMACY) grants you additional link(YIELD_ORDERS)
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_AXEMAN_SELECTED</zType>
 		<English>Your Nation has trained its first link(UNIT_AXEMAN). This Unit has an arcing attack, striking foes adjacent to its target for partial damage.</English>
+	</Entry>
+	<Entry beginGroup="Law">
+		<zType>TEXT_EVENTSTORY_THREAT_OF_MUTINY</zType>
+		<English>The {FAMILY-1} family, enduring patrons of the oppressed, publicly decry the government's slavery laws, and they threaten a court mutiny if the policies are not reversed. With the will of the people behind them, the {FAMILY-1,1} are a powerful force.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WEAK_WILL</zType>
+		<English><![CDATA[{CHARACTER-1} of the {FAMILY-2} family accuses you of possessing a weak will with regards to your subjects. "What next? Freedom for the beasts of the field, for the sheep in the pastures?"
+
+<masculine_CHARACTER-1>He<feminine>She<end> leaves you with a warning. "Put the people in their place, or the court will force your hand."]]></English>
 	</Entry>
 </Root>

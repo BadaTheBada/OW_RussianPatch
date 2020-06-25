@@ -22,6 +22,10 @@
 		<English>Your assassins have failed to kill {CHARACTER-TARGET}. Worse yet, your ignoble plot has been exposed.</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_MISSIONRESULT_TREACHERY_DESCRIPTION</zType>
+		<English>{CHARACTER-SUBJECT} has successfully weakened the city's defenses.</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_DESCRIPTION</zType>
 		<English>Your vassal family appreciates the gifts that your Chancellor {CHARACTER-SUBJECT} brought from you.</English>
 	</Entry>
@@ -197,6 +201,10 @@
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ASSASSINATE_EVENT</zType>
 		<English>Assassination Event</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TREACHERY</zType>
+		<English>Treachery finished</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_TRADE_MISSION_EVENT</zType>

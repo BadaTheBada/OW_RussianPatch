@@ -43,7 +43,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM_NEW_DIPLOMACY</zType>
-		<English>You are now at {0_newDiplomacy} with {1_team}.</English>
+		<English>{0_team} is now at {1_newDiplomacy} with {2_team}.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM_ALLIANCE_WAR</zType>
@@ -383,15 +383,15 @@
 		<zType>TEXT_GAME_DO_BONUS_NICKNAME</zType>
 		<English>Becomes known as {0_nickname}</English>
 	</Entry>
-  <Entry>
-    <zType>TEXT_GAME_DO_BONUS_PLAYER_START_LAW</zType>
-    <English>{0_player}: Start {1_law}</English>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GAME_DO_BONUS_PLAYER_END_LAW</zType>
-    <English>{0_player}: End {1_law}</English>
-  </Entry>
-  <Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_PLAYER_START_LAW</zType>
+		<English>{0_player}: Start {1_law}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_PLAYER_END_LAW</zType>
+		<English>{0_player}: End {1_law}</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_PLAYER_FREE_LAW</zType>
 		<English>{0_player}: Free {1_law}</English>
 	</Entry>
@@ -604,6 +604,46 @@
 		<zType>TEXT_GAME_TILE_IMPROVEMENT_UPGRADE</zType>
 		<English>({0_name}: {1_turns})</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UPLOADING_GAME_POPUP</zType>
+		<English>Game uploading...</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_NOT_CONNECTED_TO_ONLINE_SERVICES_POPUP</zType>
+		<English>Not Connected to online services</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UPLOAD_COMPLETE_POPUP</zType>
+		<English>Game Upload Complete</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UPLOAD_FAILED_POPUP</zType>
+		<English>Game Upload Failed</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_SAVED</zType>
+		<English>Game Saved</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_FAILED_TO_SAVE</zType>
+		<English>Failed to Save</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHAT_ALL_TAG</zType>
+		<English>ALL</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHAT_TEAM_TAG</zType>
+		<English>TEAM</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHAT_MESSAGE_FORMAT</zType>
+		<English>{0_fromPlayer}[{1_tag}]: {2_msg}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TILE_NOT_UNLIMBERED</zType>
+		<English>Not Unlimbered</English>
+	</Entry>
 	<!--Unit-->
 	<Entry>
 		<zType>TEXT_GAME_UNIT_TILE_DAMAGE</zType>
@@ -620,5 +660,59 @@
 	<Entry>
 		<zType>TEXT_GAME_UNIT_TILE_JOIN_CITY</zType>
 		<English>{0} {1,2_citizenLink}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_PILLAGED_IMPROVEMENT</zType>
+		<English>{0} Pillaged!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_FINISHED_TRADE_ROUTE</zType>
+		<English>Trade Route Complete: {0}</English>
+	</Entry>
+	<!--City-->
+	<Entry>
+		<zType>TEXT_GAME_CITY_YIELD_FROM_CULTURE_EVENT</zType>
+		<English>{0} from link(CONCEPT_CULTURE_EVENT)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_REBEL_UNITS_NEAR_CITY</zType>
+		<English>Rebels have formed a {0_unit} near {1_city}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_CURRY_POPULATION_CITIZENS_COST</zType>
+		<English>{0} Citizen(s)</English>
+	</Entry>
+	<!--Player-->
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_RESOURCE_SHORTFALL</zType>
+		<English>Resource Shortfall: Spent {0} to buy {1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_MISSION_CANCELLED</zType>
+		<English>{0}'s Mission is Cancelled: {1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_YIELD_ORDERS_SOLD_FOR_YIELD</zType>
+		<English>{0} is sold for {1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_YIELD_YIELD_CONVERTED_TO_ORDERS</zType>
+		<English>{0} is converted into {1}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_SAVE_AND_RELOAD_TO_PLAY_POPUP</zType>
+		<English>Save and reload to play as next player</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_FAILED_TO_UPLOAD_TO_CLOUD_POPUP</zType>
+		<English>Failed to upload</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_YIELD_GIFT_RECIEVED</zType>
+		<English>{0_amount} {1} Received!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_DECLARED_WAR_ON</zType>
+		<English>Declared war on {0_strength} {1}</English>
 	</Entry>
 </Root>
