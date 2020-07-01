@@ -7,387 +7,387 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_TRUCE_TITLE</zType>
-		<Translation>Player Truce</Translation>
+		<Translation>Перемирие</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_TITLE</zType>
-		<Translation>Player War</Translation>
+		<Translation>Война</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PEACE_RESPONSE_TITLE</zType>
-		<Translation>Peace Response</Translation>
+		<Translation>Заключение мира</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRUCE_RESPONSE_TITLE</zType>
-		<Translation>Truce Response</Translation>
+		<Translation>Заключение перемирия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_BARBARIAN_WAR_TITLE</zType>
-		<Translation>A War Declaration</Translation>
+		<Translation>Объявление войны</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_PLAYER_WAR_TITLE</zType>
-		<Translation>A War Declaration</Translation>
+		<Translation>Объявление войны</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_DECLARE_WAR_TITLE</zType>
-		<Translation>Declare War</Translation>
+		<Translation>Объявить войну</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_BREAK_PEACE_TITLE</zType>
-		<Translation>Break Peace</Translation>
+		<Translation>Нарушить мир</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_END_ALLIANCE_TITLE</zType>
-		<Translation>End Alliance</Translation>
+		<Translation>Расторгнуть союз</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_CANCEL_TRADE_TITLE</zType>
-		<Translation>Cancel Trade</Translation>
+		<Translation>Прекратить торговлю</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARBARIAN_DECLARE_WAR_TITLE</zType>
-		<Translation>Declare War</Translation>
+		<Translation>Объявить войну</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARBARIAN_BREAK_PEACE_TITLE</zType>
-		<Translation>Break Peace</Translation>
+		<Translation>Нарушить мир</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARBARIAN_END_ALLIANCE_TITLE</zType>
-		<Translation>End Alliance</Translation>
+		<Translation>Расторгнуть союз</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SEASIDE_FIND_TITLE</zType>
-		<Translation><![CDATA[Seaside Find]]></Translation>
+		<Translation><![CDATA[Находка на берегу]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_CODES_OF_JUSTICE_TITLE</zType>
-		<Translation><![CDATA[Codes of Justice]]></Translation>
+		<Translation><![CDATA[Свод законов]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_SAGE_COUNSEL_TITLE</zType>
-		<Translation><![CDATA[Sage Counsel]]></Translation>
+		<Translation><![CDATA[Мудрый совет]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_BARBARIANS_AT_THE_GATE_TITLE</zType>
-		<Translation><![CDATA[Barbarians at the Gate]]></Translation>
+		<Translation><![CDATA[Варвары у ворот]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_MOUTHPIECE_OF_THE_GODS_TITLE</zType>
-		<Translation><![CDATA[Mouthpiece of the Gods]]></Translation>
+		<Translation><![CDATA[Уста богов]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_DIVINE_MANDATE_TITLE</zType>
-		<Translation><![CDATA[Divine Mandate]]></Translation>
+		<Translation><![CDATA[Власть от бога]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_UNDER_SUSPICION_TITLE</zType>
-		<Translation><![CDATA[Under Suspicion]]></Translation>
+		<Translation><![CDATA[Под подозрением]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_ARTS_AND_SCIENCES_TITLE</zType>
-		<Translation><![CDATA[Arts and Sciences]]></Translation>
+		<Translation><![CDATA[Искусство и наука]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_OF_THE_PEOPLE_TITLE</zType>
-		<Translation><![CDATA[Of the People]]></Translation>
+		<Translation><![CDATA[Любовь народа]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_TEST_OF_FAITH_TITLE</zType>
-		<Translation><![CDATA[Test of Faith]]></Translation>
+		<Translation><![CDATA[Испытание веры]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_QUESTION_AUTHORITY_TITLE</zType>
-		<Translation><![CDATA[Question Authority]]></Translation>
+		<Translation><![CDATA[Сомнения]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_COLLISION_COURSE_TITLE</zType>
-		<Translation><![CDATA[Collision Course]]></Translation>
+		<Translation><![CDATA[Острые разногласия]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_ENABLERS_TITLE</zType>
-		<Translation><![CDATA[Enablers]]></Translation>
+		<Translation><![CDATA[Искусители]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_ROYAL_TRAGEDIES_TITLE</zType>
-		<Translation><![CDATA[Royal Tragedies]]></Translation>
+		<Translation><![CDATA[Трагедии королевской семьи]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_A_DARK_PALL_TITLE</zType>
-		<Translation><![CDATA[A Dark Pall]]></Translation>
+		<Translation><![CDATA[Темная пелена]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_DUEL_OF_FATES_TITLE</zType>
-		<Translation><![CDATA[Duel of Fates]]></Translation>
+		<Translation><![CDATA[Неотвратимая дуэль]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_DUEL_OF_FATES_VICTORIOUS_TITLE</zType>
-		<Translation><![CDATA[Victorious!]]></Translation>
+		<Translation><![CDATA[Победа!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_DUEL_OF_FATES_DEFEATED_TITLE</zType>
-		<Translation><![CDATA[Defeated!]]></Translation>
+		<Translation><![CDATA[Поражение!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_FAMILY_RETREAT_TITLE</zType>
-		<Translation><![CDATA[Family Retreat]]></Translation>
+		<Translation><![CDATA[Семейное пристанище]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_THE_FINER_THINGS_TITLE</zType>
-		<Translation><![CDATA[The Finer Things]]></Translation>
+		<Translation><![CDATA[Изысканные подарки]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_A_CHILL_IN_THE_PALACE_TITLE</zType>
-		<Translation><![CDATA[A Chill in the Palace]]></Translation>
+		<Translation><![CDATA[Холод во дворце]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_FACING_THE_HORDE_TITLE</zType>
-		<Translation><![CDATA[Facing the Horde]]></Translation>
+		<Translation><![CDATA[Лицом к лицу с ордой]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_FORCED_DEPORTATIONS_TITLE</zType>
-		<Translation><![CDATA[Forced Deportations]]></Translation>
+		<Translation><![CDATA[Принудительная депортация]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DINOSAUR_BONES_TITLE</zType>
-		<Translation><![CDATA[Dinosaur Bones]]></Translation>
+		<Translation><![CDATA[Кости динозавров]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_GOOD_NEWS_TITLE</zType>
-		<Translation><![CDATA[Good News]]></Translation>
+		<Translation><![CDATA[Хорошие новости]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_BIREME_SELECTED_TITLE</zType>
-		<Translation>Tutorial Bireme Selected</Translation>
+		<Translation>Обучение, выбор биремы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_SPEARMAN_SELECTED_TITLE</zType>
-		<Translation>Tutorial Spearman Selected</Translation>
+		<Translation>Обучение, выбор воина с копьем</Translation>
 	</Entry>
 	<Entry beginGroup="Exploration">
 		<zType>TEXT_EVENTSTORY_RUINS_SURVIVORS_TITLE</zType>
-		<Translation>Survivors</Translation>
+		<Translation>Выжившие</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_RITUAL_PERFORMANCE_TITLE</zType>
-		<Translation>Ritual Performance</Translation>
+		<Translation>Ритуальные изображения</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_CARVED_WALL_TITLE</zType>
-		<Translation>Carved Wall</Translation>
+		<Translation>Стена законов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_MONUMENTS_OF_LAW_TITLE</zType>
-		<Translation>Monuments of Law</Translation>
+		<Translation>Монументы закона</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_HUNGRY_LOREKEEPERS_TITLE</zType>
-		<Translation>Hungry Lorekeepers</Translation>
+		<Translation>Голодные хранители преданий</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_HIDDEN_JEWELS_TITLE</zType>
-		<Translation>Hidden Jewels</Translation>
+		<Translation>Спрятанные драгоценности</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_FRIGHTENED_FAMILIES_TITLE</zType>
-		<Translation>Frightened Families</Translation>
+		<Translation>Испуганные семьи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_ELDERLY_COUPLE_TITLE</zType>
-		<Translation>Elderly Couple</Translation>
+		<Translation>Престарелая пара</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_ELDERLY_COUPLE_WITCH_TITLE</zType>
-		<Translation>Mad Priestess</Translation>
+		<Translation>Безумная жрица</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_DESPOILED_RUINS_TITLE</zType>
-		<Translation>Despoiled Ruins</Translation>
+		<Translation>Расхищение руин</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_HAUNTED_QUARRY_TITLE</zType>
-		<Translation>Haunted Quarry</Translation>
+		<Translation>Привидения в каменоломне</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_BURLY_SMITH_TITLE</zType>
-		<Translation>Burly Smith</Translation>
+		<Translation>Кузнец</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_GOOD_FENCES_TITLE</zType>
-		<Translation>Good Fences</Translation>
+		<Translation>За хорошим забором</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_TRIBAL_HUNTERS_TITLE</zType>
-		<Translation>Tribal Hunters</Translation>
+		<Translation>Племя охотников</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_STAR_CHARTS_TITLE</zType>
-		<Translation>Star Charts</Translation>
+		<Translation>Карта звездного неба</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_FRUIT_TREES_TITLE</zType>
-		<Translation>Fruit Trees</Translation>
+		<Translation>Фруктовые деревья</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_OLD_SOLDIER_TITLE</zType>
-		<Translation>Veteran Soldier</Translation>
+		<Translation>Закаленный солдат</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_WEARY_MARAUDERS_TITLE</zType>
-		<Translation>Weary Raiders</Translation>
+		<Translation>Скучающие мародеры</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_GREAT_MIGRATION_TITLE</zType>
-		<Translation><![CDATA[Great Migration]]></Translation>
+		<Translation><![CDATA[Великое переселение]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_VULGAR_SPEECH_TITLE</zType>
-		<Translation><![CDATA[Vulgar Speech]]></Translation>
+		<Translation><![CDATA[Вульгарная латынь]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_ANCIENT_BARBARIANS_TITLE</zType>
-		<Translation><![CDATA[Ancient Barbarians]]></Translation>
+		<Translation><![CDATA[Древние варвары]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_THE_WATCHERS_TITLE</zType>
-		<Translation><![CDATA[The Watchers]]></Translation>
+		<Translation><![CDATA[Стражи]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ANCIENT_SITE_TITLE</zType>
-		<Translation>Ancient Site</Translation>
+		<Translation>Древнее место</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SACRED_TOMB_TITLE</zType>
-		<Translation>Sacred Tomb</Translation>
+		<Translation>Священная гробница</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SEASHORE_FIND_TITLE</zType>
-		<Translation><![CDATA[Seashore Find]]></Translation>
+		<Translation><![CDATA[Находка на берегу]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_EARLY_DISCIPLES_TITLE</zType>
-		<Translation><![CDATA[Early Disciples]]></Translation>
+		<Translation><![CDATA[Первые храмы]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_THE_FLOATING_CITY_TITLE</zType>
-		<Translation><![CDATA[The Floating City]]></Translation>
+		<Translation><![CDATA[Плавучий город]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_NEW_HUMANS_TITLE</zType>
-		<Translation><![CDATA[New Humans]]></Translation>
+		<Translation><![CDATA[Иные люди]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_SUNKEN_TOMBS_TITLE</zType>
-		<Translation><![CDATA[Sunken Tombs]]></Translation>
+		<Translation><![CDATA[Затопленные могилы]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_THE_KINGS_ROADS_TITLE</zType>
-		<Translation><![CDATA[The King's Roads]]></Translation>
+		<Translation><![CDATA[Дорога короля]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_GEOGLYPHS_TITLE</zType>
-		<Translation><![CDATA[Geoglyphs]]></Translation>
+		<Translation><![CDATA[Геоглиф]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_RAISED_FIELDS_TITLE</zType>
-		<Translation><![CDATA[Raised Fields]]></Translation>
+		<Translation><![CDATA[Возвышенные поля]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_GRAVE_CIRCLES_TITLE</zType>
-		<Translation><![CDATA[Grave Circle]]></Translation>
+		<Translation><![CDATA[Круг могил]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_EMERALD_MINES_TITLE</zType>
-		<Translation><![CDATA[Emerald Mines]]></Translation>
+		<Translation><![CDATA[Изумрудный рудник]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_EMERALD_MINES_CAVE_IN_TITLE</zType>
-		<Translation><![CDATA[Cave In!]]></Translation>
+		<Translation><![CDATA[Обрушение!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_EMERALD_MINE_REBUILT_TITLE</zType>
-		<Translation><![CDATA[Emerald Mine Rebuilt]]></Translation>
+		<Translation><![CDATA[Восстановление изумрудного рудника]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_IN_THE_CLOUDS_TITLE</zType>
-		<Translation><![CDATA[In the Clouds]]></Translation>
+		<Translation><![CDATA[В облаках]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_HEAVEN_AND_EARTH_TITLE</zType>
-		<Translation><![CDATA[Heaven and Earth]]></Translation>
+		<Translation><![CDATA[Небо и земля]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_GOLD_WORKERS_TITLE</zType>
-		<Translation><![CDATA[Gold Workers]]></Translation>
+		<Translation><![CDATA[Ювелир]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_BEADS_AND_FIGURINES_TITLE</zType>
-		<Translation><![CDATA[Beads and Figurines]]></Translation>
+		<Translation><![CDATA[Бусины и статуэтки]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_WRATH_OF_THE_WATCHERS_TITLE</zType>
-		<Translation>Wrath of the Watchers</Translation>
+		<Translation>Ярость Стражей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_PROPHECY_TITLE</zType>
-		<Translation>Prophecy</Translation>
+		<Translation>Пророчество</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_THE_DIVINER_TITLE</zType>
-		<Translation>The Diviner</Translation>
+		<Translation>Глас Божий</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RIDDLE_OF_THE_GATE_TITLE</zType>
-		<Translation>The Riddle of the Gate</Translation>
+		<Translation>Загадка каменных ворот</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RIDDLE_OF_THE_SPHINX_TITLE</zType>
-		<Translation>The Riddle of the Sphinx</Translation>
+		<Translation>Загадка сфинкса</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_ALL_THAT_GLITTERS_TITLE</zType>
-		<Translation>All that Glitters</Translation>
+		<Translation>Не все то золото</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_CAUGHT_IN_THE_ACT_TITLE</zType>
-		<Translation>Caught in the Act</Translation>
+		<Translation>Пойман с поличным</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_MARVELOUS_SPECIMENS_TITLE</zType>
-		<Translation>Marvelous Specimens</Translation>
+		<Translation>Удивительные останки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_RITUAL_SCENT_TITLE</zType>
-		<Translation>Ritual Scent</Translation>
+		<Translation>Ароматы церемоний</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_STANDOFF_TITLE</zType>
-		<Translation>Standoff</Translation>
+		<Translation>Противостояние</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_HIGH_SPIRITS_TITLE</zType>
-		<Translation>High Spirits</Translation>
+		<Translation>Бодрость духа</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_CAMEL_BITE_TITLE</zType>
-		<Translation>Camel Bite</Translation>
+		<Translation>Укус верблюда</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_TOUGH_GAME_TITLE</zType>
-		<Translation>Tough Game</Translation>
+		<Translation>Жесткая дичь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_WILD_HORSES_TITLE</zType>
-		<Translation>Wild Horses</Translation>
+		<Translation>Дикие лошади</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_CORNER_THE_MARKET_TITLE</zType>
-		<Translation>Corner the Market</Translation>
+		<Translation>Захват рынка</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_LUXURY_OR_UTILITY_TITLE</zType>
-		<Translation>Luxury or Utility</Translation>
+		<Translation>Роскошь или необходимость</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_PIG_IN_THE_PALACE_TITLE</zType>
