@@ -252,8 +252,8 @@
 		<Translation>Send {0_trade} to {1_player}</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_GAME_DO_BONUS_TRADE_FOR_PLAYER</zType>
-		<Translation>{0_trade} Trade Boost for {1_player}</Translation>
+		<zType>TEXT_GAME_DO_BONUS_TRADE_PLAYER</zType>
+		<Translation>{0_trade} Trade with {1_player}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_TRIBUTE_PLAYER</zType>
@@ -301,15 +301,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_FOUND_RELIGION_CITY</zType>
-		<Translation>Found {1_religion}</Translation>
+		<Translation>Found {0_religion}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CITIZENS</zType>
 		<Translation><![CDATA[{0_value} <singular_0>{1_citizenLink}<plural>{1,2_citizenLink}<end>]]></Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GAME_DO_BONUS_HP</zType>
-		<Translation>{0_damage} HP</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_BORDER_GROWTH</zType>
@@ -330,6 +326,14 @@
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_IMPROVEMENTS_DESTROYED</zType>
 		<Translation><![CDATA[{0_value} <singular_0>Improvement<plural>Improvements<end> Destroyed]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_HP</zType>
+		<Translation>{0_damage} HP</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_AGENT_CITY</zType>
+		<Translation>{0_character} becomes link(CONCEPT_AGENT)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_PLUS_ONE</zType>
@@ -373,7 +377,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_STARTS_MISSION</zType>
-		<Translation>Starts Mission: {0_mission}</Translation>
+		<Translation>{0_character} Starts Mission: {1_mission}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MAKE_COUNCIL</zType>
