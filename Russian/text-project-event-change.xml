@@ -154,9 +154,13 @@
 	<Entry>
 		<zType>TEXT_PROJECT_CONFUCIANISM</zType>
 		<Translation>Конфуцианство</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_PROJECT_SALT_PRODUCTION</zType>
-		<Translation>Производство соли</Translation>
-	</Entry>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_SALT_PRODUCTION</zType>
+    <Translation>Производство соли</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_AUTONOMOUS_RULE</zType>
+    <Translation>Autonomous Rule</Translation>
+  </Entry>
 </Root>

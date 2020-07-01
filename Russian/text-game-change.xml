@@ -43,7 +43,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM_NEW_DIPLOMACY</zType>
-		<Translation>You are now at {0_newDiplomacy} with {1_team}.</Translation>
+		<Translation>{0_team} is now at {1_newDiplomacy} with {2_team}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM_ALLIANCE_WAR</zType>
@@ -383,15 +383,15 @@
 		<zType>TEXT_GAME_DO_BONUS_NICKNAME</zType>
 		<Translation>Becomes known as {0_nickname}</Translation>
 	</Entry>
-  <Entry>
-    <zType>TEXT_GAME_DO_BONUS_PLAYER_START_LAW</zType>
-    <Translation>{0_player}: Start {1_law}</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GAME_DO_BONUS_PLAYER_END_LAW</zType>
-    <Translation>{0_player}: End {1_law}</Translation>
-  </Entry>
-  <Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_PLAYER_START_LAW</zType>
+		<Translation>{0_player}: Start {1_law}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_PLAYER_END_LAW</zType>
+		<Translation>{0_player}: End {1_law}</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_PLAYER_FREE_LAW</zType>
 		<Translation>{0_player}: Free {1_law}</Translation>
 	</Entry>
@@ -604,6 +604,46 @@
 		<zType>TEXT_GAME_TILE_IMPROVEMENT_UPGRADE</zType>
 		<Translation>({0_name}: {1_turns})</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UPLOADING_GAME_POPUP</zType>
+		<Translation>Game uploading...</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_NOT_CONNECTED_TO_ONLINE_SERVICES_POPUP</zType>
+		<Translation>Not Connected to online services</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UPLOAD_COMPLETE_POPUP</zType>
+		<Translation>Game Upload Complete</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UPLOAD_FAILED_POPUP</zType>
+		<Translation>Game Upload Failed</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_SAVED</zType>
+		<Translation>Game Saved</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_FAILED_TO_SAVE</zType>
+		<Translation>Failed to Save</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHAT_ALL_TAG</zType>
+		<Translation>ALL</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHAT_TEAM_TAG</zType>
+		<Translation>TEAM</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHAT_MESSAGE_FORMAT</zType>
+		<Translation>{0_fromPlayer}[{1_tag}]: {2_msg}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TILE_NOT_UNLIMBERED</zType>
+		<Translation>Not Unlimbered</Translation>
+	</Entry>
 	<!--Unit-->
 	<Entry>
 		<zType>TEXT_GAME_UNIT_TILE_DAMAGE</zType>
@@ -620,5 +660,59 @@
 	<Entry>
 		<zType>TEXT_GAME_UNIT_TILE_JOIN_CITY</zType>
 		<Translation>{0} {1,2_citizenLink}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_PILLAGED_IMPROVEMENT</zType>
+		<Translation>{0} Pillaged!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_FINISHED_TRADE_ROUTE</zType>
+		<Translation>Trade Route Complete: {0}</Translation>
+	</Entry>
+	<!--City-->
+	<Entry>
+		<zType>TEXT_GAME_CITY_YIELD_FROM_CULTURE_EVENT</zType>
+		<Translation>{0} from link(CONCEPT_CULTURE_EVENT)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_REBEL_UNITS_NEAR_CITY</zType>
+		<Translation>Rebels have formed a {0_unit} near {1_city}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_CURRY_POPULATION_CITIZENS_COST</zType>
+		<Translation>{0} Citizen(s)</Translation>
+	</Entry>
+	<!--Player-->
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_RESOURCE_SHORTFALL</zType>
+		<Translation>Resource Shortfall: Spent {0} to buy {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_MISSION_CANCELLED</zType>
+		<Translation>{0}'s Mission is Cancelled: {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_YIELD_ORDERS_SOLD_FOR_YIELD</zType>
+		<Translation>{0} is sold for {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_YIELD_YIELD_CONVERTED_TO_ORDERS</zType>
+		<Translation>{0} is converted into {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_SAVE_AND_RELOAD_TO_PLAY_POPUP</zType>
+		<Translation>Save and reload to play as next player</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_FAILED_TO_UPLOAD_TO_CLOUD_POPUP</zType>
+		<Translation>Failed to upload</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_YIELD_GIFT_RECIEVED</zType>
+		<Translation>{0_amount} {1} Received!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_DECLARED_WAR_ON</zType>
+		<Translation>Declared war on {0_strength} {1}</Translation>
 	</Entry>
 </Root>
