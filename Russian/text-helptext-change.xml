@@ -288,10 +288,6 @@
 		<Translation>Разграблено {0_turns}</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_HELPTEXT_LINK_LAUNCH_OFFENSIVE_GENERIC</zType>
-		<Translation>Начать наступление</Translation>
-	</Entry>
-	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_CULTURE_LEVEL</zType>
 		<Translation>Уровень культуры~Уровня культуры~Уровню культуры~Уровень культуры~Уровнем культуры~Уровне культуры~Уровни культуры~Уровней культуры~Уровням культуры~Уровни культуры~Уровнями культуры~Уровнях культуры</Translation>
 	</Entry>
@@ -402,10 +398,6 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_TILE</zType>
 		<Translation>Клетка {0_x}, {1_y}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_LINK_TRADE_BONUS</zType>
-		<Translation>Бонус от торговли</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_TRIBUTE</zType>
@@ -1286,10 +1278,6 @@
 		<Translation>Захватить клетки за {0_money} ({1_city})</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_HELPTEXT_WIDGET_COLONIZE_TILE_REQUIRES</zType>
-		<Translation>Требует: {0_list}</Translation>
-	</Entry>
-	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TRADE_ROUTE</zType>
 		<Translation>Отправить торговый караван к {0,2_player}</Translation>
 	</Entry>
@@ -1804,10 +1792,6 @@
 		<Translation><![CDATA[Присоединится к двору, чтобы {0_tutorLink} детей вашей семьи.<br>Может стать {1,4_general}, {2,4_governor} или супругом.]]></Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_HELPTEXT_LINK_HELP_LAUNCH_OFFENSIVE</zType>
-		<Translation><![CDATA[Ускоряет восстановление <singular_0>ближайшего отряда<plural>{0} ближайших отрядов<plural2>{0} ближайших отрядов<end>]]></Translation>
-	</Entry>
-	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_LEGITIMACY_OPINIONS</zType>
 		<Translation>{0_value}: мнение семьи</Translation>
 	</Entry>
@@ -1862,10 +1846,6 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_REBEL</zType>
 		<Translation>Появится мятежник и начнет атаковать отряды и города.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_LINK_HELP_RELIGION_CITIES</zType>
-		<Translation><![CDATA[Наши города с {0,4_religion}:<br>{1_list}]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_RIVER_BLOCKS_ZOC</zType>
@@ -1956,14 +1936,6 @@
 		<Translation><![CDATA[Улучшит характеристики королевских отпрысков (для детей возрастом от {0_age} <singular_0>года<plural>лет<plural2>лет<end>)<br>Ученики: ]]></Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_HELPTEXT_LINK_HELP_UNIT_CYCLE_KEY</zType>
-		<Translation>Нажать [{0_key}] для смены отрядов.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_LINK_HELP_UNIT_CENTER_KEY</zType>
-		<Translation>Нажать [{0_key}], чтобы увидеть отряд.</Translation>
-	</Entry>
-	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_UNIT_HIDE_KEY</zType>
 		<Translation>Удерживать [{0_key}], чтобы не отображать отряды.</Translation>
 	</Entry>
@@ -2037,10 +2009,6 @@
 		<Translation> (-{0,3_yield})</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_HELPTEXT_YIELD_NET_TRADE_FROM</zType>
-		<Translation>{0}: Поставка от {1,1_player} {2_turns}</Translation>
-	</Entry>
-	<Entry>
 		<zType>TEXT_HELPTEXT_YIELD_NET_TRIBUTE_BARBARIANS</zType>
 		<Translation><![CDATA[{0}: Дань <true_1>нам от {2,1_barbarian}<false>от нас {2,2_barbarian}<end> {3_turns}]]></Translation>
 	</Entry>
@@ -2096,14 +2064,6 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_HOLY_CITY</zType>
 		<Translation>Требуется Священный город</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_COAST</zType>
-		<Translation>Побережье</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_WATER_COAST</zType>
-		<Translation>Прибрежные воды</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_ADJACENT_CITY</zType>
@@ -2211,10 +2171,6 @@
 		<Translation><![CDATA[<singular_0>Бонусная карта<plural>Бонусные карты<plural2>Бонусные карты<end>: {0_list}]]></Translation>
 	</Entry>
 	<!--Unit Type Help-->
-	<Entry>
-		<zType>TEXT_HELPTEXT_UNIT_TYPE_HP</zType>
-		<Translation>HP: {0}/{1}</Translation>
-	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_HP_MAX</zType>
 		<Translation>HP: {0}</Translation>
@@ -2375,32 +2331,12 @@
 	</Entry>
 	<!--Effect Unit Help-->
 	<Entry>
-		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_STRENGTH</zType>
-		<Translation>Сила: {0_value}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_DEFENSE</zType>
-		<Translation>Защита: {0_value}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_MOVEMENT</zType>
-		<Translation>Передвижение: {0_value}</Translation>
-	</Entry>
-	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_FATIGUE_LIMIT</zType>
 		<Translation>Выносливость: {0_value}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_VISION</zType>
 		<Translation>Обзор: {0_value}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_RANGE</zType>
-		<Translation>Радиус: {0_value}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_CRITICAL_CHANCE</zType>
-		<Translation>Шанс критического удара: {0_value}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_ATTACK_ACROSS_RIVER</zType>
@@ -3354,10 +3290,6 @@
 		<Translation>Отправить {0,2_opponent}: {1_yieldList}</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_HELPTEXT_BONUS_TRADE_FOR</zType>
-		<Translation><![CDATA[Бонус {0,1_opponent} от торговли: {1_yieldList} на {2_years} <singular_2>год<plural>года<plural2>лет<end>]]></Translation>
-	</Entry>
-	<Entry>
 		<zType>TEXT_HELPTEXT_BONUS_TRIBUTE_FROM</zType>
 		<Translation><![CDATA[Дань от {0,1_opponent}: {1_yieldList} в течение {2_years} <singular_2>год<plural>года<plural2>лет<end>]]></Translation>
 	</Entry>
@@ -3530,10 +3462,6 @@
 		<zType>TEXT_HELPTEXT_MISSION_ALREADY_ACTIVE</zType>
 		<Translation>Миссия уже активна ({0_missionLink})</Translation>
 	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_MISSION_CONFLICT_TURNS</zType>
-		<Translation><![CDATA[Нельзя осуществлять Дипломатию {0} <singular_0>год<plural>года<plural2>лет<end>]]></Translation>
-	</Entry>
 	<!--Trait Help-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_TRAIT_TITLE</zType>
@@ -3613,14 +3541,6 @@
 		<Translation>Состояние войны: {0} ({1})</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_HELPTEXT_PLAYER_TRADE_BONUS_FOR_US</zType>
-		<Translation>{0} (для нас): {1_yields}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_PLAYER_TRADE_BONUS_FOR_THEM</zType>
-		<Translation>{0} (для них): {1_yields}</Translation>
-	</Entry>
-	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_TRIBUTE_FROM</zType>
 		<Translation>Получение {0,1_tributeLink}: {1_yields}</Translation>
 	</Entry>
@@ -3655,14 +3575,6 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_OPINION_NATION</zType>
 		<Translation>{0_opinion}: Старая неприязнь к {1,2_nation}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_PLAYER_OPINION_LUXURIES</zType>
-		<Translation>{0_opinion}: наши редкие ресурсы</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_PLAYER_OPINION_STATE_RELIGION</zType>
-		<Translation>{0_opinion}: наша религия - государственная</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_OPINION_STRENGTH</zType>
@@ -3776,14 +3688,6 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_OUR_LAWS</zType>
 		<Translation><![CDATA[{0_value}: наши законы<true_1> ({1_lawlist})<false><end>]]></Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_FAMILY_STATE_RELIGION</zType>
-		<Translation>{0_value}: наша государственная религия ({1_religionLink})</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_FAMILY_ADOPT_RELIGION</zType>
-		<Translation>{0_value}: нет последователей нашей религии ({1_religionLink})</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_STATE_THEOLOGY</zType>
