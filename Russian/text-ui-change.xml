@@ -178,6 +178,10 @@
 		<Translation>Fatigued</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_UI_CITY_WIDGET_GOVERNOR_MARKER</zType>
+		<English>G</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_UI_CITY_WIDGET_AGENT_MARKER</zType>
 		<Translation>A</Translation>
 	</Entry>
@@ -522,6 +526,10 @@
         <zType>TEXT_MENU_SCREEN_MP_BUTTON</zType>
         <Translation>Мультиплеер</Translation>
     </Entry>
+	<Entry>
+	<zType>TEXT_MENU_SCREEN_MOD_MANAGER_BUTTON</zType>
+	<English>Mods</English>
+    </Entry>
     <Entry>
         <zType>TEXT_MENU_SCREEN_TOOLS_BUTTON</zType>
         <Translation>Инструменты</Translation>
@@ -845,6 +853,11 @@
         <zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_CLEAR</zType>
         <Translation>Clear Pauses</Translation>
     </Entry>
+    <!--mod-manager.xml-->
+    <Entry>
+	<zType>TEXT_MOD_MANAGER_MANAGE_TAB</zType>
+	<English>Manage</English>
+    </Entry>	
     <!--options-menu.xml-->
     <!--title bar-->
     <Entry>
