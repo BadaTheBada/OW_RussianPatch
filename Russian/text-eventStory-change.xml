@@ -5824,145 +5824,145 @@ This is not the first incident of this kind. We grow intrigued by these follower
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELIGION_NOMADS</zType>
-		<Translation><![CDATA[A young man claiming to be a prophet seeks permission to build a permanent home for his people. Nomads, they have wandered the wilderness for generations and now seek to establish a spiritual homeland.
+		<Translation><![CDATA[Молодой человек, называющий себя пророком, просит позволения построить храм для своих последователей. Кочевники, поколениями бродившие по пустыне, теперь стремятся обрести духовную родину.
 
-We have heard fascinating tales of these "chosen" people and their god.]]></Translation>
+До нас доходили захватывающие истории об этих "избранных" людях и их боге.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELIGION_READING_THE_WORD</zType>
-		<Translation><![CDATA[{CHARACTER-2} comes to court, raving about a new text given to <masculine_CHARACTER-2>him<feminine>her<end> by travelers from the east. This compilation of sacred writings, also called "scriptures," are teachings of the Jewish god recorded by scholars through the ages. 
+		<Translation><![CDATA[{CHARACTER-2} <masculine_CHARACTER-2>прибыл<feminine>прибыла<end> ко двору, страстно рассказывая о текстах, переданных <masculine_CHARACTER-2>ему<feminine>ей<end> путешественниками с востока. Это собрание религиозных постулатов, также именуемых "писанием", является учением иудейского бога, создававшимся на протяжении многих веков. 
 
-Intrigued, you read some of it for yourself...]]></Translation>
+Интригующе, быть может, что-то из этого стоит почитать...]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELIGION_THE_APOSTLES</zType>
-		<Translation><![CDATA[Neighborhoods on the outskirts of {CITY-0} have been visited by two shabby men claiming to be "apostles," or followers, of a heavenly prophet. These foreigners attract a sizable crowd to their gatherings.
+		<Translation><![CDATA[Окрестности города {CITY-0} посетили два оборванца, именующих себя "апостолами", последователями небесного пророка. Эти пришлые привлекают на свои сборища толпы зевак.
 
-Should we listen to their message, or send in the soldiers?]]></Translation>
+Должны ли мы послушать их речи или же сразу отправить солдат?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELIGION_KINGDOM_OF_GOD</zType>
-		<Translation>Members of the devout Christian religion have taken up residence in one of the capital's ruined temples. Their belief in a future ruler who will depose earthly leaders and establish a "Kingdom of God" concerns us.
+		<Translation><![CDATA[В одном из разрушенных храмов столицы поселились представители христианской общины. Нас беспокоит их вера в грядущего правителя, каковой низвергнет земных царей и установит "Царство Божие".
 
-The court is eager to know how, or if, you will respond.</Translation>
+Двор жаждет знать, каким будет ваш ответ. Если вообще будет.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELIGION_YOUR_BLESSING</zType>
-		<Translation><![CDATA[The minister, {CHARACTER-1}, requests to leave <masculine_CHARACTER-1>his<feminine>her<end> honored position to become a traveling missionary for the prophet Mani. Before departing, <masculine_CHARACTER-1>he<feminine>she<end> asks for the court's blessing.]]></Translation>
+		<Translation><![CDATA[Министр, {CHARACTER-1}, просит разрешения отказаться от общественного положения, чтобы стать странствующим миссионером пророка Мани. До отбытия <masculine_CHARACTER-1>он<feminine>она<end> хочет получить ваше благословение на эту затею.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELIGION_LIGHT_AND_DARK</zType>
-		<Translation><![CDATA[Nobles in court, including the {FAMILY-1,1} and the {FAMILY-2,1}, are spending evenings with the man called Mani, a supposed prophet. Interest in his teachings has spread across the cities like wildfire. 
+		<Translation><![CDATA[Знать при дворе, включая семьи {FAMILY-1} и {FAMILY-2}, проводит вечера с человеком, известным под именем Мани, которого считают пророком. Интерес к его учению распространяется по городам подобно пожару. 
 
-There is much to admire about Mani's ideas of light and darkness, but is now the time to seek a higher power?]]></Translation>
+Идеи света и тьмы вызывают восхищение, быть может, настало время и нам принять эту веру?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CULTURE_GADFLY</zType>
-		<Translation><![CDATA[The noted philosopher {CHARACTER-2} has spoken publicly about the state of government and society, calling our court a "stable of asses." 
+		<Translation><![CDATA[Известный философ {CHARACTER-2}, публично высказываясь о состоянии правительства и общества, <masculine_CHARACTER-2>назвал<feminine>назвала<end>  наш двор "сборищем ослов". 
 
-Clearly, <masculine_CHARACTER-2>his<feminine>her<end> love for the nation knows no limits, but civil disruption must be kept in check.]]></Translation>
+Очевидно, что <masculine_CHARACTER-2>его<feminine>ее<end> любовь к нации беспредельна, но подрыв общественных устоев недопустим.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CULTURE_SHOOTING_STAR</zType>
-		<Translation><![CDATA[A large fiery body streaks across the heavens, visible from every corner of the nation. Scholars wonder if this phenomenon heralds a bright new age, or if it acts as a sign of dark times to come.
+		<Translation><![CDATA[Огненная звезда, видимая со всех уголков страны, пронзает небеса. Мудрецы задаются вопросом: возвещает ли это событие наступление прекрасной новой эпохи? Или нас ожидают темные времена?
 
-How do we wish to address this cosmic event?]]></Translation>
+Что мы предпримем по этому поводу?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_MY_CONDOLENCES</zType>
-		<Translation><![CDATA[News of your recent loss reaches beyond our borders. As a result, an emissary arrives from {PLAYER-1} with a gift from {CHARACTER-1}. He describes it as "a simple gesture, to show our condolences." But is anything in this world a simple gesture?
+		<Translation><![CDATA[Новости о вашей недавней потере выходят за пределы нашего королевства. В результате прибыл эмиссар из {PLAYER-1,1} с подарком от {CHARACTER-1}. Он называет это "простым знаком внимания и способом выразить соболезнования." Но действительно ли этот жест столь прост как заявлено, быть может, есть скрытые мотивы?
 
-Your Ambassador, {CHARACTER-2}, suspects that this goodwill is a ruse to earn your gratitude, easing tensions.]]></Translation>
+Ваш советник, {CHARACTER-2}, подозревает, что эта доброжелательность лишь уловка для снижения уровня напряженности.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LOCAL_BRIGANDS</zType>
-		<Translation><![CDATA[A commander of one of our {UNIT-0} squads has received numerous reports of raiders prowling the nation's roadways. He seeks the court's support to root out these villains and restore security.
+		<Translation><![CDATA[Командир одного из отрядов {UNIT-0,7} получает множество донесений о мародерах, промышляющих на дорогах нашей страны. Он ищет поддержки в уничтожении этих злодеев и восстановлении безопасности.
 
-What is our response?]]></Translation>
+Каково ваше решение?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LOCAL_BRIGANDS_ENDING_A</zType>
-		<Translation><![CDATA[In a piece of good news, the squad of {UNIT-0,2} we sent to protect the roads has claimed victory. In a heated battle, they killed most of the bandits and chased any survivors into the wilderness.
+		<Translation><![CDATA[К счастью, {UNIT-0,6}, посланные на защиту дорог, одержали победу. В жаркой битве они сразили большинство бандитов, а выживших загнали в безжизненную пустыню.
 
-The threat to travelers and merchants is over!]]></Translation>
+Угроза путешественникам и торговцам устранена!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LOCAL_BRIGANDS_ENDING_B</zType>
-		<Translation><![CDATA[In a piece of good news, the squad of {UNIT-0} we sent to protect the roads has claimed victory. In a heated battle, they killed most of the bandits and chased any survivors into the wilderness. They also recovered a cache of stolen goods.]]></Translation>
+		<Translation><![CDATA[К счастью, {UNIT-0,6}, посланные на защиту дорог, одержали победу. В жаркой битве они сразили большинство бандитов, а выживших загнали в безжизненную пустыню. Кроме того, удалось обнаружить тайник с краденым имуществом.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LOCAL_BRIGANDS_ENDING_C</zType>
-		<Translation><![CDATA[In a piece of surprising news, the squad of {UNIT-0} we sent to protect the roads has encountered fierce resistance. Bandit activity in the area proves to be much more widespread than we had anticipated. 
+		<Translation><![CDATA[Пришли шокирующие новости: {UNIT-0,6}, посланные нами на защиту дорог, встретили ожесточенное сопротивление. Бандитизм в этом районе оказался гораздо более развит, чем ожидалось. 
 
-In fact, one might call this a rebellion.]]></Translation>
+Фактически, это можно назвать восстанием.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AN_UNLIKELY_SCENARIO</zType>
-		<Translation><![CDATA[We have received a very strange request. Our {RELIGION-1,1} priests believe that with the proper sacrifice, their higher power will instruct them in the  knowledge of... time travel.
+		<Translation><![CDATA[К нам поступила очень странная просьба. Наши {RELIGION-1,1} жрецы верят, что если принести надлежащую жертву, то высшие силы научат их... путешествиям во времени.
 
-Do we make a sacrifice?]]></Translation>
+Должны ли мы принести жертву?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELIGIOUS_FREEDOM</zType>
-		<Translation><![CDATA[Priests of our state religion of {RELIGION-1} have asked us to adopt an orthodox church culture. However, the followers of {RELIGION-2} prefer a path of tolerance. 
+		<Translation><![CDATA[Служители {RELIGION-1,1} просят нас принять в нашей государственной религии ортодоксальную церковную культуру. Вместе с тем последователи {RELIGION-2,1} предпочитают путь терпимости. 
 
-What will we choose?]]></Translation>
+Что вы выберите?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AMBASSADOR_CANDIDATES</zType>
-		<Translation><![CDATA[After a series of fiery arguments, the {FAMILY-0} and {FAMILY-1} families have both put forward candidates for the position of Ambassador. 
+		<Translation><![CDATA[После нескольких ожесточенных споров семьи {FAMILY-0} и {FAMILY-1} выдвинули кандидатов на должность советника. 
 
-Difficult choices are the bane of leadership.]]></Translation>
+Трудный выбор - часть правления.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHANCELLOR_CANDIDATES</zType>
-		<Translation><![CDATA[We have no Chancellor to manage our royal affairs. In response, both the {FAMILY-0} and {FAMILY-1} families have suggested candidates for the position.
+		<Translation><![CDATA[Для управления королевскими делами нам необходим канцлер. Обе семьи - {FAMILY-0} и {FAMILY-1} - предложили кандидатов на эту должность.
 
-Remember. Whomever we choose will possess great influence, and his or her family will reap the rewards.]]></Translation>
+Помните, кого бы мы ни выбрали, он получит большое влияние, и его семья сможет этим воспользоваться.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SPYMASTER_CANDIDATES</zType>
-		<Translation><![CDATA[The {FAMILY-0} and {FAMILY-1} families both claim to have ideal candidates for the open position of spymaster. It would be good to fill the role, but should we worry that so many noble families produce devious, cutthroat individuals?
+		<Translation><![CDATA[Семьи {FAMILY-0} и {FAMILY-1} утверждают, что обе имеют идеальных кандидатов на должность начальника разведки. Было бы неплохо назначить кого-то из них, но, возможно, стоит задуматься о появлении такого количества хитрых головорезов среди представителей знати?
 
-Which should we choose?]]></Translation>
+Что вы выберете?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TECH_VAULTING_SEWER_SYSTEM</zType>
-		<Translation>Members of the {CITY-1} leadership request the assistance of our royal engineers. They wish to experiment with a sanitary system of disposing of sewage, and vaulted ceilings are central to their designs.
+		<Translation><![CDATA[Руководство города {CITY-1} просит помощи королевских инженеров. Они хотят поэкспериментировать с системой отвода нечистот, и сводчатые потолки станут основой их конструкции.
 
-The idea has merit. Perhaps we should explore it further.</Translation>
+Идея определенно имеет достоинства. Возможно, стоит ее изучить.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TECH_VAULTING_HOUSES_OF_THE_HOLY</zType>
-		<Translation>Leaders of the {RELIGION-2} religion inform us that they are breaking ground on several new temples in the city of {CITY-1}. These structures will include massive vaulted ceilings, the first of their kind. They request the court's support in fulfilling their spiritual vision.</Translation>
+		<Translation><![CDATA[Религиозные лидеры {RELIGION-2,1} сообщают о намерении открыть нескольких новых храмов в городе {CITY-1}. В этих строениях будут впервые использоваться массивные сводчатые потолки. Они просят поддержки двора в реализации их намерений.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TECH_VAULTING_NEW_OBSESSION</zType>
-		<Translation><![CDATA[After seeing <masculine_CHARACTER-1>his<feminine>her<end> first vaulted ceiling, the heir, {CHARACTER-SHORT-1}, has become fixated on building a massive domed structure, as a memorial to the great {CHARACTER-2}. This desire borders on obsession. 
+		<Translation><![CDATA[Увидев первый сводчатый потолок, {CHARACTER-SHORT-1} зациклился на построении памятника <masculine_CHARACTER-1>великому правителю<feminine>великой правительнице<end> {CHARACTER-2} в виде массивной куполообразной конструкции. Это желание граничит с одержимостью. 
 
-We do not wish to quarrel with <masculine_CHARACTER-1>him<feminine>her<end> but such an undertaking would take many years and resources to complete.]]></Translation>
+Мы не хотим ссоры с <masculine_CHARACTER-1>ним<feminine>ней<end>, но для завершения такого проекта понадобится годы и прорва ресурсов.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TECH_BODKIN_ACCOMPLICES</zType>
-		<Translation><![CDATA[Our spies in {PLAYER-1} report that the great ruler, {CHARACTER-SHORT-1}, has been assassinated! <masculine_CHARACTER-1>He<feminine>She<end> was killed during a military exercise, shot by a {FAMILY-2,2} archer using an armor-piercing arrow of our design.
+		<Translation><![CDATA[Наши шпионы в {PLAYER-1,5} докладывают, что {CHARACTER-SHORT-1}, <masculine_CHARACTER-1>великий правитель, был убит<feminine>великая правительница, была убита<end>! <masculine_CHARACTER-1>Он был застрелен<feminine>Она была застрелена<end> во время военных учений лучником семьи {FAMILY-2} с использованием бронебойной стрелы нашей конструкции.
 
-The {PLAYER-1,2} fill their streets, seeking justice for this tragedy. How shall we proceed?]]></Translation>
+Народ {PLAYER-1,1} выходит на улицы, требуя справедливости. Что мы предпримем?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TECH_BODKIN_THE_COURTS_MEN</zType>
-		<Translation>A group of veteran {UNIT-0,2} has emerged from battle, bloodied but victorious. They attribute their success to the shipments of bodkin arrows recently delivered to their camp. 
+		<Translation><![CDATA[Перепачканный кровью отряд {UNIT-0,7} победоносно закончил бой. Они обязаны своим успехом бронебойным стрелам, недавно доставленным в их лагерь. 
 
-This unit is eager to continue the fight, wishing to honor the court with its kills. For what purpose shall we train these skilled soldiers?</Translation>
+Отряд жаждет вернуться в бой и сражать врагов во славу нашего двора. В каком направлении должны проходить тренировки этих умелых солдат?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TECH_LATEEN_MAIDEN_VOYAGE</zType>
-		<Translation>With the development of the link(TECH_JURISPRUDENCE), the court is eager to expand its reach over the mysterious seas. Yet there is disagreement over what types of vessels should be built for our maiden voyages. What we choose will show the world how we plan to utilize this powerful new technology.</Translation>
+		<Translation><![CDATA[По мере развития link(TECH_JURISPRUDENCE) двор стремится распространить свое присутствие в неизведанные моря. Тем не менее, существуют разногласия по поводу типа судов, которые надлежит использовать для первых рейсов. Наш выбор покажет миру, как именно мы планируем использовать эту новую мощную технологию.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TECH_LATEEN_ADRIFT</zType>
-		<Translation>{RELIGION-3,1} pilgrims from the city of {CITY-1} have come to court with an unusual request. They wish to build a flotilla of sailboats with which they can depart our shores forever. According to their story, they have been the target of systemic abuse and oppression for many years, and they hope to establish a new home in a faraway land.
+		<Translation><![CDATA[{RELIGION-3} паломники из города {CITY-1} прибыли ко двору с необычной просьбой. Они хотят построить флотилию парусных лодок, на которых смогут навсегда покинуть наш берег. Так сложилось, что {RELIGION-3} уже много лет подвергаются гонениям и насилию и теперь надеются построить новый дом в далекой стране.
 
-What shall we tell them?</Translation>
+Что мы ответим?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TECH_LATEEN_CAPSIZED_SPIES</zType>
