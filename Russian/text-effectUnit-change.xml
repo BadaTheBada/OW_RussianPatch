@@ -47,12 +47,20 @@
 		<Translation>Герой</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTUNIT_HERO_LEADER</zType>
+		<Translation>Герой (Правитель)</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTUNIT_COMMANDER</zType>
 		<Translation>Командир</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TACTICIAN</zType>
 		<Translation>Тактик</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_TACTICIAN_LEADER_ALL</zType>
+		<Translation>Тактик (Правитель)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ZEALOT</zType>
@@ -171,6 +179,10 @@
 		<Translation>Построение</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTUNIT_CRIPPLED</zType>
+		<Translation>Изувеченный</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTUNIT_VALOR</zType>
 		<Translation>Отвага</Translation>
 	</Entry>
@@ -209,18 +221,6 @@
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_FRIENDLY</zType>
 		<Translation>Дружелюбие (Семья)</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTUNIT_TRAIT_HERO_ARCHETYPE_LEADER</zType>
-		<Translation>Правитель Герой</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTUNIT_TRAIT_TACTICIAN_ARCHETYPE</zType>
-		<Translation>Тактик</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTUNIT_TRAIT_CRIPPLED</zType>
-		<Translation>Изувеченный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SWORD_OF_THE_GODS</zType>
