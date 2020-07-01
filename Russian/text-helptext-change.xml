@@ -14,6 +14,10 @@
 		<Translation>Нет</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_NOT_YET</zType>
+		<Translation>Not yet</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_OK</zType>
 		<Translation>ОК</Translation>
 	</Entry>
@@ -22,12 +26,28 @@
 		<Translation>Окей</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_RESET</zType>
+		<Translation>Сбросить</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_APPLY</zType>
+		<Translation>Принять</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CANCEL</zType>
+		<Translation>Отмена</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_NONE</zType>
 		<Translation>Пусто</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_RENAME</zType>
 		<Translation>Переименовать</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNKNOWN</zType>
+		<Translation>Unknown</Translation>
 	</Entry>
 	<!--General-->
 	<Entry>
@@ -123,6 +143,10 @@
 		<Translation>{0}: {1}/{2}</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_BULLET_LIST_BUILDER_FIRST</zType>
+		<Translation>icon(bullet){0}</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_BULLET_LIST_BUILDER</zType>
 		<Translation><![CDATA[{0}<br>icon(bullet){1}]]></Translation>
 	</Entry>
@@ -179,6 +203,22 @@
 		<Translation><![CDATA[<true_0>+<false><end>{1_value}<true_2>%<false><end>]]></Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_PLUS</zType>
+		<Translation>+{0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TIME_COUNTDOWN_FORMAT_HMS</zType>
+		<Translation>{0}h {1}m {2}s</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TIME_COUNTDOWN_FORMAT_MS</zType>
+		<Translation>{0}m {1}s</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TIME_COUNTDOWN_FORMAT_S</zType>
+		<Translation>{0}s</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_PRESS_KEY</zType>
 		<Translation>[Нажать {0_key}]</Translation>
 	</Entry>
@@ -189,6 +229,22 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_REQUIRES</zType>
 		<Translation>Требует: {0_list}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_REQUIRES_X</zType>
+		<Translation>Requires {0_num} {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_COST</zType>
+		<Translation>Cost: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_COLON</zType>
+		<Translation>{0} Opinion: {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_XP_PER_YEAR</zType>
+		<Translation>{0} XP/Year</Translation>
 	</Entry>
 	<!--Links-->
 	<Entry>
@@ -288,6 +344,10 @@
 		<Translation>Разграблено {0_turns}</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_LAUNCH_OFFENSIVE</zType>
+		<Translation>Launch Offensive</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_CULTURE_LEVEL</zType>
 		<Translation>Уровень культуры~Уровня культуры~Уровню культуры~Уровень культуры~Уровнем культуры~Уровне культуры~Уровни культуры~Уровней культуры~Уровням культуры~Уровни культуры~Уровнями культуры~Уровнях культуры</Translation>
 	</Entry>
@@ -302,6 +362,10 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_TECH_PROGRESS</zType>
 		<Translation> ({0}/{1} icon(YIELD_SCIENCE))</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_TECH_PROGRESS_APPEND</zType>
+		<Translation>{0} ({1}/{2} icon(YIELD_SCIENCE))</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_BUILD_QUEUE_PROJECT</zType>
@@ -364,12 +428,20 @@
 		<Translation>События</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_NEXT_UNIT</zType>
+		<Translation>Next Unit</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_OPINION_PREFERENCES</zType>
 		<Translation>Предпочтения</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_OUR_CITIES</zType>
 		<Translation>Наши города</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_OTHER_CITIES</zType>
+		<Translation>Other Cities</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_RIVER</zType>
@@ -398,6 +470,10 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_TILE</zType>
 		<Translation>Клетка {0_x}, {1_y}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_TRADE</zType>
+		<Translation>Trade</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_TRIBUTE</zType>
@@ -489,6 +565,10 @@
 		<Translation>Содержание: {0_yield}</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_CAN_ACT_ROUT</zType>
+		<Translation>Can only Attack after a link(CONCEPT_ROUT)</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_CAN_ACT_OTHER_TURN</zType>
 		<Translation>Нельзя использовать во время хода другой команды ({0})</Translation>
 	</Entry>
@@ -511,6 +591,10 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_HURRY_WARNING_INCREASES_COST</zType>
 		<Translation>Увеличивает будущую стоимость этого действия в городе</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_AUTO_BUILD_CITY_EFFECT</zType>
+		<Translation>Cannot Change Production because of {0}</Translation>
 	</Entry>
 	<!--City Money Summary Text-->
 	<Entry>
@@ -696,6 +780,14 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TURN_STATE_IDLE_NEXT_UNIT</zType>
 		<Translation><![CDATA[Перейти к следующему отряду ({0_unit})<true_1> {1_presskey}<false><end><br><TEXT_HOTKEY_RIGHT_CLICK><true_2> или {2_presskey}<false><end> Пропустить и перейти к следующему отряду ({0_unit})]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_TURN_STATE_UNIT_CYCLE_KEY</zType>
+		<Translation><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK><true_0> or {0_presskey}<false><end> to Pass to Next Unit]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_TURN_STATE_UNIT_CENTER_KEY</zType>
+		<Translation>Press [{0_key}] to Center Camera on Unit.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TURN_STATE_IDLE_CHOOSE_CITY_PRODUCTION</zType>
@@ -932,6 +1024,10 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TABPANEL_COURT_MEMBERS</zType>
 		<Translation>Придворные:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_TABPANEL_NO_CONTACTS</zType>
+		<Translation>No Nations or Tribes Contacted Yet</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TABPANEL_UNIT_CYCLES</zType>
@@ -1230,6 +1326,16 @@
 		<Translation><![CDATA[Удерживать <TEXT_HOTKEY_ALT>, чтобы купить: {0_money}]]></Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_ROAD_TO_KEY</zType>
+		<Translation><![CDATA[<TEXT_HOTKEY_CTRL_CLICK> to toggle "Connect to City Network" mode]]></Translation>
+	</Entry>
+	<Entry>        
+		<zType>TEXT_HELPTEXT_WIDGET_CANCEL_ROAD_TO_KEY</zType>
+		<Translation><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> to cancel "Connect to City Network" mode]]></Translation>
+	</Entry>
+	
+	
+	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_CANCEL_IMPROVEMENT</zType>
 		<Translation><![CDATA[Отменить {0,3_improvementLink}<br>Весь прогресс будет потерян!]]></Translation>
 	</Entry>
@@ -1276,6 +1382,14 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_COLONIZE_TILE</zType>
 		<Translation>Захватить клетки за {0_money} ({1_city})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_BECOME_AGENT</zType>
+		<Translation><![CDATA[Become {0_agent} for {1_money}<true_2> in {2_city}<false><end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_REQUIRES_LIST</zType>
+		<Translation>Requires {0_list}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TRADE_ROUTE</zType>
@@ -1558,6 +1672,11 @@
 		<Translation>Расходует отряд</Translation>
 	</Entry>
 	<!--Link Help-->
+	
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_AGENT</zType>
+		<Translation>Insert link(UNIT_SCOUT) into a Foreign City</Translation>
+	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_HELP_ALLIANCE_BARB</zType>
 		<Translation><![CDATA[Можно перемещаться и атаковать с отрядами этого племени.<br>Можно основывать города рядом с их поселениями.<br>Союзное племя разделит ваши двпломатические отношения с другими племенами.<br>Союз возможен только с одним племенем.<br>Он продлится до конца правления действующего лидера.]]></Translation>
@@ -1740,6 +1859,10 @@
 		<Translation>Первый город этой семьи</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_FAMILY_SEAT_EFFECTS</zType>
+		<Translation>First {0_family} City Founded:</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_FAMILY_UNITS</zType>
 		<Translation>Отряды семьи {0_family}:</Translation>
 	</Entry>
@@ -1844,8 +1967,20 @@
 		<Translation>Улучшить постройку (например, link(IMPROVEMENT_THEATER_1,3) до link(IMPROVEMENT_THEATER_2,1)).</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_RANGE</zType>
+		<Translation>Distance for Ranged Attacks</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_REBEL</zType>
 		<Translation>Появится мятежник и начнет атаковать отряды и города.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_RELIGION_CITIES_US</zType>
+		<Translation><![CDATA[Our {0_religion} Cities:<br>{1_list}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_RELIGION_CITIES_THEM</zType>
+		<Translation><![CDATA[Other {0_religion} Cities:<br>{1_list}]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_RIVER_BLOCKS_ZOC</zType>
@@ -1992,8 +2127,93 @@
 		<Translation><![CDATA[Если кто-нибудь из оппонентов достигнет {0_points} <singular_0>очко<plural>очка<plural2>очков<end>, игра закончится!]]></Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_VICTORY_TOTAL</zType>
+		<Translation>Total: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_VICTORY_FROM_CITIES</zType>
+		<Translation>{0}: from Cities</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_VICTORY_FROM_TILE</zType>
+		<Translation>{0}: from {1_tile}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_VICTORY_FROM_CULTURE_CITIES</zType>
+		<Translation>{0}: from {1_culture} Cities</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_VICTORY_FROM</zType>
+		<Translation>{0}: from {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_VICTORY_NO_WONDERS</zType>
+		<Translation>0: from Wonders</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_ZOC</zType>
 		<Translation><![CDATA[Зона контроля охватывает соседние клетки отряда (кроме другого берега {0,1_riverLink}) и мешает вражеским отрядам двигаться от одной клетки ЗК к другой.<br>Удерживать [{1_key}], чтобы увидеть ЗК отряда.]]></Translation>
+	</Entry>
+	<!--Tile Tooltip-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_OWNER</zType>
+		<Translation>Owner</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_RESOURCE</zType>
+		<Translation>Resource</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_HARVEST</zType>
+		<Translation>Harvest</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_REMOVE_VEGETATION</zType>
+		<Translation>Remove {0}: {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_IMPROVEMENT</zType>
+		<Translation>Improvement</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_ADJACENT_BONUS</zType>
+		<Translation>Adjacent: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_SPECIALIST</zType>
+		<Translation>Specialist</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_PAUSED</zType>
+		<Translation>{0} (PAUSED)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_IMPROVEMENT_UPGRADE</zType>
+		<Translation><![CDATA[Upgrades to<true_0> {0_barbarian}<false><end> {1_improvment}: {2_turns}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_IMPROVEMENT_PILLAGED</zType>
+		<Translation><![CDATA[Disappears in {0} <singular_0>Year<plural>Years<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_IMPROVEMENT_UNFINISHED</zType>
+		<Translation>Work Left: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_IMPROVEMENT_START_ADJACENT</zType>
+		<Translation>Adjacent: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_IMPROVEMENT_START_RECOMMENDED</zType>
+		<Translation>(Recommended)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_IMPROVEMENT_START_REQUIRES</zType>
+		<Translation>(Requires {0_tech})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_RECENTLY_SEEN</zType>
+		<Translation>Recently Seen: </Translation>
 	</Entry>
 	<!--Yield Net Help-->
 	<Entry>
@@ -2007,6 +2227,14 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_YIELD_NET_CITY_SUBTRACT_LIST_ITEM</zType>
 		<Translation> (-{0,3_yield})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_NET_TRADE_TO_PLAYER</zType>
+		<Translation>{0}: Trade to {1_player} {2_turns}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_NET_TRADE_FROM_PLAYER</zType>
+		<Translation>{0}: Trade from {1_player} {2_turns}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_YIELD_NET_TRIBUTE_BARBARIANS</zType>
@@ -2046,6 +2274,45 @@
 	</Entry>
 	<!--Improvement Requires Help-->
 	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_TITLE</zType>
+		<Translation>City: {0_name}/{1_owner}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_FAMILY</zType>
+		<Translation>Family: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_GOVERNOR</zType>
+		<Translation>Governor: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_HP</zType>
+		<Translation>HP: {0}/{1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_STRENGTH</zType>
+		<Translation>Strength: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_CITIZENS</zType>
+		<Translation><![CDATA[<singular_1>{0}<plural>{0,2}<end>: {1_num}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_ID</zType>
+		<Translation>ID: {0}</Translation>
+	</Entry>
+	<!--City Capital Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_CAPITAL_EFFECT</zType>
+		<Translation>Effects of being the Capital:</Translation>
+	</Entry>
+
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_CAPITAL_NO_EFFECT</zType>
+		<Translation>No Effect</Translation>
+	</Entry>
+	<!--Improvement Requires Help-->
+	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_PREFIX</zType>
 		<Translation>Требует: {0}</Translation>
 	</Entry>
@@ -2064,6 +2331,14 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_HOLY_CITY</zType>
 		<Translation>Требуется Священный город</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_COAST_LAND</zType>
+		<Translation>Coastal Land</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_COAST_WATER</zType>
+		<Translation>Coastal Water</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_ADJACENT_CITY</zType>
@@ -2170,6 +2445,35 @@
 		<zType>TEXT_HELPTEXT_TECH_BONUS_CARDS</zType>
 		<Translation><![CDATA[<singular_0>Бонусная карта<plural>Бонусные карты<plural2>Бонусные карты<end>: {0_list}]]></Translation>
 	</Entry>
+	<!--Improvement Tooltip-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_TOOLTIP_BUILD</zType>
+		<Translation>Build {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_TOOLTIP_BUY_HINT</zType>
+		<Translation><![CDATA[Hold <TEXT_HOTKEY_ALT> to Buy: {0}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_FROM</zType>
+		<Translation>{0} from {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_FROM_ADJACENT</zType>
+		<Translation>{0} from Adjacent {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_PERCENT_FROM</zType>
+		<Translation>x{0}% from {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_FROM_X</zType>
+		<Translation><![CDATA[{0} from {1}<true_2> x{2}<false><end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_CITY_YIELD_PERCENT_OF_YIELD</zType>
+		<Translation>{0} of {1_yield} in {2_city} from {3_effect}</Translation>
+	</Entry>
 	<!--Unit Type Help-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_HP_MAX</zType>
@@ -2204,24 +2508,64 @@
 		<Translation><![CDATA[{0_attackType}<true_1> ({1})<false><end> на {2}%]]></Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_DEAD</zType>
+		<Translation>Dead Unit</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_ATTACKS</zType>
 		<Translation>Атакует {0,1_list}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_STRENGTH_VS</zType>
-		<Translation>{0_value} силы против {1,2_unitTrait}</Translation>
+		<Translation>Силы против {0,2_unitTrait}: </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_STRENGTH_ATTACKING_VS</zType>
-		<Translation>{0_value} силы при атаке против {1,2_unitTrait}</Translation>
+		<Translation>Атака против {0,2_unitTrait}: </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_STRENGTH_DEFENDING_VS</zType>
-		<Translation>{0_value} силы при защите от {1,2_unitTrait}</Translation>
+		<Translation>Защита против {0,2_unitTrait}: </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_STRENGTH_MELEE_VS</zType>
-		<Translation>{0_value} силы в ближнем бою против {1,2_unitTrait}</Translation>
+		<Translation>В ближнем бою против {0,2_unitTrait}: </Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_FAMILY_LABEL</zType>
+		<Translation>Family</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_FORTIFIED_LABEL</zType>
+		<Translation>Fortified</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_LEVEL_MAX</zType>
+		<Translation>{0} (MAX)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_LEVEL_LABEL</zType>
+		<Translation>Level</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_TRAITS_LABEL</zType>
+		<Translation>Traits</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_FATIGUE_LABEL</zType>
+		<Translation>Fatigue</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_HEALTH_LABEL</zType>
+		<Translation>Health</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_COOLDOWN</zType>
+		<Translation>Cooldown ({0})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_CONSUMPTION</zType>
+		<Translation>Consumption</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_SPREADS_RELIGION</zType>
@@ -2307,6 +2651,68 @@
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_REQUIRES_STATE_RELIGION</zType>
 		<Translation>Государственная религия</Translation>
 	</Entry>
+	<!--Unit Movement-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_MOVEMENT</zType>
+		<Translation>Movement: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_BASE_STAT</zType>
+		<Translation>Base: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_HEALTH</zType>
+		<Translation>Health: {0}/{1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_STRENGTH</zType>
+		<Translation>Strength: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_RANGE</zType>
+		<Translation>Range: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_CRITICAL</zType>
+		<Translation>Critical: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_FATIGUE</zType>
+		<Translation><![CDATA[Fatigue:<br><true_0>{0}<false>No<end> more moves]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_LEVEL</zType>
+		<Translation>Level:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TRAIT</zType>
+		<Translation>{0_trait} Units:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TRAIT_INTO_MODIFIER</zType>
+		<Translation>Into {0}: {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TRAIT_DEFENDING</zType>
+		<Translation>Defending {0}: {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TRAIT_ATTACK_ACROSS</zType>
+		<Translation>Across {0}: {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TRAIT_INTO_FRACTION_MODIFIER</zType>
+		<Translation>Into {0}/{1}: {2}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TRAIT_ZOC_BLOCKS</zType>
+		<Translation>ZOC blocks {0}</Translation>
+	</Entry>
+	<!--Promotion Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_PROMOTION_LEADS_TO</zType>
+		<Translation>Leads to {0}</Translation>
+	</Entry>
 	<!--Improvement Set Help-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_REMOVES_RESOURCE</zType>
@@ -2381,6 +2787,10 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_CAN_ROUT</zType>
 		<Translation>Может {0_routLink} после боя</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_PUSH</zType>
+		<Translation>Target Retreats after Combat</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_IGNORES_DISTANCE</zType>
@@ -2498,6 +2908,10 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_ADDS_LUXURY</zType>
 		<Translation><![CDATA[Добавляет {0,3_luxuryLink}<true_1> ({1,2_cityYield})<false><end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_AUTO_BUILD</zType>
+		<Translation>Cannot Choose Production</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_NO_HURRY</zType>
@@ -2738,6 +3152,10 @@
 		<Translation>Предотвращает появление варваров</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_YIELDS_PER_YEAR</zType>
+		<Translation>{0_yields} per Year</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_BONUS_ALL_CITIES</zType>
 		<Translation>[Все города] </Translation>
 	</Entry>
@@ -2765,6 +3183,14 @@
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_BUILT_BY_RELIGIOUS_UNITS</zType>
 		<Translation>Создается представителями религии</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_COSTS</zType>
+		<Translation>Costs {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_COST_PER_YEAR</zType>
+		<Translation>{0} ({1}/Year)</Translation>
+	</Entry>
 	<!--City Connected Help-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_CITY_CONNECTED</zType>
@@ -2786,6 +3212,26 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_CITY_MIN_CITIZENS</zType>
 		<Translation><![CDATA[Не менее {0_num} <singular_0>{1,1_citizenLink}<plural>{1,7_citizenLink}<plural2>{1,7_citizenLink}<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_SPECIALISTS_COUNT</zType>
+		<Translation>Specialists: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_STRENGTH_TITLE</zType>
+		<Translation>Strength:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_STRENGTH_BASE</zType>
+		<Translation>Base: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_STRENGTH_POPULATION</zType>
+		<Translation>Population: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_STRENGTH_DEFENSE</zType>
+		<Translation>{0} Defense</Translation>
 	</Entry>
 	<!--Effect Player Help-->
 	<Entry>
@@ -2925,6 +3371,10 @@
 		<Translation>Можно {0_buyTiles}</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_CAN_AGENT</zType>
+		<Translation>Can Make an {0_agent}</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_RIVER_MOVEMENT_BONUS</zType>
 		<Translation>Бонус передвижения через {0,3_river}</Translation>
 	</Entry>
@@ -2989,6 +3439,10 @@
 		<Translation>Открывает проект (в {0,5_capital}): {1_project}</Translation>
 	</Entry>
 	<!--FamilyClass Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_FAMILY_CLASS_NATIONS_WITH_CLASS</zType>
+		<Translation>Nations with this Family Class:</Translation>
+	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_CLASS_CHARACTER_COMMON_TRAITS</zType>
 		<Translation>Общие черты: </Translation>
@@ -3118,10 +3572,42 @@
 		<zType>TEXT_HELPTEXT_BARBARIAN_PROXIMITY</zType>
 		<Translation>Отдаленность: {0}*</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BARBARIAN_LEVEL</zType>
+		<Translation>Barbarian Level: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BARBARIAN_LEVEL_NOT_DECLARE_WAR</zType>
+		<Translation>Tribes will not Declare War</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BARBARIAN_LEVEL_WAR_PROBABILITY</zType>
+		<Translation>War Probability: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BARBARIAN_LEVEL_NO_BARBARIANS</zType>
+		<Translation>No Barbarians in the Game</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BARBARIAN_LEVEL_RAID_CHANCE</zType>
+		<Translation>Raid Chance/Year: {0}%</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BARBARIAN_LEVEL_FATIGUE</zType>
+		<Translation>+{0} Fatigue for Barbarians</Translation>
+	</Entry>
 	<!--Unit Attack Preview-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_ATTACK_PREVIEW_ADJACENT_SAME_UNIT</zType>
 		<Translation>Соседство {0_unit}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_ATTACK_PREVIEW_SAME_FAMILY</zType>
+		<Translation>Same Family:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_ATTACK_PREVIEW_ENEMY_SAME_FAMILY</zType>
+		<Translation>:Same Family</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_ATTACK_PREVIEW_UNIT_TRAIT_BONUS</zType>
@@ -3242,6 +3728,10 @@
 	</Entry>
 	<!--Bonus Help-->
 	<Entry>
+		<zType>TEXT_HELPTEXT_BONUS_MEMORY_ALL_FAMILY_CITIES_START</zType>
+		<Translation>[{0_family} Cities] </Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_BONUS_MEMORY_ALL_PLAYERS_START</zType>
 		<Translation>[Все игроки] </Translation>
 	</Entry>
@@ -3288,6 +3778,10 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_BONUS_SEND_TO</zType>
 		<Translation>Отправить {0,2_opponent}: {1_yieldList}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BONUS_TRADE_TO</zType>
+		<Translation>Trade to {0_opponent}: {1_yieldList} for {2_years} Years</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_BONUS_TRIBUTE_FROM</zType>
@@ -3433,6 +3927,64 @@
 		<zType>TEXT_HELPTEXT_BONUS_ACQUIRE_TECH</zType>
 		<Translation>Изучить {0_techList} (технологии)</Translation>
 	</Entry>
+	<!--Make Council-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_COUNCIL_RIVAL_NATION_OPINION</zType>
+		<Translation>{0} Rival Nation Opinion</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_COUNCIL_TRIBE_OPINION</zType>
+		<Translation>{0} Tribe Opinion</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_COUNCIL_FAMILY_OPINION</zType>
+		<Translation>{0} Family Opinion</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_COUNCIL_CHARACTER_OPINION</zType>
+		<Translation>{0} Opinion</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_COUNCIL_CHARACTER_SLIGHTED</zType>
+		<Translation>Replacing {0} will add link(TRAIT_SLIGHTED)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_COUNCIL_MISSIONS</zType>
+		<Translation>Missions:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_COURTIER_HELP</zType>
+		<Translation>Will {0_tutorVerb} your descendants (if not a General, Governor, or on the Council).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_COURTIER_HELP_TUTOR_VERB</zType>
+		<Translation><![CDATA[Tutor<comment: this is the verb that will be used in the above sentence>]]></Translation>
+	</Entry>
+	<!--Culture Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_CULTURE_HELP_CITY</zType>
+		<Translation>{0} Culture: {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CULTURE_HELP</zType>
+		<Translation>{0} Culture</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CULTURE_HELP_VPS</zType>
+		<Translation>{0} VPs</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CULTURE_HELP_GOVERNOR_XP</zType>
+		<Translation>Governors: {0} XP/Year</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CULTURE_HELP_CAN_HURRY</zType>
+		<Translation>Can Hurry City Production</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CULTURE_HELP_ENABLES_IMPROVEMENT</zType>
+		<Translation>Enables: {0_list}</Translation>
+	</Entry>
 	<!--Mission Help-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_MISSION_TURNS_TO_COMPLETE</zType>
@@ -3461,6 +4013,10 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_MISSION_ALREADY_ACTIVE</zType>
 		<Translation>Миссия уже активна ({0_missionLink})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MISSION_DIPLOMACY_TURNS</zType>
+		<Translation><![CDATA[Cannot conduct Diplomacy for {0} <singular_0>Year<plural>Years<end>]]></Translation>
 	</Entry>
 	<!--Trait Help-->
 	<Entry>
@@ -3537,8 +4093,20 @@
 		<Translation>* = Ход завершен</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_PLAYER_LEADER_CHARACTER</zType>
+		<Translation>Leader: {0}</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_WAR_STATE_WITH</zType>
 		<Translation>Состояние войны: {0} ({1})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PLAYER_TRADE_FOR_US</zType>
+		<Translation>{0_trade} from: {1_yields}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PLAYER_TRADE_FOR_THEM</zType>
+		<Translation>{0_trade} to: {1_yields}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_TRIBUTE_FROM</zType>
@@ -3593,6 +4161,10 @@
 		<Translation>{0_opinion}: {1_diplomacy} с нашим {2,4_link}</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_LUXURIES</zType>
+		<Translation>{0_opinion}: Our Luxuries</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_OPINION_PEACE</zType>
 		<Translation>{0_opinion}: длительный {1_peace}</Translation>
 	</Entry>
@@ -3607,6 +4179,71 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_PROXIMITY</zType>
 		<Translation>Отдаленность: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELATIONSHIP_OPINION</zType>
+		<Translation>Opinion: {0}</Translation>
+	</Entry>
+	<!--Religion Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_NAME</zType>
+		<Translation><![CDATA[{0} (Religion)<true_1>, Founded in Year {1}<false><end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_THEOLOGIES</zType>
+		<Translation>Theolog(ies):</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_OPINION</zType>
+		<Translation>Opinion: {0} ({1})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_IS_YOUR_STATE_RELIGION</zType>
+		<Translation>Is Your {0_stateReligionLink}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_CAN_ADOPT_AS_STATE_RELIGION</zType>
+		<Translation>Can Adopt as {0_stateReligionLink}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_FOUNDING_PREREQS</zType>
+		<Translation>Founding this Religion</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_EACH_CITY_EFFECT</zType>
+		<Translation>Each City: </Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_FOUNDED_SPREAD_YEARS_HELP</zType>
+		<Translation><![CDATA[Will spread to a new city in {0} <singular_0>Year<plural>Years<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_SPREAD_HELP</zType>
+		<Translation><![CDATA[Spreads to new cities every {0} <singular_0>Year<plural>Years<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_PREREQ_NUM_RELIGION_CITIES</zType>
+		<Translation>Requires {0_num} {1_religion} Cities (Global)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_UPKEEP</zType>
+		<Translation>Upkeep: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_STATE_RELIGION_ADOPT</zType>
+		<Translation>Adopt {0} as State Religion:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_STATE_RELIGION_CAN_BUILD_UNITS</zType>
+		<Translation>Can Build {0_units}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_STATE_RELIGION_FAMILY_OPINION</zType>
+		<Translation>{0_family} Opinion ({1_theology}): {2_num}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_STATE_RELIGION_NO_EFFECTS</zType>
+		<Translation>No Effects</Translation>
 	</Entry>
 	<!--Family Help-->
 	<Entry>
@@ -3753,6 +4390,18 @@
 		<zType>TEXT_HELPTEXT_FAMILY_HOSTILE_UNITS_IN_TERRITORY</zType>
 		<Translation>{0_value}: вражеские отряды на нашей территории</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_FAMILY_EACH_CITY_EFFECT</zType>
+		<Translation><![CDATA[Each <true_0>{0}<false>family<end> City: ]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_FAMILY_EACH_UNIT_EFFECT</zType>
+		<Translation><![CDATA[Each <true_0>{0}<false>family<end> Unit: ]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_FAMILY_EACH_FAMILY_MEMBER_OPINION</zType>
+		<Translation>Each Famiy Member: {0} Opinion</Translation>
+	</Entry>
 	<!--Decision Name-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_DECISION_NAME_CHOOSE_RESEARCH</zType>
@@ -3832,12 +4481,24 @@
 		<Translation>Колонизировать ({0_city})</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_BECOME_AGENT_BUTTON</zType>
+		<Translation>Become Agent ({0_city})</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_TRADE_ROUTE_BUTTON</zType>
 		<Translation>Торговый караван ({0_player})</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_ADD_ROAD_BUTTON</zType>
 		<Translation>Проложить дорогу</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_ADD_ROAD_TO_BUTTON</zType>
+		<Translation>Connect To Tile</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_ROAD_TO</zType>
+		<Translation>Connects current tile to the selected tile's network using the shortest path</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_ADD_URBAN_BUTTON</zType>
@@ -3940,6 +4601,380 @@
 		<zType>TEXT_HELPTEXT_RELIGION_STATE_HEADER</zType>
 		<Translation>Государственная религия</Translation>
 	</Entry>
+		<!--Resource Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_RESOURCE_NAME</zType>
+		<Translation><![CDATA[{0_resource}<true_1> (* Harvested)<false><end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RESOURCE_HARVEST</zType>
+		<Translation>Harvest: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RESOURCE_FROM_IMPROVEMENT</zType>
+		<Translation>From {0_improvement}:</Translation>
+	</Entry>
+	<!--Project Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_PROJECT_NAME</zType>
+		<Translation><![CDATA[{0_project} <true_1>(Repeatable)<false>(Project)<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PROJECT_REPAIR_HP</zType>
+		<Translation>{0} HP</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PROJECT_ON_COMPLETION</zType>
+		<Translation>On Completion: </Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PROJECT_ADDS_PROJECT</zType>
+		<Translation>Add {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PROJECT_MAX_COUNT</zType>
+		<Translation>Max Count: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PROJECT_LEADS_TO</zType>
+		<Translation>Leads to {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PROJECT_REQUIRES_TECH</zType>
+		<Translation>Requires Tech: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PROJECT_MIN_CULTURE</zType>
+		<Translation>Minumum Culture: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PROJECT_REQUIRES_CULTURE</zType>
+		<Translation>Requires Culture: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PROJECT_REPLACES</zType>
+		<Translation>Replaces {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PROJECT_BUILD_COST</zType>
+		<Translation>Build: {0} link(YIELD_CIVICS)</Translation>
+	</Entry>
+	<!--Specialist Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_SPECIALIST_YIELD_PER_YEAR</zType>
+		<Translation>{0} per Year</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_SPECIALIST_IMPROVEMENT_MODIFIER</zType>
+		<Translation>{0}: x{1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_SPECIALIST_SPREAD_BORDERS</zType>
+		<Translation>Spreads Borders</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_SPECIALIST_COSTS_SINGLE</zType>
+		<Translation>Costs {0,1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_SPECIALIST_COSTS_NUM</zType>
+		<Translation><![CDATA[Costs {0_num} <singular_0>{1}<plural>{1,2}<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_SPECIALIST_BUILD</zType>
+		<Translation>Build: {0} link(YIELD_CIVICS) {1_progress}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_SPECIALIST_LEADS_TO</zType>
+		<Translation>Leads to {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_SUCCESSION_HEIR</zType>
+		<Translation>Heir</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_SUCCESSION_HEIR_NUMBER</zType>
+		<Translation>#{0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_SUCCESSION_NO_HEIR</zType>
+		<Translation>No Heir</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TAB_PANEL_CHARACTERS_SPOUSES</zType>
+		<Translation>Spouse(s): </Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TAB_PANEL_CHARACTERS_HEIRS</zType>
+		<Translation>Heir(s): </Translation>
+	</Entry>
+	<!--Theology Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_THEOLOGY_HELP_NAME</zType>
+		<Translation>{0} (Theology)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_THEOLOGY_HELP_FAMILY_OPINION</zType>
+		<Translation>{0_family} Opinion: {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_THEOLOGY_HELP_CANNOT_ESTABLISH</zType>
+		<Translation>Cannot Establish Theologies with {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_THEOLOGY_HELP_LEADS_TO</zType>
+		<Translation>Leads to {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_THEOLOGY_HELP_ESTABLISH_WITH</zType>
+		<Translation>Establish with {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_THEOLOGY_HELP_REQUIRES_STATE_RELIGION</zType>
+		<Translation>Must be State Religion to Establish</Translation>
+	</Entry>
+	<!--Rating Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_RATING_HELP_GLOBAL</zType>
+		<Translation>Global: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RATING_HELP_CITY_RATING</zType>
+		<Translation><![CDATA[<true_0>{0}<false>City<end>: ]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RATING_HELP_GENERAL_STRENGTH</zType>
+		<Translation>{0} Strength</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RATING_HELP_GENERAL_DEFENSE</zType>
+		<Translation>{0} Defense</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RATING_HELP_GENERAL_CRITICAL_CHANCE</zType>
+		<Translation>{0} Critical Chance</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RATING_HELP_UNIT</zType>
+		<Translation><![CDATA[<true_0>{0}<false>Unit<end>: {1}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_RATING_AS_LEADER</zType>
+		<Translation>As Leader: </Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_RATING_AS_CONSORT</zType>
+		<Translation>As Consort: </Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_RATING_AS_SUCCESSOR</zType>
+		<Translation>As Successor: </Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_RATING_AS_X</zType>
+		<Translation>As {0}: </Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_EFFECT_INVALID_PROMOTION</zType>
+		<Translation>(Promotion not valid for this Unit)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_EFFECT_HAS_PROMOTION</zType>
+		<Translation>(Unit already has this Promotion)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_EFFECT_GAINS</zType>
+		<Translation>Gains {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_EFFECT_LOSES</zType>
+		<Translation>Loses {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_GENERAL_MOVEMENT</zType>
+		<Translation>{0} Movement (as Leader)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_GENERAL_XP_FROM_COMBAT</zType>
+		<Translation>Gains XP from Combat</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_GENERAL_OPINION</zType>
+		<Translation>{0} Opinion</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PLAYER_LEADER_COGNOMEN</zType>
+		<Translation>Cognomen: {0} ({1_legitimacy}: {2})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PLAYER_LEADER_STATS</zType>
+		<Translation>Stat(s): {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_EFFECT_IF_LEADER</zType>
+		<Translation>If Leader, {0}</Translation>
+	</Entry>
+	<!--Character Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_HELP_NAME</zType>
+		<Translation><![CDATA[{0_gender}, Age {1}<true_2>, {2}/{3}<false><end><true_4> icon(skull)<false><end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_HELP_LEADER_OF</zType>
+		<Translation>Leader of {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_HELP_COGNOMEN</zType>
+		<Translation>Cognomen: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_HELP_HEIR</zType>
+		<Translation>Heir: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_HELP_CHOSEN_HEIR</zType>
+		<Translation>Chosen Heir</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_HELP_PLAYER</zType>
+		<Translation>Player: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_HELP_NATION</zType>
+		<Translation>Nation: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_HELP_FAMILY</zType>
+		<Translation>Family: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_HELP_TRIBE</zType>
+		<Translation>Tribe: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_HELP_AMBITION</zType>
+		<Translation>Ambition: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_HELP_SPOUSE</zType>
+		<Translation>Spouse: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_HELP_GENERAL</zType>
+		<Translation>General: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_HELP_GENERAL_MOVEMENT</zType>
+		<Translation>{0} Movement as Leader</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_HELP_GOVERNOR</zType>
+		<Translation>Governor: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_HELP_AGENT</zType>
+		<Translation>Agent: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_HELP_COUNCIL</zType>
+		<Translation>Council: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_HELP_MISSION</zType>
+		<Translation>Mission: {0} {1_turns}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_HELP_OPINION_OF_YOU</zType>
+		<Translation>Opinion of You: {0} ({1})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_OPINION_OF_PLAYER_IS_GOVERNOR</zType>
+		<Translation>{0}: Is Governor</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_OPINION_OF_PLAYER_IS_GENERAL</zType>
+		<Translation>{0}: Is General</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_OPINION_OF_PLAYER_IS_X</zType>
+		<Translation>{0}: Is {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_RATING_TRAIT_ARCHETYPE</zType>
+		<Translation>Archetype: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_RATING_TRAIT_GOVERNOR</zType>
+		<Translation> (Governor: {0})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_RATING_TRAIT_GENERAL</zType>
+		<Translation> (General: {0})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LEADER_COLON_SPACE</zType>
+		<Translation>Leader: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_MARRIES</zType>
+		<Translation>{0} marries {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_MARRIES_GLOBAL</zType>
+		<Translation> (Global: {0})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_MARRIES_JOINS_NATION</zType>
+		<Translation>{0} will join Nation of {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_MARRIES_DOWRY_COST</zType>
+		<Translation>Dowry will give us {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UPGRADE_CHARACTER_BECOMES</zType>
+		<Translation>Becomes {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LEAVE_JOB_GENERAL</zType>
+		<Translation>Will no longer lead the {0_unit}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LEAVE_JOB_GOVERNOR</zType>
+		<Translation>Will no longer govern {0_city}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LEAVE_JOB_AGENT</zType>
+		<Translation>Will stop being the link(CONCEPT_AGENT) in {0_city}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHOOSE_GOVERNOR</zType>
+		<Translation>Choose Governor for {0_city}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHOOSE_GOVERNOR_NO_CANDIDATES</zType>
+		<Translation>No candidates available</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHOOSE_GOVERNOR_AVAILABLE_CANDIDATES</zType>
+		<Translation>Candidate(s) available:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_GOVERNOR</zType>
+		<Translation><![CDATA[<true_0>Keep<false>Make<end> {1} Governor of {2}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_GOVERNOR_OPINION</zType>
+		<Translation>{0} Opinion</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_AGENT</zType>
+		<Translation><![CDATA[<true_0>Keep<false>Make<end> {1} Agent in {2}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_AGENT_OPINION</zType>
+		<Translation>Opinion: {0} ({1})</Translation>
+	</Entry>
 	<!--POPUPS-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_CHOOSE_GENERAL_POPUP_TITLE</zType>
@@ -3948,6 +4983,10 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_CHOOSE_GOVERNOR_POPUP_TITLE</zType>
 		<Translation><![CDATA[Выбрать губернатора для {0,1_city}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHOOSE_AGENT_POPUP_TITLE</zType>
+		<Translation><![CDATA[Place an link(CONCEPT_AGENT) in {0_city}]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CHOOSE_COUNCIL_POPUP_TITLE</zType>
@@ -3970,8 +5009,16 @@
 		<Translation>Быстрая загрузка</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_SAVE_TO_CLOUD</zType>
+		<Translation>Save to Cloud</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_LOAD_GAME_BUTTON</zType>
 		<Translation>Загрузить игру</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_LOAD_FROM_CLOUD</zType>
+		<Translation>Load from Cloud</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_DEBUG_REPLAY_FIVE_TURNS_BUTTON</zType>
@@ -4042,8 +5089,209 @@
 		<Translation>Объявить войну {0,2_barbarians}?</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_DECLARE_WAR_BARBARIAN_TURNS</zType>
+		<Translation>Cannot Declare War on the {0_barbarians} for {1_value} more turn(s).</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_DECLARE_WAR_TEAM_DESC</zType>
 		<Translation>Объявить войну {0,1_team}?</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_DECLARE_WAR_TEAM_TURNS</zType>
+		<Translation>Cannot Declare War on {0_team} for {1_value} more turn(s).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_INHERITANCE_NO_HEIR</zType>
+		<Translation>No heir</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_INHERITANCE_MISSING_TECH</zType>
+		<Translation>Missing Tech</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_INHERITANCE_LABEL</zType>
+		<Translation><![CDATA[{0_law}<br>(<true_1>{1}<false>No Heir<end>)]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_INHERITANCE_NEW_LAW_DESC</zType>
+		<Translation>Spend {0_cost}icon(YIELD_CIVICS) to pass {1_law}?</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_INHERITANCE_REPLACE_LAW_DESC</zType>
+		<Translation>Spend {0_cost}icon(YIELD_CIVICS) to replace {1_law} with {2_law}?</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_INHERITANCE_CURRENT_PLACE_IN_LINE</zType>
+		<Translation>Currently number {0} in line.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_INHERITANCE_NOT_IN_LINE_PREVIEWED_LAW</zType>
+		<Translation>Not in line under the currently previewed Law:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_INHERITANCE_CURRENT_PLACE_PREVIEWED_LAW</zType>
+		<Translation>Is number {0} in line under the currently previewed Law:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_INHERITANCE_HIGHEST_ORDER</zType>
+		<Translation>Highest place is number {0} with Law: {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_INHERITANCE_CLICK_TO_PREVIEW</zType>
+		<Translation>Click to preview</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_LAWS_PASS_NEW_LAW_DESC</zType>
+		<Translation>Spend {0}icon(YIELD_CIVICS) to pass this Law?</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_LAWS_REPLACE_LAW_DESC</zType>
+		<Translation>Spend {0}icon(YIELD_CIVICS) to replace {1_law} with {2_law}?</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_CUSTOM_MAP_OPTIONS</zType>
+		<Translation>Custom Map Options</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_FAMILY_TREE_ROAL_LINE</zType>
+		<Translation>Royal Line</Translation>
+	</Entry>
+	<!--HelpScreenPanel-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_CONSUMES</zType>
+		<Translation>Consumes</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_COSTS</zType>
+		<Translation>Costs</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_SELECT_ITEM</zType>
+		<Translation>Select an item</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_UNIT_STATS</zType>
+		<Translation>Stats</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_NATIONS</zType>
+		<Translation><![CDATA[<singular_0>Nation<plural>Nations<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_TRIBES</zType>
+		<Translation><![CDATA[<singular_0>Tribe<plural>Tribes<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_UNIQUE_UNITS</zType>
+		<Translation><![CDATA[Unique <singular_0>Unit<plural>Units<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_UNLOCKS_UNITS</zType>
+		<Translation><![CDATA[Unlocks <singular_0>Unit<plural>Units<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_UPGRADES_TO</zType>
+		<Translation>Upgrades To</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_SPREAD_BY_RELIGION</zType>
+		<Translation>Spread By</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_UNITS</zType>
+		<Translation><![CDATA[<singular_0>Unit<plural>Units<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_REQUIRES_BUILDINGS</zType>
+		<Translation><![CDATA[Requires <singular_0>Improvement<plural>Improvements<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_UNIQUE_BUILDINGS</zType>
+		<Translation><![CDATA[Unique <singular_0>Improvement<plural>Improvements<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_UNLOCKS_BUILDINGS</zType>
+		<Translation><![CDATA[Unlocks <singular_0>Improvement<plural>Improvements<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_BUILDINGS</zType>
+		<Translation><![CDATA[<singular_0>Improvement<plural>Improvements<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_UNLOCKS_SPECIALISTS</zType>
+		<Translation><![CDATA[Unlocks <singular_0>Specialist<plural>Specialists<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_SPECIALISTS</zType>
+		<Translation><![CDATA[<singular_0>Specialist<plural>Specialists<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_STARTING_LAWS</zType>
+		<Translation><![CDATA[Starting <singular_0>Law<plural>Laws<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_UNLOCKS_LAWS</zType>
+		<Translation><![CDATA[Unlocks <singular_0>Law<plural>Laws<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_LAWS</zType>
+		<Translation><![CDATA[<singular_0>Law<plural>Laws<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_REQUIRES_PROJECTS</zType>
+		<Translation><![CDATA[Requires <singular_0>Project<plural>Projects<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_UNLOCKS_PROJECTS</zType>
+		<Translation><![CDATA[Unlocks <singular_0>Project<plural>Projects<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_PROJECT_LEADS_TO</zType>
+		<Translation>Leads to</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_PROJECTS</zType>
+		<Translation><![CDATA[<singular_0>Project<plural>Projects<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_REQUIRED_RELIGIONS</zType>
+		<Translation><![CDATA[Required <singular_0>Religion<plural>Religions<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_RELIGIONS</zType>
+		<Translation><![CDATA[<singular_0>Religion<plural>Religions<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_LEADERS</zType>
+		<Translation><![CDATA[<singular_0>Leader<plural>Leaders<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_CHARACTERS</zType>
+		<Translation><![CDATA[<singular_0>Character<plural>Characters<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_FAMILIES</zType>
+		<Translation><![CDATA[<singular_0>Family<plural>Families<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_REQUIRED_TECHS</zType>
+		<Translation><![CDATA[Required <singular_0>Tech<plural>Techs<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_STARTING_TECHS</zType>
+		<Translation><![CDATA[Starting <singular_0>Tech<plural>Techs<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_UNLOCKS_TECHS</zType>
+		<Translation><![CDATA[Unlocks <singular_0>Tech<plural>Techs<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_UNLOCKS_COUNCILS</zType>
+		<Translation><![CDATA[Unlocks <singular_0>Council<plural>Councils<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELPSCREEN_TERRAINS</zType>
+		<Translation><![CDATA[<singular_0>Terrain<plural>Terrains<end>]]></Translation>
 	</Entry>
 	<!--OptionsMenu-->
 	<Entry>
@@ -4056,8 +5304,8 @@
 		<Translation>Решение больше не актуально [{0_event}]</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_HELPTEXT_POPUP_DECISION_CHOOSE_AMBITION_TITLE</zType>
-		<Translation>Пришло время выбрать следующую амбицию...</Translation>
+		<zType>TEXT_HELPTEXT_POPUP_DECISION_CHOOSE_AMBITION_HELP</zType>
+		<Translation>It's time to choose your next Ambition...</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_DECISION_CITY_FAMILY_TITLE</zType>
@@ -4082,6 +5330,336 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE_CHARACTER_TITLE</zType>
 		<Translation>Повысить {0,3_character}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_DECISION_CHOOSE_AMBITION_TITLE</zType>
+		<Translation>Choose Ambition</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_DECISION_CHOOSE_CITY_FAMILY_TITLE</zType>
+		<Translation>Choose {0_city} Family:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_DECISION_CHOOSE_CITY_GOVERNOR_TITLE</zType>
+		<Translation>Choose Governor for {0_city}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_DECISION_CHOOSE_CITY_GOVERNOR_CANDIDATES</zType>
+		<Translation>Candidate(s):</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_DECISION_DIPLOMACY_TITLE</zType>
+		<Translation>Make {0_diplomacy} with {1} for {2_money}?</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE</zType>
+		<Translation>Upgrade {0_character}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_DEVELOPMENT</zType>
+		<Translation>Development: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_AI_DIFFICULTY</zType>
+		<Translation>(AI plays on this level)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_DIFFICULTY_STARTING_YIELDS</zType>
+		<Translation>Start with {0}</Translation>
+	</Entry>
+	<!--End Turn-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_END_YEAR</zType>
+		<Translation>End the Year </Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_END_YEAR_IDLE_CITY</zType>
+		<Translation>You need to manage an Idle City first...</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_END_YEAR_DECISION</zType>
+		<Translation>You have an important Decision to make first...</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_END_YEAR_WAITING</zType>
+		<Translation>Waiting for {0_players}</Translation>
+	</Entry>
+	<!--Goal Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_COMPLETION</zType>
+		<Translation>On Completion: </Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_THEOLOGY</zType>
+		<Translation>State Religion with {0} Theology</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_START_LAW</zType>
+		<Translation><![CDATA[Start {0} Law<true_1> (Replaces {1})<false><end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_LEGITIMACY</zType>
+		<Translation>Requires {0} Legitimacy icon(YIELD_LEGITIMACY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_CITIES</zType>
+		<Translation><![CDATA[Requires {0} <singular_0>City<plural>Cities<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_CONNECTED_CITIES</zType>
+		<Translation><![CDATA[Requires {0} {1_connectedLink} <singular_0>City<plural>Cities<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_CITIZENS</zType>
+		<Translation><![CDATA[Requires {0} <singular_0>{1_citizensLink}<plural>{1,2_citizensLink}<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_SPECIALISTS</zType>
+		<Translation><![CDATA[Requires {0} <singular_0>Specialist<plural>Specialists<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_POPULATION</zType>
+		<Translation>Requires {0} Population ({1,2_citizensLink} + Specialists)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_HIGHEST_RIVAL</zType>
+		<Translation>(Highest Rival: {0})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_MILITARY_UNITS</zType>
+		<Translation><![CDATA[Requires {0} Military <singular_0>Unit<plural>Units<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_URBAN_IMPROVEMENTS</zType>
+		<Translation><![CDATA[Requires {0} Urban <singular_0>Improvement<plural>Improvements<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_WONDERS</zType>
+		<Translation><![CDATA[Requires {0} <singular_0>Wonder<plural>Wonders<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_ACTIVE_LAWS</zType>
+		<Translation><![CDATA[Requires {0} Active <singular_0>Law<plural>Laws<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_REVEAL_LAND</zType>
+		<Translation>Reveal {0} of the Land</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_MAX_LEVEL_UNITS</zType>
+		<Translation><![CDATA[Requires {0} Max Level <singular_0>Unit<plural>Units<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_TOTAL</zType>
+		<Translation>Requires {0} Total {1_list}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_CAPTURE_PLAYER_CITIES</zType>
+		<Translation><![CDATA[Capture {0} <true_1>{1}<false>Enemy<end> <singular_0>City<plural>Cities<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_CAPTURE_BARBARIAN_SITES</zType>
+		<Translation><![CDATA[Capture {0} <true_1>{1}<false>Barbarian<end> <singular_0>Site<plural>Sites<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_KILL_PLAYER_ENEMY_UNITS</zType>
+		<Translation><![CDATA[Kill {0} <true_1>{1}<false>Enemy<end> <singular_0>Unit<plural>Units<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_KILL_BARBARIAN_ENEMY_UNITS</zType>
+		<Translation><![CDATA[Kill {0} <true_1>{1}<false>Barbarian<end> <singular_0>Unit<plural>Units<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_STATE_RELIGION</zType>
+		<Translation>Requires State Religion</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_DIPLOMACY_WITH</zType>
+		<Translation><![CDATA[Requires {0_diplomacy} with {1} <singular_1>Tribe or Empire<plural>Tribes or Empires<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_KILL_TRIBE_UNITS</zType>
+		<Translation><![CDATA[Kill {0} {1_tribe} <singular_0>Unit<plural>Units<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_PRODUCE_YIELD_PER_YEAR</zType>
+		<Translation>Produce {0} {1_yield}/Year</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_PRODUCE_YIELD_MASS</zType>
+		<Translation>Produce {0} {1_yield}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_X</zType>
+		<Translation><![CDATA[Requires {0_num} <singular_0>{1}<plural>{1,2}<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_CITIES_CULTURE</zType>
+		<Translation><![CDATA[Requires {0_num} <singular_0>City<plural>Cities<end> with {1_cultureLevel} Culture]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_WONDERS_CULTURE</zType>
+		<Translation><![CDATA[Requires {0_num} <singular_0>Wonder<plural>Wonders<end> with {1_cultureLevel} Culture]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_MAX_YEARS</zType>
+		<Translation>Max Year(s): {0}</Translation>
+	</Entry>
+	<!--Law Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_LAW_HELP_NAME</zType>
+		<Translation><![CDATA[<true_0>{0} (Law)<false><end><true_1> [Current]<false><end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LAW_HELP_EFFECT_UPKEEP</zType>
+		<Translation>Upkeep: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LAW_HELP_FAMILY_OPINION</zType>
+		<Translation>{0_family} Opinion: {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LAW_HELP_COST</zType>
+		<Translation>Cost: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LAW_HELP_SUCCESSION_LEADER_DEAD</zType>
+		<Translation>Cannot change Succession Laws when the Leader is Dead</Translation>
+	</Entry>
+	<!--Cognomen Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_COGNOMEN_HELP_NAME</zType>
+		<Translation>Cognomen: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_COGNOMEN_HELP_STAT_EQUATION</zType>
+		<Translation>{0_statName}: {1} X {2} = {3}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_COGNOMEN_HELP_PROGRESS</zType>
+		<Translation>Progress: {0}/{1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_COGNOMEN_HELP_THRESHOLD</zType>
+		<Translation>Threshold: {0}</Translation>
+	</Entry>
+	<!--Memory Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_MEMORY_OPINION</zType>
+		<Translation><![CDATA[<true_0>{0}, <false><end> {1} Opinion<true_2> for {2} <singular_2>Year<plural>Years<end><false><end>]]></Translation>
+	</Entry>
+	<!--Nation Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_NATION_HELP_STARTING_TECHS</zType>
+		<Translation>Starting Techs:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_NATION_HELP_STARTING_LAWS</zType>
+		<Translation>Starting Laws:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_NATION_HELP_UNIQUE_BUILDINGS</zType>
+		<Translation>Unique Buildings:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_NATION_HELP_UNIQUE_UNITS</zType>
+		<Translation>Unique Units:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_NATION_HELP_LEADER</zType>
+		<Translation>Leader: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_NATION_HELP_FAMILIES</zType>
+		<Translation>Families: {0}</Translation>
+	</Entry>
+	<!--Opinon Help-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_LEADER</zType>
+		<Translation>{0}: Leader</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_LEADERS_SPOUSE</zType>
+		<Translation>{0}: Leader's Spouse</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_LEADERS_DESCENDANTS</zType>
+		<Translation>{0}: Leader's Descendants</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_LEADERS_DESCENDANTS_MARRIAGES</zType>
+		<Translation>{0}: Marriage(s) to Leader's Descendants</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_OPINION_OF</zType>
+		<Translation>{0} Opinion of {1}: {2}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_TRIBE_OPINION</zType>
+		<Translation>Tribe Opinion: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_OPINION_OF_YOU</zType>
+		<Translation>{0} Opinion of You: {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_CHARACTER_OPINION</zType>
+		<Translation>Character Opinion: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_FAMILY_OPINION</zType>
+		<Translation>Family Opinion: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_HELP_BIRTH_MODIFIER</zType>
+		<Translation>Birth Modifier: {0}</Translation>
+	</Entry>
+	<!--Player Opinion-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_PLAYER_OPINION_NO_EFFECTS</zType>
+		<Translation>No Effects</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PLAYER_OPINION_OF_PLAYER</zType>
+		<Translation><![CDATA[{0_player} Opinion of <true_1>{1}<false>You<end>: {2}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PLAYER_OPINION_RIVAL_NATION</zType>
+		<Translation>Rival Nation Opinion: {0}</Translation>
+	</Entry>
+	<!--Religion Opinion-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_OPINION_STATE_RELIGION</zType>
+		<Translation>{0}: State Religion</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_OPINION_RELIGIOUS_IMPROVEMENTS</zType>
+		<Translation>{0}: Religious Improvements</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_OPINION_RELIGION_OPINION</zType>
+		<Translation>Religion Opinion: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_OPINION_EACH_CITY</zType>
+		<Translation>Each City: </Translation>
+	</Entry>
+	<!--Opponent Level-->
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPPONENT_LEVEL</zType>
+		<Translation>Opponent Level: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPPONENT_LEVEL_WILL_NOT_DECLARE_WAR</zType>
+		<Translation>Nations will not Declare War</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPPONENT_LEVEL_WAR_PROBABILITY</zType>
+		<Translation>War Probability: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPPONENT_LEVEL_PLAY_TO_WIN</zType>
+		<Translation>Nations will try to keep each other from winning</Translation>
 	</Entry>
 	<!--Tooltips-->
 	<Entry>
