@@ -179,7 +179,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CITY_WIDGET_GOVERNOR_MARKER</zType>
-		<English>G</English>
+		<Translation>G</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CITY_WIDGET_AGENT_MARKER</zType>
@@ -528,7 +528,7 @@
     </Entry>
 	<Entry>
 	<zType>TEXT_MENU_SCREEN_MOD_MANAGER_BUTTON</zType>
-	<English>Mods</English>
+	<Translation>Mods</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MENU_SCREEN_TOOLS_BUTTON</zType>
@@ -856,7 +856,7 @@
     <!--mod-manager.xml-->
     <Entry>
 	<zType>TEXT_MOD_MANAGER_MANAGE_TAB</zType>
-	<English>Manage</English>
+	<Translation>Manage</Translation>
     </Entry>	
     <!--options-menu.xml-->
     <!--title bar-->
