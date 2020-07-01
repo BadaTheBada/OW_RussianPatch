@@ -23,7 +23,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_TREACHERY_DESCRIPTION</zType>
-		<Translation>{CHARACTER-SUBJECT} has successfully weakened the city's defenses.</Translation>
+		<Translation><![CDATA[{CHARACTER-SUBJECT} успешно <masculine_CHARACTER-SUBJECT>ослабил<feminine>ослабила<end> защиту города.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_DESCRIPTION</zType>
@@ -204,7 +204,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_TREACHERY</zType>
-		<Translation>Treachery finished</Translation>
+		<Translation>Предательство прошло успешно</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_TRADE_MISSION_EVENT</zType>
