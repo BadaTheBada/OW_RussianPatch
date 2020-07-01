@@ -10147,251 +10147,252 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELIGION_NOMADS_OPTION_0</zType>
-		<Translation><![CDATA[Let them build their temple here.]]></Translation>
+		<Translation><![CDATA[Дать им построить храм.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELIGION_NOMADS_OPTION_1</zType>
-		<Translation><![CDATA[If they stay, they must worship as we do.]]></Translation>
+		<Translation><![CDATA[Если они хотят остаться, то должны поклоняться нашим богам.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELIGION_READING_THE_WORD_OPTION_0</zType>
-		<Translation><![CDATA[We can all learn from {RELIGION-1}.]]></Translation>
+		<Translation><![CDATA[Мы все можем учиться у {RELIGION-1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELIGION_READING_THE_WORD_OPTION_1</zType>
-		<Translation><![CDATA[It is interesting text, but as literature.]]></Translation>
+		<Translation><![CDATA[Интересное чтиво. С литературной точки зрения.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELIGION_THE_APOSTLES_OPTION_0</zType>
-		<Translation><![CDATA[They are welcome here.]]></Translation>
+		<Translation><![CDATA[Они желанные гости.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELIGION_THE_APOSTLES_OPTION_1</zType>
-		<Translation><![CDATA[Break up that unruly rabble.]]></Translation>
+		<Translation><![CDATA[Разгоните этот неуправляемый сброд.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELIGION_THE_APOSTLES_OPTION_2</zType>
-		<Translation><![CDATA[Let them gather peacefully.]]></Translation>
+		<Translation><![CDATA[Выпроводите их мирно.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELIGION_KINGDOM_OF_GOD_OPTION_0</zType>
-		<Translation>We should follow the Christian example.</Translation>
+		<Translation><![CDATA[Мы должны последовать примеру христиан.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELIGION_KINGDOM_OF_GOD_OPTION_1</zType>
-		<Translation>I do not believe in a single divine power.</Translation>
+		<Translation><![CDATA[Я не верю в то, что Бог только один.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELIGION_KINGDOM_OF_GOD_OPTION_2</zType>
-		<Translation>{PLAYER-2} will not be coverted so easily.</Translation>
+		<Translation><![CDATA[{PLAYER-2} не так-то легко обратить в иную веру.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELIGION_YOUR_BLESSING_OPTION_0</zType>
-		<Translation><![CDATA[<masculine_CHARACTER-1>He<feminine>She<end> has our blessing to follow <masculine_CHARACTER-1>his<feminine>her<end> faith.]]></Translation>
+		<Translation><![CDATA[<masculine_CHARACTER-1>Он<feminine>Она<end> получит наше благословение следовать своей вере.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELIGION_YOUR_BLESSING_OPTION_1</zType>
-		<Translation><![CDATA[We need <masculine_CHARACTER-1>him<feminine>her<end> here to teach us about Mani.]]></Translation>
+		<Translation><![CDATA[Мы нуждаемся в <masculine_CHARACTER-1>его<feminine>ее<end> присутствии при дворе, чтобы узнать больше о Мани.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELIGION_YOUR_BLESSING_OPTION_2</zType>
-		<Translation><![CDATA[No one walks away from us.]]></Translation>
+		<Translation><![CDATA[Никто от нас не уйдет.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELIGION_LIGHT_AND_DARK_OPTION_0</zType>
-		<Translation><![CDATA[We need Mani's teachings.]]></Translation>
+		<Translation><![CDATA[Мы нуждаемся в учении Мани.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELIGION_LIGHT_AND_DARK_OPTION_1</zType>
-		<Translation><![CDATA[His words are a passing fashion.]]></Translation>
+		<Translation><![CDATA[Его учение лишь временная мода.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CULTURE_GADFLY_OPTION_0</zType>
-		<Translation><![CDATA[Mollify <masculine_CHARACTER-2>him<feminine>her<end> with a court appointment.]]></Translation>
+		<Translation><![CDATA[Задобрить <masculine_CHARACTER-2>его<feminine>ее<end> приглашением ко двору.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CULTURE_GADFLY_OPTION_1</zType>
-		<Translation><![CDATA[Banish <masculine_CHARACTER-2>him<feminine>her<end> for public criticism.]]></Translation>
+		<Translation><![CDATA[Изгнать <masculine_CHARACTER-2>его<feminine>ее<end> за публичное оскорбление власти.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CULTURE_SHOOTING_STAR_OPTION_0</zType>
-		<Translation><![CDATA[Special coins to commemorate the event.]]></Translation>
+		<Translation><![CDATA[Отчеканьте особые монеты в память о событии.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CULTURE_SHOOTING_STAR_OPTION_1</zType>
-		<Translation><![CDATA[Feed the poor to stave off a higher judgment.]]></Translation>
+		<Translation><![CDATA[Накормите бедных, чтобы задобрить богов.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CULTURE_SHOOTING_STAR_OPTION_2</zType>
-		<Translation><![CDATA[Prepare for a war that is surely prophesized.]]></Translation>
+		<Translation><![CDATA[Это к войне. Немедленно начинайте приготовления.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_MY_CONDOLENCES_OPTION_0</zType>
-		<Translation><![CDATA[Please send {CHARACTER-1} my eternal gratitude.]]></Translation>
+		<Translation><![CDATA[Пожалуйста, отправьте {CHARACTER-1} мою вечную признательность.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_MY_CONDOLENCES_OPTION_1</zType>
-		<Translation><![CDATA[You cannot buy my goodwill with gifts.]]></Translation>
+		<Translation><![CDATA[Мою добрую волю не купить подарками.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LOCAL_BRIGANDS_OPTION_0</zType>
-		<Translation><![CDATA[Track and kill these outlaws.]]></Translation>
+		<Translation><![CDATA[Выследить и убить преступников.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LOCAL_BRIGANDS_OPTION_1</zType>
-		<Translation><![CDATA[We need our {UNIT-0} on military duty.]]></Translation>
+		<Translation><![CDATA[Мы нуждаемся в {UNIT-0,11} для выполнения боевых задач регулярной армии.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LOCAL_BRIGANDS_ENDING_A_OPTION_0</zType>
-		<Translation><![CDATA[Our {UNIT-0} unit deserves recognition.]]></Translation>
+		<Translation><![CDATA[Отряд {UNIT-0,7} заслуживает благодарности.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LOCAL_BRIGANDS_ENDING_B_OPTION_0</zType>
-		<Translation><![CDATA[The recovered supplies will be put to good use.]]></Translation>
+		<Translation><![CDATA[Найденные запасы будут применены с пользой.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LOCAL_BRIGANDS_ENDING_C_OPTION_0</zType>
-		<Translation><![CDATA[Spend what is needed to send in more forces.]]></Translation>
+		<Translation><![CDATA[Выделите всё необходимое и отправьте больше солдат.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LOCAL_BRIGANDS_ENDING_C_OPTION_1</zType>
-		<Translation><![CDATA[Our forces in the area can handle the threat.]]></Translation>
+		<Translation><![CDATA[В районе вполне достаточно наших войск.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_AN_UNLIKELY_SCENARIO_NO</zType>
-		<Translation><![CDATA[No, this is madness.]]></Translation>
+		<Translation><![CDATA[Нет, это безумие.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_AN_UNLIKELY_SCENARIO_YES</zType>
-		<Translation><![CDATA[Obey the priests.]]></Translation>
+		<Translation><![CDATA[Подчинимся жрецам.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELIGIOUS_FREEDOM_ORTHODOXY</zType>
-		<Translation><![CDATA[We support the one true faith, {RELIGION-1}.]]></Translation>
+		<Translation><![CDATA[Мы поддержим истинную веру - {RELIGION-1,3}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELIGIOUS_FREEDOM_TOLERANCE</zType>
-		<Translation><![CDATA[Tolerance is a better path.]]></Translation>
+		<Translation><![CDATA[Терпимость - лучший путь.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELIGIOUS_FREEDOM_FEARFUL</zType>
-		<Translation><![CDATA[We should not anger either group.]]></Translation>
+		<Translation><![CDATA[Мы не должны злить ни одну из сторон.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_AMBASSADOR_CANDIDATES_FIRST</zType>
-		<Translation><![CDATA[Choose the {CHARACTER-0} family.]]></Translation>
+		<Translation><![CDATA[Выбрать семью {CHARACTER-0}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_AMBASSADOR_CANDIDATES_SECOND</zType>
-		<Translation><![CDATA[Choose the {CHARACTER-1} family.]]></Translation>
+		<Translation><![CDATA[Выбрать семью {CHARACTER-1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CHANCELLOR_CANDIDATES_FIRST</zType>
-		<Translation><![CDATA[Choose the {CHARACTER-0} family.]]></Translation>
+		<Translation><![CDATA[Выбрать семью  кандидата {CHARACTER-0}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CHANCELLOR_CANDIDATES_SECOND</zType>
-		<Translation><![CDATA[Choose the {CHARACTER-1} family.]]></Translation>
+		<Translation><![CDATA[Выбрать семью кандидата {CHARACTER-1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SPYMASTER_CANDIDATES_FIRST</zType>
-		<Translation><![CDATA[Choose {CHARACTER-0}.]]></Translation>
+		<Translation><![CDATA[Выбрать {CHARACTER-0}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SPYMASTER_CANDIDATES_SECOND</zType>
-		<Translation><![CDATA[Choose {CHARACTER-1}.]]></Translation>
+		<Translation><![CDATA[Выбрать {CHARACTER-1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_COUNCIL_CANDIDATES_NEITHER</zType>
-		<Translation><![CDATA[I will make my own decisions!]]></Translation>
+		<Translation><![CDATA[Я сделаю собственный выбор!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_VAULTING_SEWER_SYSTEM_OPTION_0</zType>
-		<Translation>Provide {CITY-1} with the requested experts.</Translation>
+		<Translation><![CDATA[Предоставить городу {CITY-1} требуемых специалистов.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_VAULTING_SEWER_SYSTEM_OPTION_1</zType>
-		<Translation>Fund the development of a sewage system.</Translation>
+		<Translation><![CDATA[Финансировать разработку канализации.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_VAULTING_SEWER_SYSTEM_OPTION_2</zType>
-		<Translation>Lend the court's full support to this effort.</Translation>
+		<Translation><![CDATA[Выказать полную поддержку в этой работе.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_VAULTING_HOUSES_OF_THE_HOLY_OPTION_0</zType>
-		<Translation>A donation of stone should be sufficient.</Translation>
+		<Translation><![CDATA[Пожертвовать им камень, этого будет вполне достаточно.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_VAULTING_HOUSES_OF_THE_HOLY_OPTION_1</zType>
-		<Translation>Fully fund {RELIGION-2,0}'s important work.</Translation>
+		<Translation><![CDATA[Полностью финансировать важную работу {RELIGION-2,1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_VAULTING_HOUSES_OF_THE_HOLY_OPTION_2</zType>
-		<Translation>We will not get tied up in minor religious affairs.</Translation>
+		<Translation><![CDATA[Мы не станем ввязываться в религиозные делишки.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_VAULTING_NEW_OBSESSION_OPTION_0</zType>
-		<Translation>I will make this monument my ambition.</Translation>
+		<Translation><![CDATA[Памятник олицетворит величие моих замыслов.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_VAULTING_NEW_OBSESSION_OPTION_1</zType>
-		<Translation><![CDATA[Support {CHARACTER-1} in <masculine_CHARACTER-1>his<feminine>her<end> efforts.]]></Translation>
+		<Translation><![CDATA[Поддержать {CHARACTER-1} в <masculine_CHARACTER-1>его<feminine>ее<end> начинаниях.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_VAULTING_NEW_OBSESSION_OPTION_2</zType>
-		<Translation>Set aside land for this national monument.</Translation>
+		<Translation><![CDATA[Выделить землю для национального памятника. Где-нибудь в стороне.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_BODKIN_ACCOMPLICES_OPTION_0</zType>
-		<Translation>Deliver the {FAMILY-2,2} assassin to {PLAYER-1}.</Translation>
+		<Translation><![CDATA[Доставить в {PLAYER-1,3} убийцу, нанятого семьей {FAMILY-2}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_BODKIN_ACCOMPLICES_OPTION_1</zType>
-		<Translation>To stayed united, we must go to war.</Translation>
+		<Translation><![CDATA[Чтобы сохранить единство, мы должны объявить войну.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_BODKIN_ACCOMPLICES_OPTION_2</zType>
-		<Translation>Deny that {FAMILY-2} had any involvement.</Translation>
+		<Translation><![CDATA[Отрицать причастность семьи {FAMILY-2} к инциденту.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_BODKIN_THE_COURTS_MEN_OPTION_0</zType>
-		<Translation>Deadlier shots.</Translation>
+		<Translation>Смертоносные выстрелы.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_BODKIN_THE_COURTS_MEN_OPTION_1</zType>
-		<Translation>Greater range.</Translation>
+		<Translation>Увеличенная дальность.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_BODKIN_THE_COURTS_MEN_OPTION_2</zType>
-		<Translation>Ignore distance.</Translation>
+		<Translation>Игнорирование расстояний.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_BODKIN_THE_COURTS_MEN_OPTION_3</zType>
-		<Translation>They are worthy of every promotion.</Translation>
+		<Translation>Они достойны всех повышений.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_LATEEN_MAIDEN_VOYAGE_OPTION_0</zType>
-		<Translation>Build supply boats for laborers and traders.</Translation>
+		<Translation>Постройте корабли снабжения для рабочих и торговцев.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_LATEEN_MAIDEN_VOYAGE_OPTION_1</zType>
-		<Translation>Build pleasure yachts for the noble families.</Translation>
+		<Translation>Постройте яхты для развлечения знати.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_LATEEN_MAIDEN_VOYAGE_OPTION_2</zType>
-		<Translation>Build crude warships and train in combat.</Translation>
+		<Translation>Стройте военные корабли и учитесь бою.</Translation>
 	</Entry>
+	<!--meta-->
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_LATEEN_ADRIFT_OPTION_0</zType>
-		<Translation>We must protect {RELIGION-3} and its people.</Translation>
+		<Translation><![CDATA[Мы должны защитить {RELIGION-3,3} и его последователей.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_LATEEN_ADRIFT_OPTION_1</zType>
-		<Translation>They are welcome to depart {PLAYER-0}.</Translation>
+		<Translation><![CDATA[Они вольны покинуть {PLAYER-0,3}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_LATEEN_ADRIFT_OPTION_2</zType>
-		<Translation>Aid them in their voyage to a new land.</Translation>
+		<Translation>Мы поможем им в путешествии к новым землям.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TECH_LATEEN_CAPSIZED_SPIES_OPTION_0</zType>
