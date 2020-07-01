@@ -561,6 +561,10 @@
 		<Translation>Принять Богооткровение</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_GOAL_GNOSTICISM</zType>
+		<Translation>Принять Гностицизм</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_GOAL_ENLIGHTENMENT</zType>
 		<Translation>Принять Духовное просвещение</Translation>
 	</Entry>
