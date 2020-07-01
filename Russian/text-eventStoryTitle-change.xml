@@ -3735,103 +3735,103 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELIGION_NOMADS_TITLE</zType>
-		<Translation><![CDATA[Nomads]]></Translation>
+		<Translation><![CDATA[Кочевники]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELIGION_READING_THE_WORD_TITLE</zType>
-		<Translation><![CDATA[Reading the Word]]></Translation>
+		<Translation><![CDATA[Знакомство с писанием]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELIGION_THE_APOSTLES_TITLE</zType>
-		<Translation><![CDATA[The Apostles]]></Translation>
+		<Translation><![CDATA[Апостолы]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELIGION_KINGDOM_OF_GOD_TITLE</zType>
-		<Translation>Kingdom of God</Translation>
+		<Translation>Царство Божие</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELIGION_YOUR_BLESSING_TITLE</zType>
-		<Translation><![CDATA[Your Blessing]]></Translation>
+		<Translation><![CDATA[Ваше благословение]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELIGION_LIGHT_AND_DARK_TITLE</zType>
-		<Translation><![CDATA[Light and Dark]]></Translation>
+		<Translation><![CDATA[Свет и тьма]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CULTURE_GADFLY_TITLE</zType>
-		<Translation><![CDATA[Gadfly]]></Translation>
+		<Translation><![CDATA[Критика]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CULTURE_SHOOTING_STAR_TITLE</zType>
-		<Translation><![CDATA[Shooting Star]]></Translation>
+		<Translation><![CDATA[Падающая звезда]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_MY_CONDOLENCES_TITLE</zType>
-		<Translation><![CDATA[My Condolences]]></Translation>
+		<Translation><![CDATA[Соболезнования]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LOCAL_BRIGANDS_TITLE</zType>
-		<Translation><![CDATA[Local Brigands]]></Translation>
+		<Translation><![CDATA[Местные разбойники]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LOCAL_BRIGANDS_ENDING_A_TITLE</zType>
-		<Translation><![CDATA[Local Brigands]]></Translation>
+		<Translation><![CDATA[Местные разбойники]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LOCAL_BRIGANDS_ENDING_B_TITLE</zType>
-		<Translation><![CDATA[Local Brigands]]></Translation>
+		<Translation><![CDATA[Местные разбойники]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LOCAL_BRIGANDS_ENDING_C_TITLE</zType>
-		<Translation><![CDATA[Local Brigands]]></Translation>
+		<Translation><![CDATA[Местные разбойники]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AN_UNLIKELY_SCENARIO_TITLE</zType>
-		<Translation><![CDATA[An Unlikely Scenario]]></Translation>
+		<Translation><![CDATA[Маловероятный сценарий]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELIGIOUS_FREEDOM_TITLE</zType>
-		<Translation><![CDATA[Religious Freedom]]></Translation>
+		<Translation><![CDATA[Свобода вероисповедания]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AMBASSADOR_CANDIDATES_TITLE</zType>
-		<Translation><![CDATA[Ambassador Candidates]]></Translation>
+		<Translation><![CDATA[Кандидат в советники]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHANCELLOR_CANDIDATES_TITLE</zType>
-		<Translation><![CDATA[Chancellor Candidates]]></Translation>
+		<Translation><![CDATA[Кандидат в канцлеры]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SPYMASTER_CANDIDATES_TITLE</zType>
-		<Translation><![CDATA[Spymaster Candidates]]></Translation>
+		<Translation><![CDATA[Кандидат в начальники разведки]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TECH_VAULTING_SEWER_SYSTEM_TITLE</zType>
-		<Translation>Sewer System</Translation>
+		<Translation><![CDATA[Система канализации]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TECH_VAULTING_HOUSES_OF_THE_HOLY_TITLE</zType>
-		<Translation>Houses of the Holy</Translation>
+		<Translation><![CDATA[Небеса обетованные]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TECH_VAULTING_NEW_OBSESSION_TITLE</zType>
-		<Translation>New Obsession</Translation>
+		<Translation><![CDATA[Одержимость]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TECH_BODKIN_ACCOMPLICES_TITLE</zType>
-		<Translation>Accomplices</Translation>
+		<Translation>Соучастники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TECH_BODKIN_THE_COURTS_MEN_TITLE</zType>
-		<Translation>The Court's Men</Translation>
+		<Translation>Почетные мужи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TECH_LATEEN_MAIDEN_VOYAGE_TITLE</zType>
-		<Translation>Maiden Voyage</Translation>
+		<Translation>Первый рейс</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TECH_LATEEN_ADRIFT_TITLE</zType>
-		<Translation>Adrift</Translation>
+		<Translation>Свободное плавание</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TECH_LATEEN_CAPSIZED_SPIES_TITLE</zType>
