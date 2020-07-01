@@ -7,546 +7,546 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_TRUCE</zType>
-		<Translation><![CDATA[An envoy from the {PLAYER-0,2} arrives at  court and makes an offer to end the war. ]]></Translation>
+		<Translation><![CDATA[К вам прибывает посол из {PLAYER-0,1} с предложением закончить войну. ]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR</zType>
-		<Translation><![CDATA[An envoy from the {PLAYER-0,2} arrives at  court and demands tribute to avoid war. ]]></Translation>
+		<Translation><![CDATA[К вам прибывает посол из {PLAYER-0,1} с предложением избежать войны. ]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PEACE_RESPONSE_OFFER_TRIBUTE</zType>
-		<Translation><![CDATA[After years of growing tension, {PLAYER-0} has finally sent a messenger to offer peace, but at a price...
+		<Translation><![CDATA[После стольких лет противоречий {PLAYER-0} наконец предлагает заключить мир, но за определенную плату...
 
-Do we dare defy them?]]></Translation>
+Хватит ли у нас храбрости отказаться?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PEACE_RESPONSE_NO_TRIBUTE</zType>
-		<Translation>{PLAYER-0,1} riders arrive in the capital, requesting an audience with the court. They have come to deliver another request for peace.
+		<Translation>{PLAYER-0,1} гонцы прибывают в столицу, запрашивая вашу аудиенцию. Они передают просьбу заключить мир.
 
-How shall we respond?</Translation>
+Что мы ответим?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PEACE_RESPONSE_DEMAND_TRIBUTE</zType>
-		<Translation><![CDATA[We have summoned the {PLAYER-0} leadership to court to deliver a message: we are willing to explore a truce, but they must agree to our demands.]]></Translation>
+		<Translation><![CDATA[Мы пригласили правителей {PLAYER-0,1}, чтобы заявить: мы готовы заключить перемирие, но они должны согласиться на наши условия.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PEACE_RESPONSE_REJECTED</zType>
-		<Translation><![CDATA[A riderless horse delivers a short, one-word reponse from the {PLAYER-0,2}: "Never."
+		<Translation><![CDATA[К городу подступила одинокая лошадь с пустям седлом, доставив ответ из {PLAYER-0,1}. В записке всего одно слово: "Никогда".
 
-They certainly have a flair for the dramatic.]]></Translation>
+Похоже, драма у них в крови.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRUCE_RESPONSE_OFFER_TRIBUTE</zType>
-		<Translation><![CDATA[The {PLAYER-0,2} will gladly accept tribute from us. Our nations will move forward together.]]></Translation>
+		<Translation><![CDATA[{PLAYER-0} охотно примет от нас дань. Наши нации будут идти вперед плечом к плечу.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRUCE_RESPONSE_NO_TRIBUTE</zType>
-		<Translation><![CDATA[After much debate, the {PLAYER-0,2} have returned. They are ready to end the fighting.]]></Translation>
+		<Translation><![CDATA[Представители {PLAYER-0,1} возвращаются после долгих переговоров. Они готовы прекратить сражения.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRUCE_RESPONSE_DEMAND_TRIBUTE</zType>
-		<Translation><![CDATA[The {PLAYER-0,2} accept defeat with honor. It is an example of which our people should take notice.]]></Translation>
+		<Translation><![CDATA[{PLAYER-0} принимает поражение с честью. Это пример, который должен запомнить наш народ.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRUCE_RESPONSE_REJECTED</zType>
-		<Translation><![CDATA[A gruff diplomat arrives from {PLAYER-0}, formally denying our request. We will need to explore other ways to influence the {PLAYER-0,2}.]]></Translation>
+		<Translation><![CDATA[Из {PLAYER-0,1} прибывает хмурый дипломат с официальным отказом от нашего предложения. Нам предстоит найти иной способ повлиять на {PLAYER-0,3}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_BARBARIAN_WAR</zType>
-		<Translation>The court wishes to gain the cooperation of the {PLAYER-1,2} in a campaign against the {BARBARIAN-0}. They will require some... persuasion.
+		<Translation>Правительство желает заручиться поддержкой {PLAYER-1,1} в борьбе против {BARBARIAN-0,1}. Но их нужно чем-то... убедить.
 
-What shall we offer?</Translation>
+Что мы предложим?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_PLAYER_WAR</zType>
 		<Translation>
-      The court wishes to gain the cooperation of the {PLAYER-1,2} in a campaign against {PLAYER-0}. They will require some... persuasion.
+      Правительство желает заручиться поддержкой {PLAYER-1,1} в борьбе против {PLAYER-0,1}. Но их нужно чем-то... убедить.
 
-      What shall we offer?
+Что мы предложим?
     </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_DECLARE_WAR</zType>
-		<Translation>The court awaits your command. 
+		<Translation>Правительство ожидает вашей команды. 
 
-Shall we declare war on {PLAYER-0}?</Translation>
+Объявить ли нам войну {PLAYER-0,2}?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_BREAK_PEACE</zType>
-		<Translation>The court has reached an impasse, and a decision is needed. 
+		<Translation>После долгих обсуждений правительство зашло в тупик и требует вашего решения. 
 
-Shall we break our link(DIPLOMACY_PEACE) with {PLAYER-0}?</Translation>
+Расторгнуть ли нам link(DIPLOMACY_PEACE) с {PLAYER-0,4}?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_END_ALLIANCE</zType>
-		<Translation>Many in court grow displeased with our alliance with {PLAYER-0}. Perhaps now would be a good time to dissolve our agreements.</Translation>
+		<Translation>Наш союз с {PLAYER-0,4} вызывает недовольство придворных. Возможно, стоит пересмотреть принятые ранее соглашения.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_CANCEL_TRADE</zType>
-		<Translation>We have gathered a consensus of merchants and tradesmen, and the court stands ready to support your decision. 
+		<Translation>Мы получили одобрение купцов и торговцев. Теперь двор готов поддержать любое ваше решение. 
 
-Shall we cancel trade with {PLAYER-0}?</Translation>
+Прекратить ли нам торговлю с {PLAYER-0,4}?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARBARIAN_DECLARE_WAR</zType>
-		<Translation>The court awaits your command. 
+		<Translation>Правительство ожидает вашей команды. 
 
-Shall we declare war on the {BARBARIAN-0}?</Translation>
+Объявить ли нам войну {BARBARIAN-0,2}?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARBARIAN_BREAK_PEACE</zType>
-		<Translation>The court has reached an impasse, and a decision is needed.
+		<Translation>После долгих обсуждений правительство зашло в тупик и требует вашего решения.
 
-Shall we break our link(DIPLOMACY_PEACE) with the {BARBARIAN-0}?</Translation>
+Расторгнуть ли нам link(DIPLOMACY_PEACE) с {BARBARIAN-0}?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARBARIAN_END_ALLIANCE</zType>
-		<Translation>Our alliance with the {BARBARIAN-0} has not proved as fruitful as we had hoped. Perhaps our two civilizations are not compatible after all. 
+		<Translation>Союз с {BARBARIAN-0,4} оказался не таким выгодным, как мы ожидали. Видимо, наши цивилизации друг другу не подходят. 
 
-What shall we do?</Translation>
+Что нам делать?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_CODES_OF_JUSTICE</zType>
-		<Translation><![CDATA[{CITY-1} has experienced a rise in blood feuds between individuals and families. A new code of justice must be drafted, or the chaos in {CITY-1} will ignite further unrest. 
+		<Translation><![CDATA[В городе {CITY-1} ужесточилась кровная вражда между знатными семьями и отдельными жителями. Если мы не примем меры, {CITY-1} охватят беспорядки. 
 
-How shall we approach the punishment of crime?]]></Translation>
+Будем ли мы наказывать людей за совершенные преступления?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_SAGE_COUNSEL</zType>
-		<Translation><![CDATA[Recent policies have expedited legal matters across the kingdom, leaving many advocates with newfound availability. We should put these experts to task.
+		<Translation><![CDATA[Недавние законы ускорили решение правовых вопросов по всему королевству, оставив адвокатам слишком много свободного времени. Им следует дать задание.
 
-How shall these scholars direct their efforts?]]></Translation>
+Куда эти специалисты могут направить свои усилия?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_BARBARIANS_AT_THE_GATE</zType>
-		<Translation><![CDATA[{BARBARIAN-1,1} incursions have the military on high alert!
+		<Translation><![CDATA[{BARBARIAN-1,1} налетчики в полной боевой готовности!
 
-Your advisors request that you muster additional militia groups to secure the borders. However, supplies are low, and those resources may be better spent on building defenses.]]></Translation>
+Советники просят вас подготовить как можно больше военных отрядов для защиты границ королевства. Но запасы ресурсов истощены. Может быть, эффективнее потратить их на оборонительные сооружения.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_MOUTHPIECE_OF_THE_GODS</zType>
-		<Translation><![CDATA[Your proclamations have inspired the kingdom, and the people have come to call you "mouthpiece of the gods" for you gifted rhetoric.
+		<Translation><![CDATA[За вдохновляющие речи и талант к риторике народ стал называть вас "Глас богов".
 
-Perhaps it is time to record your tenets for posterity. Our advisors suggest that we inscribe your precepts on clay cylinders to be erected in every city. ]]></Translation>
+Возможно, настало время записать свои постулаты для будущих поколений. Советники предлагают нанести ваши заповеди на глиняные цилиндры и установить их в каждом городе. ]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_DIVINE_MANDATE</zType>
-		<Translation><![CDATA[Last night, you witnessed a glorious vision! A promised land awaits you in the wilderness. Clearly, you have been chosen by the gods. 
+		<Translation><![CDATA[Этой ночью вам было послано прекрасное видение. Земля обетованная, ждущая в нетронутой дали. Отныне нет сомнений, что вы избраны богами. 
 
-Send scouts in every direction to discover your destiny, or heed mortal advisors and ignore the hand of fate.]]></Translation>
+Отправьте разведчиков в каждый уголок, чтобы найти свою судьбу, или прислушайтесь к советам смертных и забудьте про видение.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_UNDER_SUSPICION</zType>
-		<Translation>During a recent visit, the {PLAYER-1,1} ambassador acts strangely in our presence. Probing questions. Whispers with her retinue. As tensions rise, we worry that {PLAYER-1,0} may be planning a surprise strike.
+		<Translation>Во время недавнего визита {PLAYER-1,1} посол вел себя весьма странно. Задавал наводящие вопросы. Перешептывался со свитой. Из-за неуклонно растущих противоречий мы боимся, что {PLAYER-1,0} готовит внезапное нападение.
 
-Are we simply jumping at shadows?</Translation>
+Возможно ли, что мы боимся собственной тени?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_ARTS_AND_SCIENCES</zType>
-		<Translation><![CDATA[Our nation appears to be entering an age of unparalleled abundance. Ministers urge us to use this period of good fortune to invest in society.
+		<Translation><![CDATA[Похоже, наша нация вступила долгожданный в век процветания. Советники призывают использовать это благодатное время для развития общества.
 
-Some advise scientific study, while others believe that the arts are more beneficial.]]></Translation>
+Некоторые рекомендуют поддержать изучение наук, другие считают, что искусство принесет больше пользы.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_OF_THE_PEOPLE</zType>
-		<Translation><![CDATA[Your spare, humble lifestyle is all the fashion in the streets of {CITY-1}. But while it appeals to the experience of average citizens, noble families are beginning to grumble.
+		<Translation><![CDATA[Ваш скромный образ жизни пользуется популярностью у жителей города {CITY-1}. Простые граждане проникаются к вам симпатией, но знатные семьи выражают недовольство.
 
-The {FAMILY-2,1} have called for you to behave in a way more befitting of royalty.]]></Translation>
+Семья {FAMILY-2} призывает вас вести себя достойно королевской персоны.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_TEST_OF_FAITH</zType>
-		<Translation>During the renovation of a temple, holy men uncovered the remnants of an ancient scroll. In the words of a great deity, this lost "Book of Law" describes an ideal, virtuous society.
+		<Translation>Во время восстановления храма священнослужители обнаружили древний свиток. По словам великого божества, найденная "Книга закона" описывает идеальное, добродетельное общество.
 
-Our ministes advise against rash action, but you worry this is a test of faith.</Translation>
+Советники предостерегают вас от необдуманных действий, но страх не выдержать испытание веры очень силен.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_QUESTION_AUTHORITY</zType>
-		<Translation><![CDATA[Military officer, {CHARACTER-1}, seeks reassurances. He fears that your recklessness with the lives of his soldiers puts them in unnecessary danger.
+		<Translation><![CDATA[Военный офицер {CHARACTER-1} просит вас унять <masculine_CHARACTER-1>его<feminine>ее<end> страхи. <masculine_CHARACTER-1>Он<feminine>Она<end> считает, что ваше легкомысленное отношение к солтадским жизням подвергает их излишней опасности.
 
-<masculine_CHARACTER-1>He<feminine>She<end> pleads with you to consider the consequences when deploying soldiers.
+<masculine_CHARACTER-1>Он<feminine>Она<end> призывает вас рассмотреть последствия размещения войск.
 ]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_COLLISION_COURSE</zType>
-		<Translation><![CDATA[In a brash move, the {PLAYER-1,2} have seized a key mountain pass, threatening our expansion. Their ruler, {CHARACTER-SHORT-1}, waits for our reaction, armies at the ready.
+		<Translation><![CDATA[{PLAYER-1} нагло захватили ключевой перевал, ставя под угрозу нашу экспансию. Их правитель {CHARACTER-SHORT-1} ждет нашей реакции. <masculine_CHARACTER-SHORT-1>Его<feminine>Ее<end> армии в боевой готовности.
 
-Is this a time for caution, or will we call his bluff? ]]></Translation>
+ Мы проявим осторожность или обвиним <masculine_CHARACTER-SHORT-1>его<feminine>ее<end> в нахальстве? ]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_ENABLERS</zType>
-		<Translation><![CDATA[A troupe of exotic performers stops in {CITY-1} to entertain the people. During a short visit to the palace, the dancers and poets offer other, more unique services to those who wish to indulge themselves...
+		<Translation><![CDATA[Остановившись в городе {CITY-1}, труппа чужеземных исполнителей развлекает народ. Во время короткого визита во дворец танцоры и поэты предлагают другие, совершенно необыкновенные услуги тем, кто не прочь себя побаловать...
 
-Do you dare enjoy the revels?]]></Translation>
+Вы осмелитесь присоединиться к пиру?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_ROYAL_TRAGEDIES</zType>
-		<Translation><![CDATA[It has been a trying time in the royal household. Your son, {CHARACTER-1} was struck by a falling stone and killed instantly. At the palace, your spouse, {CHARACTER-2}, has fallen ill with a mysterious ailment, and healers make no promises of recovery.
+		<Translation><![CDATA[Королевскую семью настигла трагедия. Ваш сын {CHARACTER-1} был мгновенно убит упавшим камнем. <masculine_CHARACTER-SHORT-1>Ваш супруг слег<feminine>Ваша супруга слегла<end> с неизвестным недугом, и прогнозы целителей крайне неутешительны.
 
-Where will you turn in this moment of weakness?]]></Translation>
+К чему вы обратитесь в минуты слабости?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_A_DARK_PALL</zType>
-		<Translation><![CDATA[Despite your best efforts, a darkness has overtaken you. There is no comfort on the throne. Your inner circle consists of sycophants, and your subjects see you only as one in an endless succession of rulers.
+		<Translation><![CDATA[Несмотря на все усилия, вашу душу охватила тьма. Корона неприятно давит, вокруг носятся одни подхалимы, а подданные видят в вас только очередного правителя из бесконечной вереницы.
 
-The only honorable end is to become one with immortality.]]></Translation>
+Единственный благородный конец всему этому - стать с бессмертием единым целым.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_DUEL_OF_FATES</zType>
-		<Translation><![CDATA[{CHARACTER-1} has sent a message through secretive back channels. Having heard tales of your wickedness and immorality, <masculine_CHARACTER-1>he<feminine>she<end> deems your rule illegitimate.
+		<Translation><![CDATA[{CHARACTER-1} <masculine_CHARACTER-1>отправил<feminine>отправила<end> вам тайное сообщение. Узнав о вашей греховности и безнравственности, <masculine_CHARACTER-1>он<feminine>она<end> считает ваше правление незаконным.
 
-<masculine_CHARACTER-1>He<feminine>She<end> desires a duel. Combat. It is not a question of armies or nations. It is a question of honor.]]></Translation>
+<masculine_CHARACTER-1>Он<feminine>Она<end> предлагает вам дуэль. Бой один на один. Это не вопрос величины войск и силы нашей империи. Это вопрос чести.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_DUEL_OF_FATES_VICTORIOUS</zType>
-		<Translation><![CDATA[You have emerged victorious from your royal duel with {CHARACTER-SHORT-1}. As expiation for their hostility, the {PLAYER-1,2} offer their prayers. Peace persists.
+		<Translation><![CDATA[Вы одержали победу в дуэли против {CHARACTER-SHORT-1}. Искупая вину за <masculine_CHARACTER-1>его<feminine>ее<end> враждебность, {PLAYER-1,2} возносят молитвы за ваше благополучие. Мир не нарушен.
 ]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_DUEL_OF_FATES_DEFEATED</zType>
-		<Translation><![CDATA[Sadly, you have fallen in your royal duel with {CHARACTER-SHORT-1}. As restitution for your royal crimes, the {PLAYER-1,2} demand the prayers of your subjects. However, peace with {PLAYER-1,0} shall continue.
+		<Translation><![CDATA[К сожалению, вас настигло поражение в дуэли против {CHARACTER-SHORT-1}. В качестве платы за ваши преступления {PLAYER-1,2} объявил нескончаемые молитвы ваших подданных. Однако, мир с {PLAYER-1,4} не нарушен.
 ]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_FAMILY_RETREAT</zType>
-		<Translation><![CDATA[This is the second year that the {FAMILY-1,0} and {FAMILY-2,0} families have spent the summer months together at a lavish estate in the hills. Their cooperation in court continues to strengthen, diminishing your authority.
+		<Translation><![CDATA[Уже второе лето семьи {FAMILY-1,0} и {FAMILY-2,0} проводят вместе в роскошном имении на отдаленных холмах. Их союз продолжает укрепляться, роняя ваш авторитет.
 
-What happens at these private gatherings? What are the {FAMILY-1,1} and {FAMILY-2,1} plotting?]]></Translation>
+Что происходит во время их закрытых встреч? Что затевают семьи {FAMILY-1} и {FAMILY-2}?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_THE_FINER_THINGS</zType>
-		<Translation>Your reputation as a ruler of captivating tastes reaches far behind our borders. Therefore, it is no surprise when an exotic merchant appears in court, wishing to present you with a gift from his homeland.
+		<Translation>Ваша слава как правителя с необычным вкусом разлетелась по всему миру. Неудивительно, что однажды к вам прибывает чужеземный купец и преподносит экзотические дары со своей родины.
 
-What strikes your fancy?</Translation>
+Что поразило ваше воображение?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_A_CHILL_IN_THE_PALACE</zType>
-		<Translation><![CDATA[After returning from a "private" trip to the country, your spouse, {CHARACTER-1}, has succumbed to a terrible fever. Even more troubling are the rumors of infidelity. <masculine_CHARACTER-1>He<feminine>She<end> spends so much time away that the gossip is unavoidable.
+		<Translation><![CDATA[Вернувшиь из личной поездки, <masculine_CHARACTER-1>ваш супруг<feminine>ваша супруга<end> {CHARACTER-1} <masculine_CHARACTER-1>стал жертвой<feminine>стала жертвой<end> ужасной лихорадки. Вместе с тем повсюду ходят удручающие слухи о супрежеской неверности. <masculine_CHARACTER-1>Он провел<feminine>Она провела<end> столько времени вдали, что сплетен не избежать.
 
-Royal healers seek counsel on how to treat the situation.
+Королевские целители не знают, как поступить в этой ситуации.
 ]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_FACING_THE_HORDE</zType>
-		<Translation><![CDATA[A delegation from the murderous {BARBARIAN-1,1} tribe approach the gates of the capital. They have already achieved mythical stature for their prowess in battle, and now their leader demands an audience.
+		<Translation><![CDATA[К воротам столицы подступила группа кровожадных {BARBARIAN-1,1}. Ходит немало слухов об их боевом мастерстве, и теперь их предводитель просит вашей аудиенции.
 
-Our advisors suggest that you send a proxy, for your safety.]]></Translation>
+Ради вашей безопасности советники предлагают отправить посредника.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_FORCED_DEPORTATIONS</zType>
-		<Translation><![CDATA[Great soldier, {CHARACTER-0}, approaches the court with a controversial plan: forced deportations. <masculine_CHARACTER-0>He<feminine>She<end> believes that a hostile foreign element is inspiring revolts against the nation.
+		<Translation><![CDATA[Великий солдат {CHARACTER-0} обращается к правительству с предложением ввести принудительную депортацию. <masculine_CHARACTER-0>Он уверен<feminine>Она уверена<end>, что враждебно настроенный чужеземец втайне затевает восстание.
 
-The plan would be effective in quelling rebellion. However, it would anger the populace, and it may offend the {FAMILY-2} family, many of whom originate from other lands.
+<masculine_CHARACTER-0>Его<feminine>Ее<end> план эффективно подавит мятеж. Однако он вызовет возмущение жителей и может оскорбить семью {FAMILY-2}, прибывшую из дальних земель.
 ]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_GOOD_NEWS</zType>
-		<Translation><![CDATA[In a surprise piece of news, you receive an update from your heir, {CHARACTER-0}. Academy scholars respect <masculine_CHARACTER-0>him<feminine>her<end>, and the other students compete to befriend <masculine_CHARACTER-0>him<feminine>her<end>. 
+		<Translation><![CDATA[Совершенно неожиданно вы получаете приятные новости от <masculine_CHARACTER-0>своего наследника<feminine>своей наследницы<end> {CHARACTER-0}. Ученые академии восхищены <masculine_CHARACTER-0>его<feminine>ее<end> умом, а студенты борются за внимание и дружбу. 
 
-At the moment, {CHARACTER-SHORT-0} is thriving!]]></Translation>
+{CHARACTER-SHORT-0} <masculine_CHARACTER-0>добился<feminine>добилась<end> значительных успехов!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_BIREME_SELECTED</zType>
-		<Translation>The link(UNIT_BIREME) is a link(UNITTRAIT_SHIP) Unit and can attack other ships in melee range. Ship Units can also Anchor, creating a zone around the ship that Land Units can travel through.</Translation>
+		<Translation>link(UNIT_BIREME) - это link(UNITTRAIT_SHIP), который может вступать в ближний бой с другими кораблями. Она способна бросить якорь, создав вокруг пространство для передвижения сухопутных юнитов.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_SPEARMAN_SELECTED</zType>
-		<Translation>The link(UNIT_SPEARMAN) is the first link(UNITTRAIT_POLEARM) Unit available to your Nation. link(UNITTRAIT_POLEARM) Units excel against enemy link(UNITTRAIT_MOUNTED) Units, which can't ignore a link(UNITTRAIT_POLEARM)'s Zone of Control. Spearmen also have a piercing attack, striking the unit behind their target for partial damage.</Translation>
+		<Translation>link(UNIT_SPEARMAN) - это первый доступный link(UNITTRAIT_POLEARM). link(UNITTRAIT_POLEARM) наиболее эффективен против link(UNITTRAIT_MOUNTED,2), которые не могут игнорировать его зону контроля. Воин с копьем обладает  пронзительной атакой и наносит урон отрядам позади цели.</Translation>
 	</Entry>
 	<Entry beginGroup="Exploration">
 		<zType>TEXT_EVENTSTORY_RUINS_SURVIVORS</zType>
-		<Translation><![CDATA[This village has only recently been sacked, and we discovered a band of survivors huddled in its ruins. These destitute refugees seem eager to abandon the wreckage of their old lives and join our nation, but they are strangers to our culture. 
+		<Translation><![CDATA[Эта деревня недавно подверглась нападению. Мы обнаружили группу выживших, затаившихся в ее руинах. Похоже, они готовы отказаться от обломков старой жизни и присоединиться к нашей империи, но наша культура им совсем не знакома. 
 
-What will you do with them?]]></Translation>
+Как мы поступим с беженцами?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_RITUAL_PERFORMANCE</zType>
-		<Translation><![CDATA[In the ruins, we observe a ritual performance centering on the old city's patron god. He tricks minor deities into letting him eat them, but at the end they cut open his belly and kill him. 
+		<Translation><![CDATA[В руинах мы обнаружили изображения, посвященные Богу-покровителю старого города. По преданию, он заманивал младших богов и поедал их по одному. В конце повествования боги освободились, вспоров ему живот, и оставили умирать. 
 
-What should we take away from this?]]></Translation>
+Какой урок мы должны из этого вынести?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_CARVED_WALL</zType>
-		<Translation><![CDATA[Our troops discover a towering wall depicting images and carvings belonging to an ancient civilization with an impeccable record of their laws. 
+		<Translation><![CDATA[Перед нашим отрядом возвысилась стена, сплошь покрытая резными изображениями древней цивилизации с подробным описанием их законов.
 
-Our generals want to preserve such findings. What do you advise?]]></Translation>
+Наши генералы хотят сберечь эту находку. Что вы посоветуете?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_MONUMENTS_OF_LAW</zType>
-		<Translation><![CDATA[Our explorers come across a series of weathered monuments lost in the undergrowth. Upon closer inspection, the structures appear to be inscribed with the laws of a forgotten city. 
+		<Translation><![CDATA[Наши разведчики наткнулись на ветхие монументы, затерянные в густых зарослях. При ближайшем рассмотрении выяснилось, что все они расписаны законами забытого города. 
 
-What should we do?]]></Translation>
+Что нам делать?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_HUNGRY_LOREKEEPERS</zType>
-		<Translation><![CDATA[Our explorers find a family of starving lorekeepers encamped in the ruins, surviving on scraps. Pleading for help, they offer to share their mastery of oratory in exchange for food.
+		<Translation><![CDATA[Наши разведчики встретили обосновавшуюся в руинах голодающую семью хранителей преданий. Умоляя о помощи, они предлагают открыть нам секреты ораторского искусства в обмен на еду.
 
-Will you agree to their offer?]]></Translation>
+Вы согласитесь на их предложение?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_HIDDEN_JEWELS</zType>
-		<Translation><![CDATA[Our explorers discover a cache of jewels hidden deep in the abandoned ruins. 
+		<Translation><![CDATA[В заброшенных руинах разведчики нашли глубоко запрятанный тайник с драгоценностями.
 
-Their orders were to explore the lands. Would you rather they exploit this discovery instead?]]></Translation>
+Им был дан приказ разведать земли. Стоит ли вместо этого изучить находку?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_FRIGHTENED_FAMILIES</zType>
-		<Translation><![CDATA[A caravan of frightened families approaches our explorers. They explain that bloodthirsty raiders have been preying on them, and they look to you for protection.
-How shall we help them?]]></Translation>
+		<Translation><![CDATA[К нашим разведчикам приблизился караван испуганных семей. Они рассказали о том, что стали жертвой кровожадных разбойников, и попросили защиты.	
+Чем мы им поможем?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_ELDERLY_COUPLE</zType>
-		<Translation><![CDATA[Our explorers come across a group of people inhabiting the ruins, led by an elderly couple. The couple claim that they were once the chief scribe and head priestess of the great sacked city. They ask for our help. 
+		<Translation><![CDATA[Наши разведчики встретили в руинах группу людей во главе с престарелой парой. Двое незнакомцев утверждают, что ранее служили главным писарем и верховной жрицей великого, но ныне разрушенного города. Они просят о помощи. 
 
-What would you have us do?  ]]></Translation>
+Что нам делать?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_ELDERLY_COUPLE_WITCH</zType>
-		<Translation><![CDATA[Driven to madness from her captivity and mourning the abandonment of her people, the High Priestess climbs atop a pyre and burns herself, shouting curses on your person and on our nation.]]></Translation>
+		<Translation><![CDATA[Верховная жрица, доведенная до безумия заключением в плен и скорбью о брошенных подданных, взбирается на костер и сжигает себя заживо, выкрикивая проклятия вам и вашему народу.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_DESPOILED_RUINS</zType>
-		<Translation>Scavenging through the ruins, we find significant amounts of stone, iron, and wood. However, local raiders could reach the ruins by nightfall. We can't fight them off, but we can carry some of the loot back home. Which of the three would you like us to bring back?</Translation>
+		<Translation>Раскопав руины, мы находим залежи камня, железа и дерева. Но местные мародеры могут добраться до этих мест уже к вечеру. Мы не в силах им противостоять, но сможем принести домой часть ресурсов. Какой из трех ресурсов нам взять?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_HAUNTED_QUARRY</zType>
-		<Translation><![CDATA[We stumbled upon what looks like an old quarry. The equipment inside suggests an advanced knowledge of engineering. However, villagers nearby claim that furious spirits devoured the miners, leaving the tunnels abandoned.]]></Translation>
+		<Translation><![CDATA[Нам встретилось нечто похожее на старую каменоломню, оборудование в ней выполнено по передовым технологиям  машиностроения. Но жители соседней деревни утверждают, что туннели пустуют из-за злобных духов, пожирающих заживо всех рабочих.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_BURLY_SMITH</zType>
-		<Translation><![CDATA[A burly smith maintains an ancient forge in the ruins. She explains that she trades iron weapons to nomads in exchange for food. As long as you don't touch her stockpile of ore, she is willing to share her expertise with you. What do you say?]]></Translation>
+		<Translation><![CDATA[Крепкий кузнец хранит в руинах пламя древнего горна. Она кует кочевникам оружие в обмен на еду. Если мы не тронем ее запасы руды, она поделится с нами знаниями о кузнечном деле. Что вы скажете?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_GOOD_FENCES</zType>
-		<Translation><![CDATA[Small gardens dot the ruins, clearly the work of skilled farmers. Emerging from a nearby cave, these expert growers offer to teach us how to build good pastures. All they ask for in exchange is enough wood to repair their shelters. 
+		<Translation><![CDATA[По всем руинам видны цветущие островки - нет сомнений, что здесь обосновались опытные фермеры. Появившись из ближайшей пещеры, они предложили рассказать нам секреты создания хорошего пастбища. Все, что они просят взамен - немного дерева для починки ветхих укрытий. 
 
-How will you respond?]]></Translation>
+Как вы ответите на предложение?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_TRIBAL_HUNTERS</zType>
-		<Translation><![CDATA[As our explorers stand by unnoticed, a tribe of hunters visits the ruins to check their traps. They go about their business, distracted by their abundant spoils. 
+		<Translation><![CDATA[Не заметив наших разведчиков, охотники незнакомого племени пробрались в руины, чтобы проверить свои ловушки. Они заняты делом, не отвлекаясь от богатой добычи. 
 
-Should our explorers intervene?]]></Translation>
+Следует ли нам вмешаться?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_STAR_CHARTS</zType>
-		<Translation><![CDATA[Our explorers discover a cache of yellowed star charts in the ruins. The former inhabitants must have been a tribe of great navigators.
+		<Translation><![CDATA[Наши разведчики находят в руинах тайник с пожелтевшей картой звездного неба. Должно быть, здесь когда-то жили великие мореплаватели.
 
-Who should receive these charts?]]></Translation>
+Кому достанутся эти карты?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_FRUIT_TREES</zType>
-		<Translation><![CDATA[Blossoming trees tower over the dusty ruins, providing ample shade; their branches are heavy with ripe fruit. A natural orchard stretches for miles.
+		<Translation><![CDATA[Над пыльными руинами возвышаются цветущие деревья, скрывая землю от солнца. Их ветви склоняются под тяжестью спелых фруктов. Сад простирается до самого горизонта.
 
-How will you use this excellent source of food?]]></Translation>
+Как мы поступим с этим источником пищи?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_OLD_SOLDIER</zType>
-		<Translation>A scarred and weathered soldier crouches in the ruins. She says that she once commanded the armies of a great nation, before a resistance brought it crashing down.
+		<Translation>К руинам припала покрытая шрамами женщина с обветренным лицом. Она утверждает, что однажды командовала огромным войском, пока ее страну не сокрушило сопротивление.
 
-She is willing to share her vast battlefield knowledge, if we are willing to listen.</Translation>
+Женщина хочет поделиться с нами искусством ведения войны. Готовы ли мы ее выслушать?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_WEARY_MARAUDERS</zType>
-		<Translation><![CDATA[Our troops are approached by weary raiders who have been roaming the forests aimlessly. They wish to fight for a worthy cause with us.]]></Translation>
+		<Translation><![CDATA[Наш отряд наткнулся на группу разбойников, бесцельно блуждающих по лесу. Они ищут достойное применение своей силе.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_GREAT_MIGRATION</zType>
-		<Translation><![CDATA[Broken vessels and strange markings indicate that these ruins were once occupied by a tribe from beyond the sea.
+		<Translation><![CDATA[Разбитая посуда со странной символикой говорит о том, что в этих руинах однажды обитало заморское племя.
 
-Such a discovery inspires you to expand beyond your realm, to new worlds...]]></Translation>
+Это открытие вдохновляет вас исследовать земли далеко за пределами родной империи...]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_VULGAR_SPEECH</zType>
-		<Translation><![CDATA[Graffiti are scrawled across this ruined structure. One of our court scholars recognizes it as "vulgar speech," a Latin dialect used by the lower classes of several extinct tribes.
+		<Translation><![CDATA[Мы нашли разрушенное здание, покрытое надписями. Один из ученых узнает в них "вульгарную латынь" - диалект, принадлежащий низшим классам ныне вымерших племен.
 
-There are very few examples of this traditionally unwritten language.]]></Translation>
+В мире встречается очень мало записей на этом языке.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_ANCIENT_BARBARIANS</zType>
-		<Translation><![CDATA[Our men find murals depicting creatures, rituals, and battles. The style is reminiscent of the {BARBARIAN-2,0}, leading us to believe that this tribe was perhaps a precursor to their own.
+		<Translation><![CDATA[Наши люди находят фрески с изображением существ, обрядов и сражений. Их стиль напоминает работы {BARBARIAN-2,1}. Похоже, это племя было их предком.
 
-Our troops warn against desecrating such a site. The {BARBARIAN-2,0} are very protective of their culture. Of course, there is much to be learned from these ruins.]]></Translation>
+Отряд просит вас не осквернять это место, ведь {BARBARIAN-2,0} очень заботятся о своей культуре. Мы можем многому научиться, исследовав фрески.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_THE_WATCHERS</zType>
-		<Translation><![CDATA[In the center of the ruins, high atop a hill, stands a ring of monolothic human figures. The faces gaze out over the nearby fields as if to watch over those below.
+		<Translation><![CDATA[В центре руин, на высоком холме, стоят кольцом человеческие фигуры, высеченные из камня. Они пристально смотрят на окружающие их земли, словно пытаясь что-то увидеть.
 
-According to our explorers, the towering figures warn against incursion into these ancient lands. Local tribes are known to keep their distance.]]></Translation>
+По словам исследователей, эти фигуры стерегли древние земли от нападений. Теперь нам извествно, почему местные племена держатся на расстоянии.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ANCIENT_SITE</zType>
-		<Translation><![CDATA[Our expedition comes upon a site that looks like the ceremonial capital of some ancient world. An altar centers the court, and ten thrones sit on each side.]]></Translation>
+		<Translation><![CDATA[Наша экспедиция приблизилась к месту церемоний древнего племени. В центре двора виден алтарь, по каждую сторону которого возвышается десять тронов.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SACRED_TOMB</zType>
-		<Translation><![CDATA[Our expedition approaches an ancient monument - the structure appears to be the tomb of a great leader.
+		<Translation><![CDATA[Наша экспедиция приблизилась к ветхому монументу. Строение похоже на гробницу древнего правителя.
 
-An inscription reads: "Passerby, whoever you may be, I was once King of Kings. Grudge me not, therefore, this piece of Earth that covers my body."]]></Translation>
+Надпись гласит: "Путник, я был однажды королем всех королей. Кем бы ты ни являлся, будь же добр к той земле, что окутала мое тело".]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SEASHORE_FIND</zType>
-		<Translation><![CDATA[While exploring a remote stretch of seashore, we discover a curious shell scattered among the shallows. This shell, when ground into powder, produces a pleasant purple dye that is perfect for fabrics.]]></Translation>
+		<Translation><![CDATA[Исследуя побережье, мы находим на отмели интересные раковины. Если их растолочь, можно получить краситель чарующего пурпурного оттенка, который пригодится в производстве тканей.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_EARLY_DISCIPLES</zType>
-		<Translation><![CDATA[High on the sea cliffs, a circle of round stone ruins gazes out over the crashing waves. The inhabitants of these lone, isolated dwellings must have desired true serenity. One explorer recognizes familiar symbols in nearby cave carvings: what could be seen as early icons of {RELIGION-2}. Perhaps the site was a primitive temple or monastery of its followers.]]></Translation>
+		<Translation><![CDATA[Высоко на морском утесе неподвижно стоят кольцом разрушенные валуны, вглядываясь в даль за грохочущими волнами. Должно быть, жители этих отдаленных земель желали истинного спокойствия. Наш исследователь узнает символы на стенах соседней пещеры, они похожи на иконы древнего письма {RELIGION-2,1}. Это место могло быть первобытным храмом его последователей.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_THE_FLOATING_CITY</zType>
-		<Translation><![CDATA[A great floating city once clung to this desert coastline, a collection of harbors linked by ferries, bridges, and pontoons. Sadly, much of its splendor now lies lost along the sea floor. Flooding appears to have liquified the clay islands on which the city stood, sinking it over centuries.
+		<Translation><![CDATA[Вдоль этого пустынного побережья когда-то располагался великий плавучий город. Множество гаваней было соединено мостами, понтонами и переправами. К сожалению, значительная часть его великолепия ныне потеряна на морском дне. Наводнение размыло глиняные острова, на которых стоял город, и навеки его потопило.
 
-Several ceremonial boats remain on the abandoned shore, but the ruins themselves are almost entirely underwater.]]></Translation>
+У берега покачиваются церемониальные лодки, но сами руины почти полностью скрыты под водой.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_NEW_HUMANS</zType>
-		<Translation><![CDATA[On a small island off the coast, our explorers discover a cave deep in the leafy jungle. Inside, buried in a series of shallow graves, lie the skeletal remains of several hundred ancient villagers. Only these skeletons are much smaller than humans.
+		<Translation><![CDATA[Наши разведчики находят пещеру, скрытую в густых джунглях небольшого острова. Внутри лежат останки сотен жителей древнего поселения, погребенные в неглубоких могилах. Вот только их скелеты намного меньше человеческих.
 
-{CHARACTER-2}, the great scientist, is astonished. Are these beings evidence of early ancestors, or of something much more sinister?]]></Translation>
+Великий ученый {CHARACTER-2} <masculine_CHARACTER-2>поражен<feminine>поражена<end> находкой. Эти останки принадлежат нашим предкам или более зловещим существам?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_SUNKEN_TOMBS</zType>
-		<Translation><![CDATA[A series of stone-cut tombs line the seaside cliffs. While most of the ruins appear to have been looted, many have sunken beneath the tidal waters, the result of frequent earthquakes. 
+		<Translation><![CDATA[В морских скалах вдоль обрыва вырублены каменные могилы. Многие из них разграблены, но часть затоплена наводнением после частых землетрясений.
 
-Your scouts can scour the rubble for valuables, or you may hire small craft to explore the shallows.]]></Translation>
+Вы можете отправить разведчиков обыскать руины или нанять небольшое судно, чтобы исследовать отмель.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_THE_KINGS_ROADS</zType>
-		<Translation>Our expedition comes upon an impressive paved road system leading between wood structures that have long since rotted away. The engineering required to build such a site was far ahead of its time.
+		<Translation>Наша экспедиция подошла к разветвленной системе мощеных дорог, соединяющей давно сгнившие деревянные постройки. Жители этого поселения обладали передовыми знаниями об инженерном деле, раз смогли такое построить.
 
-What would you have us do with it?</Translation>
+Что нам делать с находной?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_GEOGLYPHS</zType>
-		<Translation><![CDATA[Nothing about the hulking dirt mounds seems impressive at first. Not until our troops explore the adjacent desert hills do they return with news. At a distance, these primitive ruins comprise a massive pattern - designs, and even zoological images - made to be seen from a great height.
+		<Translation><![CDATA[Поначалу ничего в огромных грязных курганах не показалось нам впечатляющим. До тех пор, пока наши разведчики не исследовали соседние дюны и не вернулись с новостями: издалека эти первобытные руины составляют огромный узор, который видно только с большой высоты.
 
-Who knows what riches lie beneath the mounds, but to dig would destroy their beauty.]]></Translation>
+Никто не знает, какие богатства скрывают курганы, но их раскопки разрушили бы эту красоту.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_RAISED_FIELDS</zType>
-		<Translation><![CDATA[Our explorers discover the ruins of a sprawling agricultural civilization. Raised fields split by shallow canals suggest that the ancient inhabitants controlled flooding, allowing them to thrive during seasons heavy rainfall.
+		<Translation><![CDATA[Наши разведчики обнаружили руины огромного поселения хлебопашцев. Поля на возвышении, разделенные неглубокими каналами, свидетельствуют о том, что древние жители держали наводнение под контролем. Это позволяло им успешно пережить сезон дождей.
 
-Such a site has much to teach us about efficient food production, if we take the time to heed it.]]></Translation>
+Если мы осмотрим это место, то сможем многое почерпнуть о производстве пищи.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_GRAVE_CIRCLES</zType>
-		<Translation><![CDATA[A grave circle in the trees appears to have belonged to a great tribe. The shaft includes the remains of a ruler, his spouse and children, and a retinue of servants. 
+		<Translation><![CDATA[Появившийся среди деревьев круг могил, похоже, принадлежит великому племени. В углублении находятся останки правителя, его жены, детей и целая свита слуг. 
 
-Foreign ruins - and their treasures - have captured the imagination of the nobility, especially the {FAMILY-2,1}. You might consider using some of the recent findings to gain their favor. Or not.]]></Translation>
+Чужеземные руины и их сокровища поразили воображение дворян, особенно членов семьи {FAMILY-2}. Вы можете отправить им часть сокровищ, чтобы заручиться поддержкой в государственных вопросах. Или не отправлять.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_EMERALD_MINES</zType>
-		<Translation><![CDATA[Explorers uncover numerous shafts in the desert hillside, their entrances covered by past landslides. Emeralds litter the dark passages, suggesting that this site once was a thriving mine. 
+		<Translation><![CDATA[Наши разведчики обнаружили на пустынном холме множество шахт, входы в которые скрыты прошлогодними оползнями. Коридоры усеяны изумрудами, наводя на мысль о том, что в былые времена здесь процветала добыча драгоценностей. 
 
-Your scout wishes to continue excavating to find more valuables, but such actions could cause the mines to collapse.]]></Translation>
+Разведчики не прочь провести раскопки в поисках сокровищ, но это может вызвать обвал рудника.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_EMERALD_MINES_CAVE_IN</zType>
-		<Translation><![CDATA[Our laborers' attempts to reopen the collapsed emerald mines have failed. Hillside supports crumbled, burying many men beneath the ruins and the rubble. 
+		<Translation><![CDATA[Попытки наших рабочих попасть в заваленный рудник провалилась: рухнули опоры, погребя множество жизней под грудой камня. 
 
-Such a failed gambit has left the population shaken.]]></Translation>
+Неудачный план, повлекший столько жертв, вызвал глубокое потрясение жителей нашей империи.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_EMERALD_MINE_REBUILT</zType>
-		<Translation><![CDATA[After months of arduous labor, your crews of engineers have rebuilt the emerald mines discovered last year. Now that a base camp has been established in the distant hillside, our workers may brave the depths to bring new riches to the nation.
+		<Translation><![CDATA[Спустя многие месяцы напряженного труда команда ваших инженеров восстановила изумрудный рудник, обнаруженный в прошлом году. На холме неподалеку разложили лагерь, и теперь наши рабочие могут смело добывать сокровища в недрах земли.
 
-Our gamble has paid off.]]></Translation>
+Наш риск оправдался.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_IN_THE_CLOUDS</zType>
-		<Translation>A massive edifice surrounds this hilltop “city in the clouds,” which looks to have housed many thousands of citizens. Shattered by tree roots and overgrown with dense foliage, this settlement appears to have been an early {BARBARIAN-2,1} capital.
+		<Translation>Величественное здание окружает "город в облаках", в котором наверняка проживали многие тысячи горожан. Пораженное корнями деревьев и заросшее густой листвой поселение, похоже, было столицей {BARBARIAN-2,1}.
 
-Restoring the crumbling ruin might improve relations, or it could end up a waste of our precious resources.</Translation>
+Восстановление руин может улучшить наши отношения, но есть риск потратить впустую ценные ресурсы.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_HEAVEN_AND_EARTH</zType>
-		<Translation><![CDATA[A temple stands atop the crest of the highest hill, its terrace decorated with bright metal and ceramic. Local legend marks this site as where heaven and earth meet, "where all life began." Of course, the only way to see its wonders is to inhale some of the mind-altering plants along the hillside in an ancient spiritual ceremony.
+		<Translation><![CDATA[На холме возвышается храм, богато украшенный металлом и керамикой. Местная легенда гласит, что в этом месте встречаются небо и земля, что именно здесь "зародилась жизнь". Единственный способ увидеть его чудеса - изменить сознание с помощью трав, растущих вдоль холма, и пройти древнюю церемонию.
 
-A soldier brings you a bowl of this strange powder, but he seems hesitant about its effects.]]></Translation>
+Солдат приносит вам чашу с измельченными травами, но в его глазах читаются сомнения.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_GOLD_WORKERS</zType>
-		<Translation><![CDATA[This hidden jungle city boasts a hoard of gold jewelry: pendants, lip-plugs, nose ornaments, necklaces, and earrings. All the workmanship at the site displays the same signature style and an unparalleled skill with gold.  
+		<Translation><![CDATA[Этот скрытый в джунглях город богат на золотые изделия: подвески, пластины для губ, украшения для носа, ожерелья и серьги. На них виден один и тот же авторский знак. Их создатель, по-видимому, бесподобно владеет навыком обработки золота.
 
-Such a trove of gold is always welcome. Of course, there are many ways to utilize it.]]></Translation>
+Мы всегда рады такой находке и найдем ей применение.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_BEADS_AND_FIGURINES</zType>
-		<Translation>Our explorers find tiny beads and copper figurines among the ruins, proof that the previous inhabitants understood how to extract metals from ore.
+		<Translation>Наши разведчики находят в руинах медные бусины и статуэтки - доказательство того, что древние жители поселения умели обрабатывать руду для получения металлов.
 
-Scientists insist that we could unlock new methods of metal production while scholars argue that they could dispel the mysteries of a forgotten civilization.</Translation>
+Учены настаивают на изучении новых способов переработки руды, но историки считают, что это изничтожит тайны забытой цивилизации.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_WRATH_OF_THE_WATCHERS</zType>
-		<Translation>The ground shakes beneath {CITY-3}! Structures across the city suffer damage, but the number of dead is surprisingly low.
+		<Translation>В городе {CITY-3} сотрясается земля, вызывая многочисленные разрушения, однако погибших на удивление мало.
 
-In a strange coincidence, most of the victims were members of a famous expedition. They discovered the mysterious ruins known only as The Watchers. At our command, they destroyed the monoliths and recovered the useful stone.
+По странному стечению обстоятельств, большинство жертв происходят из семьи знаменитых кладоискателей. Они обнаружили обломки так называемых "Стражей" и по нашему приказу разрушили каменных гигантов, снабдив страну ценными ресурсами.
 
-Perhaps that was a mistake... </Translation>
+Возможно, это было ошибкой... </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_PROPHECY</zType>
-		<Translation>Something in the newly discovered ruins has spooked our scouts, and they request that you visit the site at once. The court accompanies you to the weathered temple, where a series of ancient etchings seems to depict... you, {CHARACTER-1}. 
+		<Translation>Похоже, что-то в руинах сильно встревожило наших разведчиков, раз они просят вас лично посетить это место. В сопровождении придворных вы добираетесь к ветхому храму, внутри которого целый ряд древних гравюр изображает, кажется... вас, {CHARACTER-1}. 
 
-Court scholars attempt to downplay the similarities as coincidence, but the resemblance is uncanny.</Translation>
+Придворные мудрецы считают, что это случайное совпадение, но сходство действительно странное.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_THE_DIVINER</zType>
-		<Translation>A woman sits upon a crumbling dais in the center of the ruins, arms raised to the heavens. "I have been waiting for you," she says, as she inhales fumes from a stone dish. 
+		<Translation>В центре руин на ветхом помосте сидит женщина, подняв руки к небесам. "Я ждала вас", - произнесла она, вдохнув пары из каменной чаши. 
 
-She claims to be a seer and oracle, a voice of the divine. "I will serve you faithfully until the end of your reign."</Translation>
+Она назвалась оракулом, провидицей и гласом Божьим. "Я буду служить вам до конца своих дней".</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RIDDLE_OF_THE_GATE</zType>
-		<Translation>We come across a guarded entrance to an ancient, ruined city. A majestic sphinx is sitting on an incription that will help us open the gate.</Translation>
+		<Translation>Мы подошли к древнему разрушенному городу, вход в который охраняет великолепный сфинкс. Надпись под ним поможет открыть ворота.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RIDDLE_OF_THE_SPHINX</zType>
-		<Translation>The sphinx ask, "Which creature has one voice and yet becomes four-footed and then two-footed and finally three-footed?"</Translation>
+		<Translation>Сфинкс спросил: "Кто ходит утром на четырех ногах, днем - на двух, а вечером - на трех?"</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_ALL_THAT_GLITTERS</zType>
-		<Translation>Thanks to the recently discovered cache of gold, ministers in {CITY-1} plan to fund the construction of a new royal treasury. Of course, this windfall may be better spent on the people than on ourselves.</Translation>
+		<Translation>Благодаря недавно найденному золоту министры ггорода {CITY-1} решили профинансировать строительство нового королевского казначейства. Но эти деньги лучше потратить на подданных, чем на себя самих. </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_CAUGHT_IN_THE_ACT</zType>
-		<Translation>Our scout is caught pilfering a wagonload of the recently discovered silver, and he is brought before the court for justice. The man pleads for his life, hoping that a life of service to the throne will be enough to earn his freedom. </Translation>
+		<Translation>Наш разведчик был пойман за попыткой вывезти телегу с серебром и предстал перед справедливым судом. Мужчина умоляет сохранить ему жизнь, предлагая за это служить государству до конца своих дней. </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_MARVELOUS_SPECIMENS</zType>
-		<Translation>Deep in the ore deposits, our scouts unearth a collection of strange and marvelous specimens. Although these impressions resemble fish and birds found in our lakes and forests, they exhibit many strange characteristics.</Translation>
+		<Translation>Глубоко в рудниках наши разведчики обнаружили останки удивительных существ. Напоминая рыб и птиц наших земель, они все же выглядят довольно странно.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_RITUAL_SCENT</zType>
-		<Translation>The positive effects of the recently harvested incense have made it highly prized by {RELIGION-3,1} groups. They wish to obtain the entire crop for their ceremonies to keep harmful spirits away, but many in {CITY-2} wish to use it for the simple purpose of improving daily life.</Translation>
+		<Translation>Благоприятное воздействие недавно собранных благовоний вызвало к ним интерес представителей {RELIGION-3,1}. Они просят передать им весь урожай для отпугивания злых духов, но многие жители города {CITY-2} хотят использовать эти травы для повседневной жизни.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_STANDOFF</zType>
-		<Translation>As our scouts explore the newly discovered gem deposit, they come upon a small band of {PLAYER-2,2} that also has its eye on the rich vein. Both groups regard the other suspiciously, and they wait for someone to make the first move.</Translation>
+		<Translation>Исследуя недавно обнаруженный рудник, наши разведчики наткнулись на небольшую группу {PLAYER-2,2}, которые тоже положили глаз на драгоценности. Отряды смотрят друг на друга с подозрением, ожидая, пока соперник сделает первый шаг.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_HIGH_SPIRITS</zType>
-		<Translation>Among the fields of twisting grape vines, our scouts meet a wandering scholar who has drunk his fill of the local varietals. The man offers his service to the court, though he may be of more use helping our scouts bring home the harvest.</Translation>
+		<Translation>Посреди кудрявого винограда наши разведчики встретили блуждающего мудреца. Перебрав вина, он предложил свою службу королевскому двору, но разведчики считают, что будет полезнее отправить с ним в столицу собранный урожай.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_CAMEL_BITE</zType>
-		<Translation>Our scout was bitten while corraling a caravan of camels, and he will need to take some time to recover from his injury. This particular breed of creature has a cruel disposition.</Translation>
+		<Translation>Наш разведчик был укушен верблюдом при попытке окружить караван, и теперь ему потребуется время на восстановление. Эти упрямые животные имеют суровый нрав.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_TOUGH_GAME</zType>
-		<Translation>The game here has a tough, sinewy texture, and the flavor leaves much to be desired. However, when boiled and treated, the animals' insides can be used for many practical purposes.</Translation>
+		<Translation>Местная дичь слишком жесткая и жилистая, да и вкус оставляет желать лучшего. Но после варки и обработки внутренности животных можно использовать для многих практических целей.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_WILD_HORSES</zType>
-		<Translation>When the recently discovered horses reach {CITY-2}, your servants inquire as to how the beasts should be used. There is always a need for work animals in the capital, but the decision of how they will be used remains, as always, with you.
+		<Translation>В город {CITY-2} приведены недавно обнаруженные лошади, и ваши подданные интересуются, где лучше применить силу этих животных. В столице всегда требуется скот для тяжелой работы, но решение, конечно, остается за вами.
 </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_CORNER_THE_MARKET</zType>
-		<Translation>The style of marble recently discovered has fetched a high price in the local bazaars, and noble families wish to raise prices to corner the market. What shall we tell merchants?</Translation>
+		<Translation>На местной ярмарке высоко оценили недавно обнаруженный мрамор, и теперь знатные семьи хотят повысить его стоимость, чтобы захватить рынок. Что мы скажем купцам?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_LUXURY_OR_UTILITY</zType>
-		<Translation><![CDATA[With the recent acquisition of fine fur, your <masculine_CHARACTER-2>husband<feminine>wife<end> has asked <masculine_CHARACTER-2>his<feminine>her<end> servants for the creation of new fashions to showcase the luxury. However, several members of the court wish to use the warm material to outfit our soldiers, who suffer in cold conditions.]]></Translation>
+		<Translation><![CDATA[После недавнего приобретения прекрасного меха <masculine_CHARACTER-2>ваш муж велел<feminine>ваша жена велела<end> своим слугам создать <masculine_CHARACTER-2>ему<feminine>ей<end> новый роскошный образ. Но некоторые придворные просят вас предоставить солдатам теплую одежду, чтобы спасти их от холода.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_PIG_IN_THE_PALACE</zType>
