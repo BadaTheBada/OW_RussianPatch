@@ -7,27 +7,27 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MAINTAIN_TRUCE_HELP</zType>
-		<Translation><![CDATA[Maintain the initial link(DIPLOMACY_TRUCE).]]></Translation>
+		<Translation><![CDATA[Сохранить link(DIPLOMACY_TRUCE).]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DISCERNING_JUDGMENT_JUDGE_HELP</zType>
-		<Translation><![CDATA[This should help stabilize their tribe, for now]]></Translation>
+		<Translation><![CDATA[Так мы поддержим их племя.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_TRUCE_YES</zType>
-		<Translation><![CDATA[Let us end this.]]></Translation>
+		<Translation><![CDATA[Давайте покончим с войной.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_TRUCE_NO</zType>
-		<Translation><![CDATA[Not yet!]]></Translation>
+		<Translation><![CDATA[Не сейчас!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_WAR_YES</zType>
-		<Translation><![CDATA[Very well...]]></Translation>
+		<Translation><![CDATA[Что ж, хорошо...]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_WAR_NO</zType>
-		<Translation><![CDATA[Never!]]></Translation>
+		<Translation><![CDATA[Ни за что!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASSASSINATION_OF_MONARCH_ACCEPT_LATER</zType>
@@ -51,139 +51,139 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PEACE_RESPONSE_OFFER_TRIBUTE_YES</zType>
-		<Translation><![CDATA[We will offer them tribute.]]></Translation>
+		<Translation><![CDATA[Мы выплатим дань.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PEACE_RESPONSE_OFFER_TRIBUTE_NO</zType>
-		<Translation><![CDATA[This is unacceptable.]]></Translation>
+		<Translation><![CDATA[Предложение неприемлимо.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PEACE_RESPONSE_NO_TRIBUTE_YES</zType>
-		<Translation><![CDATA[Peace will do.]]></Translation>
+		<Translation><![CDATA[Мир, так и быть.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PEACE_RESPONSE_NO_TRIBUTE_NO</zType>
-		<Translation><![CDATA[This is not the time.]]></Translation>
+		<Translation><![CDATA[Это неподходящее время.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PEACE_RESPONSE_DEMAND_TRIBUTE_YES</zType>
-		<Translation><![CDATA[This is an acceptable agreement.]]></Translation>
+		<Translation><![CDATA[Такое соглашение приемлимо.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PEACE_RESPONSE_DEMAND_TRIBUTE_NO</zType>
-		<Translation><![CDATA[It is not enough.]]></Translation>
+		<Translation><![CDATA[Этого недостаточно.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PEACE_RESPONSE_REJECTED</zType>
-		<Translation><![CDATA[We leave {PLAYER-0} to its fate.]]></Translation>
+		<Translation><![CDATA[Отныне {PLAYER-0,2} не избежать своей судьбы.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRUCE_RESPONSE_OFFER_TRIBUTE_YES</zType>
-		<Translation><![CDATA[We accept your proposal.]]></Translation>
+		<Translation><![CDATA[Мы принимаем ваше преложение.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRUCE_RESPONSE_OFFER_TRIBUTE_NO</zType>
-		<Translation><![CDATA[That is too much for us.]]></Translation>
+		<Translation><![CDATA[Для нас это слишком много.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRUCE_RESPONSE_NO_TRIBUTE_YES</zType>
-		<Translation><![CDATA[We accept the truce.]]></Translation>
+		<Translation><![CDATA[Мы согласны на перемирие.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRUCE_RESPONSE_NO_TRIBUTE_NO</zType>
-		<Translation><![CDATA[No, the war will continue.]]></Translation>
+		<Translation><![CDATA[Нет, мы продолжим войну.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRUCE_RESPONSE_DEMAND_TRIBUTE_YES</zType>
-		<Translation><![CDATA[We accept your proposal.]]></Translation>
+		<Translation><![CDATA[Мы принимаем ваше предложение.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRUCE_RESPONSE_DEMAND_TRIBUTE_NO</zType>
-		<Translation><![CDATA[That is not enough.]]></Translation>
+		<Translation><![CDATA[Этого недостаточно.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRUCE_RESPONSE_REJECTED</zType>
-		<Translation><![CDATA[That is very unfortunate.]]></Translation>
+		<Translation><![CDATA[Очень жаль.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_BARBARIAN_WAR_MONEY</zType>
-		<Translation><![CDATA[We will offer gold from the treasury.]]></Translation>
+		<Translation><![CDATA[Мы предложим золото.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_BARBARIAN_WAR_TRIBUTE</zType>
-		<Translation><![CDATA[A tribute to {PLAYER-1} is in order.]]></Translation>
+		<Translation><![CDATA[Дань {PLAYER-1,2} необходима.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_BARBARIAN_WAR_NO</zType>
-		<Translation><![CDATA[They must simply trust us.]]></Translation>
+		<Translation><![CDATA[Они должны верить нам на слово.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_PLAYER_WAR_MONEY</zType>
-		<Translation><![CDATA[We will offer gold from the treasury.]]></Translation>
+		<Translation><![CDATA[Мы предложим золото.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_PLAYER_WAR_TRIBUTE</zType>
-		<Translation><![CDATA[A tribute to {PLAYER-1} is in order.]]></Translation>
+		<Translation><![CDATA[Дань {PLAYER-1,2} необходима.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_PLAYER_WAR_NO</zType>
-		<Translation><![CDATA[They must simply trust us.]]></Translation>
+		<Translation><![CDATA[Они должны верить нам на слово.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_DECLARE_WAR_YES</zType>
-		<Translation><![CDATA[Proceed with war preparations.]]></Translation>
+		<Translation><![CDATA[Да, готовьтесь к войне.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_DECLARE_WAR_NO</zType>
-		<Translation><![CDATA[It is not time.]]></Translation>
+		<Translation><![CDATA[Нет, не время.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_BREAK_PEACE_YES</zType>
-		<Translation><![CDATA[End the link(DIPLOMACY_PEACE).]]></Translation>
+		<Translation><![CDATA[Расторгнуть link(DIPLOMACY_PEACE).]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_BREAK_PEACE_NO</zType>
-		<Translation><![CDATA[It is not time.]]></Translation>
+		<Translation><![CDATA[Нет, не время.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_END_ALLIANCE_YES</zType>
-		<Translation>We should end the link(CONCEPT_ALLIANCE_PLAYER).</Translation>
+		<Translation>Мы должны расторгнуть link(CONCEPT_ALLIANCE_PLAYER).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_END_ALLIANCE_NO</zType>
-		<Translation><![CDATA[It is not time.]]></Translation>
+		<Translation><![CDATA[Нет, не время.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_CANCEL_TRADE_YES</zType>
-		<Translation><![CDATA[End all trade with {PLAYER-0}.]]></Translation>
+		<Translation><![CDATA[Прекратить всю торговлю с {PLAYER-0,4}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_CANCEL_TRADE_NO</zType>
-		<Translation><![CDATA[It is not time.]]></Translation>
+		<Translation><![CDATA[Нет, не время.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BARBARIAN_DECLARE_WAR_YES</zType>
-		<Translation><![CDATA[Proceed with war preparations.]]></Translation>
+		<Translation><![CDATA[Да, готовьтесь к войне.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BARBARIAN_DECLARE_WAR_NO</zType>
-		<Translation><![CDATA[It is not time.]]></Translation>
+		<Translation><![CDATA[Нет, не время]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BARBARIAN_BREAK_PEACE_YES</zType>
-		<Translation><![CDATA[End the link(DIPLOMACY_PEACE).]]></Translation>
+		<Translation><![CDATA[Да, расторгнуть link(DIPLOMACY_PEACE).]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BARBARIAN_BREAK_PEACE_NO</zType>
-		<Translation><![CDATA[It is not time.]]></Translation>
+		<Translation><![CDATA[Нет, не время.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BARBARIAN_END_ALLIANCE_YES</zType>
-		<Translation>We should end the link(CONCEPT_ALLIANCE_BARB).</Translation>
+		<Translation>Мы должны расторгнуть link(CONCEPT_ALLIANCE_BARB).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BARBARIAN_END_ALLIANCE_NO</zType>
-		<Translation><![CDATA[It is not time.]]></Translation>
+		<Translation><![CDATA[Нет, не время.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LAW_SLAVERY</zType>
@@ -431,219 +431,219 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_CODES_OF_JUSTICE_OPTION_0</zType>
-		<Translation><![CDATA[An eye for an eye, a tooth for a tooth.]]></Translation>
+		<Translation><![CDATA[Зуб за зуб, глаз за глаз.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_CODES_OF_JUSTICE_OPTION_1</zType>
-		<Translation><![CDATA[When struck, turn the other cheek.]]></Translation>
+		<Translation><![CDATA[Если ударили по одной щеке, подставь другую.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_SAGE_COUNSEL_OPTION_0</zType>
-		<Translation><![CDATA[Reduce the backlog of legal cases.]]></Translation>
+		<Translation><![CDATA[Рассмотреть накопившиеся дела.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_SAGE_COUNSEL_OPTION_1</zType>
-		<Translation><![CDATA[Train additional advocates.]]></Translation>
+		<Translation><![CDATA[Обучить новых адвокатов.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_SAGE_COUNSEL_OPTION_2</zType>
-		<Translation><![CDATA[Find ways to improve efficiency.]]></Translation>
+		<Translation><![CDATA[Найти способ повысить эффективность.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_BARBARIANS_AT_THE_GATE_OPTION_0</zType>
-		<Translation><![CDATA[Muster additional militia.]]></Translation>
+		<Translation><![CDATA[Обучить больше воинов.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_BARBARIANS_AT_THE_GATE_OPTION_1</zType>
-		<Translation><![CDATA[Strengthen our defenses.]]></Translation>
+		<Translation><![CDATA[Усилить нашу оборону.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_MOUTHPIECE_OF_THE_GODS_OPTION_0</zType>
-		<Translation><![CDATA[My words must outlive me.]]></Translation>
+		<Translation><![CDATA[Мое слово останется на веки веков.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_MOUTHPIECE_OF_THE_GODS_OPTION_1</zType>
-		<Translation><![CDATA[We cannot afford such a project.]]></Translation>
+		<Translation><![CDATA[Мы не может позволить себе такие траты.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_DIVINE_MANDATE_OPTION_0</zType>
-		<Translation><![CDATA[Let us go forth into a bright future.]]></Translation>
+		<Translation><![CDATA[Мы пойдем навстречу светлому будущему.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_DIVINE_MANDATE_OPTION_1</zType>
-		<Translation><![CDATA[I don't need the gods to direct me.]]></Translation>
+		<Translation><![CDATA[Мне не нужны боги, чтобы знать, куда идти.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_DIVINE_MANDATE_OPTION_2</zType>
-		<Translation><![CDATA[This expedition demands more funds!]]></Translation>
+		<Translation><![CDATA[Экспедиция требует больше вложений!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_UNDER_SUSPICION_OPTION_0</zType>
-		<Translation><![CDATA[Accuse {PLAYER-1,0} of preparing for war.]]></Translation>
+		<Translation><![CDATA[Обвинить {PLAYER-1,3} в подготовке к войне.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_UNDER_SUSPICION_OPTION_1</zType>
-		<Translation><![CDATA[Approach with caution and openness.]]></Translation>
+		<Translation><![CDATA[Обсудить вопрос открыто и осторожно.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_UNDER_SUSPICION_OPTION_2</zType>
-		<Translation><![CDATA[Offer better trade terms to ease tensions.]]></Translation>
+		<Translation><![CDATA[Предложить более выгодную сделку, чтобы уменьшить напряжение.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_ARTS_AND_SCIENCES_OPTION_0</zType>
-		<Translation><![CDATA[Expand the cause of human knowledge.]]></Translation>
+		<Translation><![CDATA[Расширить границы человеческих знаний.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_ARTS_AND_SCIENCES_OPTION_1</zType>
-		<Translation><![CDATA[Expression and emotion live eternally.]]></Translation>
+		<Translation><![CDATA[Творения чувств живут вечно.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_ARTS_AND_SCIENCES_OPTION_2</zType>
-		<Translation><![CDATA[We need soldiers to protect our prosperity.]]></Translation>
+		<Translation><![CDATA[Нам нужны солдаты для защиты благосостояния.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_OF_THE_PEOPLE_OPTION_0</zType>
-		<Translation><![CDATA[May my modesty serve as an example.]]></Translation>
+		<Translation><![CDATA[Пусть моя скромность послужит примером.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_OF_THE_PEOPLE_OPTION_1</zType>
-		<Translation><![CDATA[Yes, a ruler must embrace the role.]]></Translation>
+		<Translation><![CDATA[Я начну соответствовать образу правителя.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_TEST_OF_FAITH_OPTION_0</zType>
-		<Translation><![CDATA[We shall honor our the one true God.]]></Translation>
+		<Translation><![CDATA[Мы должны чтить единого Бога.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_TEST_OF_FAITH_OPTION_1</zType>
-		<Translation><![CDATA[All must embrace their own life force.]]></Translation>
+		<Translation><![CDATA[Человек должен рассчитывать на собственные силы.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_TEST_OF_FAITH_OPTION_2</zType>
-		<Translation><![CDATA[Crack down on all cults and heathen beliefs.]]></Translation>
+		<Translation><![CDATA[Избавьтесь от всех культов и языческих вероучений.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_QUESTION_AUTHORITY_OPTION_0</zType>
-		<Translation><![CDATA[Soldiers are no longer his concern.]]></Translation>
+		<Translation><![CDATA[Солдаты больше не <masculine_CHARACTER-1>его<feminine>ее<end> забота.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_QUESTION_AUTHORITY_OPTION_1</zType>
-		<Translation><![CDATA[We use his compassion in court.]]></Translation>
+		<Translation><![CDATA[<masculine_CHARACTER-1>Его<feminine>Ее<end> сострадание пригодится в правительстве.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_QUESTION_AUTHORITY_OPTION_2</zType>
-		<Translation><![CDATA[Who dares call his rulers reckless?]]></Translation>
+		<Translation><![CDATA[Кто смеет называть его величество легкомысленным?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_COLLISION_COURSE_OPTION_0</zType>
-		<Translation><![CDATA[We will find a way around this problem.]]></Translation>
+		<Translation><![CDATA[Мы найдем способ обойти эту проблему.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_COLLISION_COURSE_OPTION_1</zType>
-		<Translation><![CDATA[No one shall take what is ours.]]></Translation>
+		<Translation><![CDATA[Никто не заберет наши земли.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_COLLISION_COURSE_OPTION_2</zType>
-		<Translation><![CDATA[I will convince {CHARACTER-SHORT-1} to retreat.]]></Translation>
+		<Translation><![CDATA[Я склоню {CHARACTER-SHORT-1} к отступлению.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_ENABLERS_OPTION_0</zType>
-		<Translation><![CDATA[I desire men and women of pleasure!]]></Translation>
+		<Translation><![CDATA[Я желаю удовольствия мужчин и женщин!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_ENABLERS_OPTION_1</zType>
-		<Translation><![CDATA[Wine, wine, and more wine!]]></Translation>
+		<Translation><![CDATA[Вина, вина, больше вина!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_ENABLERS_OPTION_2</zType>
-		<Translation><![CDATA[Nothing they can offer is of interest to me.]]></Translation>
+		<Translation><![CDATA[Мне неинтересно то, что они предлагают.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_ROYAL_TRAGEDIES_OPTION_0</zType>
-		<Translation><![CDATA[We must pursue practical solutions.]]></Translation>
+		<Translation><![CDATA[Мы должны следовать практическим решениям.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_ROYAL_TRAGEDIES_OPTION_1</zType>
-		<Translation><![CDATA[Truly, we are cursed. Prayer for us.]]></Translation>
+		<Translation><![CDATA[Воистину, мы прокляты. Молитесь за нас.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_A_DARK_PALL_OPTION_0</zType>
-		<Translation><![CDATA[It is time to depart this mortal realm.]]></Translation>
+		<Translation><![CDATA[Пришло время покинуть смертное царство.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_A_DARK_PALL_OPTION_1</zType>
-		<Translation><![CDATA[No, there is too much still left to do.]]></Translation>
+		<Translation><![CDATA[Нет, осталось много незаконченных дел.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_DUEL_OF_FATES_OPTION_0</zType>
-		<Translation><![CDATA[I will fight. Fetch my armor-bearer.]]></Translation>
+		<Translation><![CDATA[Я буду сражаться. Приведите оруженосца.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_DUEL_OF_FATES_OPTION_1</zType>
-		<Translation><![CDATA[Does <masculine_CHARACTER-1>he<feminine>she<end> take me for a fool? I refuse.]]></Translation>
+		<Translation><![CDATA[<masculine_CHARACTER-1>Он<feminine>Она<end> принимает меня за дурака? Я отказываюсь.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_DUEL_OF_FATES_OPTION_2</zType>
-		<Translation><![CDATA[<masculine_CHARACTER-1>He<feminine>She<end> wants war? <masculine_CHARACTER-1>He<feminine>She<end> will get it.]]></Translation>
+		<Translation><![CDATA[<masculine_CHARACTER-1>Он<feminine>Она<end> хочет войны? <masculine_CHARACTER-1>Он<feminine>Она<end> ее получит.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_DUEL_OF_FATES_VICTORIOUS_OPTION_0</zType>
-		<Translation><![CDATA[Destiny guides my hand.]]></Translation>
+		<Translation><![CDATA[Судьба вела мою руку.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_DUEL_OF_FATES_DEFEATED_OPTION_0</zType>
-		<Translation><![CDATA[Single combat was a grave miscalculation.]]></Translation>
+		<Translation><![CDATA[Этот бой был ошибкой.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_FAMILY_RETREAT_OPTION_0</zType>
-		<Translation><![CDATA[Imprison the {FAMILY-1,0} governor as a warning.]]></Translation>
+		<Translation><![CDATA[Заключить в тюрьму губернатора семьи {FAMILY-1,0} в качестве предупреждения.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_FAMILY_RETREAT_OPTION_1</zType>
-		<Translation><![CDATA[Their relationship means nothing.]]></Translation>
+		<Translation><![CDATA[Их отношения ничего не значат.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_FAMILY_RETREAT_OPTION_2</zType>
-		<Translation><![CDATA[I will earn their trust and then strike.]]></Translation>
+		<Translation><![CDATA[Я завоюю их доверие и затем нанесу удар.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_THE_FINER_THINGS_OPTION_0</zType>
-		<Translation><![CDATA[Elephants from the densest jungles.]]></Translation>
+		<Translation><![CDATA[Слоны из густых джунглей.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_THE_FINER_THINGS_OPTION_1</zType>
-		<Translation><![CDATA[Knowledge of a strange new science.]]></Translation>
+		<Translation><![CDATA[Новые необычные знания.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_THE_FINER_THINGS_OPTION_2</zType>
-		<Translation><![CDATA[Treasures from a legendary hoard.]]></Translation>
+		<Translation><![CDATA[Сокровища из легендарных запасов.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_A_CHILL_IN_THE_PALACE_OPTION_0</zType>
-		<Translation><![CDATA[<masculine_CHARACTER-1>He<feminine>She<end> has fallen victim to her own treachery.]]></Translation>
+		<Translation><![CDATA[<masculine_CHARACTER-1>Он пал<feminine>Она пала<end> жертвой собственного предательства.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_A_CHILL_IN_THE_PALACE_OPTION_1</zType>
-		<Translation><![CDATA[Provide <masculine_CHARACTER-1>him<feminine>her<end> with the best treatment available.]]></Translation>
+		<Translation><![CDATA[Исцелите <masculine_CHARACTER-1>его<feminine>ее<end> всеми возможными способами.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_FACING_THE_HORDE_OPTION_0</zType>
-		<Translation><![CDATA[I will ride out to meet the {BARBARIAN-1,0} myself.]]></Translation>
+		<Translation><![CDATA[Я отправлюсь встретить {BARBARIAN-1,,1} лично.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_FACING_THE_HORDE_OPTION_1</zType>
-		<Translation><![CDATA[Send the proxy in my stead.]]></Translation>
+		<Translation><![CDATA[Отправьте вместо меня посредника.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_FACING_THE_HORDE_OPTION_2</zType>
-		<Translation><![CDATA[Kill these {BARBARIAN-1,2} heathens.]]></Translation>
+		<Translation><![CDATA[Убейте этих дикарей.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_FORCED_DEPORTATIONS_OPTION_0</zType>
-		<Translation><![CDATA[Prepare the forced deportation plan.]]></Translation>
+		<Translation><![CDATA[Подготовить план принудительной депортации.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_FORCED_DEPORTATIONS_OPTION_1</zType>
-		<Translation><![CDATA[That is no way to treat your loyal subjects.]]></Translation>
+		<Translation><![CDATA[Нельзя так обращаться с верными подданными.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAINING_NEWS_COMBAT</zType>
@@ -659,515 +659,515 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_GOOD_NEWS_OPTION_0</zType>
-		<Translation><![CDATA[Encourage <masculine_CHARACTER-0>him<feminine>her<end> to focus on scholarship.]]></Translation>
+		<Translation><![CDATA[Поддержать <masculine_CHARACTER-0>его<feminine>ее<end> интерес к учебе.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_GOOD_NEWS_OPTION_1</zType>
-		<Translation><![CDATA[It is healthy for <masculine_CHARACTER-0>him<feminine>her<end> to seek friends and fellowship.]]></Translation>
+		<Translation><![CDATA[<masculine_CHARACTER-0>Ему<feminine>Ей<end> будет полезно найти друзей и сторонников.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_BIREME_SELECTED_OKAY</zType>
-		<Translation>I'll Anchor my ships to allow my units to traverse the water!</Translation>
+		<Translation>Я брошу якорь, чтобы отряды пересекли воду!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_SPEARMAN_SELECTED_OKAY</zType>
-		<Translation>I'll use Spearmen to combat Mounted Units!</Translation>
+		<Translation>Я отправлю его в бой с верховыми юнитами!</Translation>
 	</Entry>
 	<Entry beginGroup="Exploration">
 		<zType>TEXT_EVENTOPTION_RUINS_SURVIVORS_INVITE</zType>
-		<Translation><![CDATA[Invite them to resettle in our nation.]]></Translation>
+		<Translation><![CDATA[Предложу им новый дом в нашей стране.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_SURVIVORS_EXPLORE</zType>
-		<Translation><![CDATA[Recruit them as hardened explorers.]]></Translation>
+		<Translation><![CDATA[Найму их как матерых разведчиков.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_RITUAL_PERFORMANCE_COTTAGE</zType>
-		<Translation><![CDATA[Expand our cities, but beware of gluttony.]]></Translation>
+		<Translation><![CDATA[Расширять наши земли, но опасаться чревоугодия.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_RITUAL_PERFORMANCE_AMPHITHEATER</zType>
-		<Translation><![CDATA[Hold such performances ourselves.]]></Translation>
+		<Translation><![CDATA[Показать эту историю народу.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_RITUAL_PERFORMANCE_TRAIT</zType>
-		<Translation><![CDATA[Learn from his cunning.]]></Translation>
+		<Translation><![CDATA[Перенять эту хитрость.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_CARVED_WALL_TAKE</zType>
-		<Translation><![CDATA[Advise? I command! Bring the wall to {CITY-0}!]]></Translation>
+		<Translation><![CDATA[Посоветуете? Я приказываю! Доставьте стену в г. {CITY-0}!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_CARVED_WALL_LEAVE</zType>
-		<Translation><![CDATA[I am glad I have such wise generals, I highly value their service.]]></Translation>
+		<Translation><![CDATA[Мы рады иметь на службе столь мудрых генералов. Я высоко ценю их труд.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_MONUMENTS_OF_LAW_SAGES</zType>
-		<Translation><![CDATA[Send sages to learn what they can.]]></Translation>
+		<Translation><![CDATA[Прислать мудрецов для изучения надписей.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_MONUMENTS_OF_LAW_CITIZENS</zType>
-		<Translation><![CDATA[Send laborers to smash them into needed rubble.]]></Translation>
+		<Translation><![CDATA[Прислать рабочих для добычи камня.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_HUNGRY_LOREKEEPERS_FEED</zType>
-		<Translation><![CDATA[We will feed them and learn their skills.]]></Translation>
+		<Translation><![CDATA[Мы накормим их и освоим новый навык.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_HUNGRY_LOREKEEPERS_NO</zType>
-		<Translation><![CDATA[We cannot afford to waste food on strangers.]]></Translation>
+		<Translation><![CDATA[Мы не можем тратить еду на незнакомцев.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_HIDDEN_JEWELS_LEAVE</zType>
-		<Translation><![CDATA[Keep the jewels but continue exploring.]]></Translation>
+		<Translation><![CDATA[Заберите драгоценности и продолжайте разведку.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_HIDDEN_JEWELS_STAY</zType>
-		<Translation><![CDATA[The Treasury would be grateful if we found more jewels.]]></Translation>
+		<Translation><![CDATA[Казначейство будет признательно, если удастся найти больше драгоценностей.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_FRIGHTENED_FAMILIES_JOIN</zType>
-		<Translation><![CDATA[Join us, and we will protect you.]]></Translation>
+		<Translation><![CDATA[Присоединяйтесь к нам, и будете под защитой.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_FRIGHTENED_FAMILIES_GUARD</zType>
-		<Translation><![CDATA[Send our fighters to face the raider.]]></Translation>
+		<Translation><![CDATA[Мы отправим бойцов навстречу разбойникам.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_FRIGHTENED_FAMILIES_SCOUT</zType>
-		<Translation><![CDATA[Give us guides, and we will pay your tormentors.]]></Translation>
+		<Translation><![CDATA[Покажите, куда идти, и мы расплатимся за ваши страдания.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_ELDERLY_COUPLE_HELP</zType>
-		<Translation><![CDATA[Stay and help them reconstruct.]]></Translation>
+		<Translation><![CDATA[Остаться и помочь им восстановить город.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_ELDERLY_COUPLE_ABDUCTED</zType>
-		<Translation><![CDATA[Their leaders are more valuable to us.]]></Translation>
+		<Translation><![CDATA[Их правители для нас более ценны.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_ELDERLY_COUPLE_WITCH_SACRIFICE</zType>
-		<Translation><![CDATA[Sacrifice whatever necessary to appease the fears of the people and to please the gods!]]></Translation>
+		<Translation><![CDATA[Отдайте все необходимое, чтобы унять людские страхи и угодить богам!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_ELDERLY_COUPLE_WITCH_DISMISS</zType>
-		<Translation><![CDATA[I reject her words. She was a mad woman, and I never was a fan of theatrics.]]></Translation>
+		<Translation><![CDATA[Слова жрицы ничего не значат. Она была сумасшедшей, к тому же мне никогда не нравилась игра на публику.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_DESPOILED_RUINS_STONE</zType>
-		<Translation><![CDATA[Stone for construction.]]></Translation>
+		<Translation><![CDATA[Камень для городских сооружений.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_DESPOILED_RUINS_IRON</zType>
-		<Translation><![CDATA[Iron for our troops.]]></Translation>
+		<Translation><![CDATA[Железо для военных отрядов.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_DESPOILED_RUINS_WOOD</zType>
-		<Translation><![CDATA[Wood is always useful.]]></Translation>
+		<Translation><![CDATA[Дерево всегда пригодится.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_HAUNTED_QUARRY_EXAMINE</zType>
-		<Translation><![CDATA[Examine the quarry to figure out how it was made.]]></Translation>
+		<Translation><![CDATA[Исследовать каменоломню, чтобы понять, как она устроена.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_HAUNTED_QUARRY_HAUL</zType>
-		<Translation><![CDATA[Haul back as much stone as they can.]]></Translation>
+		<Translation><![CDATA[Вытащить как можно больше камня.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_HAUNTED_QUARRY_LEAVE</zType>
-		<Translation><![CDATA[Leave this ill-fated place.]]></Translation>
+		<Translation><![CDATA[Оставить это обреченное место.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_BURLY_SMITH_LEARN</zType>
-		<Translation><![CDATA[Learn her trade.]]></Translation>
+		<Translation><![CDATA[Изучить ее ремесло.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_BURLY_SMITH_LOOT</zType>
-		<Translation><![CDATA[Loot her metal stores.]]></Translation>
+		<Translation><![CDATA[Забрать ее запасы металла.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_GOOD_FENCES_PASTURE</zType>
-		<Translation><![CDATA[Sounds like a fair trade.]]></Translation>
+		<Translation><![CDATA[Похоже на честную сделку.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_GOOD_FENCES_MEAT</zType>
-		<Translation><![CDATA[We can offer some in exchange for meat.]]></Translation>
+		<Translation><![CDATA[Мы можем предложить дерево в обмен на мясо.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_GOOD_FENCES_NO</zType>
-		<Translation><![CDATA[Would they consider working for us?]]></Translation>
+		<Translation><![CDATA[Мы бы не отказались от их труда.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_TRIBAL_HUNTERS_KILL</zType>
-		<Translation><![CDATA[Kill them and take their supplies.]]></Translation>
+		<Translation><![CDATA[Убейте их и заберите добычу.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_TRIBAL_HUNTERS_OBSERVE</zType>
-		<Translation><![CDATA[Secretly observe their techniques.]]></Translation>
+		<Translation><![CDATA[Подсмотрите их технику создания ловушек.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_STAR_CHARTS_YOUTH</zType>
-		<Translation><![CDATA[Our scouts could use the direction.]]></Translation>
+		<Translation><![CDATA[Ими могут воспользоваться разведчики.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_STAR_CHARTS_STARGAZER</zType>
-		<Translation><![CDATA[Our astronomers are in need of inspiration.]]></Translation>
+		<Translation><![CDATA[Нашим астрономам нужно вдохновение.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_FRUIT_TREES_FRUIT</zType>
-		<Translation><![CDATA[Take the fruit home.]]></Translation>
+		<Translation><![CDATA[Возьмем фрукты домой.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_FRUIT_TREES_WOOD</zType>
-		<Translation><![CDATA[Chop down the trees.]]></Translation>
+		<Translation><![CDATA[Срубим деревья.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_FRUIT_TREES_CULTURE</zType>
-		<Translation><![CDATA[Let our artists gaze on the scene for inspiration.]]></Translation>
+		<Translation><![CDATA[Подарим вдохновение художникам.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_OLD_SOLDIER_MILITARY_DRILL</zType>
-		<Translation><![CDATA[Learn her military techniques.]]></Translation>
+		<Translation><![CDATA[Попросить ее поделиться знаниями.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_OLD_SOLDIER_INVITE</zType>
-		<Translation><![CDATA[Invite her to lead our troops.]]></Translation>
+		<Translation><![CDATA[Предложить ей присоединиться к отряду.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_WEARY_MARAUDERS_LABOR</zType>
-		<Translation><![CDATA[Labor is a worthy cause.]]></Translation>
+		<Translation><![CDATA[Труд - это достойное применение.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_WEARY_MARAUDERS_FIGHT</zType>
-		<Translation><![CDATA[We could use help against the {BARBARIAN-1}.]]></Translation>
+		<Translation><![CDATA[Нам нужна помощь в борьбе против {BARBARIAN-1,1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_GREAT_MIGRATION_OPTION_0</zType>
-		<Translation><![CDATA[Commission scouts and send them in every direction.]]></Translation>
+		<Translation><![CDATA[Отправьте разведчиков в каждый уголок земли.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_GREAT_MIGRATION_OPTION_1</zType>
-		<Translation><![CDATA[Study this unknown tribe and widen our understanding.]]></Translation>
+		<Translation><![CDATA[Изучите жизнь племени и расширьте границы наших знаний.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_VULGAR_SPEECH_OPTION_0</zType>
-		<Translation><![CDATA[Display the graffiti in our palace yard.]]></Translation>
+		<Translation><![CDATA[Покажите эти надписи во дворце.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_VULGAR_SPEECH_OPTION_1</zType>
-		<Translation><![CDATA[Study the writing and try to replicate it.]]></Translation>
+		<Translation><![CDATA[Изучите надписи и попробуйте их воспроизвести.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_VULGAR_SPEECH_OPTION_2</zType>
-		<Translation><![CDATA["Vulgar" language should be lost. Replace it with my royal sigil.]]></Translation>
+		<Translation><![CDATA["Вульгарный" язык должен быть забыт. Замените надписи моей печатью.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_ANCIENT_BARBARIANS_OPTION_0</zType>
-		<Translation><![CDATA[I do not want to offend the {BARBARIAN-2,0}.]]></Translation>
+		<Translation><![CDATA[Я не хочу оскорблять {BARBARIAN-2,1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_ANCIENT_BARBARIANS_OPTION_1</zType>
-		<Translation><![CDATA[We will make good use of what we find.]]></Translation>
+		<Translation><![CDATA[Мы используем эту находку с умом.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_THE_WATCHERS_OPTION_0</zType>
-		<Translation><![CDATA[We shall avoid these ruins... to be safe.]]></Translation>
+		<Translation><![CDATA[Нам лучше избегать этих руин... Ради безопасности.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_THE_WATCHERS_OPTION_1</zType>
-		<Translation><![CDATA[The stone and ore are too valuable to waste.]]></Translation>
+		<Translation><![CDATA[Мы не можем упустить шанс добыть столь ценные русурсы.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ANCIENT_SITE_RAZE</zType>
-		<Translation><![CDATA[Raze the city. We could use the stone.]]></Translation>
+		<Translation><![CDATA[Разрушьте город. Мы можем использовать этот камень.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ANCIENT_SITE_PRESERVE</zType>
-		<Translation><![CDATA[Preserve the site and learn its history.]]></Translation>
+		<Translation><![CDATA[Сохраните это место и изучите его историю.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ANCIENT_SITE_OFFERINGS</zType>
-		<Translation><![CDATA[We are stepping onto a holy site. Make an offering to their gods.]]></Translation>
+		<Translation><![CDATA[Мы ступили на священную землю и должны принести жертву их богам.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SACRED_TOMB_LEAVE</zType>
-		<Translation><![CDATA[Leave the tomb undisturbed.]]></Translation>
+		<Translation><![CDATA[Не беспокоить гробницу.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SACRED_TOMB_DESTROY</zType>
-		<Translation><![CDATA[There will be no <masculine_CHARACTER-1>King<feminine>Queen<end> but me. Destroy it!]]></Translation>
+		<Translation><![CDATA[Я -  <masculine_CHARACTER-1>единственный король<feminine>единственная королева<end> этого мира. Разрушить гробницу!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SACRED_TOMB_STUDY</zType>
-		<Translation><![CDATA[Let us study their preservation rituals.]]></Translation>
+		<Translation><![CDATA[Давайте изучим их обряд погребения.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SEASHORE_FIND_SCIENCE</zType>
-		<Translation><![CDATA[This is a significant scientfic discovery.]]></Translation>
+		<Translation><![CDATA[Это большое научное открытие.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SEASHORE_FIND_CULTURE</zType>
-		<Translation><![CDATA[Our vivid fabrics will impress the world.]]></Translation>
+		<Translation><![CDATA[Мы поразим весь мир яркими тканями.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SEASHORE_FIND_MONEY</zType>
-		<Translation><![CDATA[Other nations will pay for such a resource.]]></Translation>
+		<Translation><![CDATA[Другие нации готовы заплатить за эту находку.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_EARLY_DISCIPLES_OPTION_0</zType>
-		<Translation><![CDATA[Return the temple to its former glory.]]></Translation>
+		<Translation><![CDATA[Верните храму былое величие.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_EARLY_DISCIPLES_OPTION_1</zType>
-		<Translation><![CDATA[Use the rubble for needed supplies.]]></Translation>
+		<Translation><![CDATA[Используйте этот камень в нуждах страны.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_EARLY_DISCIPLES_OPTION_2</zType>
-		<Translation><![CDATA[Ignore the ruins and move on.]]></Translation>
+		<Translation><![CDATA[Оставьте эти руины и продолжайте исследование.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_THE_FLOATING_CITY_OPTION_0</zType>
-		<Translation><![CDATA[Claim the boats for research.]]></Translation>
+		<Translation><![CDATA[Возьмите лодки для исследования земель.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_THE_FLOATING_CITY_OPTION_1</zType>
-		<Translation><![CDATA[Send divers to search for treasure.]]></Translation>
+		<Translation><![CDATA[Отправьте ныряльщиков в поисках сокровищ.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_NEW_HUMANS_OPTION_0</zType>
-		<Translation><![CDATA[Destroy all evidence of these creatures.]]></Translation>
+		<Translation><![CDATA[Разрушьте все доказательства их существования.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_NEW_HUMANS_OPTION_1</zType>
-		<Translation><![CDATA[Send scholars and scientists to investigate.]]></Translation>
+		<Translation><![CDATA[Пришлите мудрецов и ученых для изучения останков.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_SUNKEN_TOMBS_OPTION_0</zType>
-		<Translation><![CDATA[Mount an undersea expedition.]]></Translation>
+		<Translation><![CDATA[Снарядить подводную экспедицию.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_SUNKEN_TOMBS_OPTION_1</zType>
-		<Translation><![CDATA[Search the coastal rubble.]]></Translation>
+		<Translation><![CDATA[Исследовать отмель.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_THE_KINGS_ROADS_OPTION_0</zType>
-		<Translation><![CDATA[Break down the roads for stone.]]></Translation>
+		<Translation><![CDATA[Разобрать дороги ради добычи камня.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_THE_KINGS_ROADS_OPTION_1</zType>
-		<Translation><![CDATA[Study the technology.]]></Translation>
+		<Translation><![CDATA[Изучить технологию.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_GEOGLYPHS_OPTION_0</zType>
-		<Translation><![CDATA[Create a national historic monument.]]></Translation>
+		<Translation><![CDATA[Создать исторический памятник национального значения.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_GEOGLYPHS_OPTION_1</zType>
-		<Translation><![CDATA[Excavate the site to search for valuables.]]></Translation>
+		<Translation><![CDATA[Провести раскопки в поисках сокровищ.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_RAISED_FIELDS_OPTION_0</zType>
-		<Translation><![CDATA[Plow the fields for whatever is left.]]></Translation>
+		<Translation><![CDATA[Вспашите поля и добудьте все, что осталось.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_RAISED_FIELDS_OPTION_1</zType>
-		<Translation><![CDATA[Allow scientists to study the process.]]></Translation>
+		<Translation><![CDATA[Пришлите ученых, чтобы изучить сельскохозяйственный процесс.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_GRAVE_CIRCLES_OPTION_0</zType>
-		<Translation><![CDATA[Make a gift of treasure to the {FAMILY-2,1}.]]></Translation>
+		<Translation><![CDATA[Преподнести сокровища в подарок {FAMILY-2,1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_GRAVE_CIRCLES_OPTION_1</zType>
-		<Translation><![CDATA[Add all valuables to the nation's coffers.]]></Translation>
+		<Translation><![CDATA[Отправить все сокровища в казну нашей страны.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_EMERALD_MINES_OPTION_0</zType>
-		<Translation><![CDATA[We must reopen the mines.]]></Translation>
+		<Translation><![CDATA[Мы должны попасть в рудники.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_EMERALD_MINES_OPTION_1</zType>
-		<Translation><![CDATA[Leave the old mines alone.]]></Translation>
+		<Translation><![CDATA[Оставьте старые рудники в покое.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_EMERALD_MINES_CAVE_IN_OPTION_0</zType>
-		<Translation><![CDATA[We will learn from our mistakes.]]></Translation>
+		<Translation><![CDATA[Мы будем учиться на своих ошибках.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_EMERALD_MINE_REBUILT_OPTION_0</zType>
-		<Translation><![CDATA[May this further cement my legacy.]]></Translation>
+		<Translation><![CDATA[Пусть это укрепит мою власть.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_IN_THE_CLOUDS_OPTION_0</zType>
-		<Translation>Restore the ancient {BARBARIAN-2,1} site.</Translation>
+		<Translation>Восстановите древнее поселение {BARBARIAN-2,1}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_IN_THE_CLOUDS_OPTION_1</zType>
-		<Translation><![CDATA[Forage for valuable materials.]]></Translation>
+		<Translation><![CDATA[Обыщите руины в поисках ценных материалов.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_HEAVEN_AND_EARTH_OPTION_0</zType>
-		<Translation><![CDATA[My mind is open...]]></Translation>
+		<Translation><![CDATA[Мой разум открыт...]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_HEAVEN_AND_EARTH_OPTION_1</zType>
-		<Translation><![CDATA[I want no part in such rituals.]]></Translation>
+		<Translation><![CDATA[Я не желаю участвовать в таких церемониях.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_GOLD_WORKERS_OPTION_0</zType>
-		<Translation><![CDATA[Increase the treasury.]]></Translation>
+		<Translation><![CDATA[Пополнить казну.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_GOLD_WORKERS_OPTION_1</zType>
-		<Translation>Send it to our troops.</Translation>
+		<Translation>Отправить украшения нашим отрядам.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_GOLD_WORKERS_OPTION_2</zType>
-		<Translation><![CDATA[Study the craftsmanship.]]></Translation>
+		<Translation><![CDATA[Изучить мастерство.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_BEADS_AND_FIGURINES_OPTION_0</zType>
-		<Translation><![CDATA[Scientists will forge the future.]]></Translation>
+		<Translation><![CDATA[Ученые куют наше будущее.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_BEADS_AND_FIGURINES_OPTION_1</zType>
-		<Translation><![CDATA[Scholars will illuminate the past.]]></Translation>
+		<Translation><![CDATA[Историки освещают наше прошлое.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_BEADS_AND_FIGURINES_OPTION_2</zType>
-		<Translation><![CDATA[Give the beads to {CHARACTER-3}, and the figurines to our children.]]></Translation>
+		<Translation><![CDATA[Отдайте бусины {CHARACTER-3,2}, а статуэтки детям.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_PROPHECY_OPTION_0</zType>
-		<Translation>It is a sign that I have been chosen.</Translation>
+		<Translation><![CDATA[Это значит, что я <masculine_CHARACTER-1>избран<feminine>избрана<end> богами.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_PROPHECY_OPTION_1</zType>
-		<Translation>Perhaps it is a distant ancestor.</Translation>
+		<Translation>Возможно, это мой дальний предок.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_PROPHECY_OPTION_2</zType>
-		<Translation>It is a coincidence, nothing more.</Translation>
+		<Translation>Это совпадение и ничего более.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_THE_DIVINER_OPTION_0</zType>
-		<Translation>Such an offer cannot be ignored.</Translation>
+		<Translation>Такое предложение нельзя упускать.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_THE_DIVINER_OPTION_1</zType>
-		<Translation>Order scribes to collect her predictions.</Translation>
+		<Translation>Нанять писарей, чтобы сохранить ее пророчества.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUINS_THE_DIVINER_OPTION_2</zType>
-		<Translation>Demand a message from the gods.</Translation>
+		<Translation>Потребовать от Богов наставление.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RIDDLE_OF_THE_GATE_YES</zType>
-		<Translation>What's the riddle?</Translation>
+		<Translation>Огласите загадку сфинкса.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RIDDLE_OF_THE_GATE_NO</zType>
-		<Translation>We have no time for riddles. Tear down the gate to enter the city.</Translation>
+		<Translation>У нас нет времени на загадки. Снесите ворота и войдите в город.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RIDDLE_OF_THE_SPHINX_ANSWER</zType>
-		<Translation>A man who crawls on four as a baby walks on two as an adult and use a stick in old age.</Translation>
+		<Translation>Человек, что младенцем ползает на четвереньках, взрослым ходит на двух ногах, а в старости - опирается на палку.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RIDDLE_OF_THE_SPHINX_JOKE</zType>
-		<Translation>Isn't this the same riddle that Oedipus solved, but isn't he still most famous for marrying his mother.</Translation>
+		<Translation>Не та ли это загадка, которую решил Эдип, и не знаменит ли он женитьбой на собственной матери?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_ALL_THAT_GLITTERS_OPTION_0</zType>
-		<Translation>I welcome another place of royal wealth.</Translation>
+		<Translation>Я поддерживаю проект нового казначейства.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_ALL_THAT_GLITTERS_OPTION_1</zType>
-		<Translation>Our people deserve the wealth of knowledge.</Translation>
+		<Translation>Наши люди имеют право на получение знаний.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_CAUGHT_IN_THE_ACT_OPTION_0</zType>
-		<Translation>These crimes cannot go unpunished.</Translation>
+		<Translation>За такие преступления нужно сурово наказывать.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_CAUGHT_IN_THE_ACT_OPTION_1</zType>
-		<Translation>He is more valuable doing his duty.</Translation>
+		<Translation>Он будет полезен стране, искупая свой долг.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_MARVELOUS_SPECIMENS_OPTION_0</zType>
-		<Translation>We must examine these puzzling remains.</Translation>
+		<Translation>Мы должны исследовать таинственные останки.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_MARVELOUS_SPECIMENS_OPTION_1</zType>
-		<Translation>Send {CHARACTER-SHORT-3} to investigate these strange creatures.</Translation>
+		<Translation>Пришлите {CHARACTER-SHORT-3} для изучения этих существ.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_RITUAL_SCENT_OPTION_0</zType>
-		<Translation>Hold the incense for the population of {CITY-2}.</Translation>
+		<Translation>Сохраните благовония для жителей города {CITY-2}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_RITUAL_SCENT_OPTION_1</zType>
-		<Translation>Allow the {RELIGION-3,3} to use it for rituals.</Translation>
+		<Translation>Передайте их {RELIGION-3,20} для церемоний.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_STANDOFF_OPTION_0</zType>
-		<Translation>Continue with our harvesting.</Translation>
+		<Translation>Продолжить добычу ресурсов.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_STANDOFF_OPTION_1</zType>
-		<Translation>Offer some of our harvest to the {PLAYER-2,2}.</Translation>
+		<Translation>Предложить часть ресурса {PLAYER-2,2}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_HIGH_SPIRITS_OPTION_0</zType>
-		<Translation>Let us try this stranger on the court.</Translation>
+		<Translation>Посмотрим, чем он пригодится королевскому двору.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_HIGH_SPIRITS_OPTION_1</zType>
-		<Translation>We shall plant more of these fine grapes.</Translation>
+		<Translation>Нужно посадить больше чудесного винограда.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_CAMEL_BITE_OPTION_0</zType>
-		<Translation>Have the whole caravan slaughtered for meat.</Translation>
+		<Translation>Пустите всех верблюдов на мясо.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_CAMEL_BITE_OPTION_1</zType>
-		<Translation>Give the camels to the {BARBARIAN-3} and be rid of them.</Translation>
+		<Translation>Отдайте весь караван {BARBARIAN-3,2}, чтобы от них избавиться.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_TOUGH_GAME_OPTION_0</zType>
-		<Translation>Research new uses for these products.</Translation>
+		<Translation>Найдите новые способы использовать этот продукт.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_TOUGH_GAME_OPTION_1</zType>
-		<Translation>Breed more of them for their parts.</Translation>
+		<Translation>Разведите больше животных, их внутренности будут полезны.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_WILD_HORSES_OPTION_0</zType>
-		<Translation>Provide them to military trainers.</Translation>
+		<Translation>Отправьте их в военно-учебные подразделения.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_WILD_HORSES_OPTION_1</zType>
-		<Translation>Give them to farmers to work the fields.</Translation>
+		<Translation>Отдайте их фермерам для работы в полях.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_WILD_HORSES_OPTION_2</zType>
-		<Translation>Harness them for war.</Translation>
+		<Translation>Запрягите их на войну.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_CORNER_THE_MARKET_OPTION_0</zType>
-		<Translation>Reduce the price so more can afford it.</Translation>
+		<Translation>Снизить цены, чтобы люди могли позволить себе покупку.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_CORNER_THE_MARKET_OPTION_1</zType>
-		<Translation>Raise prices to ensure its rarity.</Translation>
+		<Translation>Увеличить цены, чтобы гарантировать его редкость.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_LUXURY_OR_UTILITY_OPTION_0</zType>
-		<Translation><![CDATA[Grant {CHARACTER-SHORT-2} <masculine_CHARACTER-2>his<feminine>her<end> desired garments.]]></Translation>
+		<Translation><![CDATA[Подарить {CHARACTER-SHORT-2} желаемое одеяние.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_LUXURY_OR_UTILITY_OPTION_1</zType>
-		<Translation>Give the fur to our brave soldiers.</Translation>
+		<Translation>Отдать меха бравым солдатам.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HARVEST_PIG_IN_THE_PALACE_OPTION_0</zType>
