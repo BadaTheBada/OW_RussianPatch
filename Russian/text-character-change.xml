@@ -193,7 +193,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_OF_NATION</zType>
-		<Translation>{0_name} из {1,1_nation}</Translation>
+		<Translation><![CDATA[<masculine_0>{1,12_nation}<feminine>{1,24_nation}<end> {0_name}]]></Translation>
 	</Entry>
 	<!--Game Text-->
 	<Entry>

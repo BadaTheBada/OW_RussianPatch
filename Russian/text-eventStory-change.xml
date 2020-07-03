@@ -6432,7 +6432,7 @@ Obviously, our government is scandalized by such an offer. A {PLAYER-0,1}? On th
 		<zType>TEXT_EVENTSTORY_TWO_VISIONS</zType>
 		<Translation><![CDATA[К королевскому двору прибыла делегация из {PLAYER-1,1}, желая обсудить недавние противоречия. В зале присутствуют как {CHARACTER-SHORT-1}, так и <masculine_CHARACTER-1>его<feminine>ее<end> <masculine_CHARACTER-0>наследник<feminine>наследница<end> {CHARACTER-SHORT-0}.
 
-Во время обсуждения {CHARACTER-SHORT-1} поворачивается к  {CHARACTER-SHORT-0}, обвиняя <masculine_CHARACTER-0>его<feminine>ее<end> поколение в том, что оно стремится "спустить псов войны". В ответ <masculine_CHARACTER-0>наследник<feminine>наследница<end> начинает упрекать <masculine_CHARACTER-1>короля<feminine>королеву<end> в слабости перед соперниками. Участники спора поворачиваются к вам, ожидания решения.]]></Translation>
+Во время обсуждения {CHARACTER-SHORT-1} поворачивается к {CHARACTER-SHORT-0}, обвиняя <masculine_CHARACTER-0>его<feminine>ее<end> поколение в том, что оно стремится "спустить псов войны". В ответ <masculine_CHARACTER-0>наследник<feminine>наследница<end> начинает упрекать <masculine_CHARACTER-1>короля<feminine>королеву<end> в слабости перед соперниками. Участники спора поворачиваются к вам, ожидания решения.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_RUNAWAY_PRINCE</zType>
@@ -6454,7 +6454,7 @@ Obviously, our government is scandalized by such an offer. A {PLAYER-0,1}? On th
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STRANGER_AT_THE_DOOR</zType>
-		<Translation><![CDATA[Однажды на ступенях дворца появился незнакомец. Вам потребовалось всего мгновение, чтобы узнать в тощей, оборванной фигуре {CHARACTER-SHORT-0}, <masculine_CHARACTER-0>наследника<feminine>наследницу<end> трона {PLAYER-1,1}. За годы, прошедшие с вашей последней встречи, <masculine_CHARACTER-0>он сильно изменился<feminine>она сильно изменилась<end>, превратившись из ребёнка в <masculine_CHARACTER-0>импозантного молодого мужчину<feminine>импозантную молодую женщину<end>.
+		<Translation><![CDATA[Однажды на ступенях дворца появился незнакомец. Вам потребовалось всего мгновение, чтобы узнать в тощей, оборванной фигуре {CHARACTER-SHORT-0}, <masculine_CHARACTER-0>наследника<feminine>наследницу<end> трона {PLAYER-1,1}. За годы, прошедшие с вашей последней встречи, <masculine_CHARACTER-0>он сильно изменился<feminine>она сильно изменилась<end>, превратившись из ребенка в <masculine_CHARACTER-0>импозантного молодого мужчину<feminine>импозантную молодую женщину<end>.
 
 -Однажды вы мне уже помогли,- <masculine_CHARACTER-0>произнес он<feminine>произнесла она<end> слабым голосом. - Теперь мне снова нужна ваша помощь. Я хочу вернуться в {PLAYER-1}.]]></Translation>
 	</Entry>
@@ -6768,19 +6768,19 @@ Despite <masculine_CHARACTER-0>his<feminine>her<end> claims of innocence, {CHARA
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SCOUT_SELECTED</zType>
-		<Translation>link(UNIT_SCOUT,6) превосходно подходят для исследования мира. Их способность прятаться в link(VEGETATION_TREES,11) помогает заранее предупредить о вражеской угрозе.
+		<Translation>link(UNIT_SCOUT,6) превосходно подходят для исследования мира. Их способность прятаться в link(VEGETATION_TREES,5) помогает заранее предупредить о вражеской угрозе.
 
-Отправьте link(UNIT_SCOUT,2) в поисках новых земель и link(IMPROVEMENT_ANCIENT_RUINS,1).</Translation>
+Отправьте link(UNIT_SCOUT,1) в поисках новых земель и link(IMPROVEMENT_ANCIENT_RUINS,1).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_ORDERS</zType>
 		<Translation>link(YIELD_ORDERS) являются важной особенностью игры. Отряды могут перемещаться несколько раз в ход, но движение, атака, строительство и другие действия затрачивают link(YIELD_ORDERS) icon(YIELD_ORDERS).
 
-Вы можете посмотреть количество link(YIELD_ORDERS,2) в левом нижнем углу экрана. Мы рекомендуем выбрать link(UNIT_WORKER,9) и начать строительство, прежде чем тратить link(YIELD_ORDERS) на другие действия.</Translation>
+Вы можете посмотреть количество link(YIELD_ORDERS,1) в левом нижнем углу экрана. Мы рекомендуем выбрать link(UNIT_WORKER,9) и начать строительство, прежде чем тратить link(YIELD_ORDERS) на другие действия.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SECOND_CITY</zType>
-		<Translation>Ваша столица закончила подготовку поселенца! link(UNIT_SETTLER, 6) - это ключ к росту вашей империи. Отправьте его в ближайшее доступное место для поселения, чтобы основать новый город.
+		<Translation>Ваша столица закончила подготовку поселенца! link(UNIT_SETTLER,6) - это ключ к росту вашей империи. Отправьте его в ближайшее доступное место для поселения, чтобы основать новый город.
 
 При основании города вам предстоит выбрать, какая семья будет им владеть. В зависимости от управляющей семьи империя получит различные бонусы, поэтому тщательно обдумайте свой выбор. </Translation>
 	</Entry>
@@ -6794,7 +6794,7 @@ Despite <masculine_CHARACTER-0>his<feminine>her<end> claims of innocence, {CHARA
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_WARRIOR_SELECTED</zType>
-		<Translation>link(UNIT_WARRIOR) - это первый link(UNITTRAIT_MELEE,1), который доступен вашей империи. link(UNITTRAIT_MELEE,1) составляют основу вашей армии, защищая от вражеских племен и народов.</Translation>
+		<Translation>link(UNIT_WARRIOR) - это первый отряд link(UNITTRAIT_MELEE), который доступен вашей империи. link(UNITTRAIT_MELEE,1) составляют основу вашей армии, защищая от вражеских племен и народов.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_BARBARIAN_CAMP_CLEARED</zType>
@@ -6818,7 +6818,7 @@ Despite <masculine_CHARACTER-0>his<feminine>her<end> claims of innocence, {CHARA
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_HARVEST_RESOURCE</zType>
-		<Translation>Отряд {UNIT-0,7} переместился на {RESOURCE-2,3} - ресурс, пригодный для сбора урожая! Вы можете потратить приказы icon(YIELD_ORDERS), чтобы получить небольшое количество сырья.</Translation>
+		<Translation>Отряд {UNIT-0,7} переместился на {RESOURCE-2,3} - ресурс, пригодный для сбора урожая! Вы можете потратить link(YIELD_ORDERS) icon(YIELD_ORDERS), чтобы получить небольшое количество сырья.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_UNIT_ON_COOLDOWN</zType>
@@ -6862,7 +6862,7 @@ Despite <masculine_CHARACTER-0>his<feminine>her<end> claims of innocence, {CHARA
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_LEGITIMACY</zType>
-		<Translation> Вы получили прозвание link(COGNOMEN_EXPLORER)! Прозвание описывает ваши недавние достижения, и повышает вашу легитимность icon(YIELD_LEGITIMACY).
+		<Translation> Вы получили статус link(COGNOMEN_EXPLORER)! Статус описывает ваши недавние достижения и повышает легитимность icon(YIELD_LEGITIMACY).
 
 Чем выше уровень легитимности icon(YIELD_LEGITIMACY), тем больше количество link(YIELD_ORDERS,1) и лучше отношения с семьями. Высокий уровень легитимности icon(YIELD_LEGITIMACY) важен для создания мощной империи!</Translation>
 	</Entry>

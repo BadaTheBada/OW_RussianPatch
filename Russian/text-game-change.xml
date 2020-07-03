@@ -91,7 +91,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_OTHER_TEAM_NEW_RULER_POPUP</zType>
-		<Translation><![CDATA[Нам сообщили о том, что {0_oldLeader} <masculine_0>мертв<feminine>мертва<end>.  {1_newLeader} берет на себя управление государством.]]></Translation>
+		<Translation><![CDATA[Нам сообщили о том, что {0_oldLeader} <masculine_0>мертв<feminine>мертва<end>. Пришло время {1,2_newLeader} взять на себя управление государством.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_NEW_LAW_FOR_HEIR_POPUP</zType>

@@ -1824,11 +1824,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_DIPLOMACY_TRUCE</zType>
-		<Translation>Вы не сможете атаковать друг друга.</Translation>
+		<Translation>Вы не можете атаковать друг друга.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_DIPLOMACY_WAR</zType>
-		<Translation>Вы сможете атаковать друг друга.</Translation>
+		<Translation>Вы можете атаковать друг друга.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_DISLOYALTY</zType>
