@@ -11224,219 +11224,219 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_A_SPIRITUAL_CONNECTION_OPTION_0</zType>
-		<Translation>A nation most unite under one spiritual truth.</Translation>
+		<Translation>Единая религия сплотит нашу нацию.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_A_SPIRITUAL_CONNECTION_OPTION_1</zType>
-		<Translation>We welcome {RELIGION-2}, but it does not rule us.</Translation>
+		<Translation>Мы радушно принимаем последователей {RELIGION-2,1}, но это не повлияет на нашу политику.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_A_GENEROUS_DONATION_OPTION_0</zType>
-		<Translation>We will gladly take any assistance you can offer.</Translation>
+		<Translation>Мы с радостью примем любую помощь, которую вы сможете предложить.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_A_GENEROUS_DONATION_OPTION_1</zType>
-		<Translation>That deal is not acceptable.</Translation>
+		<Translation>Эта сделка неприемлема.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_URGING_CAUTION_OPTION_0</zType>
-		<Translation>We should heed {CHARACTER-SHORT-0}'s suggestions.</Translation>
+		<Translation>Мы должны прислушаться к совету {CHARACTER-SHORT-0}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_URGING_CAUTION_OPTION_1</zType>
-		<Translation>{PLAYER-0} has no influence on our foreign wars.</Translation>
+		<Translation>Пусть {PLAYER-0} не сует нос в нашу внешнюю политику.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_URGING_CAUTION_OPTION_2</zType>
-		<Translation><![CDATA[Reassure <masculine_CHARACTER-0>him<feminine>her<end> of our peaceful intentions.]]></Translation>
+		<Translation><![CDATA[Заверьте <masculine_CHARACTER-0>его<feminine>ее<end> в наших мирных намерениях.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_MORAL_DEGRADATION_OPTION_0</zType>
-		<Translation>We will never bow to foreign pressure.</Translation>
+		<Translation>Мы никогда не поддадимся иностранному давлению.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_MORAL_DEGRADATION_OPTION_1</zType>
-		<Translation>{CHARACTER-0} is right, and we must abolish slavery.</Translation>
+		<Translation><![CDATA[{CHARACTER-0} <masculine_CHARACTER-0>прав<feminine>права<end>, мы должны отменить рабство.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_MORAL_DEGRADATION_OPTION_2</zType>
-		<Translation>I was pressured into these policies by the {FAMILY-2,1}.</Translation>
+		<Translation>Семья {FAMILY-2} вынудила меня принять этот закон.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_GIVE_AN_INCH_OPTION_0</zType>
-		<Translation>We will never bow to foreign pressure.</Translation>
+		<Translation>Мы никогда не поддадимся иностранному давлению.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_GIVE_AN_INCH_OPTION_1</zType>
-		<Translation>{CHARACTER-SHORT-0} is right, and we must restrict freedoms.</Translation>
+		<Translation><![CDATA[{CHARACTER-0} <masculine_CHARACTER-0>прав<feminine>права<end>, мы должны ограничить свободу.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_GIVE_AN_INCH_OPTION_2</zType>
-		<Translation>I was pressured into these policies by the {FAMILY-3,1}.</Translation>
+		<Translation>Семья {FAMILY-3,1} вынудила меня принять этот закон.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_PROOF_OF_FRIENDSHIP_OPTION_0</zType>
-		<Translation>I will show you the value of our friendship.</Translation>
+		<Translation>Я покажу всю значимость нашей дружбы.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_PROOF_OF_FRIENDSHIP_OPTION_1</zType>
-		<Translation>My devotion will not be bought.</Translation>
+		<Translation>Моя преданность не будет куплена.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_PROOF_OF_FRIENDSHIP_OPTION_2</zType>
-		<Translation>Cede {PLAYER-0} some recently acquired territory.</Translation>
+		<Translation>Уступите {PLAYER-0,2} недавно обретенные земли.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RELATIONSHIP_PROOF_OF_FRIENDSHIP_OPTION_3</zType>
-		<Translation>Assign troops for security duties in {PLAYER-1}.</Translation>
+		<Translation>Подготовьте войска для защиты {PLAYER-1,1}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TWO_VISIONS_OPTION_0</zType>
-		<Translation>Agree with {CHARACTER-SHORT-0}. Weakness breeds defeat.</Translation>
+		<Translation>Я соглашусь с {CHARACTER-SHORT-0}. Слабость ведет к поражению.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TWO_VISIONS_OPTION_1</zType>
-		<Translation>Agree with {CHARACTER-SHORT-1}. Conflict is not the solution.</Translation>
+		<Translation>Я соглашусь с {CHARACTER-SHORT-1}. Конфликт не решает проблемы.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TWO_VISIONS_OPTION_2</zType>
-		<Translation>Say nothing, and suggest a short break in negotiations.</Translation>
+		<Translation>Не стану выбирать чью-либо сторону, а предложу взять паузу в переговорах.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_THE_RUNAWAY_PRINCE_OPTION_0</zType>
-		<Translation>Return {CHARACTER-SHORT-1} to {PLAYER-0}. This is a family affair, not ours. </Translation>
+		<Translation>Вернуть {CHARACTER-SHORT-1} в {PLAYER-0,3}. Это их семейное дело, а не наше. </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_THE_RUNAWAY_PRINCE_OPTION_1</zType>
-		<Translation><![CDATA[Conceal {CHARACTER-SHORT-1}, and provide <masculine_CHARACTER-1>him<feminine>her<end> with whatever <masculine_CHARACTER-1>he<feminine>she<end> needs.]]></Translation>
+		<Translation><![CDATA[Спрятать {CHARACTER-SHORT-1} и обеспечить <masculine_CHARACTER-1>его<feminine>ее<end> всем необходимым.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_THE_RUNAWAY_PRINCE_OPTION_2</zType>
-		<Translation><![CDATA[Return {CHARACTER-SHORT-1} and claim <masculine_CHARACTER-1>he<feminine>she<end> attempted to sell {PLAYER-0,1} secrets.]]></Translation>
+		<Translation><![CDATA[Вернуть {CHARACTER-SHORT-1} и заявить, что <masculine_CHARACTER-1>он хотел<feminine>она хотела<end> продать нам секреты {PLAYER-0,1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_TO_HEIR_OPTION_0</zType>
-		<Translation><![CDATA[Reply to {CHARACTER-SHORT-0} warmly and seek <masculine_CHARACTER-0>his<feminine>her<end> favor.]]></Translation>
+		<Translation><![CDATA[Ответить {CHARACTER-SHORT-0} теплом и снискать <masculine_CHARACTER-0>его<feminine>ее<end> расположение.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_TO_HEIR_OPTION_1</zType>
-		<Translation>Politely refuse, asking that future messages come from {CHARACTER-SHORT-1}.</Translation>
+		<Translation>Вежливо отказаться, попросив, чтобы впредь сообщения приходили от {CHARACTER-SHORT-1}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_TO_HEIR_OPTION_2</zType>
-		<Translation>Use the correspondence to gather military intelligence.</Translation>
+		<Translation>Использовать эту переписку для сбора военных разведданных.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_TO_HEIR_OPTION_3</zType>
-		<Translation>Openly discuss  the latest scientific developments.</Translation>
+		<Translation>Открыто обсудить последние научные разработки.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_IN_ABSENTIA_OPTION_0</zType>
-		<Translation>No apologies necessary. {CHARACTER-SHORT-1} does not know any better.</Translation>
+		<Translation><![CDATA[Не нужно извинений. {CHARACTER-SHORT-1} просто не <masculine_CHARACTER-1>знал<feminine>знала<end> <masculine_CHARACTER-2>его<feminine>ее<end> с хорошей стороны.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_IN_ABSENTIA_OPTION_1</zType>
-		<Translation>This horrid behavior is a reflection on the {PLAYER-2,1} royal family.</Translation>
+		<Translation>Это происшествие показало настоящее отношение {PLAYER-2,1} королевской семьи.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_IN_ABSENTIA_OPTION_2</zType>
-		<Translation>{CHARACTER-SHORT-1} is right, {CHARACTER-SHORT-0} was an oafish goat.</Translation>
+		<Translation><![CDATA[{CHARACTER-SHORT-1} несомненно <masculine_CHARACTER-1>прав<feminine>права<end>, {CHARACTER-SHORT-0} <masculine_CHARACTER-0>был тупым козлом<feminine>была тупой коровой<end>.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STRANGER_AT_THE_DOOR_OPTION_0</zType>
-		<Translation>Convince {CHARACTER-SHORT-2} to let {CHARACTER-SHORT-1} come home.</Translation>
+		<Translation>Убедить {CHARACTER-SHORT-2} принять обратно {CHARACTER-SHORT-1}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STRANGER_AT_THE_DOOR_OPTION_1</zType>
-		<Translation><![CDATA["Remove" {CHARACTER-SHORT-2} and replace <masculine_CHARACTER-2>him<feminine>her<end> with {CHARACTER-SHORT-1}.]]></Translation>
+		<Translation><![CDATA[Свергнуть {CHARACTER-SHORT-2} и помочь {CHARACTER-SHORT-1} заполучить трон.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STRANGER_AT_THE_DOOR_OPTION_2</zType>
-		<Translation>Pressure the heir to stay in {PLAYER-3} as a minister.</Translation>
+		<Translation>Убедить {CHARACTER-SHORT-1} остаться в {PLAYER-3,5} на должности министра.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_SOUTHERN_EXPEDITION_OPTION_0</zType>
-		<Translation>Expansion is a worthy ambition.</Translation>
+		<Translation>Расширение границ империи - это достойная цель.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_SOUTHERN_EXPEDITION_OPTION_1</zType>
-		<Translation>We must strengthen our nation.</Translation>
+		<Translation>Мы должны укрепить нашу нацию.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_SOUTHERN_EXPEDITION_OPTION_2</zType>
-		<Translation>Let us discuss a resolution over revels.</Translation>
+		<Translation>Давайте обсудим это за бутылкой вина</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_OSTRACIZED_OPTION_0</zType>
-		<Translation>There is no compelling evidence against {CHARACTER-SHORT-3}.</Translation>
+		<Translation>У семьи {FAMILY-0} нет убедительных доказательств вины {CHARACTER-SHORT-3}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_OSTRACIZED_OPTION_1</zType>
-		<Translation>We have no choice but to cast out the villain!</Translation>
+		<Translation>У нас нет иного выбора, кроме как изгнать злодея!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_OSTRACIZED_OPTION_2</zType>
-		<Translation>Refute the charges against {CHARACTER-SHORT-3}.</Translation>
+		<Translation>Опровергнуть обвинения против {CHARACTER-SHORT-3}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HAPPINESS_PLEASURE_BANQUET_OPTION_0</zType>
-		<Translation>No, it is time to retire for the night.</Translation>
+		<Translation>Нет. Уже ночь, пора отправиться на отдых.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HAPPINESS_PLEASURE_BANQUET_OPTION_1</zType>
-		<Translation>Bring on the songs! Bring on the lively debate!</Translation>
+		<Translation>Больше песен! Больше споров!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HAPPINESS_PLEASURE_BANQUET_OPTION_2</zType>
-		<Translation>This is a good time for drunken diplomacy.</Translation>
+		<Translation>Это хорошее время для неформального разговора.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MYSTERIOUS_SICKNESS_OPTION_0</zType>
-		<Translation>Send doctors to {CITY-0} right away!</Translation>
+		<Translation>Немедленно отправьте лекарей в {CITY-0}!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MYSTERIOUS_SICKNESS_OPTION_1</zType>
-		<Translation>Invest in research for a cure.</Translation>
+		<Translation>Выделите средства на создание вакцины.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MYSTERIOUS_SICKNESS_OPTION_2</zType>
-		<Translation>This disease will run its course.</Translation>
+		<Translation>Эта болезнь пройдет сама по себе.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_THE_POX_SPREADS_OPTION_0</zType>
-		<Translation>We must continue to fight with science.</Translation>
+		<Translation>Мы продолжим бороться с помощью науки.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_THE_POX_SPREADS_OPTION_1</zType>
-		<Translation>Prayers and rituals are the only remedy.</Translation>
+		<Translation>Молитвы и обряды - единственное лекарство.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_THE_POX_SPREADS_OPTION_2</zType>
-		<Translation>This disease will run its course.</Translation>
+		<Translation>Эта болезнь пройдет сама по себе.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_AFTER_THE_DEATH_OPTION_0</zType>
-		<Translation>Erect a memorial in the capital {CITY-1}.</Translation>
+		<Translation>Воздвигнем мемориал в столице.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_AFTER_THE_DEATH_OPTION_1</zType>
-		<Translation>Hold triumphal celebrations in {CITY-0} and {CITY-1}.</Translation>
+		<Translation>Проведем триумфальные торжества в {CITY-0} и {CITY-1}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_AFTER_THE_DEATH_OPTION_2</zType>
-		<Translation>Write a heroic, narrative account.</Translation>
+		<Translation>Напишем героическую сагу с описанием событий.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_UNCANNY_OPTION_0</zType>
-		<Translation>Summon {CHARACTER-SHORT-0} for an audience with the court.</Translation>
+		<Translation>Вызовите {CHARACTER-SHORT-0} на аудиенцию ко двору.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_UNCANNY_OPTION_1</zType>
-		<Translation><![CDATA[Leave <masculine_CHARACTER-0>him<feminine>her<end> to <masculine_CHARACTER-0>his<feminine>her<end> important work.]]></Translation>
+		<Translation><![CDATA[Не отрывайте <masculine_CHARACTER-0>его<feminine>ее<end> от важной работы.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_UNCANNY_OPTION_2</zType>
-		<Translation><![CDATA[I will speak with <masculine_CHARACTER-0>him<feminine>her<end> about <masculine_CHARACTER-0>his<feminine>her<end> discoveries.]]></Translation>
+		<Translation><![CDATA[Я желаю пообщаться с {CHARACTER-0} о <masculine_CHARACTER-0>его<feminine>ее<end> открытиях.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HIDDEN_SCROLLS_OPTION_0</zType>
@@ -11812,231 +11812,231 @@
 	</Entry>
 	<Entry beginGroup="Tutorial">
 		<zType>TEXT_EVENTOPTION_VICTORY_OK</zType>
-		<Translation>Show me how this came to pass. (Open Game Log)</Translation>
+		<Translation>Покажите мне, как это произошло. (Открыть журнал игры)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_VICTORY_CONTINUE</zType>
-		<Translation>I am not done with my story. (Keep Playing)</Translation>
+		<Translation>Моя история еще не подошла к концу. (Продолжить игру)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_VICTORY_MAIN_MENU</zType>
-		<Translation>My work here is done. (Exit to Main Menu)</Translation>
+		<Translation>На этом моя работа завершена. (Выход в главное меню)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LOSS_OK</zType>
-		<Translation>Show me how this came to pass. (Open Game Log)</Translation>
+		<Translation>Покажите мне, как это произошло. (Открыть журнал игры)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LOSS_MAIN_MENU</zType>
-		<Translation>I cannot dwell on my defeat. (Exit to Main Menu)</Translation>
+		<Translation>Мне и в голову не приходила мысль о поражении. (Выход в главное меню)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_INTRO_OKAY</zType>
-		<Translation>I'll choose my Family carefully!</Translation>
+		<Translation>Я тщательно обдумаю выбор семьи!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SCOUT_SELECTED_OK</zType>
-		<Translation>I'll use my Scouts to explore the world!</Translation>
+		<Translation>Я отправлю разведчиков исследовать мир!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_ORDERS_OPTION_0</zType>
-		<Translation>I'll have to consider how to use my Orders carefully each turn!</Translation>
+		<Translation>Мне нужно обдумать, как распорядиться приказами!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SECOND_CITY_OK</zType>
-		<Translation>I'll choose my Nation's next Family carefully!</Translation>
+		<Translation>Я тщательно обдумаю выбор семьи!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_WORKER_SELECTED_OPTION_0</zType>
-		<Translation>Let's get to work!</Translation>
+		<Translation>Давайте приступим к работе!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_SLINGER_SELECTED_OKAY</zType>
-		<Translation>Time to sling some rocks!</Translation>
+		<Translation>Пришло время метать камни!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_WARRIOR_SELECTED_OKAY</zType>
-		<Translation>I'll use Warriors for early combat!</Translation>
+		<Translation>Я отправлю воинов в бой!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_CHARIOT_SELECTED_OKAY</zType>
-		<Translation>Using Mounted Units to finish off enemies is the way to go!</Translation>
+		<Translation>Мои всадники покончат с врагами!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_BARBARIAN_CAMP_CLEARED_OKAY</zType>
-		<Translation>I'll make good use of this food!</Translation>
+		<Translation>Я правильно распределю полученную еду!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_CITY_CAPTURED_OKAY</zType>
-		<Translation>I'll keep Units in defeated Cities in order to take control of them!</Translation>
+		<Translation>Я оставлю отряд в побежденных городах, чтобы не потерять на ними контроль!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_CULTURE_OKAY</zType>
-		<Translation>I'll put them to work right away!</Translation>
+		<Translation>Я найду им достойное занятие!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_TRIBE_CONTACT_OKAY</zType>
-		<Translation>This Warrior will surely help against the {BARBARIAN-0}!</Translation>
+		<Translation>Воин наверняка поможет справиться с {BARBARIAN-0,4}!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_UNIT_ON_COOLDOWN_OKAY</zType>
-		<Translation>I'll try again next year!</Translation>
+		<Translation>В следующем году я попробую снова!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_UNIT_FATIGUED_OKAY</zType>
-		<Translation>I'll March a Unit if I need it to move now!</Translation>
+		<Translation>Я начну марш, если потребуется двигаться дальше!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_OUT_OF_ORDERS_OKAY</zType>
-		<Translation>I'll be able to Order more people around next year!</Translation>
+		<Translation>В следующем году я раздам больше приказов!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_HARVEST_RESOURECE_OKAY</zType>
-		<Translation>Harvesting is a great way to boost my early economy!</Translation>
+		<Translation>Сбор урожая - отличный способ развить экономику!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_RELIGION_OKAY</zType>
-		<Translation>A Religion can provide me with powerful bonuses if I invest in it!</Translation>
+		<Translation>Религия укрепит мою империю при должных вложениях!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_NATION_CONTACT_OKAY</zType>
-		<Translation>I'll do my best to make some friends!</Translation>
+		<Translation>Я сделаю все возможное, чтобы завести друзей!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_BARBARIANS_OKAY</zType>
-		<Translation>I'll clear out these Barbarians and found my new city!</Translation>
+		<Translation>Я избавлюсь от варваров и заложу новый город!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_AMBITION_CITIES</zType>
-		<Translation>Control Four Cities</Translation>
+		<Translation>Держать под контролем 4 города</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_AMBITION_UNITS</zType>
-		<Translation>Kill Five Enemy Units</Translation>
+		<Translation>Убить 5 вражеских отрядов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_SUCCESSION_OKAY</zType>
-		<Translation>This is a day for celebration!</Translation>
+		<Translation>Мы отпразднуем этот день!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_LEGITIMACY_OKAY</zType>
-		<Translation>I'll show them who's Legitimate!</Translation>
+		<Translation>Я покажу им, кто законный правитель!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_MARRIAGE_OKAY</zType>
-		<Translation>I'll make sure to find good matches for my family!</Translation>
+		<Translation>Я постараюсь выбрать достойных супругов для своей семьи!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_PROMOTION_YES</zType>
-		<Translation>Yes, I belong on the field of battle.</Translation>
+		<Translation>Да, мое место на поле битвы.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_PROMOTION_NO</zType>
-		<Translation>No, I am needed in the capital.</Translation>
+		<Translation>Нет, меня ждут дела в столице.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_CHARISMA_FESTIVALS</zType>
-		<Translation><![CDATA[Revels, revels, and more revels.]]></Translation>
+		<Translation><![CDATA[Пировать, веселиться и получать удовольствие.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_CHARISMA_CIRCUS</zType>
-		<Translation><![CDATA[The people wish to cheer their champions.]]></Translation>
+		<Translation><![CDATA[Подарить людям шанс повидать настоящих чемпионов.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_CHARISMA_GARDENS</zType>
-		<Translation><![CDATA[A beautiful venue for our discourse.]]></Translation>
+		<Translation><![CDATA[Создать прекрасное место для нашей беседы.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_CHARISMA_FOOD</zType>
-		<Translation><![CDATA[To be the world's provider.]]></Translation>
+		<Translation><![CDATA[Стать кормильцем народа.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_CHARISMA_POETS</zType>
-		<Translation><![CDATA[Poets who capture the spirit of humankind.]]></Translation>
+		<Translation><![CDATA[Изучить поэзию, способную пленить сердца людей.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_CHARISMA_THEATERS</zType>
-		<Translation><![CDATA[Drama and performance gives life meaning.]]></Translation>
+		<Translation><![CDATA[Придать жизни смысл с помощью театра и драмы.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_WISDOM_SCHOLARS</zType>
-		<Translation><![CDATA[We need more great minds.]]></Translation>
+		<Translation><![CDATA[Нам нужно больше великих мыслителей.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_WISDOM_MUSAEUM</zType>
-		<Translation><![CDATA[A great library will enshrine my legacy.]]></Translation>
+		<Translation><![CDATA[Великая библиотека сохранит мое наследие.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_WISDOM_SHRINES</zType>
-		<Translation><![CDATA[Traditions will guide our people.]]></Translation>
+		<Translation><![CDATA[Традиции направят людей на истинный путь.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_WISDOM_MAP</zType>
-		<Translation><![CDATA[One day, we will know all the world.]]></Translation>
+		<Translation><![CDATA[Однажды мы исследуем весь мир.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_WISDOM_ARCHIVES</zType>
-		<Translation><![CDATA[Strict administration improves efficiency.]]></Translation>
+		<Translation><![CDATA[Строгость в делах повышает эффективность.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_WISDOM_ORACLE</zType>
-		<Translation><![CDATA[May the gods provide us with wisdom.]]></Translation>
+		<Translation><![CDATA[Пусть боги даруют нам мудрость.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_COURAGE_OFFICERS</zType>
-		<Translation><![CDATA[Generals possess unique leadership qualities.]]></Translation>
+		<Translation><![CDATA[Генералы обладают уникальными лидерскими качествами.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_COURAGE_COLOSEUM</zType>
-		<Translation><![CDATA[Spilling blood will stir the nation's spirits.]]></Translation>
+		<Translation><![CDATA[Пролитая кровь поднимет дух нации.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_COURAGE_TRAINING</zType>
-		<Translation><![CDATA[Skills, drills, and training will see us through anything.]]></Translation>
+		<Translation><![CDATA[Навыки, прилежание и регулярные тренировки помогут нам пройти через что бы то ни было.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_COURAGE_MILITARY</zType>
-		<Translation><![CDATA[A mighty military bows to no one.]]></Translation>
+		<Translation><![CDATA[Могущественный полководец никому не кланяется.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_COURAGE_GARRISON</zType>
-		<Translation><![CDATA[Our soldiers must be given the very best.]]></Translation>
+		<Translation><![CDATA[Наши солдаты достойны самого лучшего.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_COURAGE_IRON</zType>
-		<Translation><![CDATA[Stockpile iron for the wars to come.]]></Translation>
+		<Translation><![CDATA[Запасайте железо для будущих войн.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_DISCIPLINE_APADANA</zType>
-		<Translation><![CDATA[I preside over court in a great stone  hall.]]></Translation>
+		<Translation><![CDATA[Я буду возглавлять правительство в большом каменном зале.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_DISCIPLINE_CITIES</zType>
-		<Translation><![CDATA[Our cities will continue to grow and prosper.]]></Translation>
+		<Translation><![CDATA[Наши города будут расти и процветать.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_DISCIPLINE_CIVICS</zType>
-		<Translation><![CDATA[To rule justly and effectively.]]></Translation>
+		<Translation><![CDATA[Нужно править действенно и справедливо.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_DISCIPLINE_COURTHOUSES</zType>
-		<Translation><![CDATA[All must bow to the rule of law.]]></Translation>
+		<Translation><![CDATA[Все должны подчиняться верховному закону.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_DISCIPLINE_POPULATION</zType>
-		<Translation><![CDATA[A ruler is only as mighty as <masculine_CHARACTER-0>his<feminine>her<end> subjects.]]></Translation>
+		<Translation><![CDATA[Правитель велик настолько, насколько сильны его подданные.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_DISCIPLINE_ZIGGURAT</zType>
-		<Translation><![CDATA[I see myself upon a great stone pedestal.]]></Translation>
+		<Translation><![CDATA[Я вижу себя на огромном каменном пьедестале.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_AMBITION_OPTIONS_NO</zType>
-		<Translation><![CDATA[No, the heir should chart <masculine_CHARACTER-1>his<feminine>her<end> own path.]]></Translation>
+		<Translation><![CDATA[Нет, наследник должен сам выбрать свой путь.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TUTORIAL_AXEMAN_SELECTED_OKAY</zType>
-		<Translation>I can hit up to three enemies at once!</Translation>
+		<Translation>Я смогу сразить трех врагов одним ударов!</Translation>
 	</Entry>
 	<Entry beginGroup="Law">
 		<zType>TEXT_EVENTOPTION_THREAT_OF_MUTINY_OPTION_0</zType>
