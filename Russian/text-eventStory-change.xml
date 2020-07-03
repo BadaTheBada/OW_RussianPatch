@@ -6394,133 +6394,133 @@ Obviously, our government is scandalized by such an offer. A {PLAYER-0,1}? On th
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_A_SPIRITUAL_CONNECTION</zType>
-		<Translation><![CDATA[A message arrives from {CHARACTER-SHORT-0}. Stories of the savage {PLAYER-1,1} nation have reached <masculine_CHARACTER-0>him<feminine>her<end> in the court of {PLAYER-0}. "One cannot lead if one cannot see the light of faith," <masculine_CHARACTER-0>he<feminine>she<end> advises.
+		<Translation><![CDATA[Пришло сообщение от {CHARACTER-SHORT-0}. До <masculine_CHARACTER-0>него<feminine>нее<end> дошли слухи о «бездуховности» {PLAYER-1,1}, блуждающие среди придворных {PLAYER-0,1}. «Лишь озаренный светом веры может вести за собой», - считает <masculine_CHARACTER-0>он<feminine>она<end>.
 
-{CHARACTER-SHORT-0} urges you to accept {RELIGION-2} as a state religion, as <masculine_CHARACTER-0>he<feminine>has<end> done.]]></Translation>
+{CHARACTER-SHORT-0} призывает вас последовать <masculine_CHARACTER-0>его<feminine>ее<end> примеру и принять {RELIGION-2,3} в качестве государственной религии.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_A_GENEROUS_DONATION</zType>
-		<Translation><![CDATA[A message arrives from {CHARACTER-SHORT-0}. <masculine_CHARACTER-0>He<feminine>She<end> has not forgotten your kind gestures toward <masculine_CHARACTER-0>him<feminine>her<end> and wishes to return the favor. {PLAYER-0,1} agents have reported our recent struggles with the wood supply.
+		<Translation><![CDATA[Пришло сообщение от {CHARACTER-SHORT-0}. <masculine_CHARACTER-0>Он не забыл<feminine>Она не забыла<end> вашу доброту и хочет ответить взаимностью. Агентам {PLAYER-0,1} стало известно о наших трудностях с поставками древесины.
 
-<masculine_CHARACTER-0>He<feminine>She<end> is willing to offer a generous donation of wood, but <masculine_CHARACTER-0>he<feminine>she<end> does not want to offend us with charity. {PLAYER-0} will accept a gift of our current scientific research in exchange.]]></Translation>
+{CHARACTER-SHORT-0} <masculine_CHARACTER-0>готов<feminine>готова<end> предложить большое количество древесины, но не хочет обидеть этой благотворительностью. Взамен {PLAYER-0} предлагает поделиться результатами наших текущих научных исследований.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_URGING_CAUTION</zType>
-		<Translation>Shortly after the sacking of the {BARBARIAN-2,1} settlement, you receive a message from {CHARACTER-SHORT-0}, urging caution. "Your ambitions are beginning to outgrow your capabilities. Be wise. Stay in {PLAYER-1}."
+		<Translation>Вскоре после разграбления лагеря {BARBARIAN-2,1} вы получаете сообщение от {CHARACTER-SHORT-0}, призывающее к осторожности: "Ваши амбиции превышают ваши возможности. Будьте мудры. Оставайтесь в {PLAYER-1,5}".
 
-You know {CHARACTER-SHORT-0} personally. Is this a veiled threat or friendly advice?</Translation>
+Вы знаете {CHARACTER-SHORT-0} лично. Это завуалированная угроза или дружеский совет?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_MORAL_DEGRADATION</zType>
-		<Translation><![CDATA[An envoy enters the capital, bearing a message from {CHARACTER-SHORT-0}. The <masculine_CHARACTER-0>king<feminine>queen<end> expresses <masculine_CHARACTER-0>his<feminine>her<end> frustration with our recent laws. "Your choice to institute slavery is a harbinger of {PLAYER-1}'s decay."
+		<Translation><![CDATA[В столицу прибывает гонец с посланием от {CHARACTER-SHORT-0}. <masculine_CHARACTER-0>Король<feminine>Королева<end> выражает свое разочарование законами, недавно принятыми в нашей стране. "Введение рабства предвещает распад {PLAYER-1,1}".
 
-{CHARACTER-SHORT-0} urges you to reconsider your policies.]]></Translation>
+{CHARACTER-SHORT-0} призывает вас пересмотреть свою политику.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_GIVE_AN_INCH</zType>
-		<Translation><![CDATA[An envoy enters the capital, bearing a message from {CHARACTER-SHORT-0}. The <masculine_CHARACTER-0>king<feminine>queen<end> expresses <masculine_CHARACTER-0>his<feminine>her<end> frustration with our recent laws. "Freedom will prove problematic. Give your subjects any liberties and they will only hunger for more."
+		<Translation><![CDATA[В столицу прибывает гонец с посланием от {CHARACTER-SHORT-0}. <masculine_CHARACTER-0>Король<feminine>Королева<end> выражает свое разочарование законами, недавно принятыми в нашей стране. {CHARACTER-SHORT-0} пишет: "Свобода всегда ведет к проблемам.  Дайте вашим подданным хоть каплю воли, и они сразу станут требовать все больше и больше...."
 
-{CHARACTER-SHORT-0} urges you to reconsider your policies.]]></Translation>
+{CHARACTER-SHORT-0} призывает вас пересмотреть свою политику.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_PROOF_OF_FRIENDSHIP</zType>
-		<Translation><![CDATA[Our recent actions have inspired a strong reaction from {PLAYER-0}. So it is no surprise when a personal message from {CHARACTER-SHORT-0} reaches the palace. <masculine_CHARACTER-0>He<feminine>She<end> worries that your vision for {PLAYER-1} grows cloudy.
+		<Translation><![CDATA[Наши недавние действия вызвали волнение среди придворных {PLAYER-0,1}. Поэтому неудивительно, что нам приходят сообщения от {CHARACTER-SHORT-0}, наполненные беспокойством. <masculine_CHARACTER-0>Он<feminine>Она<end> считает, что наш взгляд на будущее {PLAYER-1,1} затуманен, и желает прояснить сложившуюся ситуацию.
 
-"We must align, for our own good and the good of the world." It sounds as though <masculine_CHARACTER-0>he<feminine>she<end> requires proof of your friendship.]]></Translation>
+"Мы должны объединиться ради блага собственного народа и блага всего мира". Похоже, {CHARACTER-SHORT-0} требует доказательств вашей дружбы.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TWO_VISIONS</zType>
-		<Translation><![CDATA[A mission from {PLAYER-1} arrives in court eager to discuss recent tensions. Both {CHARACTER-SHORT-1} and <masculine_CHARACTER-1>his<feminine>her<end> heir, {CHARACTER-SHORT-0}, are in attendance.
+		<Translation><![CDATA[К королевскому двору прибыла делегация из {PLAYER-1,1}, желая обсудить недавние противоречия. В зале присутствуют как {CHARACTER-SHORT-1}, так и <masculine_CHARACTER-1>его<feminine>ее<end> <masculine_CHARACTER-0>наследник<feminine>наследница<end> {CHARACTER-SHORT-0}.
 
-During the debates, {CHARACTER-SHORT-1} turns on {CHARACTER-SHORT-0} and blames <masculine_CHARACTER-0>his<feminine>her<end> younger generation for "lashing the dogs of war." In response, the heir accuses the <masculine_CHARACTER-1>king<feminine>queen<end> of weakness in the face of <masculine_CHARACTER-1>his<feminine>her<end> rivals. The pair turns to you, each expecting validation.]]></Translation>
+Во время обсуждения {CHARACTER-SHORT-1} поворачивается к  {CHARACTER-SHORT-0}, обвиняя <masculine_CHARACTER-0>его<feminine>ее<end> поколение в том, что оно стремится "спустить псов войны". В ответ <masculine_CHARACTER-0>наследник<feminine>наследница<end> начинает упрекать <masculine_CHARACTER-1>короля<feminine>королеву<end> в слабости перед соперниками. Участники спора поворачиваются к вам, ожидания решения.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_RUNAWAY_PRINCE</zType>
-		<Translation><![CDATA[Late one evening, there is a knock at your door. {CHARACTER-SHORT-1}, heir to the {PLAYER-0,1} throne, stands outside. The young <masculine_CHARACTER-1>prince<feminine>princess<end> has fled <masculine_CHARACTER-1>his<feminine>her<end> palace with hopes of escaping <masculine_CHARACTER-1>his<feminine>her<end> responsibilities. <masculine_CHARACTER-1>He<feminine>She<end> wishes to hide from <masculine_CHARACTER-1>his<feminine>her<end> <masculine_CHARACTER-2>father's<feminine>mother's<end> agents in {PLAYER-0} and start a new life here.
+		<Translation><![CDATA[Поздним вечером в вашу дверь раздается стук. Снаружи стоит <masculine_CHARACTER-1>наследник<feminine>наследница<end> {PLAYER-0,1} престола - <masculine_CHARACTER-1>принц<feminine>принцесса<end> {CHARACTER-SHORT-1}. Покинув дворец в надежде избежать своих обязанностей, <masculine_CHARACTER-1>он<feminine>она<end> хочет спрятаться в {PLAYER-0,5} от людей <masculine_CHARACTER-2>отца<feminine>матери<end> и начать здесь новую жизнь.
 
-It is only a matter of time before {PLAYER-0,1} soldiers arrive at our gates.]]></Translation>
+Рано или поздно {PLAYER-0,1} солдаты прибудут к нашим воротам.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_TO_HEIR</zType>
-		<Translation><![CDATA[Soon after your coronation, you receive a message from {CHARACTER-SHORT-0}, heir to the {PLAYER-0,1} throne. <masculine_CHARACTER-0>He<feminine>She<end> sends <masculine_CHARACTER-0>his<feminine>her<end> congratulations and well wishes. As the next in the line of succession, <masculine_CHARACTER-0>he<feminine>she<end> believes that the two of you should establish a close, personal friendship.
+		<Translation><![CDATA[Вскоре после коронации вы получаете сообщение от {CHARACTER-SHORT-0}, <masculine_CHARACTER-0>наследника<feminine>наследницы<end> {PLAYER-0,1} престола, в котором <masculine_CHARACTER-0>он<feminine>она<end> выражает свои поздравления и добрые пожелания. Как <masculine_CHARACTER-0>следующий<feminine>следующая<end> в очереди на престол, <masculine_CHARACTER-0>он<feminine>она<end> считает, что вы двое должны установить тесную дружбу.
 
-Dealing with {CHARACTER-SHORT-0} directly undercuts the {PLAYER-0,1} <masculine_CHARACTER-1>king<feminine>queen<end>, which could endanger relations. ]]></Translation>
+Связи с {CHARACTER-SHORT-0} ставят под угрозу наши отношения с <masculine_CHARACTER-1>королем<feminine>королевой<end> {PLAYER-0,1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_IN_ABSENTIA</zType>
-		<Translation><![CDATA[Leaders from many nations attend the funeral for {CHARACTER-SHORT-0}, including the {PLAYER-2,1} royal family. As the young heir, {CHARACTER-SHORT-1}, consumes more than <masculine_CHARACTER-1>his<feminine>her<end> share of wine, <masculine_CHARACTER-1>he<feminine>she<end> becomes more outspoken, calling the deceased a "hideous wretch" and an "oafish goat."
+		<Translation><![CDATA[На похоронах {CHARACTER-SHORT-0} присутствуют лидеры многих стран, включая королевскую семью из {PLAYER-2,1}. Поскольку <masculine_CHARACTER-1>молодой наследник, принц {CHARACTER-SHORT-1}, перебрал<feminine>молодая наследница, принцесса {CHARACTER-SHORT-1}, перебрала<end> с вином, <masculine_CHARACTER-1>он<feminine>она<end> перестает сдерживаться в высказываниях и называет <masculine_CHARACTER-0>умершего "отвратительным негодяем" и "тупым козлом"<feminine>умершую "страшной стервой" и "тупой коровой"<end>.
 
-Mortified by such behavior, {CHARACTER-SHORT-2} scolds {CHARACTER-SHORT-1}, ordering <masculine_CHARACTER-1>him<feminine>her<end> to apologize. The <masculine_CHARACTER-2>king<feminine>queen<end> begs your forgiveness.]]></Translation>
+<masculine_CHARACTER-2>Оскорбленный<feminine>Оскорбленная<end> таким поведением <masculine_CHARACTER-2>король<feminine>королева<end> {CHARACTER-SHORT-2} просит у вас прощения и велит {CHARACTER-SHORT-1} немедленно извиниться.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STRANGER_AT_THE_DOOR</zType>
-		<Translation><![CDATA[A stranger arrives on the steps of the palace. It takes a moment for you to recognize the scrawny, ragged figure as {CHARACTER-SHORT-0}, the heir to the {PLAYER-1,1} throne. In the years since your last encounter, <masculine_CHARACTER-1>he<feminine>she<end> has changed considerably, maturing into an imposing young <masculine_CHARACTER-0>man<feminine>woman<end>. 
+		<Translation><![CDATA[Однажды на ступенях дворца появился незнакомец. Вам потребовалось всего мгновение, чтобы узнать в тощей, оборванной фигуре {CHARACTER-SHORT-0}, <masculine_CHARACTER-0>наследника<feminine>наследницу<end> трона {PLAYER-1,1}. За годы, прошедшие с вашей последней встречи, <masculine_CHARACTER-0>он сильно изменился<feminine>она сильно изменилась<end>, превратившись из ребёнка в <masculine_CHARACTER-0>импозантного молодого мужчину<feminine>импозантную молодую женщину<end>.
 
-"You helped me once," <masculine_CHARACTER-0>he<feminine>she<end> says. "Now I need your help again. I wish to return to {PLAYER-1}."]]></Translation>
+-Однажды вы мне уже помогли,- <masculine_CHARACTER-0>произнес он<feminine>произнесла она<end> слабым голосом. - Теперь мне снова нужна ваша помощь. Я хочу вернуться в {PLAYER-1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_AMBITION_CHARISMA</zType>
-		<Translation><![CDATA[Another night passes without a glimpse of {CHARACTER-SHORT-1}. The heir's love of fellowship and late evenings has taken its toll on <masculine_CHARACTER-1>his<feminine>her<end> work ethic. Perhaps a notable goal will rouse <masculine_CHARACTER-1>his<feminine>her<end> interest.
+		<Translation><![CDATA[{CHARACTER-SHORT-1} <masculine_CHARACTER-1>провел<feminine>провела<end> очередную бессонную ночь. Любовь <masculine_CHARACTER-1>наследника<feminine> наследницы<end> к вечеринкам в кругу друзей, длящимся далеко за полночь, негативно отразилась на <masculine_CHARACTER-1>его<feminine>ее<end> дисциплине. Возможно, значимая цель пробудит <masculine_CHARACTER-1>его<feminine>ее<end> интерес к труду.
 
-What legacy might we suggest to {CHARACTER-SHORT-1}?]]></Translation>
+Какие проекты мы поручим {CHARACTER-SHORT-1}?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_AMBITION_WISDOM</zType>
-		<Translation><![CDATA[{CHARACTER-SHORT-1} never looks up from <masculine_CHARACTER-1>his<feminine>her<end> studies, spending long hours with scrolls by candlelight. The heir seems to be taking <masculine_CHARACTER-1>his<feminine>her<end> responsibities to the state very seriously.
+		<Translation><![CDATA[{CHARACTER-SHORT-1} никогда не отрывается от учебы и проводит долгие часы под свечами, разбирая древние свитки. <masculine_CHARACTER-1>Наследник<feminine>Наследница<end>, похоже, очень серьезно относится к своим обязанностям перед государством.
 
-With so many initiatives for <masculine_CHARACTER-1>him<feminine>her<end> to choose from, what do we suggest?]]></Translation>
+В какое из направлений учебы мы направим <masculine_CHARACTER-1>его<feminine>ее<end> старания?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_AMBITION_COURAGE</zType>
-		<Translation><![CDATA[{CHARACTER-SHORT-1} has shown an admirable strength in challenging situations, but <masculine_CHARACTER-1>he<feminine>she<end> grows idle.
+		<Translation><![CDATA[{CHARACTER-SHORT-1} прежде успешно <masculine_CHARACTER-1>демонстрировал<feminine>демонстрировала<end> силу в сложных ситуациях, но сейчас <masculine_CHARACTER-1>его<feminine>ее<end> охватывают лень и праздность.
 
-What projects shall we propose to keep the heir aspiring to greatness?]]></Translation>
+Что мы предложим, чтобы сохранить <masculine_CHARACTER-1>его<feminine>ее<end> стремление к величию?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_AMBITION_DISCIPLINE</zType>
-		<Translation><![CDATA[The heir, {CHARACTER-SHORT-1}, has a tendency to impose order. <masculine_CHARACTER-1>He<feminine>She<end> has already organized the court and <masculine_CHARACTER-1>his<feminine>her<end> royal household.
+		<Translation><![CDATA[{CHARACTER-SHORT-1}, <masculine_CHARACTER-1>ваш наследник<feminine>ваша наследница<end>, стремится привести все в порядок. <masculine_CHARACTER-1>Он<feminine>Она<end> уже успешно <masculine_CHARACTER-1>справился<feminine>справилась<end> с дворцовыми делами и <masculine_CHARACTER-1>организовал<feminine>организовала<end> королевское хозяйство.
 
-Surely, there must be better goals to which <masculine_CHARACTER-1>he<feminine>she<end> should aspire.]]></Translation>
+Наверняка найдутся задачи, достойные усилий {CHARACTER-SHORT-1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_SOUTHERN_EXPEDITION</zType>
-		<Translation>The {FAMILY-0,1}' increasing interest in exotic luxuries threatens to drive a wedge between vassal families. Now rumors swirl about a desire for a military build-up for a possible expedition to the south.
+		<Translation><![CDATA[Растущий интерес семьи {FAMILY-0} к экзотической роскоши грозит вбить клин между вашими вассалами. Уже пошли слухи о наращивании военной мощи для возможного похода на юг.
 
-Members of the {FAMILY-1} family attack the {FAMILY-0,1} for wanting to waste vital resources on a ridiculous mission. According to the {FAMILY-1,1}, the focus of the {PLAYER-2,1} court should be on {PLAYER-2}.  </Translation>
+Члены семьи {FAMILY-1} обвиняют семью {FAMILY-0} в том, что они тратят жизненно важные ресурсы на нелепую цель. Они считают, что основное внимание правительства {PLAYER-2,1} должно быть сосредоточено на собственном государстве.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_OSTRACIZED</zType>
-		<Translation><![CDATA[After several contentious encounters, the {FAMILY-0} family accuses the {FAMILY-1,1} of political wrongdoing, specifically {CHARACTER-3}. They request that all citizens of {CITY-4} write the name of someone on the court whom they wish to see "ostracized." They have chosen {CHARACTER-SHORT-3}. 
+		<Translation><![CDATA[После нескольких конфликтов семья {FAMILY-0} обвиняет семью {FAMILY-1}, а особенно {CHARACTER-3}, в политических преступлениях. {FAMILY-0} требуют, чтобы все граждане города {CITY-4} написали имя придворного, которого следует изгнать из общества. Они выбрали {CHARACTER-SHORT-3}.
 
-We have not seen evidence of <masculine_CHARACTER-3>his<feminine>her<end> crimes, but the accusers have whipped the population into a frenzy. They want blood.]]></Translation>
+Мы не увидели доказательств <masculine_CHARACTER-3>его<feminine>ее<end> преступлений, но {FAMILY-0} довели население до безумия. Они хотят крови.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HAPPINESS_PLEASURE_BANQUET</zType>
-		<Translation>The day begins humbly enough... but athletic contests lead to poetic readings, and a musical concert evolves into a rousing dramatic performance. By the end of the evening, revelers have taken to the couches, and servants work to replenish the banquet table.
-  
-Two men enter the banquet hall carrying another jar of wine between them. The celebration has only just begun!</Translation>
+		<Translation>Казалось, этот день не предвещал ничего особенного... но за спортивными состязаниями последовали поэтические чтения, а музыкальный концерт превратился в бурное театральное представление. К концу вечера гуляки уже разошлись по домам, а слуги трудятся, чтобы восполнить праздничный стол.
+
+Двое мужчин входят в зал с очередным кувшином вина в руках. Праздник только начался!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MYSTERIOUS_SICKNESS</zType>
-		<Translation>Citizens of {CITY-0} suffer the ravages of a highly mysterious disease, which is said to kill 1 in 5 of the people it infects. Its origin remains unknown, but victims all share the signature pockmarks on their skin. 
+		<Translation>Жители города {CITY-0} страдают от загадочной болезни, которая, по слухам, убивает каждого пятого зараженного. Ее происхождение остается неизвестным, но все жертвы эпидемии имеют общие характерные оспины на коже.
 
-Our scientists demand immediation action.</Translation>
+Наши ученые требуют немедленных действий.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_POX_SPREADS</zType>
-		<Translation>The deadly pox continues to ravage {CITY-0}, laying low much of its population. Even worse, individuals in {CITY-1} have begun showing symptoms. 
+		<Translation>Смертельная оспа продолжает опустошать {CITY-0}, убив значительную часть его населения. Хуже только то, что те же симптомы начали испытывать жители города {CITY-1}.
 
-Both {CHARACTER-SHORT-3} and {CHARACTER-SHORT-4} have taken to their beds. Not even the court is safe...</Translation>
+{CHARACTER-SHORT-3} и {CHARACTER-SHORT-4} слегли с недугом. Даже во дворце стало небезопасно...</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AFTER_THE_DEATH</zType>
-		<Translation>After several difficult years of sacrifice and death, the mysterious pockmark sickness appears to be receding. Sadly, many {PLAYER-2,2} perished in this dark time. How shall we mark this moment for the generations to come?</Translation>
+		<Translation>После нескольких лет смерти и страданий таинственная оспа, похоже, отступает. К сожалению, многие жители {PLAYER-2,1} погибли в это темное время. Как мы расскажем о победе над эпидемией будущим поколениям?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_UNCANNY</zType>
-		<Translation><![CDATA[Whispers of {CHARACTER-0}'s uncanny abilities have reached the court, causing a stir among scientists and scholars. According to academy gossip, {CHARACTER-SHORT-0} spends <masculine_CHARACTER-0>his<feminine>her<end> days locked in a makeshift laboratory, unraveling the mysteries of man and nature.
+		<Translation><![CDATA[Молва о невероятных способностях {CHARACTER-0} добралась до придворных, вызвав переполох среди ученых и мудрецов. По слухам в академии, {CHARACTER-SHORT-0} проводит свои дни, запираясь в импровизированной лаборатории и разгадывая тайны природы и человека.
 
-Many wish to summon {CHARACTER-SHORT-0} and probe <masculine_CHARACTER-0>his<feminine>her<end> mind for knowledge, but we must remember <masculine_CHARACTER-0>he<feminine>she<end> is still a child.]]></Translation>
+Многие хотят испытать <masculine_CHARACTER-0>его<feminine>ее<end> ум, но следует помнить что {CHARACTER-SHORT-0} все еще ребенок.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HIDDEN_SCROLLS</zType>
@@ -6716,167 +6716,167 @@ Despite <masculine_CHARACTER-0>his<feminine>her<end> claims of innocence, {CHARA
 	</Entry>
 	<Entry beginGroup="Tutorial">
 		<zType>TEXT_EVENTSTORY_VICTORY_POINTS</zType>
-		<Translation>(Points Victory)
+		<Translation>(Победа по очкам)
 
-The court meets you with bowed heads, and the crowds greet you with cheers. You stand before all of {PLAYER-0}, a legend in your own time, a figure whose name will forever be on the lips of history.
+Королевский двор встречает вас, склонив головы, а толпа приветствует радостными возгласами. Вы стоите перед {PLAYER-0,4}, став легендой своего времени, человеком, чье имя навсегда останется на устах истории.
 
-Congratulations.</Translation>
+Поздравляем!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_VICTORY_DOUBLE</zType>
-		<Translation>(Double Victory)
+		<Translation>(Двойная победа)
 
-The court meets you with bowed heads, and the crowds greet you with cheers. You stand before all of {PLAYER-0}, a legend in your own time, a figure whose name will forever be on the lips of history.
+Королевский двор встречает вас, склонив головы, а толпа приветствует радостными возгласами. Вы стоите перед {PLAYER-0,4}, став легендой своего времени, человеком, чье имя навсегда останется на устах истории.
 
-Congratulations.</Translation>
+Поздравляем!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_VICTORY_AMBITION</zType>
-		<Translation>(Ambitions Victory)
+		<Translation>(Амбициозная победа)
 
-The court meets you with bowed heads, and the gathered crowds greet you with a cheer. You stand before all of {PLAYER-0}, a legend in your own time, a figure whose name will forever be on the lips of history.
+Королевский двор встречает вас, склонив головы, а толпа приветствует радостными возгласами. Вы стоите перед {PLAYER-0,4}, став легендой своего времени, человеком, чье имя навсегда останется на устах истории.
 
-Congratulations.</Translation>
+Поздравляем!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_VICTORY_TIME</zType>
-		<Translation>(Time Victory)
+		<Translation>(Победа по времени)
 
-The court meets you with bowed heads, and the gathered crowds greet you with a cheer. You stand before all of {PLAYER-0}, a legend in your own time, a figure whose name will forever be on the lips of history.
+Королевский Двор встречает вас со склоненными головами, а толпа приветствует вас радостными возгласами. Вы стоите перед всеми {PLAYER-0}, легендой своего времени, фигурой, чье имя навсегда останется на устах истории.
 
-Congratulations.</Translation>
+Поздравляем!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_VICTORY_CONQUEST</zType>
-		<Translation>[Conquest Victory)
+		<Translation>[Победа завоеванием)
 
-The court meets you with bowed heads, and the gathered crowds greet you with a cheer. You stand before all of {PLAYER-0}, a legend in your own time, a figure whose name will forever be on the lips of history.
+Королевский Двор встречает вас со склоненными головами, а толпа приветствует вас радостными возгласами. Вы стоите перед всеми {PLAYER-0}, легендой своего времени, фигурой, чье имя навсегда останется на устах истории.
 
-Congratulations.</Translation>
+Поздравляем!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GAME_LOSS</zType>
-		<Translation>The court convenes one last time... to discuss the tragedy of our defeat. We have tried our best to serve and protect the people of {PLAYER-0}, but some nations are not meant to be remembered.
+		<Translation>Королевский двор собирается в последний раз... чтобы обсудить наше трагическое поражение. Мы старались изо всех сил служить {PLAYER-0,2} и защищать его народ, но некоторым империям суждено лишь потеряться на страницах истории.
 
-Perhaps next time...</Translation>
+Может быть, в следующий раз...</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_INTRO</zType>
-		<Translation>You are {CHARACTER-1} of {NATION-0}, a young nation in an Old World - an Old World full of established powers that do not yet respect you.
+		<Translation>Приветствуем, {CHARACTER-1} из {NATION-0,1}. Вы правите молодой империей Старого света в мире давно установившейся власти. 
 
-Select your link(UNIT_SETTLER) and establish your Capital City. At this time, you will decide which Family manages your Capital, gaining the perks of that Family.</Translation>
+Выберите link(UNIT_SETTLER,1) и заложите фундамент своей столицы. Вам предстоит решить, какая семья будет править великим городом, и правильно распорядиться ее благами.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SCOUT_SELECTED</zType>
-		<Translation>link(UNIT_SCOUT,2) are fantastic explorers and can see further into the unknown. They can also hide in link(VEGETATION_TREES), making them invaluable as an early warning against invading enemies.
+		<Translation>link(UNIT_SCOUT,6) превосходно подходят для исследования мира. Их способность прятаться в link(VEGETATION_TREES,11) помогает заранее предупредить о вражеской угрозе.
 
-Send your link(UNIT_SCOUT) out into the wilderness and look for new City Sites and mysterious link(IMPROVEMENT_ANCIENT_RUINS,2).</Translation>
+Отправьте link(UNIT_SCOUT,2) в поисках новых земель и link(IMPROVEMENT_ANCIENT_RUINS,1).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_ORDERS</zType>
-		<Translation>link(YIELD_ORDERS) are an important feature of Old World. Units can move multiple times each turn, but each move consumes one Ordericon(YIELD_ORDERS). Other actions, such as attacking or building, also consume link(YIELD_ORDERS).
+		<Translation>link(YIELD_ORDERS) являются важной особенностью игры. Отряды могут перемещаться несколько раз в ход, но движение, атака, строительство и другие действия затрачивают link(YIELD_ORDERS) icon(YIELD_ORDERS).
 
-Your remaining link(YIELD_ORDERS) can be seen in the lower left corner of your screen. We recommend that you first select your link(UNIT_WORKER), so that you may begin to improve your land before you spend all of your link(YIELD_ORDERS) for the turn.</Translation>
+Вы можете посмотреть количество link(YIELD_ORDERS,2) в левом нижнем углу экрана. Мы рекомендуем выбрать link(UNIT_WORKER,9) и начать строительство, прежде чем тратить link(YIELD_ORDERS) на другие действия.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SECOND_CITY</zType>
-		<Translation>Your Capital has finished training a new Settler! link(UNIT_SETTLER,2) are the key to expanding your nation by founding new Cities. Take this link(UNIT_SETTLER) to a nearby City Site to establish a new City.
+		<Translation>Ваша столица закончила подготовку поселенца! link(UNIT_SETTLER, 6) - это ключ к росту вашей империи. Отправьте его в ближайшее доступное место для поселения, чтобы основать новый город.
 
-When you found your City you'll have to choose which Family to grant it to. This family will provide powerful bonuses to the City, so consider carefully before making your selection.</Translation>
+При основании города вам предстоит выбрать, какая семья будет им владеть. В зависимости от управляющей семьи империя получит различные бонусы, поэтому тщательно обдумайте свой выбор. </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_WORKER_SELECTED</zType>
-		<Translation>link(UNIT_WORKER,2) build Improvements for your City. Rural Improvements, such as link(IMPROVEMENT_FARM,2) and link(IMPROVEMENT_MINE,2), gather raw materials. link(CONCEPT_URBAN) Improvements, such as link(IMPROVEMENT_BARRACKS,2) or link(IMPROVEMENTCLASS_SHRINE,2), provide link(YIELD_TRAINING) or link(YIELD_CULTURE).</Translation>
+		<Translation>link(UNIT_WORKER,6) создают постройки, развивая территорию города. Сельские постройки, например link(IMPROVEMENT_FARM,6) и link(IMPROVEMENT_MINE,6), обеспечивают империю ресурсами. Улучшения на link(CONCEPT_URBAN,20) клетках, такие как link(IMPROVEMENT_BARRACKS,6) или link(IMPROVEMENTCLASS_SHRINE,6), приносят link(YIELD_TRAINING,3) или link(YIELD_CULTURE,3).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_SLINGER_SELECTED</zType>
-		<Translation>The link(UNIT_SLINGER) is a link(UNITTRAIT_RANGED) Unit and can attack Units from two or more Tiles away, allowing them to be an efficient use of link(YIELD_ORDERS) in combat. They can even shoot farther from on top of link(HEIGHT_HILL,2) but will deal less damage over long distances or when firing into link(VEGETATION_TREES) or link(VEGETATION_SCRUB).</Translation>
+		<Translation>link(UNIT_SLINGER,6) - это link(UNITTRAIT_RANGED,1). Они атакуют врагов с расстояния двух и более клеток, позволяя вам эффективно использовать link(YIELD_ORDERS) в сражениях. Они могут стрелять еще дальше, находясь на вершине link(HEIGHT_HILL,2), но будут наносить меньше урона на больших расстояниях и при атаке отрядов, укрывшихся в link(VEGETATION_TREES,2) или link(VEGETATION_SCRUB,2)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_WARRIOR_SELECTED</zType>
-		<Translation>The link(UNIT_WARRIOR) is the first link(UNITTRAIT_MELEE) Unit available to your Nation. link(UNITTRAIT_MELEE) Units will form the backbone of your army, defending you from enemy Tribes and Nations.</Translation>
+		<Translation>link(UNIT_WARRIOR) - это первый link(UNITTRAIT_MELEE,1), который доступен вашей империи. link(UNITTRAIT_MELEE,1) составляют основу вашей армии, защищая от вражеских племен и народов.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_BARBARIAN_CAMP_CLEARED</zType>
-		<Translation>You've driven the local {BARBARIAN-0,2} away from this City Site! You can now claim this Site by placing a combat Unit on it. This will prevent the return of the {BARBARIAN-0,2} and will also keep other Nations from founding a City here.
+		<Translation>Вы прогнали местных {BARBARIAN-0,1}! Теперь вы можете претендовать на эти земли, разместив в центре свой отряд. Это предотвратит возвращение {BARBARIAN-0,1}, а также не позволит другим нациям основать здесь свой город.
 
-The locals have left a large cache of link(YIELD_FOOD) behind. Use this to begin building a new link(UNIT_SETTLER) to claim this location!</Translation>
+Местные жители оставили много link(YIELD_FOOD,1). Начните строить нового link(UNIT_SETTLER,3), чтобы занять это место!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_CITY_CAPTURED</zType>
-		<Translation>You have taken {CITY-1} from your enemy! While they no longer control this City, it will take some time for the people to accept you as their new ruler. Keep a unit stationed on the City for a few years and the people will soon realize that you're the new ruler in town.</Translation>
+		<Translation>Вы захватили вражеский город {CITY-1}! Потребуется некоторое время, чтобы люди согласились быть вашими подданными. Оставьте отряд в городе на несколько лет, и народ поймет, что вы стали новым правителем.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_CULTURE</zType>
-		<Translation>{CITY-0} has reached link(CULTURE_DEVELOPING), a new link(YIELD_CULTURE) level! Higher tiers of link(YIELD_CULTURE) unlock additional Improvements and Wonders for your Cities. Each new tier will also trigger a positive event for the City.
-
-Today, a group of laborers has decided to join your workforce, granting you a new link(UNIT_WORKER).</Translation>
+		<Translation>{CITY-0} достиг нового уровня link(YIELD_CULTURE,1), теперь он link(CULTURE_DEVELOPING)! Более высокие уровни link(YIELD_CULTURE,1) открывают новые постройки и чудеса в городе, а также вызывают благоприятное событие.
+		
+В этот раз к вашей империи решила присоединиться новая группа link(UNIT_WORKER,7).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_TRIBE_CONTACT</zType>
-		<Translation>You've met your first tribe, the {BARBARIAN-0}! Tribes can engage in limited diplomacy, but generally won't be coordinated the way opposing nations are. Finding a weak tribe and claiming their City Sites for yourself will be an important step toward growing your Nation.</Translation>
+		<Translation>Вы встретили племя {BARBARIAN-0,1}! Племена участвуют в ограниченной дипломатии, но в отличие от наций не действуют сообща. Если вы найдете слабое племя и заявите права на их земли, то сделаете важный шаг на пути к росту вашей империи.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_HARVEST_RESOURCE</zType>
-		<Translation>Your {UNIT-0} has moved onto some {RESOURCE-2}, a harvestable resource! Your {UNIT-0} can spend an Ordericon(YIELD_ORDERS) to yield a small amount of materials.</Translation>
+		<Translation>Отряд {UNIT-0,7} переместился на {RESOURCE-2,3} - ресурс, пригодный для сбора урожая! Вы можете потратить приказы icon(YIELD_ORDERS), чтобы получить небольшое количество сырья.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_UNIT_ON_COOLDOWN</zType>
-		<Translation>Your {UNIT-0} is on a Cooldown and can't take any more actions this turn. (Cooldowns come from combat, construction, or other actions.) Your {UNIT-0} will be available again next turn.</Translation>
+		<Translation>{UNIT-0} больше не может действовать в этом ходу, ему требуется восстановление. (Восстановление наступает после сражения, строительства или других действий). Отряд станет доступен на следующий ход.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_UNIT_FATIGUED</zType>
-		<Translation>This {UNIT-0} has used all of its moves and become Fatigued. A Fatigued unit can be ordered to March, but moves after marching require twice as many link(YIELD_ORDERS). Your {UNIT-0} will refresh his moves next turn.</Translation>
+		<Translation>Отряд {UNIT-0,7} использовал все свои действия и устал. Его можно отправить на марш, но маршируя он потребляет link(YIELD_ORDERS) в двойном размере. Ваш отряд восстановится на следующий ход.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_OUT_OF_ORDERS</zType>
-		<Translation>You've run out of link(YIELD_ORDERS)! Your {UNIT-0} can't act if you don't have an Ordericon(YIELD_ORDERS) to command it. You'll get more link(YIELD_ORDERS) at the start of your next turn.</Translation>
+		<Translation>У вас закончились link(YIELD_ORDERS)! Для командования {UNIT-0,4} нужно дождаться следующего года.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_RELIGION</zType>
-		<Translation>{RELIGION-1} has spread to one of your Cities! Religions provide link(YIELD_CULTURE) to the Cities they're in. You can choose to adopt a State Religion for your nation, allowing you to guide the impact that religion has on your Cities.</Translation>
+		<Translation>В одном из ваших городов появляется {RELIGION-1}! Религия увеличивает рост link(YIELD_CULTURE,1) в принявших ее городах. Вы можете объявить религию государственной, что обеспечит ей дополнительное влияние.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_CHARIOT_SELECTED</zType>
-		<Translation>Your nation has trained its first melee link(UNITTRAIT_MOUNTED) Unit! These Units move quickly and have the unique ability to link(EFFECTUNIT_ROUT) your enemies, allowing you an additional attack if the first one destroys a Unit.</Translation>
+		<Translation>Ваша империя создала первый link(UNITTRAIT_MOUNTED) отряд! Он быстро передвигается и обладает уникальной способностью link(EFFECTUNIT_ROUT): при уничтожении вражеского подразделения занимает его место и может атаковать следующую цель.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_NATION_CONTACT</zType>
-		<Translation>You've encountered a rival Nation! Other Nations are your primary opponents in Old World. However, successfully engaging them diplomatically can lead to gaining a powerful trade partner and ally. It will be up to you to decide which Nations are worthy of being your allies and which should simply be conquered.</Translation>
+		<Translation>Вы встретили нацию соперника! Другие империи - ваши главные противники, однако успешное ведение дипломатии может подарить мощного торгового партнера и союзника. Вам предстоит решить, с какими империями вступать в союз, а какие завоевывать.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_BARBARIANS</zType>
-		<Translation>Your Cities have trained another link(UNIT_SETTLER), so you may have to defeat some Barbarians to access more City Sites. Barbarians do not behave like Tribes as you are always at link(DIPLOMACY_WAR) with them. They are good targets for early expansion as they are easier to drive away than a more organized Tribe.</Translation>
+		<Translation>Вы подготовили еще одного link(UNIT_SETTLER,1), но для основания города, возможно, придется отвоевать земли варваров. Варвары ведут себя иначе, чем организованные племена, находясь со всеми в состоянии link(DIPLOMACY_WAR). На ранних этапах развития империи их лагеря являются удобной мишенью для экспансии.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_AMBITION</zType>
-		<Translation>You have unlocked the ability to choose an Ambition. Ambitions are goals that your Families would like for you to pursue, and completing them will grant you and all of your descendents a permanent boost to Orders.
+		<Translation>Вы открыли возможность выбирать амбиции. Амбиции - это цели и желания семей империи, выполнение которых даст вам и вашим потомкам постоянный бонус к link(YIELD_ORDERS,2).
 
-Completing an Ambition immediately unlocks another, and completing ten will win you the game, so always do your best to fulfill your current Ambition. Here are a couple of simple Ambitions to get you started.</Translation>
+Завершение одной амбиции немедленно открывает другую, а завершение десяти обеспечит победу в игре, поэтому никогда не обделяйте их вниманием. Вот несколько простых амбиций, с которых можно начать.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_SUCCESSION</zType>
-		<Translation>Your family line has a new Heir, {CHARACTER-0}! Training strong Heirs will be vital for the survival of your Nation, as once your current Ruler is gone someone will need to take the reins.
+		<Translation>В вашей семье появился новый наследник, {CHARACTER-0}! Должное воспитание наследников необходимо для существования империи: кто-то должен взять бразды правления в свои руки после смерти нынешнего лидера.
 
-Once your Heir has grown up a bit you'll be able to choose a subject for them to study, guiding them into the role you need them to fulfill. Your family is able to do more than rule; employing them as Governors and Councilors can be powerful options as you build your court.</Translation>
+Как только ваши наследники подрастут, вы сможете подготовить их к тем задачам, которые они должны выполнять. Ваша семья не просто правит королевством: правильный выбор губернаторов и советников поможет сформировать мощное правительство.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_LEGITIMACY</zType>
-		<Translation>Your Cognomen has changed to link(COGNOMEN_EXPLORER)! Your Cognomen describes your recent accomplishments, and improving it increases your Legitimacyicon(YIELD_LEGITIMACY) in the eyes of your people.
+		<Translation> Вы получили прозвание link(COGNOMEN_EXPLORER)! Прозвание описывает ваши недавние достижения, и повышает вашу легитимность icon(YIELD_LEGITIMACY).
 
-Higher Legitimacyicon(YIELD_LEGITIMACY) grants you additional link(YIELD_ORDERS) and improves your standing with your Nation's Families. Keeping your Legitimacyicon(YIELD_LEGITIMACY) high is important for controlling a larger nation!</Translation>
+Чем выше уровень легитимности icon(YIELD_LEGITIMACY), тем больше количество link(YIELD_ORDERS,1) и лучше отношения с семьями. Высокий уровень легитимности icon(YIELD_LEGITIMACY) важен для создания мощной империи!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_MARRIAGE</zType>
-		<Translation>You have accepted a marriage proposal for a member of your family! Marriages are a useful diplomatic tool for forming bonds with other Families, Tribes, and Nations. They also allow your family to continue their line with legitimate Heirs, who will be eligible to take over once your current Ruler is gone.</Translation>
+		<Translation>Вы приняли предложение руки и сердца для члена семьи! Брак - это полезный дипломатический инструмент для установления связей с другими семьями, племенами и нациями. С его помощью можно сохранить ваш род, передавая престол по наследству после смерти правителя.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_PROMOTION</zType>
-		<Translation>Our {UNIT-0} unit has been hard at work training for battle, and they are ready to take orders. Will you take the role of General and lead them?</Translation>
+		<Translation>Наш отряд {UNIT-0,7} упорно тренировался, готовясь к сражениям, и теперь вы можете возглавить его, взяв на себя роль генерала.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_AXEMAN_SELECTED</zType>
-		<Translation>Your Nation has trained its first link(UNIT_AXEMAN). This Unit has an arcing attack, striking foes adjacent to its target for partial damage.</Translation>
+		<Translation>В вашей нации прошел подготовку первый link(UNIT_AXEMAN). Этот отряд имеет дуговую атаку, нанося незначительные повреждения врагам рядом со своей целью.</Translation>
 	</Entry>
 	<Entry beginGroup="Law">
 		<zType>TEXT_EVENTSTORY_THREAT_OF_MUTINY</zType>
