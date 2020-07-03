@@ -4123,91 +4123,91 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_A_SPIRITUAL_CONNECTION_TITLE</zType>
-		<Translation>A Spiritual Connection</Translation>
+		<Translation>Духовная связь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_A_GENEROUS_DONATION_TITLE</zType>
-		<Translation>A Generous Donation</Translation>
+		<Translation>Щедрый дар</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_URGING_CAUTION_TITLE</zType>
-		<Translation>Urging Caution</Translation>
+		<Translation>Призыв к осторожности</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_MORAL_DEGRADATION_TITLE</zType>
-		<Translation>Moral Degradation</Translation>
+		<Translation>Падение морали</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_GIVE_AN_INCH_TITLE</zType>
-		<Translation>Give an inch</Translation>
+		<Translation>Только дай палец...</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_PROOF_OF_FRIENDSHIP_TITLE</zType>
-		<Translation>Proof of Friendship</Translation>
+		<Translation>Доказательство дружбы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TWO_VISIONS_TITLE</zType>
-		<Translation>Blame Game</Translation>
+		<Translation>Взаимные обвинения</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_RUNAWAY_PRINCE_TITLE</zType>
-		<Translation><![CDATA[The Runaway <masculine_CHARACTER-0>Prince<feminine>Princess<end>]]></Translation>
+		<Translation><![CDATA[Побег <masculine_CHARACTER-0>принца<feminine>принцессы<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_TO_HEIR_TITLE</zType>
-		<Translation>Heir to Heir</Translation>
+		<Translation>Как наследник наследнику...</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_IN_ABSENTIA_TITLE</zType>
-		<Translation><![CDATA[Speaking <masculine_CHARACTER-1>His<feminine>Her<end> Mind]]></Translation>
+		<Translation>Что у трезвого на уме...</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STRANGER_AT_THE_DOOR_TITLE</zType>
-		<Translation>Stranger at the Door</Translation>
+		<Translation>Странник у ворот</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_AMBITION_CHARISMA_TITLE</zType>
-		<Translation>People Skills</Translation>
+		<Translation>Коммуникабельность</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_AMBITION_WISDOM_TITLE</zType>
-		<Translation>Wise Outlook</Translation>
+		<Translation>Мудрый взгляд</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_AMBITION_COURAGE_TITLE</zType>
-		<Translation>Internal Strength</Translation>
+		<Translation>Внутренняя сила</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_AMBITION_DISCIPLINE_TITLE</zType>
-		<Translation>Ordered Mind</Translation>
+		<Translation>Порядок в голове</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_SOUTHERN_EXPEDITION_TITLE</zType>
-		<Translation>Southern Expedition</Translation>
+		<Translation>Поход на юг</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_OSTRACIZED_TITLE</zType>
-		<Translation>Ostracized</Translation>
+		<Translation>Изгнание</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HAPPINESS_PLEASURE_BANQUET_TITLE</zType>
-		<Translation>Pleasure Banquet</Translation>
+		<Translation>Пир в радость</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MYSTERIOUS_SICKNESS_TITLE</zType>
-		<Translation>Mysterious Sickness</Translation>
+		<Translation>Таинственная болезнь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_POX_SPREADS_TITLE</zType>
-		<Translation>The Pox Spreads</Translation>
+		<Translation>Распространение оспы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AFTER_THE_DEATH_TITLE</zType>
-		<Translation>After the Death</Translation>
+		<Translation>Жизнь после смерти</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_UNCANNY_TITLE</zType>
-		<Translation>Uncanny</Translation>
+		<Translation>Невероятные способности</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HIDDEN_SCROLLS_TITLE</zType>
@@ -4339,127 +4339,127 @@
 	</Entry>
 	<Entry beginGroup="Tutorial">
 		<zType>TEXT_EVENTSTORY_VICTORY_POINTS_TITLE</zType>
-		<Translation>POINTS VICTORY!</Translation>
+		<Translation>Победа по очкам!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_VICTORY_DOUBLE_TITLE</zType>
-		<Translation>DOUBLE VICTORY!</Translation>
+		<Translation>Двойная победа!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_VICTORY_AMBITION_TITLE</zType>
-		<Translation>AMBITION VICTORY!</Translation>
+		<Translation>Амбициозная победа!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_VICTORY_TIME_TITLE</zType>
-		<Translation>TIME VICTORY!</Translation>
+		<Translation>Победа по времени!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_VICTORY_CONQUEST_TITLE</zType>
-		<Translation>CONQUEST VICTORY!</Translation>
+		<Translation>Победа завоеванием!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GAME_LOSS_TITLE</zType>
-		<Translation>DEFEAT</Translation>
+		<Translation>Поражение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_INTRO_TITLE</zType>
-		<Translation>Welcome to Old World</Translation>
+		<Translation>Добро пожаловать в Old World</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SCOUT_SELECTED_TITLE</zType>
-		<Translation>Scout Selected</Translation>
+		<Translation>Обучение: Разведчики</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_ORDERS_TITLE</zType>
-		<Translation>Orders</Translation>
+		<Translation>Обучение: Приказы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SECOND_CITY_TITLE</zType>
-		<Translation>Your Second City</Translation>
+		<Translation>Обучение: Второй город</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_WORKER_SELECTED_TITLE</zType>
-		<Translation>The Worker</Translation>
+		<Translation>Обучение: Рабочие</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_SLINGER_SELECTED_TITLE</zType>
-		<Translation>The Slinger</Translation>
+		<Translation>Обучение: Пращники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_WARRIOR_SELECTED_TITLE</zType>
-		<Translation>Tutorial Warrior Selected</Translation>
+		<Translation>Обучение: Воины</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_BARBARIAN_CAMP_CLEARED_TITLE</zType>
-		<Translation>Tutorial Barbarian Camp Cleared</Translation>
+		<Translation>Обучение: Очищен лагерь варваров</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_CITY_CAPTURED_TITLE</zType>
-		<Translation>Tutorial City Captured</Translation>
+		<Translation>Обучение: Захвачен город</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_CULTURE_TITLE</zType>
-		<Translation>Tutorial Culture</Translation>
+		<Translation>Обучение: Культура</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_TRIBE_CONTACT_TITLE</zType>
-		<Translation>Tutorial Tribe Contact</Translation>
+		<Translation>Обучение: Встреча с племенем</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_HARVEST_RESOURCE_TITLE</zType>
-		<Translation>Tutorial Harvest Resource</Translation>
+		<Translation>Обучение: Сбор урожая</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_UNIT_ON_COOLDOWN_TITLE</zType>
-		<Translation>Tutorial Unit On Cooldown</Translation>
+		<Translation>Обучение: Восстановление юнита</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_UNIT_FATIGUED_TITLE</zType>
-		<Translation>Tutorial Unit Fatigued</Translation>
+		<Translation>Обучение: Уставший юнит</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_OUT_OF_ORDERS_TITLE</zType>
-		<Translation>Tutorial Out Of Orders</Translation>
+		<Translation>Обучение: Закончились приказы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_RELIGION_TITLE</zType>
-		<Translation>Tutorial Religion</Translation>
+		<Translation>Обучение: Религия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_CHARIOT_SELECTED_TITLE</zType>
-		<Translation>Chariot Tutorial</Translation>
+		<Translation>Обучение: Колесница</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_NATION_CONTACT_TITLE</zType>
-		<Translation>Tutorial Nation Contact</Translation>
+		<Translation>Обучение: Встреча с нацией</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_AMBITION_TITLE</zType>
-		<Translation>Tutorial Ambition</Translation>
+		<Translation>Обучение: Амбиции</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_BARBARIANS_TITLE</zType>
-		<Translation>Tutorial Barbarians</Translation>
+		<Translation>Обучение: Варвары</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_SUCCESSION_TITLE</zType>
-		<Translation>Tutorial Succession</Translation>
+		<Translation>Обучение: Престолонаследие</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_LEGITIMACY_TITLE</zType>
-		<Translation>Tutorial Legitimacy</Translation>
+		<Translation>Обучение: Легитимность</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_MARRIAGE_TITLE</zType>
-		<Translation>Tutorial Marriage</Translation>
+		<Translation>Обучение: Брак</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_PROMOTION_TITLE</zType>
-		<Translation>Take the Field</Translation>
+		<Translation>Обучение: Выйти на сражение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_AXEMAN_SELECTED_TITLE</zType>
-		<Translation>Tutorial Axeman Selected</Translation>
+		<Translation>Обучение: Воин с топором</Translation>
 	</Entry>
 	<Entry beginGroup="Law">
 		<zType>TEXT_EVENTSTORY_THREAT_OF_MUTINY_TITLE</zType>
