@@ -7,27 +7,27 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_LOST_TEAM_ALLIANCE</zType>
-		<Translation>You are no longer in an alliance with {0_team}.</Translation>
+		<Translation>Вы расторгли союз с {0,4_team}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_GAINED_TEAM_ALLIANCE</zType>
-		<Translation>You are now in an alliance with {0_team}.</Translation>
+		<Translation>Вы заключили союз с {0,4_team}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_LOST_BARBARIAN_ALLIANCE</zType>
-		<Translation>You are no longer in an alliance with the {0_barbarians}.</Translation>
+		<Translation>Вы расторгли союз с {0,4_barbarians}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_GAINED_BARBARIAN_ALLIANCE</zType>
-		<Translation>You are now in an alliance with the {0_barbarians}.</Translation>
+		<Translation>Вы заключили союз с {0,4_barbarians}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_MET_BARBARIANS</zType>
-		<Translation>You have met the {0_barbarians}</Translation>
+		<Translation>Вы встретили {0,3_barbarians}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_BARBARIANS_NEW_DIPLOMACY</zType>
-		<Translation>You are now at {0_newDiplomacy} with the {1_barbarians}.</Translation>
+		<Translation>Между вами и {1,4_barbarians} начинается {0_newDiplomacy}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_BARBARIANS_DIPLOMACY_LOG_DATA</zType>
@@ -35,35 +35,35 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_COMBAT_EFFECT_LOG_DATA</zType>
-		<Translation>{0_character} is now {1_trait} from combat!</Translation>
+		<Translation>{0_character} становится {1,4_trait} в результате боя!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM_CONTACT_LOG_DATA</zType>
-		<Translation>You have met {0_team}</Translation>
+		<Translation>Вы встретили {0,3_team}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM_NEW_DIPLOMACY</zType>
-		<Translation>{0_team} is now at {1_newDiplomacy} with {2_team}.</Translation>
+		<Translation>Между вами и {1,4_team} начинается {0_newDiplomacy}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM_ALLIANCE_WAR</zType>
-		<Translation>Because of an link(CONCEPT_ALLIANCE_PLAYER) with {0_team}, {1_player} declares war on {2_player}!</Translation>
+		<Translation>{1_player} объявляет войну {2,2_player}, потому что состоит в link(CONCEPT_ALLIANCE_PLAYER,5) с {0,4_team}!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_GAME_OVER_POPUP</zType>
-		<Translation>You have reached the end of the game.</Translation>
+		<Translation>Игра завершена.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM_DEFEAT_POPUP</zType>
-		<Translation>The nation of {0_player} has been eliminated!</Translation>
+		<Translation>Государство {0_player} уничтожено!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM_DEFEAT_POPUP_NO_HEIR</zType>
-		<Translation>The royal dynasty of {0_player} has come to an end!</Translation>
+		<Translation>Правление королевской династии {0,1_player} закончилось!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_BARBARIAN_SCENARIO_WIN_POPUP</zType>
-		<Translation>You have eliminated all of the Barbarians. Congratulations!</Translation>
+		<Translation>Вы уничтожили всех варваров. Поздравляем!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_RELIGION_FOUNDED</zType>
@@ -71,261 +71,261 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_RELIGION_FAMILY</zType>
-		<Translation>The {0_family} Family has converted to {1_religion}!</Translation>
+		<Translation>Семья {0_family} приняла {1,3_religion}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_IMPROVEMENT_STARTED</zType>
-		<Translation><![CDATA[{0_player} has begun construction of {1_improvement}!]]></Translation>
+		<Translation><![CDATA[{0_player} начинает строить {1,2_improvement}!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_IMPROVEMENT_COMPLETED</zType>
-		<Translation><![CDATA[{0_improvement} completed by {1_player}!]]></Translation>
+		<Translation><![CDATA[{1_player} завершает строительство {0,1_improvement}!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_RELIGION_SPREAD_TO_CITY</zType>
-		<Translation>{0_religion} spreads to {1_city}</Translation>
+		<Translation>{0_religion} распространяется по городу {1_city}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DOOMED_POPUP</zType>
-		<Translation>Your doctors and diviners have warned you that the end is near! Time to get your affairs in order.</Translation>
+		<Translation>Ваши лекари предупредили, что конец близок! Настало время привести дела в порядок.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_OTHER_TEAM_NEW_RULER_POPUP</zType>
-		<Translation>News has arrived from abroad that {0_oldLeader} is dead. A new ruler, {1_newLeader}, has taken the throne.</Translation>
+		<Translation><![CDATA[Нам сообщили о том, что {0_oldLeader} <masculine_0>мертв<feminine>мертва<end>.  {1_newLeader} берет на себя управление государством.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_NEW_LAW_FOR_HEIR_POPUP</zType>
-		<Translation>Because, under the old laws, your dynasty has no legitimate heir, it switches to {0_law} to enable the ascension of {1_character}</Translation>
+		<Translation>По старым законам у вас нет легитимного наследника. Если вы примете {0_law}, это позволит {1,2_character} взойти на трон.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_AMBITION_POPUP</zType>
-		<Translation>You have completed an Ambition: {0}</Translation>
+		<Translation>Вы завершили Амбицию: {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_LEGACY_POPUP</zType>
-		<Translation>You have completed a Legacy: {0}</Translation>
+		<Translation>Вы завершили Наследие: {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_AMBITION_IMPOSSIBLE</zType>
-		<Translation>This Ambition is now impossible and has been removed: {0}</Translation>
+		<Translation>Эта Амбиция стала недоступной и исключена из списка: {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_QUEST_IMPOSSIBLE</zType>
-		<Translation>This Quest is now impossible and has been removed: {0}</Translation>
+		<Translation>Это задание стало недоступным и исключено из списка: {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_BARBARIAN_WAVE_COMING_POPUP</zType>
-		<Translation>Your sentries inform you that a Barbarian Wave is likely to erupt in the coming years.</Translation>
+		<Translation>Ваши дозорные доложили о варварских набегах, которые ожидаются в ближайше годы.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_COURTIER_JOINED_POPUP</zType>
-		<Translation>{0_character} has joined your Court!</Translation>
+		<Translation>{0_character} присоединяется ко двору!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_ADULT_POPUP</zType>
-		<Translation>{0_character} is now an adult (age {1_age})</Translation>
+		<Translation><![CDATA[{0_character} больше не ребенок ({1_age} <singular_1>год<plural>года<plural2>лет<end>)]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_DESIRED_AMBITION</zType>
-		<Translation>{0_character} now has a new Desired Ambition: {1_goal}</Translation>
+		<Translation>{0_character} получает новую Абмицию: {1_goal}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_COVER_DEBTS_LOG_DATA</zType>
-		<Translation>Sold {0_goodsList} to cover debts!</Translation>
+		<Translation>{0,3_goodsList} пришлось продать, чтобы покрыть долги!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_FOUNDED_CITY_LOG_DATA</zType>
-		<Translation>Founded {0_city}</Translation>
+		<Translation>Основан г. {0_city}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DISCOVERED_TECH_LOG_DATA</zType>
-		<Translation>Discovered {0_tech}</Translation>
+		<Translation>Открыта технология {0_tech}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_LOSES_PROJECT</zType>
-		<Translation>{0_city} loses a Project: {1_project}</Translation>
+		<Translation>{0_city} теряет проект: {1_project}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_FINISHED_PROJECT_LOG_DATA</zType>
-		<Translation>{0_city} finished a Project: {1_project}</Translation>
+		<Translation>{0_city} завершает проект: {1_project}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_DEVELOPED_SPECIALIST_LOG_DATA</zType>
-		<Translation>{0_city} developed {1,1_specialist}</Translation>
+		<Translation>В г. {0_city} обучен {1_specialist}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_TRAINED_UNIT_LOG_DATA</zType>
-		<Translation>{0_city} trained {1,1_unit}</Translation>
+		<Translation>В г. {0_city} обучен отряд {1,7_unit}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_GAINS_TRAIT</zType>
-		<Translation>{0_character} is now {1_trait}!</Translation>
+		<Translation>{0_character} становится {1,4_trait}!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_LOSES_TRAIT</zType>
-		<Translation>{0_character} is no longer {1_trait}!</Translation>
+		<Translation>{0_character} перестает быть {1,4_trait}!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_TUTORS_CHILD</zType>
-		<Translation>{0_tutorCharacter} {1_tutorsVerb} {2_character}: +1 {3_ratingLink}</Translation>
+		<Translation>{0_tutorCharacter} {1_tutorsVerb} {2,3_character}: +1 {3_ratingLink}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_TUTORS_CHILD_VERB</zType>
-		<Translation>tutors</Translation>
+		<Translation>обучает</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_ACQUIRES_TRAIT</zType>
-		<Translation>{0_character} has acquired a new Trait: {1_trait}!</Translation>
+		<Translation>{0_character} получает черту {1_trait}!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_RAID_WARNING</zType>
-		<Translation>Reports of a Barbarian Raid near {0_city}!</Translation>
+		<Translation>Возле г. {0_city} замечены варвары!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_GIVE_BIRTH_LOG_DATA</zType>
-		<Translation>{0_childName} was born!</Translation>
+		<Translation>{0_childName} появляется на свет!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_GIVE_BIRTH_LEADER</zType>
-		<Translation><![CDATA[<true_0>You have<false>Your wife has<end> given birth to a <masculine_1>son<feminine>daughter<end>, {1_childName}!]]></Translation>
+		<Translation><![CDATA[У вас <masculine_1>родился сын<feminine>родилась дочь<end>, {1_childName}!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_GIVE_BIRTH_LEADER_ILLEGITIMATE</zType>
-		<Translation><![CDATA[<comment variable 0 is the leader i.e. "you" for gender purposes for foreign languages>You have a new illegitimate <masculine_1>son<feminine>daughter<end>, {1_childName}!]]></Translation>
+		<Translation><![CDATA[<comment variable 0 is the leader i.e. "you" for gender purposes for foreign languages>У вас <masculine_1>родился внебрачный сын<feminine>родилась внебрачная дочь дочь<end>, {1_childName}!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_GIVE_BIRTH_NON_LEADER</zType>
-		<Translation><![CDATA[{0_father} and {1_mother} have given birth to a <masculine_2>son<feminine>daughter<end>, {2_childName}!]]></Translation>
+		<Translation><![CDATA[У {0_father} и {1_mother} <masculine_2>родился сын<feminine>родилась дочь<end>, {2_childName}!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_GIVE_BIRTH_NON_LEADER_ILLEGITIMATE</zType>
-		<Translation><![CDATA[{0_father} has a new illegitimate <masculine_1>son<feminine>daughter<end>, {1_childName}!]]></Translation>
+		<Translation><![CDATA[У {0_father} <masculine_1>родился внебрачный сын<feminine>родилась внебрачная дочь<end>, {1_childName}!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_EVENT_CITY_LOG_DATA</zType>
-		<Translation>{0_event} in {1_city}</Translation>
+		<Translation>{0_event} в г. {1_city}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM</zType>
-		<Translation>Team {0_teamNum}</Translation>
+		<Translation>Команда {0_teamNum}</Translation>
 	</Entry>
 	<!--Decisions-->
 	<Entry>
 		<zType>TEXT_GAME_DECISION_RETIRING_GENERAL_TITLE</zType>
-		<Translation>Retiring General</Translation>
+		<Translation>Отставка генерала</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DECISION_RETIRING_GENERAL</zType>
-		<Translation>{0_character}, General of the {1_unit} is too old and has retired from the field.</Translation>
+		<Translation>{0_character}, генерал {1,7_unit}, отправляется в отставку из-за своих преклонных лет.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DECISION_RETIRING_GENERAL_PROMPT</zType>
-		<Translation>Choose New General</Translation>
+		<Translation>Выбрать нового генерала</Translation>
 	</Entry>
 	<!--Do Bonus-->
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MEMORY_ALL_PLAYERS</zType>
-		<Translation>All Famil(ies): {0_memory} ({1_value} Opinion)</Translation>
+		<Translation>)Все семьи: {0_memory} ({1_value} мнение о правителе)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MEMORY_ALL_FAMILIES</zType>
-		<Translation>All Famil(ies): {0_memory} ({1_value} Opinion)</Translation>
+		<Translation>Все семьи: {0_memory} ({1_value} мнение о правителе)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MEMORY_SUBJECT</zType>
-		<Translation>{0_subject}: {1_memory} ({2_value} Opinion)</Translation>
+		<Translation>{0_subject}: {1_memory} ({2_value} мнение о правителе)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_FORGET_SUBJECT</zType>
-		<Translation>{0_subject}: Forgets {1_memory} ({2_value} Opinion)</Translation>
+		<Translation>{0_subject}: Забывает {1_memory} ({2_value} мнение о правителе)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_END_ALLIANCE</zType>
-		<Translation>End {0_alliance} with {1_subject}</Translation>
+		<Translation>Расторгнуть {0,3_alliance} с {1,4_subject}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_DIPLOMACY_WITH_PLAYER</zType>
-		<Translation>{0_diplomacy} with {1_player}</Translation>
+		<Translation>{0_diplomacy} с {1,4_player}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_SEND_PLAYER</zType>
-		<Translation>Send {0_trade} to {1_player}</Translation>
+		<Translation>Отправить {0,3_trade} {1,2_player}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_TRADE_PLAYER</zType>
-		<Translation>{0_trade} Trade with {1_player}</Translation>
+		<Translation>{0_trade} бонус {1,1_player} от торговли</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_TRIBUTE_PLAYER</zType>
-		<Translation>{0_tribute} Tribute with {1_player}</Translation>
+		<Translation>{0_tribute} дань от {1,1_player}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_OTHER_PLAYER_DIPLOMACY</zType>
-		<Translation>{0_other} at {1_diplomacy} with {2_target}</Translation>
+		<Translation>{0_other} в состоянии {1,1_diplomacy} с {2,4_target}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_DIPLOMACY_BARBARIAN</zType>
-		<Translation>{0_diplomacy} with {1_barbarian}</Translation>
+		<Translation>{0_diplomacy} с {1,4_barbarian}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_TRIBUTE_BARBARIAN</zType>
-		<Translation>{0_tribute} Tribute with {1_barbarian}</Translation>
+		<Translation>{0_tribute} Дань от {1,1_barbarian}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_ADOPT_RELIGION</zType>
-		<Translation>Adopts {0_religion} as State Religion</Translation>
+		<Translation>Объявляет {0,3_religion} государственной религией</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_STATE_RELIGION</zType>
-		<Translation>Adopts {0_religion} as State Religion</Translation>
+		<Translation>Объявляет {0_religion} государственной религией</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_SPREAD_RELIGION</zType>
-		<Translation>{0_religion} Spreads to {1_city}</Translation>
+		<Translation>{0_religion} распространяется по г. {1_city}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_FAMILY_LAW</zType>
-		<Translation>{0_family}: {1_law} Opinion {2_value}</Translation>
+		<Translation>{0_family}: {1_law} мнение о правителе {2_value}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_START_LAW</zType>
-		<Translation>Start {0_law}</Translation>
+		<Translation>Принять {0_law}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_FREE_LAW</zType>
-		<Translation>Free {0_law}</Translation>
+		<Translation>Бесплатно принять {0_law}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_FREE_THEOLOGY</zType>
-		<Translation>Free {0_theology} ({1_religion})</Translation>
+		<Translation>Бесплатно принять {0,3_theology} ({1_religion})</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_FOUND_RELIGION_CITY</zType>
-		<Translation>Found {0_religion}</Translation>
+		<Translation>Основать {0,3_religion}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CITIZENS</zType>
-		<Translation><![CDATA[{0_value} <singular_0>{1_citizenLink}<plural>{1,2_citizenLink}<end>]]></Translation>
+		<Translation><![CDATA[{0_value} за <singular_0>{1_citizenLink}<plural>{1,7_citizenLink}<plural2>{1,7_citizenLink}<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_BORDER_GROWTH</zType>
-		<Translation><![CDATA[{0_value} Border <singular_0>Tile<plural>Tiles<end>]]></Translation>
+		<Translation><![CDATA[{0_value} <singular_0>клетка<plural>клетки<plural2>клеток<end> территории]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CULTURE_LEVELS</zType>
-		<Translation><![CDATA[{0_value} <singular_0>{1_culture}<plural>{1,2_culture}<end>]]></Translation>
+		<Translation><![CDATA[{0_value} за <singular_0>{1_culture}<plural>{1,3_culture}<plural2>{1,3_culture}<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_DISCONTENT_LEVELS</zType>
-		<Translation><![CDATA[{0_value} Discontent <singular_0>Level<plural>Levels<end>]]></Translation>
+		<Translation><![CDATA[{0_value} за <singular_0>уровень<plural>уровни<plural2>уровни<end> недовольства]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_REBEL_UNITS</zType>
-		<Translation><![CDATA[{0_value} {1_rebel} <singular_0>Unit<plural>Units<end>]]></Translation>
+		<Translation><![CDATA[{0_value} за <singular_0>отряд<plural>отряды<plural2>отряды<end> {1,1_rebel}]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_IMPROVEMENTS_DESTROYED</zType>
-		<Translation><![CDATA[{0_value} <singular_0>Improvement<plural>Improvements<end> Destroyed]]></Translation>
+		<Translation><![CDATA[{0_value} за <singular_0>разрушенную постройку<plural>разрушенные постройки<plural2>разрушенные постройки<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_HP</zType>
@@ -333,7 +333,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_AGENT_CITY</zType>
-		<Translation>{0_character} becomes link(CONCEPT_AGENT)</Translation>
+		<Translation>{0_character} Становится link(CONCEPT_AGENT,4)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_PLUS_ONE</zType>
@@ -345,131 +345,131 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MEMORY_CHARACTER</zType>
-		<Translation>{0_memory} ({1_value} Opinion)</Translation>
+		<Translation>{0_memory} ({1_value} мнение о правителе)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_FORGET_CHARACTER</zType>
-		<Translation>Forgets {0_memory} ({1_value} Opinion)</Translation>
+		<Translation>Забывает {0_memory} ({1_value} мнение о правителе)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_DESIRED AMBITION</zType>
-		<Translation>Becomes {0}</Translation>
+		<Translation>Становится {0,4}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DO_BONUS_DESIRED_AMBITION</zType>
-		<Translation>Desires {0}</Translation>
+		<Translation>Желает {0,3}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_RANDOM_TRAIT</zType>
-		<Translation>{0_character} becomes {1_trait}</Translation>
+		<Translation>{0_character} становится {1,4_trait}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_GAINS</zType>
-		<Translation>Becomes {0}</Translation>
+		<Translation>Становится {0,4}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_LOSES</zType>
-		<Translation>No longer {0}</Translation>
+		<Translation>Перестает быть {0,4}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MAKE_COURTIER</zType>
-		<Translation>Make Courtier: {0_courtier}</Translation>
+		<Translation>Пригласить ко двору: {0_courtier}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_STARTS_MISSION</zType>
-		<Translation>{0_character} Starts Mission: {1_mission}</Translation>
+		<Translation>{0_character} выполнит поручение: {0_mission}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MAKE_COUNCIL</zType>
-		<Translation>Make Council: {0_council}</Translation>
+		<Translation>Назначить советником : {0_council}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_NICKNAME</zType>
-		<Translation>Becomes known as {0_nickname}</Translation>
+		<Translation>Теперь известен как {0_nickname}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_PLAYER_START_LAW</zType>
-		<Translation>{0_player}: Start {1_law}</Translation>
+		<Translation>{0_player}: Принять {1_law}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_PLAYER_END_LAW</zType>
-		<Translation>{0_player}: End {1_law}</Translation>
+		<Translation>{0_player}: Отменить {1_law}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_PLAYER_FREE_LAW</zType>
-		<Translation>{0_player}: Free {1_law}</Translation>
+		<Translation>{0_player}: Бесплатно принять {1_law}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_LEAVE_COURT</zType>
-		<Translation>Leave Court</Translation>
+		<Translation>Покинуть двор</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_LEAVE_COUNCIL</zType>
-		<Translation>Resign as {0_council}</Translation>
+		<Translation>Переназначить в качестве {0,1_council}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MAKE_GOVERNOR</zType>
-		<Translation>Governor of {0_city}</Translation>
+		<Translation>Губернатор г. {0_city}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MAKE_GENERAL</zType>
-		<Translation>General of {0_unit}</Translation>
+		<Translation>Генерал {0,7_unit}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_SEIZE_THRONE</zType>
-		<Translation>Leader of {0_player}</Translation>
+		<Translation>Правитель {0,1_player}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_RELEASE_GENERAL_UNIT</zType>
-		<Translation>Leave {0_unit}</Translation>
+		<Translation>Покинуть {0,9_unit}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_RELEASE_GENERAL</zType>
-		<Translation>Leave Unit</Translation>
+		<Translation>Покинуть отряд</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_ADOPTION</zType>
-		<Translation>Adopted by {0_parent}</Translation>
+		<Translation><![CDATA[{0_parent} <masculine_1>принял в семью<feminine>приняла в семью<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MARRIES</zType>
-		<Translation>Marries {0_suitor}</Translation>
+		<Translation>Вступает в брак с {0,4_suitor}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_DIVORCES</zType>
-		<Translation>Divorces {0_spouse}</Translation>
+		<Translation>Разводится с {0,4_spouse}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_ABDICATES</zType>
-		<Translation>Abdicates</Translation>
+		<Translation>Отрекается от престола</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CHOSEN_HEIR</zType>
-		<Translation>Is Chosen Heir</Translation>
+		<Translation>Провозглашенный наследник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_DOOM_CHARACTER</zType>
-		<Translation>is Doomed</Translation>
+		<Translation>осужден(а)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_KILL_CHARACTER</zType>
-		<Translation>Dies</Translation>
+		<Translation>Умирает</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_HAS_ILLEGITIMATE_CHILD</zType>
-		<Translation>Has an Illegitimate Child</Translation>
+		<Translation>Имеет внебрачного ребенка</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_RELATIONSHIP_ADD</zType>
-		<Translation>Is {0_relationship} {1_character}</Translation>
+		<Translation>в {0,5_relationship} с {1,4_character}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_RELATIONSHIP_ADD_REMOVE</zType>
-		<Translation> (Removes {0_relationship}...)</Translation>
+		<Translation> (прекращает {0_relationship}...)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_RELATIONSHIP_REMOVE</zType>
-		<Translation>Not {0_relationship} {1_character}</Translation>
+		<Translation>Не в {0,5_relationship} с {1,4_character}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_XP</zType>
@@ -477,67 +477,67 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_KILL_UNIT</zType>
-		<Translation>Dies</Translation>
+		<Translation>Умирает</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_REVEAL_RANGE</zType>
-		<Translation><![CDATA[Reveals All {0_dist} <singular_0>Tile<plural>Tiles<end> Away]]></Translation>
+		<Translation><![CDATA[Открывает <singular_0>{0_dist} клетку<plural>{0_dist} клетки<plural2>{0_dist} клетки<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_SET_VEGETATION</zType>
-		<Translation>Set {0_vegetation} on {1_tile}</Translation>
+		<Translation>Посадить {0,3_vegetation} на {1,5_tile}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_SET_RESOURCE</zType>
-		<Translation>Set {0_resource} on {1_tile}</Translation>
+		<Translation>Добавить {0,3_resource} на {1,5_tile}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_SET_IMPROVEMENT</zType>
-		<Translation>Set {0_improvement} on {1_tile}</Translation>
+		<Translation>Построить {0,3_improvement} на {1,5_tile}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_REMOVE_VEGETATION</zType>
-		<Translation>{0_vegetation} from {1_tile}</Translation>
+		<Translation>Очистить от {0,1_vegetation} {1,3_tile}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_PLAYER_ADOPT_RELIGION</zType>
-		<Translation>{0_player}: Adopt {1_religion} as State Religion</Translation>
+		<Translation>{0_player}: объявляет {1,3_religion} государственной религией</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_PLAYER_FREE_THEOLOGY</zType>
-		<Translation>{0_player}: Free {1_theology} ({2_religion})</Translation>
+		<Translation>{0_player}: бесплатно принимает {1,3_theology} ({2_religion})</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_FOUND_RELIGION</zType>
-		<Translation>{0_player}: Found {1_religion}</Translation>
+		<Translation>{0_player}: основывает {1,3_religion}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_STATE_RELIGION_END</zType>
-		<Translation>{0_player}: End State Religion ({1_religion})</Translation>
+		<Translation>{0_player}: прекращает государственную поддержку религии ({1_religion})</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_TECH</zType>
-		<Translation>{0_player}: {1_tech} (Tech)</Translation>
+		<Translation>{0_player}: {1_tech} (технология)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_POPUP_BONUS_TECH</zType>
-		<Translation>{0_player} discovers a new technology: {1_tech}.</Translation>
+		<Translation>{0_player} открывает новую технологию: {1_tech}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_LOG_DATA</zType>
-		<Translation>From {0}: </Translation>
+		<Translation>Из {0}: </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_FINISHED_MISSION</zType>
-		<Translation>{0_character} has finished {1_mission}</Translation>
+		<Translation>{0_character} завершает {1_mission}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_MISSION_NO_EFFECT</zType>
-		<Translation>No Effect</Translation>
+		<Translation>Нет эффекта</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_ATTACK_CRITICAL</zType>
-		<Translation>Critical! </Translation>
+		<Translation>Критическая атака! </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_ATTACK_DAMAGE</zType>
@@ -545,47 +545,47 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_ATTACKED_LOG_DATA</zType>
-		<Translation>{0_city} Attacked!</Translation>
+		<Translation>г. {0_city} атакован!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CAMP_DESTROYED_LOG_DATA</zType>
-		<Translation>{0_barbarian} {1_improvement} Destroyed!</Translation>
+		<Translation>{0,12_barbarian} {1_improvement} разрушено!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_CAPTURED_LOG_DATA</zType>
-		<Translation>{0_city} captured by {1_player}</Translation>
+		<Translation>г. {0_city} захвачен {1,4_player}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_WE_CAPTURED_LOG_DATA</zType>
-		<Translation>{0_city} captured from {1_player}</Translation>
+		<Translation>г. {0_city} захвачен {1,4_player}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_CANCEL_BUILD_LOG_DATA</zType>
-		<Translation>{0_build} cancelled in {1_city}</Translation>
+		<Translation>В г. {1_city} отменено строительство {0,1_build}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_DISCONTENT_CHANGE_LOG_DATA</zType>
-		<Translation><![CDATA[{0_level} Discontent <singular_0>Level<plural>Levels<end> in {1_city}]]></Translation>
+		<Translation><![CDATA[в г. {1_city} {0_level} <singular_0>Уровень<plural>Уровня<plural2>Уровней<end> недовольства]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_ATTACKED_LOG_DATA</zType>
-		<Translation>{0_unit} Attacked!</Translation>
+		<Translation>Отряд {0,7_unit} атакован!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_KILLED</zType>
-		<Translation>{0_unit} Killed!</Translation>
+		<Translation>Отряд {0,7_unit} убит!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_SEEN</zType>
-		<Translation>Hostile {0_unit} seen!</Translation>
+		<Translation>Замечен отряд вражеских {0,7_unit}!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_LAUNCH_OFFENSIVE_LOG_DATA</zType>
-		<Translation>{0_unit} launches an Offensive!</Translation>
+		<Translation>{0,6_unit} начинают наступление!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_ESTABLISH_THEOLOGY_LOG_DATA</zType>
-		<Translation>{0,1_religion} {1_theology} established by {2_player} in {3_city}!</Translation>
+		<Translation>{2_player} принимает {1,3_theology} {0,1_religion} в г. {3_city}!</Translation>
 	</Entry>
 	<!--Tile Renderer-->
 	<Entry>
@@ -594,15 +594,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TILE_UNREVEALED_SITE</zType>
-		<Translation>Unrevealed Site</Translation>
+		<Translation>Скрытое место</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TILE_NEXT_UNIT</zType>
-		<Translation>Next Unit: {0_turns}</Translation>
+		<Translation>Следующий отряд: {0_turns}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TILE_IMPROVEMENT_UNFINISHED_TURNS</zType>
-		<Translation>Unfinished: {0_turns}</Translation>
+		<Translation>Незавершено: {0_turns}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TILE_IMPROVEMENT_UPGRADE</zType>
@@ -610,35 +610,35 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UPLOADING_GAME_POPUP</zType>
-		<Translation>Game uploading...</Translation>
+		<Translation>Игра загружается...</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_NOT_CONNECTED_TO_ONLINE_SERVICES_POPUP</zType>
-		<Translation>Not Connected to online services</Translation>
+		<Translation>нет соединения со службами</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UPLOAD_COMPLETE_POPUP</zType>
-		<Translation>Game Upload Complete</Translation>
+		<Translation>Игра загружена</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UPLOAD_FAILED_POPUP</zType>
-		<Translation>Game Upload Failed</Translation>
+		<Translation>Ошибка загрузки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_SAVED</zType>
-		<Translation>Game Saved</Translation>
+		<Translation>Игра сохранена</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_FAILED_TO_SAVE</zType>
-		<Translation>Failed to Save</Translation>
+		<Translation>Ошибка сохранения</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHAT_ALL_TAG</zType>
-		<Translation>ALL</Translation>
+		<Translation>ВСЕ</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHAT_TEAM_TAG</zType>
-		<Translation>TEAM</Translation>
+		<Translation>КОМАНДА</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHAT_MESSAGE_FORMAT</zType>
@@ -646,7 +646,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TILE_NOT_UNLIMBERED</zType>
-		<Translation>Not Unlimbered</Translation>
+		<Translation>Не подготовлено</Translation>
 	</Entry>
 	<!--Unit-->
 	<Entry>
@@ -655,7 +655,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_TILE_LEVEL_UP</zType>
-		<Translation>{0} Level!</Translation>
+		<Translation>{0}-й уровень!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_TILE_GAIN_XP</zType>
@@ -667,56 +667,56 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_PILLAGED_IMPROVEMENT</zType>
-		<Translation>{0} Pillaged!</Translation>
+		<Translation>{0} разграблено!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_FINISHED_TRADE_ROUTE</zType>
-		<Translation>Trade Route Complete: {0}</Translation>
+		<Translation>Создан торговый маршрут: {0}</Translation>
 	</Entry>
 	<!--City-->
 	<Entry>
 		<zType>TEXT_GAME_CITY_YIELD_FROM_CULTURE_EVENT</zType>
-		<Translation>{0} from link(CONCEPT_CULTURE_EVENT)</Translation>
+		<Translation>{0} за link(CONCEPT_CULTURE_EVENT,3)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_REBEL_UNITS_NEAR_CITY</zType>
-		<Translation>Rebels have formed a {0_unit} near {1_city}!</Translation>
+		<Translation>Около города {1_city} появились {0,6_unit} мятежников!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_CURRY_POPULATION_CITIZENS_COST</zType>
-		<Translation>{0} Citizen(s)</Translation>
+		<Translation><![CDATA[{0} <singular_0>житель<plural>жителя<plural2>жителей<end>]]></Translation>
 	</Entry>
 	<!--Player-->
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_RESOURCE_SHORTFALL</zType>
-		<Translation>Resource Shortfall: Spent {0} to buy {1}</Translation>
+		<Translation>Нехватка ресурсов: купить {1} за {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_MISSION_CANCELLED</zType>
-		<Translation>{0}'s Mission is Cancelled: {1}</Translation>
+		<Translation>{0} не выполняет поручение: {1}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_YIELD_ORDERS_SOLD_FOR_YIELD</zType>
-		<Translation>{0} is sold for {1}</Translation>
+		<Translation><![CDATA[{0} <singular_0>продан<plural>продано<plural2>продано<end> за {1}]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_YIELD_YIELD_CONVERTED_TO_ORDERS</zType>
-		<Translation>{0} is converted into {1}</Translation>
+		<Translation>{0} переведено в {1}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_SAVE_AND_RELOAD_TO_PLAY_POPUP</zType>
-		<Translation>Save and reload to play as next player</Translation>
+		<Translation>Сохранитесь и загрузите игру, чтобы управлять следующей нацией</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_FAILED_TO_UPLOAD_TO_CLOUD_POPUP</zType>
-		<Translation>Failed to upload</Translation>
+		<Translation>Ошибка загрузки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_YIELD_GIFT_RECIEVED</zType>
-		<Translation>{0_amount} {1} Received!</Translation>
+		<Translation>Получено {0_amount} {1}!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_DECLARED_WAR_ON</zType>
-		<Translation>Declared war on {0_strength} {1}</Translation>
+		<Translation>Объявлена война {0_strength} {1}</Translation>
 	</Entry>
 </Root>
