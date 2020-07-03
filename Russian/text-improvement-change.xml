@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
-<!--Translated by Elena Davydova (Bada)-->
 <Root>
 	<!--Assets/GameAssets/Resources/Infos/improvement.xml-->
 	<!--NOTE: improvement names that are mass nouns or plural do not need multiple types in Translation-->
-	<!--Проверить и учесть коммент выше-->
 	<Entry>
 		<zType/>
 		<Translation/>
@@ -19,11 +17,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_RUINS_1</zType>
-		<Translation>Руины дома~Руин дома~Руинам дома~Руины дома~Руинами дома~Руинах дома</Translation>
+		<Translation>Руины укрытия~Руин укрытия~Руинам укрытия~Руины укрытия~Руинами укрытия~Руинах укрытия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_RUINS_2</zType>
-		<Translation>Руины заставы~Руин заставы~Руинам заставы~Руины заставы~Руинами заставы~Руинах заставы</Translation>
+		<Translation>Руины укрепления~Руин укрепления~Руинам укрепления~Руины укрепления~Руинами укрепления~Руинах укрепления</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_RUINS_3</zType>
@@ -35,11 +33,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SETTLEMENT_1</zType>
-		<Translation>Дом~Дома~Дому~Дом~Домом~Доме</Translation>
+		<Translation>Укрытие~Укрытия~Укрытию~Укрытие~Укрытием~Укрытии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SETTLEMENT_2</zType>
-		<Translation>Застава~Заставы~Заставе~Заставу~Заставой~Заставе</Translation>
+		<Translation>Укрепление~Укрепления~Укрпелению~Укрепление~Укреплением~Укреплении</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SETTLEMENT_3</zType>
@@ -373,73 +371,73 @@
 		<zType>TEXT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY</zType>
 		<Translation>Храм Гроба Господня</Translation>
 	</Entry>
-	<Entry>
+	<Entry> <!--именительный, родительный, винительный-->
 		<zType>TEXT_IMPROVEMENT_HOLY_SITE_MANICHAEISM</zType>
-		<Translation>Цаоань</Translation>
+		<Translation>Цаоань~Цаоань~Цаоань</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_PYRAMIDS</zType>
-		<Translation>Пирамиды</Translation>
+		<Translation>Пирамиды~Пирамид~Пирамиды</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GREAT_ZIGGURAT</zType>
-		<Translation>Великий Зиккурат</Translation>
+		<Translation>Великий Зиккурат~Великого Зиккурата~Великий Зиккурат</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_ORACLE</zType>
-		<Translation>Оракул</Translation>
+		<Translation>Оракул~Оракула~Оракул</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HANGING_GARDENS</zType>
-		<Translation>Висячие сады</Translation>
+		<Translation>Висячие сады~Висячих садов~Висячие сады</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_NECROPOLIS</zType>
-		<Translation>Некрополь</Translation>
+		<Translation>Некрополь~Некрополя~Некрополь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_ISHTAR_GATE</zType>
-		<Translation>Ворота Иштара</Translation>
+		<Translation>Ворота Иштара~Ворот Иштара~Ворота Иштара</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LIGHTHOUSE</zType>
-		<Translation>Фаросский Маяк</Translation>
+		<Translation>Фаросский Маяк~Фаросского Маяка~Фаросский Маяк</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_APADANA</zType>
-		<Translation>Ападана</Translation>
+		<Translation>Ападана~Ападаны~Ападану</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MAUSOLEUM</zType>
-		<Translation>Галикарнасский Мавзолей</Translation>
+		<Translation>Галикарнасский Мавзолей~Гарикарнасского Мавзолея~Гарикарнасский Мавзолей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_ACROPOLIS</zType>
-		<Translation>Афинский Акрополь</Translation>
+		<Translation>Афинский Акрополь~Афинского Акрополя~Афинский Акрополь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_COLOSSUS</zType>
-		<Translation>Колосс</Translation>
+		<Translation>Колосс~Колосса~Колосс</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MUSAEUM</zType>
-		<Translation>Александрийская библиотека</Translation>
+		<Translation>Александрийская библиотека~Александрийской Библиотеки~Александрийскую библиотеку</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CIRCUS_MAXIMUS</zType>
-		<Translation>Большой цирк</Translation>
+		<Translation>Большой цирк~Большого цирка~Большой цирк</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_PANTHEON</zType>
-		<Translation>Пантеон</Translation>
+		<Translation>Пантеон~Пантеона~Пантеон</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HAGIA_SOPHIA</zType>
-		<Translation>Собор Святой Софии</Translation>
+		<Translation>Собор Святой Софии~Собора Святой Софии~Собор Святой Софии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GRAND_BAZAAR</zType>
-		<Translation>Гранд-Базар</Translation>
+		<Translation>Гранд-Базар~Гранд-Базара~Гранд-Базар</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LAURION_MINE</zType>
