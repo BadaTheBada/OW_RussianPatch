@@ -2283,145 +2283,145 @@ More funds would show the followers of {RELIGION-2} that the throne means to sup
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_UNEXPECTED_FEELINGS</zType>
-		<Translation><![CDATA[Chancellor {CHARACTER-SHORT-0}'s mission to win the support of the {FAMILY-1} family has ended successfully. However, there has been an unexpected outcome. {CHARACTER-3}, of house {FAMILY-1}, now believes that you have some personal interest in <masculine_CHARACTER-3>him<feminine>her<end>. 
+		<Translation><![CDATA[Миссия канцлера {CHARACTER-SHORT-0} заполучить поддержку семьи {FAMILY-1} успешно завершена. Тем не менее, произошло кое-что неожиданное. {CHARACTER-3}, дома {FAMILY-1}, теперь предполагает, что вы лично в <masculine_CHARACTER-3>нём<feminine>ней<end> заинтересованы.
 
-<masculine_CHARACTER-3>He<feminine>She<end> requests that you visit the {FAMILY-1} estates to spend some quality time together.]]></Translation>
+<masculine_CHARACTER-3>Он<feminine>Она<end> просит вас посетить поместье {FAMILY-1}, чтобы провести вместе время.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WHAT_IS_ART</zType>
-		<Translation>Pleased with the gifts you sent with Chancellor {CHARACTER-SHORT-0}, the {FAMILY-1} family has chosen to reciprocate. {CHARACTER-SHORT-0} returns to the palace with a life-size statue of your likeness. Sadly, it is not very flattering. Or very good. In fact, some consider it a monstrosity. 
+		<Translation>Довольная подарками, которые вы отправили с канцлером {CHARACTER-SHORT-0}, семья {FAMILY-1} решила ответить взаимностью. {CHARACTER-SHORT-0} возвращается во дворец с вашей статуей в полный рост. К сожалению, не очень удачной. Или не очень привлекательной. В общем, некоторые считают ее уродливой.
 
-What shall we do with this "gift?"</Translation>
+Как нам поступить с этим «подарком»?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHASTENED</zType>
-		<Translation><![CDATA[Chancellor {CHARACTER-SHORT-0} returns to the palace, chastened. <masculine_CHARACTER-0>He<feminine>She<end> relates what happened when <masculine_CHARACTER-0>he<feminine>she<end> visited the {FAMILY-1} estate, where he was accused of trying to bribe members of the family to align themselves with the throne.
+		<Translation><![CDATA[Канцлер {CHARACTER-SHORT-0} возвращается во дворец <masculine_CHARACTER-0> пристыженным. Он рассказал<feminine>пристыженной. Она рассказала<end>, что в поместье семьи {FAMILY-1} <masculine_CHARACTER-0>его<feminine>ее<end> обвинили в попытке подкупа, чтобы объединиться в борьбе за трон.
 
-Our efforts with the {FAMILY-1,1} have reached an impasse. What shall we do?]]></Translation>
+Наши попытки договориться с семьёй {FAMILY-1} зашли в тупик. Что следует предпринять?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DELIVERY_MISTAKE</zType>
-		<Translation>Confusion among the royal messengers leads to a diplomatic blunder. The gifts meant for the {FAMILY-1} family have been delivered to members of the {FAMILY-2} instead. Effects of the debacle can be felt in court, as courtiers of both families accuse the other of plotting and misdeeds.
+		<Translation>Путаница среди королевских посыльных приводит к дипломатическому скандалу. Подарки для семьи {FAMILY-1} были по ошибке доставлены членам семьи {FAMILY-2}. Мы ощущаем последствия этой ошибки: члены обеих семей обвиняют друг друга в заговоре и злодеяниях.
 
-What shall we do?</Translation>
+Что нам следует предпринять?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_POLITICS</zType>
-		<Translation><![CDATA[Upon receiving the gift from Chancellor {CHARACTER-SHORT-0}, {CHARACTER-3} of house {FAMILY-1} visits you in the palace. <masculine_CHARACTER-3>He<feminine>She<end> reveals that there are elements within the family that wish to see your downfall, most notably {CHARACTER-4}.
+		<Translation><![CDATA[Получив подарок от канцлера {CHARACTER-SHORT-0}, {CHARACTER-3} семья {FAMILY-1} наносит вам визит. <masculine_CHARACTER-3>Он<feminine>Она<end> делится информацией о членах семьи, которые желают вам краха, и прежде всего о {CHARACTER-4}.
 
-It is {CHARACTER-SHORT-3}'s advice that we remove {CHARACTER-SHORT-4} from any important roles on the court.]]></Translation>
+{CHARACTER-SHORT-3}советует вам снять {CHARACTER-SHORT-4} со всех важных постов в государстве.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRANSLATIONS</zType>
-		<Translation>The {FAMILY-0} family comes asking for us to translate foreign text into our own tongue. They say that it could expose us to important knowledge from the wider world.</Translation>
+		<Translation>Семья {FAMILY-0} обращается с просьбой перевести иностранный текст на родной язык. Они говорят, что это позволит расширить наши знания о мире.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FEMALE_EDUCATION</zType>
-		<Translation>Many of our elderly and elites are starting to voice concerns about educating women to be their equals. They want us to put a limit to how much education we can allow our women.</Translation>
+		<Translation>Многие старейшины и представители знати обеспокоены правом женщин на равное образование с мужчинами. Они просят нас ввести ограничения.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEMAND_CITY</zType>
-		<Translation>[STUB: THE {FAMILY-0} FAMILY IS DEMANDING THAT WE GIVE THEM THE CITY OF {CITY-2}]</Translation>
+		<Translation>[STUB: Семья {FAMILY-0} требует передать город {CITY-2} в их владение]</Translation>
 	</Entry>
 	<Entry beginGroup="Character">
 		<zType>TEXT_EVENTSTORY_DELICIOUS_DRINKS</zType>
-		<Translation><![CDATA[While attending a courtly feast, you are approached by a brooding stranger in fine, colorful robes. He hands you a cup and encourages you to join him in a toast. You do not recognize the beverage, but it smells rich and delicious.]]></Translation>
+		<Translation><![CDATA[Во время праздника во дворце к вам подходит странный незнакомец в красивой, разноцветной одежде. Он протягивает вам чашу и призывает поддержать тост. Вы не узнаёте напиток, но у него богатый и изысканный запах.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUDDEN_INSIGHT</zType>
-		<Translation><![CDATA[Nights can be long when you bear the mantle of leadership. However, one evening, as you lie in bed half asleep, you experience a flash of insight. Something bold. Something that will improve the lives of your subjects. 
+		<Translation><![CDATA[Ночи становятся длиннее, если на ваших плечах лежит мантия правителя. И вот, как-то вечером, в полудрёме, вас озаряет идеей. Очень смелой. Такой, что улучшит жизнь ваших подданных.
 
-What do you do?]]></Translation>
+Что вы предпримите?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TIME_FOR_A_BREAK</zType>
-		<Translation><![CDATA[Ruling a great nation takes its toll... Our court physician suggests that you retire to your private villa for a short rest. 
+		<Translation><![CDATA[Управление великой нацией забирает много сил... Ваш придворный врач советует оставить дела для короткого отдыха в личном особняке.
 
-How do you wish to spend your time away?]]></Translation>
+Как бы вы провели это время?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SPARE_TIME</zType>
-		<Translation><![CDATA[Despite your many responsibilities, you find yourself with several hours of extra time at the end of each day. Consider it a blessing. 
+		<Translation><![CDATA[Несмотря на множество обязанностей, в конце дня у вас остаётся немного времени. Считайте это благословением.
 
-How will you spend this time?]]></Translation>
+Как вы проведёте это время?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_EPIC_POETRY</zType>
-		<Translation><![CDATA[A young poetess versed in the art of reciting epics has appeared in court, asking for our patronage.
+		<Translation><![CDATA[Юная поэтесса, автор эпических поэм, появилась при дворе с просьбой о вашем покровительстве.
 
-What shall we tell her?]]></Translation>
+Что вы ей ответите?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LOOKING_OUTWARD</zType>
-		<Translation><![CDATA[We have decreed our desire to explore the limits of the known world and to establish contact with other nations. Now we must put these new laws into practice. 
+		<Translation><![CDATA[Мы заявили о своём желании исследовать границы известного мира и установить контакт с соседними народами. Пришло время применить эти законы на практике.
 
-How shall we proceed?]]></Translation>
+Как вы это сделаете?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_LOST_RELATIVE</zType>
-		<Translation>Whispers in {CITY-1} tell of a mysterious arrival to the city, a man who claims to be a lost member of the royal family. {CHARACTER-2}'s story has captured the heart of the people, and they seek to raise him up.
+		<Translation>По слухам, в городе {CITY-1} загадочным образом появился человек, называющий себя членом королевской семьи. История {CHARACTER-2} овладела сердцами людей, которые теперь желают его возвращения в семью.
 
-We should act quickly to address this news.</Translation>
+Вам следует действовать быстро.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_A_PRIVATE_AUDIENCE</zType>
-		<Translation><![CDATA[You meet with the supposed bloodline relative, a man named {CHARACTER-2}. He explains that his mother shared a tryst with your father years ago, making him your half brother. 
+		<Translation><![CDATA[Вы встречаетесь с человеком по имени {CHARACTER-2}, который считает себя вашим кроквным родственником. Он объясняет, что несколько лет назад его мать состояла в тайной любовной связи с вашим отцом, сделав вас таким образом сводными братьями.
 
-{CHARACTER-2} insists that his claim to the throne, while tainted, merits recognition.]]></Translation>
+{CHARACTER-2} настаивает, что его притязания на трон, хоть и не вполне моральны, но заслуживают признания.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_DEMAND_FOR_JUSTICE</zType>
-		<Translation><![CDATA[{CHARACTER-2}'s influence in the capital continues to grow unchecked. His supporters demand justice. Many see him as the rightful heir to the throne. At the very least, they believe he has a place in court.
+		<Translation><![CDATA[{CHARACTER-2} продолжает увеличивать свое влияние. Его сторонники требуют справедливости. Многие видят в нём законного наследника престола. По меньшей мере, они считают, что он должен занять место при дворе.
 
-As unrest grows in {CITY-1}, you are expected to act.]]></Translation>
+Поскольку волнения в городе {CITY-1} нарастают, вам следует действовать немедленно.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_INVESTIGATION_COMPLETE</zType>
-		<Translation><![CDATA[Our spymaster has discovered valuable information about {CHARACTER-2}, the man claiming to share your royal blood. 
+		<Translation><![CDATA[Наши агенты обнаружили ценную информацию о {CHARACTER-2}, который утверждает о своей принадлежности к королевской семье.
 
-He is an honest man, a philosopher. His claims to the throne are valid... but the proof could be easily destroyed.]]></Translation>
+Он честный человек, философ. Его притязания на трон верны.. Но доказательства легко уничтожить.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_PEACEMAKER</zType>
-		<Translation><![CDATA[An ongoing dispute between {PLAYER-1} and {PLAYER-2} has reached an impasse, and their ambassadors approach you as an objective third party.
+		<Translation><![CDATA[Продолжительный спор между {PLAYER-1,4} и {PLAYER-2,4} зашёл в тупик, их послы обращаются к вам как к третейскому судье.
 
-Militias from {PLAYER-1} chased barbarians into the borderlands of {PLAYER-2}, settling there once the fighting ceased. They ignore requests to relocate, and now {PLAYER-2} is threatening war.]]></Translation>
+{PLAYER-1,30} ополченцы разогнали варваров у границ {PLAYER-2,1}, взяв под контроль эти земли сразу после битвы. Они игнорируют требования о перемещении войск, и теперь {PLAYER-2} угрожает {PLAYER-1,2} войной.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_COURTLY_DRAMA</zType>
-		<Translation><![CDATA[Stories of a talented young dramatist have taken {CITY-1} by storm. Our advisors suggest that you grant him an audience.
+		<Translation><![CDATA[Истории талантливого драматурга покорили зрителей города {CITY-1}. Наши советники рекомендуют принять его при дворе.
 
-With much flattery, the writer asks if he may have the honor of creating a performance dramatizing your heroic feats.]]></Translation>
+Не без лести автор просит вас оказать ему честь и позволить написать пьесу о ваших подвигах.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_RISKY_EXPEDITION</zType>
-		<Translation><![CDATA[The {FAMILY-2} family has sent a small expeditionary force to make an assault against the {BARBARIAN-1,0}. They wish to reap the glory from a march on the barbarian stronghold.
+		<Translation><![CDATA[Семья {FAMILY-2} отправила небольшой отряд атаковать {BARBARIAN-1,1}. Они хотят прославиться, заняв их крепость.
 
-Is this folly?]]></Translation>
+Не глупо ли это?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_SIMPLE_GIFTS</zType>
-		<Translation><![CDATA[Quarry workers unearth an impressive burial site containing a cache of riches. The tomb belongs to a forgotten civilization, but our council sees no qualms with taking the loot.  
+		<Translation><![CDATA[Рабочие каменоломни находят впечатляющих размеров гробницу, полную сокровищ. Гробница принадлежит забытой цивилизации, но наш советник не видят проблемы в том, чтобы забрать клад.
 
-However, the minister {CHARACTER-1} suggests that we use the gold for the good of the people and not ourselves.]]></Translation>
+Тем временем, министр {CHARACTER-1} советует раздать деньги народу.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_TAX_HIKE</zType>
-		<Translation><![CDATA[Your financial minister proposes a new policy to increase the kingdom's production. "However, it may affect your reputation... poorly."
+		<Translation><![CDATA[Ваш министр финансов предлагает новый закон, позволяющий увеличить доход государства. "Но это может... отрицательно повлиять на вашу репутацию".
 
-Instituting stricter financial regulations will anger the populace, but the benefit in resources may be worth it.]]></Translation>
+Ужесточение финансовых требований вызовет гнев населения, но дополнительные ресурсы стоят того.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_FORBIDDEN_KNOWLEDGE</zType>
-		<Translation><![CDATA[Our scientists rave about the {BARBARIAN-1,0}, specifically the tribe's cult of mystics known as the Tree Seers. 
+		<Translation><![CDATA[Наши учёные в восторге от племени {BARBARIAN-1,1} и их культа вокруг тайновидцев, известных как друиды.
 
-They believe we should forge an alliance with the {BARBARIAN-1,0} to harness their forbidden knowledge. The question is whether we can trust the Tree Seers and their savage brethren?]]></Translation>
+Они считают, что мы должны заключить союз с {BARBARIAN-1,4} чтобы овладеть их тайными знаниями. Но можем ли мы доверять друидам и их диким собратьям?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_KIDNAPPED_CONSORT</zType>
-		<Translation><![CDATA[A warning arrives from the {PLAYER-1,2}. In a recent voyage abroad, your son {CHARACTER-2} took the {PLAYER-1,1} princess as his unwilling consort, and now he refuses to release her. 
+		<Translation><![CDATA[Вас прибыло предупреждение от {PLAYER-1,7}. В недавнем путешествии за границу, ваш сын {CHARACTER-2} взял в наложницы {PLAYER-1,27} принцессу и теперь отказывается ее освободить.
 
-The court is divided. If your son keeps the princess, the nation will be plunged into war, but bowing to foreign threats will embolden our enemies.]]></Translation>
+Двор расколот. Если ваш сын продолжит упорствовать, нация погрузится в войну, но уступив угрозам, мы воодушевим наших врагов.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_AMITY_OR_TREASON</zType>
