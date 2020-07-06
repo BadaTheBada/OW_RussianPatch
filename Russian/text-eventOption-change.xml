@@ -4659,279 +4659,279 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_UNEXPECTED_FEELINGS_OPTION_0</zType>
-		<Translation>I am flattered, but no thank you.</Translation>
+		<Translation>Мне льстит это предложение, но нет, спасибо.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_UNEXPECTED_FEELINGS_OPTION_1</zType>
-		<Translation>My heart belongs to another.</Translation>
+		<Translation>Мое сердце занято.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_UNEXPECTED_FEELINGS_OPTION_2</zType>
-		<Translation>We should explore this possibility.</Translation>
+		<Translation>Стоит рассмотреть эту возможность.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_UNEXPECTED_FEELINGS_OPTION_3</zType>
-		<Translation><![CDATA[I am a married <masculine_CHARACTER-2>man<feminine>woman<end>.]]></Translation>
+		<Translation><![CDATA[Я <masculine_CHARACTER-2>замужем<feminine>женат<end>.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_WHAT_IS_ART_OPTION_0</zType>
-		<Translation>Display it outside the court as a show of gratitude.</Translation>
+		<Translation>Установите около дворца в знак признательности.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_WHAT_IS_ART_OPTION_1</zType>
-		<Translation>Bring it out only when the {FAMILY-1,1} visit.</Translation>
+		<Translation>Установите около дворца только перед посещением семьи {FAMILY-1}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_WHAT_IS_ART_OPTION_2</zType>
-		<Translation>Salvage it for needed stone.</Translation>
+		<Translation>Переработайте статую в камень.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CHASTENED_OPTION_0</zType>
-		<Translation>No {PLAYER-2,1} noble family can resist fine luxuries.</Translation>
+		<Translation>Ни одна {PLAYER-2,24} благородная семья не устоит перед роскошью.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CHASTENED_OPTION_1</zType>
-		<Translation>Send the gift to the {FAMILY-4,1}. They will appreciate it. </Translation>
+		<Translation>Отправить подарок семье {FAMILY-4}. Они будут благодарны. </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CHASTENED_OPTION_2</zType>
-		<Translation>Recover as much of the lost money as you can.</Translation>
+		<Translation>Вернуть часть потерянных денег, насколько это возможно.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DELIVERY_MISTAKE_OPTION_0</zType>
-		<Translation>Make amends to the {FAMILY-1,1} with another gift.</Translation>
+		<Translation>Отправить другой подарок семье {FAMILY-1,1} в качестве компенсации.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DELIVERY_MISTAKE_OPTION_1</zType>
-		<Translation>Claim the the gift was for the {FAMILY-2,1} all along.</Translation>
+		<Translation>Заявить, что изначально подарок предназначался семье {FAMILY-2,1}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DELIVERY_MISTAKE_OPTION_2</zType>
-		<Translation>Remove {CHARACTER-0} for this terrible mistake.</Translation>
+		<Translation>Освободить {CHARACTER-0} с должности за эту ужасную оплошность.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_POLITICS_OPTION_0</zType>
-		<Translation>Ignore {CHARACTER-SHORT-3}'s warnings.</Translation>
+		<Translation>Игнорировать предупреждение {CHARACTER-SHORT-3,1}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_POLITICS_OPTION_1</zType>
-		<Translation>Reduce {CHARACTER-SHORT-4}'s influence on the court.</Translation>
+		<Translation>Уменьшить влияние {CHARACTER-SHORT-4,1} при дворе.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_POLITICS_OPTION_2</zType>
-		<Translation>Attempt to win {CHARACTER-SHORT-4}'s trust.</Translation>
+		<Translation>Попытаться завоевать доверие {CHARACTER-SHORT-4,1}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_POLITICS_OPTION_3</zType>
-		<Translation>Refuse to be swayed by family politics. </Translation>
+		<Translation>Не идти на поводу семейных интриг.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_TRANSLATIONS_YES</zType>
-		<Translation>Begin the translations now. Knowledge is worth it.</Translation>
+		<Translation>Сейчас же начать перевод. Знания стоят того.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_TRANSLATIONS_NO</zType>
-		<Translation>Ignorance is bliss. The people can be controlled better that way.</Translation>
+		<Translation>Невежество - благодать. Так проще контролировать людей.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STUDY_TRANSLATIONS_EDUCATED</zType>
-		<Translation>I will translate them myself, and I will be sure that it bolsters my image.</Translation>
+		<Translation>Я переведу тексты, чтобы укрепить свою репутацию.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FEMALE_EDUCATION_YES</zType>
-		<Translation>Education is provided to all people, equally.</Translation>
+		<Translation>Образование доступно всем в равной степени.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FEMALE_EDUCATION_NO</zType>
-		<Translation>We should keep our conservative ways to please the elderly and the elites.</Translation>
+		<Translation>Мы сохраним старый порядок, чтобы угодить старейшинам и знати. </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DEMAND_CITY_YES</zType>
-		<Translation>[YES]</Translation>
+		<Translation>[Да]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DEMAND_CITY_NO</zType>
-		<Translation>[NO]</Translation>
+		<Translation>[Нет]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DEMAND_CITY_WITTY</zType>
-		<Translation>[WITTY]</Translation>
+		<Translation>[Смешно]</Translation>
 	</Entry>
 	<Entry beginGroup="Character">
 		<zType>TEXT_EVENTOPTION_DELICIOUS_DRINKS_BOTTOMS_UP</zType>
-		<Translation><![CDATA[I will share in his revels.]]></Translation>
+		<Translation><![CDATA[Поддержать тост.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DELICIOUS_DRINKS_FRIEND</zType>
-		<Translation><![CDATA[Seat him at head of the table]]></Translation>
+		<Translation><![CDATA[Посадить его рядом с собой.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUDDEN_INSIGHT_UNVEIL</zType>
-		<Translation><![CDATA[Write it down and unveil it in the morning.]]></Translation>
+		<Translation><![CDATA[Запишу это, чтобы объявить утром.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUDDEN_INSIGHT_SELL</zType>
-		<Translation><![CDATA[Sell the idea to a wise merchant.]]></Translation>
+		<Translation><![CDATA[Продам идею мудрому торговцу.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TIME_FOR_A_BREAK_RELAX</zType>
-		<Translation><![CDATA[Relaxing and avoiding my duties.]]></Translation>
+		<Translation><![CDATA[Выберу отдых и отклекусь от обязанностей.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TIME_FOR_A_BREAK_GAMBLE</zType>
-		<Translation><![CDATA[Gambling with my closest friends.]]></Translation>
+		<Translation><![CDATA[Сыграю в карты с лучшими друзьями.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TIME_FOR_A_BREAK_DRINK</zType>
-		<Translation><![CDATA[Drinking and making merry.]]></Translation>
+		<Translation><![CDATA[Буду пить и веселиться.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SPARE_TIME_SCHOOL</zType>
-		<Translation><![CDATA[Establish a school of scholarly study.]]></Translation>
+		<Translation><![CDATA[Создам научную школу.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SPARE_TIME_LABOR</zType>
-		<Translation><![CDATA[Invest in training for skilled laborers.]]></Translation>
+		<Translation><![CDATA[Потрачу его на подгтовку рабочих.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SPARE_TIME_DRILL</zType>
-		<Translation><![CDATA[Drill our most elite military units.]]></Translation>
+		<Translation><![CDATA[Проведу обучение элитных войск.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_EPIC_POETRY_RECITE</zType>
-		<Translation><![CDATA[To recite her poems for the public.]]></Translation>
+		<Translation><![CDATA[Прочтите ее поэмы широкой публике.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_EPIC_POETRY_TEACH</zType>
-		<Translation><![CDATA[To teach me what she knows.]]></Translation>
+		<Translation><![CDATA[Обучите меня искусству поэзии.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_EPIC_POETRY_SERVICE</zType>
-		<Translation><![CDATA[To enter the court's service.]]></Translation>
+		<Translation><![CDATA[Присоединитесь к королевскому двору.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LOOKING_OUTWARD_MYSELF</zType>
-		<Translation><![CDATA[I will explore the world myself.]]></Translation>
+		<Translation><![CDATA[Я отправлюсь на поиски самостоятельно.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LOOKING_OUTWARD_SCOUTS</zType>
-		<Translation><![CDATA[Dispatch our swiftest scouts.]]></Translation>
+		<Translation><![CDATA[Отправим самых быстрых разведчиков.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_LOST_RELATIVE_OPTION_0</zType>
-		<Translation>Invite {CHARACTER-SHORT-2} to a private audience.</Translation>
+		<Translation>Пригласите {CHARACTER-SHORT-2} на частную аудиенцию.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_LOST_RELATIVE_OPTION_1</zType>
-		<Translation>Order the Spymaster to investigate {CHARACTER-SHORT-2}.</Translation>
+		<Translation>Приказать мастуре тайных дел разузнать всё о {CHARACTER-SHORT-2}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_LOST_RELATIVE_OPTION_2</zType>
-		<Translation>Ignore {CHARACTER-SHORT-2} and he will go away.</Translation>
+		<Translation>{CHARACTER-SHORT-2} покинет город, если его игнорировать.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_A_PRIVATE_AUDIENCE_OPTION_0</zType>
-		<Translation><![CDATA[Add {CHARACTER-2} to the court.]]></Translation>
+		<Translation><![CDATA[Дайте {CHARACTER-2} место при дворе.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_A_PRIVATE_AUDIENCE_OPTION_1</zType>
-		<Translation><![CDATA[We must investigate him first.]]></Translation>
+		<Translation><![CDATA[Сначала нужно разобраться.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_DEMAND_FOR_JUSTICE_OPTION_0</zType>
-		<Translation><![CDATA[Spymaster, make this problem go away.]]></Translation>
+		<Translation><![CDATA[Поручаю эту проблему мастеру тайных дел.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_DEMAND_FOR_JUSTICE_OPTION_1</zType>
-		<Translation><![CDATA[Putting {CHARACTER-2} on the court will ease tensions.]]></Translation>
+		<Translation><![CDATA[Появление {CHARACTER-2} при дворе уменьшит волнения.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_INVESTIGATION_COMPLETE_OPTION_0</zType>
-		<Translation><![CDATA[Leave {CHARACTER-2} alone and see what happens.]]></Translation>
+		<Translation><![CDATA[Оставьте {CHARACTER-2} в покое и наблюдайте.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_INVESTIGATION_COMPLETE_OPTION_1</zType>
-		<Translation><![CDATA[Imprison him. I will take no chances.]]></Translation>
+		<Translation><![CDATA[Арестуйте его. Я не желаю рисковать.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_PEACEMAKER_OPTION_0</zType>
-		<Translation><![CDATA[The settlers should relocate their villages.]]></Translation>
+		<Translation><![CDATA[Поселенцам следует занять другие земли.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_PEACEMAKER_OPTION_1</zType>
-		<Translation><![CDATA[The settlers should pay for what they've taken.]]></Translation>
+		<Translation><![CDATA[Поселенцам следует заплатить за то, что они заняли.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_PEACEMAKER_OPTION_2</zType>
-		<Translation><![CDATA[We should not take sides in this matter.]]></Translation>
+		<Translation><![CDATA[Мы не будем заниматься этим вопросом.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_COURTLY_DRAMA_OPTION_0</zType>
-		<Translation><![CDATA[Yes, but it must be a Tragedy.]]></Translation>
+		<Translation><![CDATA[Да, но это должна быть трагедия.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_COURTLY_DRAMA_OPTION_1</zType>
-		<Translation><![CDATA[Yes, but it must be a Comedy.]]></Translation>
+		<Translation><![CDATA[Да, но это должна быть комедия.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_COURTLY_DRAMA_OPTION_2</zType>
-		<Translation><![CDATA[My glory cannot be captured in mortal works.]]></Translation>
+		<Translation><![CDATA[Мою сраву не описать языком смертных.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_RISKY_EXPEDITION_OPTION_0</zType>
-		<Translation><![CDATA[Now is not the time for war.]]></Translation>
+		<Translation><![CDATA[Не время для войны.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_RISKY_EXPEDITION_OPTION_1</zType>
-		<Translation><![CDATA[They are right to seize the opportunity.]]></Translation>
+		<Translation><![CDATA[Они могут попытаться.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_RISKY_EXPEDITION_OPTION_2</zType>
-		<Translation><![CDATA[We have been training for this.]]></Translation>
+		<Translation><![CDATA[Мы готовились к этому.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_SIMPLE_GIFTS_OPTION_0</zType>
-		<Translation><![CDATA[Build a home for orphans of fallen soldiers.]]></Translation>
+		<Translation><![CDATA[Построить дом для сирот погибших солдат..]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_SIMPLE_GIFTS_OPTION_1</zType>
-		<Translation><![CDATA[Invest in the training of laborers and specialists.]]></Translation>
+		<Translation><![CDATA[направить средства на подготовку рабочих и специалистов.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_SIMPLE_GIFTS_OPTION_2</zType>
-		<Translation><![CDATA[I will decide how we spend these riches.]]></Translation>
+		<Translation><![CDATA[Я решу позже, как потратить эти деньги.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_TAX_HIKE_OPTION_0</zType>
-		<Translation><![CDATA[Everyone should expect to make sacrifices.]]></Translation>
+		<Translation><![CDATA[Народ должен быть готов пойти на жертву.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_TAX_HIKE_OPTION_1</zType>
-		<Translation><![CDATA[A leader must spare the people from pain.]]></Translation>
+		<Translation><![CDATA[Правитель должен заботиться о подданных.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_FORBIDDEN_KNOWLEDGE_OPTION_0</zType>
-		<Translation><![CDATA[Host the sages and hear their teachings.]]></Translation>
+		<Translation><![CDATA[Мы пригласим мудрецов и овладеем их знаниями.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_FORBIDDEN_KNOWLEDGE_OPTION_1</zType>
-		<Translation><![CDATA[We will start as allies to build trust.]]></Translation>
+		<Translation><![CDATA[Мы заключим союз, чтобы заслужить доверие.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_FORBIDDEN_KNOWLEDGE_OPTION_2</zType>
-		<Translation><![CDATA[Barbarians have nothing to teach us.]]></Translation>
+		<Translation><![CDATA[Варварам нечему нас научить.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_KIDNAPPED_CONSORT_OPTION_0</zType>
-		<Translation><![CDATA[My foolish son must return the princess.]]></Translation>
+		<Translation><![CDATA[Мой неразумный сын должен вернуть принцессу.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_KIDNAPPED_CONSORT_OPTION_1</zType>
-		<Translation><![CDATA[Keep the girl, as is our right.]]></Translation>
+		<Translation><![CDATA[Мы имеем право оставить девушку.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_KIDNAPPED_CONSORT_OPTION_2</zType>
-		<Translation><![CDATA[Release the princess, and exile my son.]]></Translation>
+		<Translation><![CDATA[Отпустите принцессу, а сына отправьте в ссылку.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_AMITY_OR_TREASON_OPTION_0</zType>
