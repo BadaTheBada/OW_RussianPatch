@@ -1355,35 +1355,35 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_UNEXPECTED_FEELINGS_TITLE</zType>
-		<Translation>Unexpected Feelings</Translation>
+		<Translation>Неожиданные чувства</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WHAT_IS_ART_TITLE</zType>
-		<Translation>What is Art?</Translation>
+		<Translation>Что такое искусство?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHASTENED_TITLE</zType>
-		<Translation>Chastened</Translation>
+		<Translation>Разоблачение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DELIVERY_MISTAKE_TITLE</zType>
-		<Translation>Delivery Mistake</Translation>
+		<Translation>Ошибка доставки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_POLITICS_TITLE</zType>
-		<Translation>Family Politics</Translation>
+		<Translation>Семейные интриги</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRANSLATIONS_TITLE</zType>
-		<Translation>Translations</Translation>
+		<Translation>Перевод</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FEMALE_EDUCATION_TITLE</zType>
-		<Translation>Educating Our Women</Translation>
+		<Translation>Образование наших женщин</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEMAND_CITY_TITLE</zType>
-		<Translation>[DEMAND CITY]</Translation>
+		<Translation>[Требование передать город]</Translation>
 	</Entry>
 	<Entry beginGroup="Marriage">
 		<zType>TEXT_EVENTSTORY_MARRIAGE_OFFER_TITLE</zType>
@@ -1411,71 +1411,71 @@
 	</Entry>
 	<Entry beginGroup="Character">
 		<zType>TEXT_EVENTSTORY_DELICIOUS_DRINKS_TITLE</zType>
-		<Translation>Delicious Drinks</Translation>
+		<Translation>Изысканный напиток</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUDDEN_INSIGHT_TITLE</zType>
-		<Translation>Sudden Insight</Translation>
+		<Translation>Внезапное озарение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TIME_FOR_A_BREAK_TITLE</zType>
-		<Translation>Time for a Break</Translation>
+		<Translation>Пора передохнуть.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SPARE_TIME_TITLE</zType>
-		<Translation>Spare Time</Translation>
+		<Translation>Свободное время</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_EPIC_POETRY_TITLE</zType>
-		<Translation>Epic Poetry</Translation>
+		<Translation>Эпическая поэзия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LOOKING_OUTWARD_TITLE</zType>
-		<Translation>Looking Outward</Translation>
+		<Translation>Исследование мира</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_LOST_RELATIVE_TITLE</zType>
-		<Translation><![CDATA[Lost Relative]]></Translation>
+		<Translation><![CDATA[Потерянный родственник]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_A_PRIVATE_AUDIENCE_TITLE</zType>
-		<Translation><![CDATA[A Private Audience]]></Translation>
+		<Translation><![CDATA[Частная аудиенция]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_DEMAND_FOR_JUSTICE_TITLE</zType>
-		<Translation><![CDATA[Demand for Justice]]></Translation>
+		<Translation><![CDATA[Требование справедливости]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_INVESTIGATION_COMPLETE_TITLE</zType>
-		<Translation><![CDATA[Investigation Complete]]></Translation>
+		<Translation><![CDATA[Расследование завершено]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_PEACEMAKER_TITLE</zType>
-		<Translation><![CDATA[Peace Broker]]></Translation>
+		<Translation><![CDATA[Посредник]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_COURTLY_DRAMA_TITLE</zType>
-		<Translation><![CDATA[Courtly Drama]]></Translation>
+		<Translation><![CDATA[Дворцовая пьеса]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_RISKY_EXPEDITION_TITLE</zType>
-		<Translation><![CDATA[Risky Expedition]]></Translation>
+		<Translation><![CDATA[Опасная экспедиция]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_SIMPLE_GIFTS_TITLE</zType>
-		<Translation><![CDATA[Simple Gifts]]></Translation>
+		<Translation><![CDATA[Лёгкие деньги]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_TAX_HIKE_TITLE</zType>
-		<Translation><![CDATA[Tax Hike]]></Translation>
+		<Translation><![CDATA[Повышение налогов]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_FORBIDDEN_KNOWLEDGE_TITLE</zType>
-		<Translation><![CDATA[Forbidden Knowledge]]></Translation>
+		<Translation><![CDATA[Тайные знания]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_KIDNAPPED_CONSORT_TITLE</zType>
-		<Translation><![CDATA[Kidnapped Consort]]></Translation>
+		<Translation><![CDATA[Похищенная супруга]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_AMITY_OR_TREASON_TITLE</zType>
