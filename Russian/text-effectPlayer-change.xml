@@ -8,7 +8,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_BASE</zType>
-		<Translation>Базово</Translation>
+		<Translation>Базовые хар-ки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_AMBITION</zType>
@@ -24,35 +24,35 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_ABLE</zType>
-		<Translation>The Able</Translation>
+		<Translation>Умелый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_JUST</zType>
-		<Translation>The Just</Translation>
+		<Translation>Достойный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_GOOD</zType>
-		<Translation>The Good</Translation>
+		<Translation>Справедливый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_STRONG</zType>
-		<Translation>The Strong</Translation>
+		<Translation>Решительный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_NOBLE</zType>
-		<Translation>The Noble</Translation>
+		<Translation>Храбрый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_GLORIOUS</zType>
-		<Translation>The Glorious</Translation>
+		<Translation>Прославленный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_MAGNIFICENT</zType>
-		<Translation>The Magnificent</Translation>
+		<Translation>Великолепный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_GREAT</zType>
-		<Translation>The Great</Translation>
+		<Translation>Великий</Translation>
 	</Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_PYRAMIDS</zType>
