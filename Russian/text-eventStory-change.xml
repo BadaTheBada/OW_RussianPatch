@@ -6958,7 +6958,7 @@ The update comes as a shock to everyone at court.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_SLINGER_SELECTED</zType>
-		<Translation>link(UNIT_SLINGER,6) - это link(UNITTRAIT_RANGED,1). Они атакуют врагов с расстояния двух и более клеток, позволяя вам эффективно использовать link(YIELD_ORDERS) в сражениях. Они могут стрелять еще дальше, находясь на вершине link(HEIGHT_HILL,2), но будут наносить меньше урона на больших расстояниях и при атаке отрядов, укрывшихся в link(VEGETATION_TREES,2) или link(VEGETATION_SCRUB,2)</Translation>
+		<Translation>link(UNIT_SLINGER,6) - это link(UNITTRAIT_RANGED,1). Они атакуют врагов с расстояния двух и более клеток, позволяя вам эффективно использовать link(YIELD_ORDERS) в сражениях. Они могут стрелять еще дальше, находясь на вершине link(HEIGHT_HILL,2), но будут наносить меньше урона на больших расстояниях и при атаке отрядов, укрывшихся в link(VEGETATION_TREES,5) или link(VEGETATION_SCRUB,5)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_WARRIOR_SELECTED</zType>
