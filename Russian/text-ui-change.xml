@@ -35,7 +35,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_RIVALS_TURN</zType>
-		<Translation>Ход противника</Translation>
+		<Translation>Ход противников</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_YEAR_ENDED</zType>
@@ -120,6 +120,10 @@
 	<Entry>
 		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_GENERAL_ENEMY</zType>
 		<Translation>:Генерал</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_GENERAL_ENEMY_DEFENSE</zType>
+		<Translation>:Генерал  icon(Icon_Defense)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_SETTLEMENT</zType>
@@ -589,10 +593,6 @@
 	<Entry>
 		<zType>SP_MENU_SCREEN_SCEN_BUTTON</zType>
 		<Translation>Сценарии</Translation>
-	</Entry>
-	<Entry>
-		<zType>SP_MENU_SCREEN_FEATUREDGAME_BUTTON</zType>
-		<Translation>Featured Game</Translation>
 	</Entry>
 	<Entry>
 		<zType>SP_MENU_SCREEN_GOFTW_BUTTON</zType>
