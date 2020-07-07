@@ -3068,7 +3068,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_IMPROVEMENT_RIVER_MODIFIER</zType>
-		<Translation>{0_value} от {1,1_improvement} на {2,4_riverLink}</Translation>
+		<Translation>{0_value} от {1,1_improvement} на {2,5_riverLink}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_IMPROVEMENT_CLASS_MODIFIER_YIELD</zType>
@@ -5313,19 +5313,19 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_DECISION_OFFER_PEACE_BARBARIAN_DESC</zType>
-		<Translation>Заключить {0_peace} с {1,4_barbarians} за {2_money}? [NO EVENT FOUND]</Translation>
+		<Translation>Заключить {0_peace} с {1,4_barbarians} за {2_money}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_DECISION_OFFER_TRUCE_BARBARIAN_DESC</zType>
-		<Translation>Заключить {0_truce} с {1,4_barbarians} за {2_money}? [NO EVENT FOUND]</Translation>
+		<Translation>Заключить {0_truce} с {1,4_barbarians} за {2_money}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_DECISION_OFFER_PEACE_PLAYER_DESC</zType>
-		<Translation>Заключить {0_peace} с {1,4_player} за {2_money}? [NO EVENT FOUND]</Translation>
+		<Translation>Заключить {0_peace} с {1,4_player} за {2_money}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_DECISION_OFFER_TRUCE_PLAYER_DESC</zType>
-		<Translation>Заключить {0_truce} с {1,4_player} за {2_money}? [NO EVENT FOUND]</Translation>
+		<Translation>Заключить {0_truce} с {1,4_player} за {2_money}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE_CHARACTER_TITLE</zType>
