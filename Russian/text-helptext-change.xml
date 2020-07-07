@@ -1058,10 +1058,6 @@
 		<Translation>Выбрать генерала для возглавления отряда</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_HELPTEXT_WIDGET_ADD_GENERAL_SAME_FAMILY</zType>
-		<Translation>(Не может быть членом другой семьи)</Translation>
-	</Entry>
-	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_ADD_GENERAL_NO_CANDIDATES</zType>
 		<Translation>Нет доступных кандидатов</Translation>
 	</Entry>
@@ -1791,6 +1787,10 @@
 		<Translation>Критические удары удваивают урон</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_DISTANCE_MODIFIER</zType>
+		<Translation>int(DISTANCE_MODIFIER)% за клетку для дальнобойных отрядов</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CULTURE_LEVEL</zType>
 		<Translation>Уровни Культуры:</Translation>
 	</Entry>
@@ -1805,6 +1805,10 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_DISCONTENT_FAMILY_OPINION</zType>
 		<Translation>{0_value} к мнению семьи {1_family}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HIDDEN_WITHOUT_AGENT</zType>
+		<Translation>Без link(CONCEPT_AGENT) подробности скрыты</Translation>
 	</Entry>
 	<!-- The whitespace here is important. Any added newlines or tabs will show up in the tooltip -->
 	<Entry>
@@ -2757,6 +2761,10 @@
 		<Translation>Атака из {0_tileLink}: {1_value}</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_IF_DAMAGED</zType>
+		<Translation>Если поврежден: {0_value}</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_VS_DAMAGED</zType>
 		<Translation>Против раненых: {0_value}</Translation>
 	</Entry>
@@ -3146,10 +3154,6 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_FRESH_WATER_SOURCE</zType>
 		<Translation>Источник {0_link}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_PREVENTS_BARBARIAN_RESPAWNING</zType>
-		<Translation>Предотвращает появление варваров</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_YIELDS_PER_YEAR</zType>
@@ -3760,6 +3764,10 @@
 		<Translation>Распространить {0,3_religion} в {1,5_city}</Translation>
 	</Entry>
 	<Entry>
+ 		<zType>TEXT_HELPTEXT_BONUS_REMOVE_RELIGION</zType>
+		<Translation>Избавить {1_city} от {0,1_religion} </Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_HELPTEXT_BONUS_REVEAL_TERRITORY</zType>
 		<Translation>Открыть территорию {0,1_player}</Translation>
 	</Entry>
@@ -3778,6 +3786,10 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_BONUS_SEND_TO</zType>
 		<Translation>Отправить {0,2_opponent}: {1_yieldList}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BONUS_TRADE_FROM</zType>
+		<Translation><![CDATA[Поставка от {0,1_opponent}: {1_yieldList} в течение {2_years} <singular_2>года<plural>лет<plural2>лет<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_BONUS_TRADE_TO</zType>
@@ -4677,8 +4689,8 @@
 		<Translation>Стоит {0}</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_HELPTEXT_SPECIALIST_COSTS_NUM</zType>
-		<Translation><![CDATA[Стоит {0_num} <singular_0>{1}<plural>{1,2}<plural2>{1,2}<end>]]></Translation>
+		<zType>TEXT_HELPTEXT_SPECIALIST_COSTS_CITIZEN</zType>
+		<Translation>Стоит {0_citizen}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_SPECIALIST_BUILD</zType>
@@ -5673,5 +5685,9 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_TOOLTIP_TILE_XY</zType>
 		<Translation><![CDATA[Клетка: {0_x}, {1_y}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TOOLTIP_COMMUNITY_CONTRIBUTION</zType>
+		<Translation><![CDATA[Вклад сообщества:<br>{0}]]></Translation>
 	</Entry>
 </Root>
