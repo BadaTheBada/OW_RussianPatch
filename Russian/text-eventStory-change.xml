@@ -6936,7 +6936,7 @@ The update comes as a shock to everyone at court.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SCOUT_SELECTED</zType>
-		<Translation>link(UNIT_SCOUT,6) превосходно подходят для исследования мира. Их способность прятаться в link(VEGETATION_TREES,5) помогает заранее предупредить о вражеской угрозе.
+		<Translation>link(UNIT_SCOUT,6) превосходно подходят для исследования мира. Их способность прятаться в лесу помогает заранее предупредить о вражеской угрозе.
 
 Отправьте link(UNIT_SCOUT,1) в поисках новых земель и link(IMPROVEMENT_ANCIENT_RUINS,1).</Translation>
 	</Entry>
