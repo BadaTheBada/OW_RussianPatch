@@ -429,7 +429,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_ADOPTION</zType>
-		<Translation><![CDATA[{0_parent} <masculine_1>принял в семью<feminine>приняла в семью<end>]]></Translation>
+		<Translation><![CDATA[{0_parent} примет ребенка в семью]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MARRIES</zType>
