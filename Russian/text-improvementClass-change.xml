@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
-<!--Translation by Elena Davydova (Bada)-->
 <Root>
 	<!--Assets/GameAssets/Resources/Infos/improvement.xml-->
 	<!--NOTE: improvement names that are mass nouns or plural do not need multiple types in Translation-->
@@ -73,7 +72,7 @@
 		<Translation>Стрельбище~Стрельбища~Стрельбищу~Стрельбище~Стрельбищем~Стрельбище~Стрельбища~Стрельбищ~Стрельбищам~Стрельбища~Стрельбищами~Стрельбищах</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_IMPROVEMENTCLASS_THEATER</zType>
+		<zType>TEXT_IMPROVEMENTCLASS_ODEON</zType>
 		<Translation>Театр~Театра~Театру~Театр~Театром~Театре~Театры~Театров~Театрам~Театры~Театрами~Театрах</Translation>
 	</Entry>
 	<Entry>
