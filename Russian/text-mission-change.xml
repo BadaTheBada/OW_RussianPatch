@@ -44,27 +44,27 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE_OFFER</zType>
-		<Translation>Offer Tribute for Peace</Translation>
+		<Translation>Предложить перемирие в обмен на мир</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE_OFFER_TARGET</zType>
-		<Translation>Offer Tribute for Peace with</Translation>
+		<Translation>Предложить перемирие в обмен на мир с</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE_NO</zType>
-		<Translation>Ask for Peace</Translation>
+		<Translation>Попросить заключить мир</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE_NO_TARGET</zType>
-		<Translation>Ask for Peace with</Translation>
+		<Translation>Попросить заключить мир с</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE_DEMAND</zType>
-		<Translation>Demand Tribute for Peace</Translation>
+		<Translation>Потребовать перемирия в обмен на мир</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE_DEMAND_TARGET</zType>
-		<Translation>Demand Tribute for Peace with</Translation>
+		<Translation>Потребовать перемирия в обмен на мир с</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE</zType>
@@ -80,27 +80,27 @@
 	</Entry>
 		<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE_OFFER</zType>
-		<Translation>Offer Tribute for Peace</Translation>
+		<Translation>Предложить перемирие в обмен на мир</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE_OFFER_TARGET</zType>
-		<Translation>Offer Tribute for Peace with</Translation>
+		<Translation>Предложить перемирие в обмен на мир с</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE_NO</zType>
-		<Translation>Ask for Peace</Translation>
+		<Translation>Попросить заключить мир</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE_NO_TARGET</zType>
-		<Translation>Ask for Peace with</Translation>
+		<Translation>Попросить заключить мир с</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE_DEMAND</zType>
-		<Translation>Demand Tribute for Peace</Translation>
+		<Translation>Потребовать перемирие в обмен на мир</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE_DEMAND_TARGET</zType>
-		<Translation>Demand Tribute for Peace with</Translation>
+		<Translation>Потребовать перемирие в обмен на мир с</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_DECLARE_WAR</zType>
