@@ -57,7 +57,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_BARBARIAN_INVADE</zType>
-		<Translation>Нападение варваров</Translation>
+		<Translation>Набег варваров</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_BUY_TILE</zType>
@@ -85,7 +85,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_FAMILY_SEAT</zType>
-		<Translation>Оплот семьи</Translation>
+		<Translation>Родовое гнездо семьи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_GENERAL</zType>
@@ -307,15 +307,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_SCRIBE_1</zType>
-		<Translation>Младший секретарь~Младшего секретаря~Младшему секретарю~Младшего секретаря~Младшим секретарем~Младшем секретаре</Translation>
+		<Translation>Младший писарь~Младшего писаря~Младшему писарю~Младшего писаря~Младшим писарем~Младшем писаре</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_SCRIBE_2</zType>
-		<Translation>Секретарь~Секретаря~Секретарю~Секретаря~Секретарем~Секретаре</Translation>
+		<Translation>Писарь~Писаря~Писарю~Писаря~Писарем~Писаре</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_SCRIBE_3</zType>
-		<Translation>Старший секретарь~Старшего секретаря~Старшему секретарю~Старшего секретаря~Старшим секретарем~Старшем секретаре</Translation>
+		<Translation>Старший писарь~Старшего писаря~Старшему писарю~Старшего писаря~Старшим писарем~Старшем писаре</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_OFFICER_1</zType>
@@ -966,7 +966,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_SCRIBES</zType>
-		<Translation>Контролировать 2 Старших секретаря</Translation>
+		<Translation>Контролировать 2 Старших писаря</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_MONKS</zType>
@@ -1764,35 +1764,35 @@
 	<!--InfoYield.Help-->
 	<Entry>
 		<zType>TEXT_YIELD_GROWTH_HELP</zType>
-		<Translation>Когда шкала Роста {YIELD_GROWTH} полностью заполняется, в городе появляется новый link(EFFECTCITY_CITIZEN,0). Простой путь ускорить Рост {YIELD_GROWTH} - это обучить link(SPECIALIST_FARMER,1) и построить link(IMPROVEMENTCLASS_BATHS,3).</Translation>
+		<Translation>Когда шкала роста {YIELD_GROWTH} полностью заполняется, в городе появляется новый link(EFFECTCITY_CITIZEN,0). Простой путь ускорить рост {YIELD_GROWTH} - это обучить link(SPECIALIST_FARMER,1) и построить link(IMPROVEMENTCLASS_BATHS,3).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_CIVICS_HELP</zType>
-		<Translation>Используется для обучения Специалистов и завершения Проектов. Неиспользованные Civics {YIELD_CIVICS} добавляются в национальный запас и расходуются на принятие законов и основание религии. Получайте больше Civics {YIELD_CIVICS}, строя link(IMPROVEMENTCLASS_COURTHOUSE,9) и link(PROJECT_FORUM_1,9).</Translation>
+		<Translation>Используется для обучения специалистов и завершения проектов. Неиспользованные Civics {YIELD_CIVICS} добавляются в национальный запас и расходуются на принятие законов и основание религии. Получайте больше Civics {YIELD_CIVICS}, строя link(IMPROVEMENTCLASS_COURTHOUSE,9) и link(PROJECT_FORUM_1,9).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_TRAINING_HELP</zType>
-		<Translation>Используются для обучения военных отрядов. Неиспользованные Очки тренировки {YIELD_TRAINING} добавляются в национальный запас и расходуются на повышение и модернизацию военных отрядов. Получайте больше Очков тренировки {YIELD_TRAINING}, строя link(IMPROVEMENTCLASS_BARRACKS,9) и link(IMPROVEMENTCLASS_RANGE,9).</Translation>
+		<Translation>Используются для обучения военных отрядов. Неиспользованные очки тренировки {YIELD_TRAINING} добавляются в национальный запас и расходуются на повышение и модернизацию военных отрядов. Получайте больше очков тренировки {YIELD_TRAINING}, строя link(IMPROVEMENTCLASS_BARRACKS,9) и link(IMPROVEMENTCLASS_RANGE,9).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_CULTURE_HELP</zType>
-		<Translation>Когда шкала Культуры {YIELD_CULTURE} полностью заполняется, происходит хорошее событие. Уровень городской Культуры {YIELD_CULTURE} влияет на то, какие Постройки и Чудеса можно возвести. Получайте больше Культуры {YIELD_CULTURE}, строя link(IMPROVEMENTCLASS_SHRINE,9) и link(IMPROVEMENTCLASS_THEATER,9).</Translation>
+		<Translation>Когда шкала культуры {YIELD_CULTURE} полностью заполняется, происходит хорошее событие. Уровень городской культуры {YIELD_CULTURE} влияет на то, какие постройки и чудеса можно возвести. Получайте больше культуры {YIELD_CULTURE}, строя link(IMPROVEMENTCLASS_SHRINE,9) и link(IMPROVEMENTCLASS_THEATER,9).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_DISCONTENT_HELP</zType>
-		<Translation>В городах со временем накапливается Недовольство {YIELD_DISCONTENT}. Когда шкала Недовольства {YIELD_DISCONTENT} полностью заполняется, то повышается его уровень. Это приводит к увеличению Содержания {YIELD_MAINTENANCE} и снижению Роста {YIELD_GROWTH}. Проводите link(PROJECT_FESTIVAL,9), чтобы снизить Недовольство {YIELD_DISCONTENT}.</Translation>
+		<Translation>В городах со временем накапливается недовольство {YIELD_DISCONTENT}. Когда шкала недовольства {YIELD_DISCONTENT} полностью заполняется, то повышается его уровень. Это приводит к увеличению содержания {YIELD_MAINTENANCE} и снижению роста {YIELD_GROWTH}. Проводите link(PROJECT_FESTIVAL,9), чтобы снизить Недовольство {YIELD_DISCONTENT}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_SCIENCE_HELP</zType>
-		<Translation>Используется для исследования технологий. Получайте больше Науки {YIELD_SCIENCE}, строя link(PROJECT_ARCHIVE_1,9) и link(IMPROVEMENTCLASS_LIBRARY,9).</Translation>
+		<Translation>Используется для исследования технологий. Получайте больше науки {YIELD_SCIENCE}, строя link(PROJECT_ARCHIVE_1,9) и link(IMPROVEMENTCLASS_LIBRARY,9).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_MONEY_HELP</zType>
-		<Translation>Используются для покупки других ресурсов. Получайте больше Денег {YIELD_MONEY}, строя link(IMPROVEMENTCLASS_HAMLET,9) и link(IMPROVEMENTCLASS_MARKET,9).</Translation>
+		<Translation>Используются для покупки других ресурсов. Получайте больше денег {YIELD_MONEY}, строя link(IMPROVEMENTCLASS_HAMLET,9) и link(IMPROVEMENTCLASS_MARKET,9).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_MAINTENANCE_HELP</zType>
-		<Translation>Уменьшает количество Денег {YIELD_MONEY}, поступающих из городов. Содержание {YIELD_MAINTENANCE} может быть уменьшено посредством соединения ваших городов со столицей.</Translation>
+		<Translation>Уменьшает количество денег {YIELD_MONEY}, поступающих из городов. Содержание {YIELD_MAINTENANCE} может быть уменьшено посредством соединения ваших городов со столицей.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_ORDERS_HELP</zType>
