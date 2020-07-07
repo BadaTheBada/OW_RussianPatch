@@ -116,15 +116,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_PEACE_OFFER_EVENT</zType>
-		<Translation>Offer Tribute for Peace Event</Translation>
+		<Translation>Предложение перемирия за мир</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_PEACE_NO_EVENT</zType>
-		<Translation>Ask for Peace Event</Translation>
+		<Translation>Просьба заключить мир</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_PEACE_DEMAND_EVENT</zType>
-		<Translation>Demand Tribute for Peace Event</Translation>
+		<Translation>Требование перемирия за мир</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_EVENT</zType>
@@ -132,15 +132,15 @@
 	</Entry>
 		<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_OFFER_EVENT</zType>
-		<Translation>Offer Tribute for Peace Event</Translation>
+		<Translation>Предложение перемирия за мир</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_NO_EVENT</zType>
-		<Translation>Ask for Peace Event</Translation>
+		<Translation>Просьба заключить мир</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_DEMAND_EVENT</zType>
-		<Translation>Demand Tribute for Peace Event</Translation>
+		<Translation>Требование перемирия за мир</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_DECLARE_WAR_EVENT</zType>
