@@ -195,6 +195,10 @@
 		<Translation>Гарнизон</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_TRAIT_TOUGH</zType>
+		<Translation>Суровый</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_TRAIT_BLOODTHIRSTY</zType>
 		<Translation>Кровожадный</Translation>
 	</Entry>
