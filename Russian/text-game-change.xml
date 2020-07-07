@@ -272,6 +272,10 @@
 		<Translation>{0_tribute} Дань от {1,1_barbarian}</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_BARBARIAN_DIPLOMACY_PLAYER</zType>
+		<Translation>{0_barbarian}: {1_diplomacy} с {2_player}</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_ADOPT_RELIGION</zType>
 		<Translation>Объявляет {0,3_religion} государственной религией</Translation>
 	</Entry>
@@ -282,6 +286,10 @@
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_SPREAD_RELIGION</zType>
 		<Translation>{0_religion} распространяется по г. {1_city}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_REMOVE_RELIGION</zType>
+		<Translation>Избавить город {1_city} от {0,1_religion}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_FAMILY_LAW</zType>
