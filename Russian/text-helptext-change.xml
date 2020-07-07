@@ -2299,7 +2299,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CITY_CITIZENS</zType>
-		<Translation><![CDATA[<singular_1>{0}<plural>{0,7}<plural>{0,7}<end>: {1_num}]]></Translation>
+		<Translation><![CDATA[<singular_1>{0}<plural>{0,7}<plural2>{0,7}<end>: {1_num}]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CITY_ID</zType>
@@ -4227,15 +4227,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_RELIGION_FOUNDED_SPREAD_YEARS_HELP</zType>
-		<Translation><![CDATA[распространится в новый город через {0} <singular_0>год<plural>года<plural>лет<end>]]></Translation>
+		<Translation><![CDATA[распространится в новый город через {0} <singular_0>год<plural>года<plural2>лет<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_RELIGION_SPREAD_HELP</zType>
-		<Translation><![CDATA[Распространяется в новые города <singular_0>каждый год<plural>каждые {0} года<plural>каждые {0} лет<end>]]></Translation>
+		<Translation><![CDATA[Распространяется в новые города <singular_0>каждый год<plural>каждые {0} года<plural2>каждые {0} лет<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_RELIGION_PREREQ_NUM_RELIGION_CITIES</zType>
-		<Translation><![CDATA[Требуется {0_num} <singular_0>{1,12_religion} город<plural>{1,31_religion} города<plural>{1,31_religion} городов<end> (в мире)]]></Translation>
+		<Translation><![CDATA[Требуется {0_num} <singular_0>{1,12_religion} город<plural>{1,31_religion} города<plural2>{1,31_religion} городов<end> (в мире)]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_RELIGION_UPKEEP</zType>
