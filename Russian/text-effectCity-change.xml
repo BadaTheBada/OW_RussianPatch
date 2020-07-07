@@ -407,7 +407,7 @@
 		<Translation>Гранд-Базар</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_THEATER</zType>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_ODEON</zType>
 		<Translation>Театры</Translation>
 	</Entry>
 	<Entry>
@@ -903,10 +903,14 @@
 		<Translation>Производство соли</Translation>
 	</Entry>
 	<Entry>
-	<zType>TEXT_EFFECTCITY_PROJECT_AUTONOMOUS_RULE</zType>
-    <Translation>Autonomous Rule</Translation>
-  </Entry>
-  <Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_AUTONOMOUS_RULE</zType>
+		<Translation>Автономия</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_MONUMENTAL_GATE</zType>
+		<Translation>Монументальные ворота</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTCITY_RELIGION_JUDAISM</zType>
 		<Translation>Иудаизм</Translation>
 	</Entry>
