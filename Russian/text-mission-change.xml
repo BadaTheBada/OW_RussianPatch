@@ -243,6 +243,18 @@
 		<Translation>Внедрить шпиона с помощью</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_MISSION_SLANDER</zType>
+		<Translation>Опорочить нацию</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SLANDER_TARGET</zType>
+		<Translation>Опорочить</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SLANDER_CHARACTER</zType>
+		<Translation>Опорочить нацию с помощью</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_MISSION_ASSASSINATE</zType>
 		<Translation>Убить</Translation>
 	</Entry>
