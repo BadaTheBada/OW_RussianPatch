@@ -67,8 +67,8 @@
 		<Translation>Фанатик</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTUNIT_SCHEMER</zType>
-		<Translation>Интриган</Translation>
+		<zType>TEXT_EFFECTUNIT_DIPLOMAT</zType>
+		<Translation>Дипломат</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TRACKER</zType>
@@ -101,6 +101,10 @@
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_GARRISON</zType>
 		<Translation>Гарнизон</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_TOUGH</zType>
+		<Translation>Суровый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BLOODTHIRSTY</zType>
