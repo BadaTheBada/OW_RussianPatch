@@ -80,6 +80,10 @@
 		<Translation>Критический удар~Критического удара~Критическому удару~Критический удар~Критическим ударом~Критическом ударе</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_CONCEPT_DISTANCE_MODIFIER</zType>
+		<Translation>Модификатор расстояния</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_CONCEPT_ENVY</zType>
 		<Translation>Зависть~Зависти</Translation>
 	</Entry>
@@ -956,6 +960,26 @@
 		<zType>TEXT_GOAL_SEVEN_WONDERS</zType>
 		<Translation>Контролировать 7 Чудес </Translation>
 	</Entry>
+		<Entry>
+		<zType>TEXT_GOAL_FOUR_FARMERS</zType>
+		<Translation>Контролировать 4 Фермера</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_MINERS</zType>
+		<Translation>Контролировать 4 Рудокопа</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_STONECUTTERS</zType>
+		<Translation>Контролировать 4 Камнереза</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_WOODCUTTERS</zType>
+		<Translation>Контролировать 4 Лесоруба</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_ACOLYTES</zType>
+		<Translation>Контролировать 2 Старших прислужника</Translation>
+	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_POETS</zType>
 		<Translation>Контролировать 2 Старших поэта</Translation>
@@ -971,6 +995,10 @@
 	<Entry>
 		<zType>TEXT_GOAL_TWO_MONKS</zType>
 		<Translation>Контролировать 2 Старших монаха</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_DOCTORS</zType>
+		<Translation>Контролировать 2 Старших лекаря</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_PRIESTS</zType>
