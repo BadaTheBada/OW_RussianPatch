@@ -204,23 +204,23 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_FURIOUS</zType>
-		<Translation>Ярость (Семья)</Translation>
+		<Translation>Ярость семьи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_ANGRY</zType>
-		<Translation>Злость (Семья)</Translation>
+		<Translation>Злость семьи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_UPSET</zType>
-		<Translation>Огорчение (Семья)</Translation>
+		<Translation>Огорчение семьи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_PLEASED</zType>
-		<Translation>Симпатия (Семья)</Translation>
+		<Translation>Симпатия семьи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_FRIENDLY</zType>
-		<Translation>Дружелюбие (Семья)</Translation>
+		<Translation>Дружелюбие семьи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SWORD_OF_THE_GODS</zType>
