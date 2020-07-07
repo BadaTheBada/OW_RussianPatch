@@ -13,261 +13,261 @@
 		<Translation>Отмена</Translation>
 	</Entry>
 	<!--ClientUI-->
-	<Entry>
+	<Entry><!--Требуется перевод-->
 		<zType>TEXT_UI_REDRAW_TECH</zType>
-		<Translation>Redraw</Translation>
+		<Translation>Перетасовать</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TRIBE_TURN</zType>
-		<Translation>{0} Turn</Translation>
+		<Translation>Ход {0,1}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_BARBARIAN_TURN</zType>
-		<Translation>Barbarian Turn</Translation>
+		<Translation>Ход варваров</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_YOUR_TURN</zType>
-		<Translation>Your Turn</Translation>
+		<Translation>Ваш ход</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_KNOWN_RIVALS_TURN</zType>
-		<Translation>{0}'s Turn</Translation>
+		<Translation>Ход {0,1}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_RIVALS_TURN</zType>
-		<Translation>Rival's Turn</Translation>
+		<Translation>Ход противника</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_YEAR_ENDED</zType>
-		<Translation>Year Ended</Translation>
+		<Translation>Год завершен</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_END_YEAR</zType>
-		<Translation>End Year</Translation>
+		<Translation>Завершить год</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_YEAR_NUMBER</zType>
-		<Translation>Year {0}</Translation>
+		<Translation>Год {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_YEAR_NUMBER_AND_MAX</zType>
-		<Translation>Year: {0}/{1}</Translation>
+		<Translation>Год: {0}/{1}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_IDLE_LABEL_NEXT_UNIT</zType>
-		<Translation>Next Unit</Translation>
+		<Translation>Следующий отряд</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_IDLE_LABEL_CHOOSE_PRODUCTION</zType>
-		<Translation><![CDATA[Choose Production<br>({0_city})]]></Translation>
+		<Translation><![CDATA[Выбрать производство <br>({0_city})]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_IDLE_LABEL_OPEN_CITY</zType>
-		<Translation><![CDATA[Open City<br>({0_city})]]></Translation>
+		<Translation><![CDATA[Открыть город <br>({0_city})]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_EVENT_LOG_DISMISS_TOOLTIP</zType>
-		<Translation>Right-click to dismiss</Translation>
+		<Translation>Правый клик — пропустить</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_WATER_TITLE</zType>
-		<Translation>Mare incognitum</Translation>
+		<Translation>Mare incognitum (лат.: неизведанные моря)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_WATER_BODY</zType>
-		<Translation>HIC SUNT DRACONES</Translation>
+		<Translation>HIC SUNT DRACONES (лат.: здесь обитают драконы)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_LAND_TITLE</zType>
-		<Translation>Terra incognita</Translation>
+		<Translation>Terra incognita (лат.: неизведанные земли)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_LAND_BODY</zType>
-		<Translation>HIC SUNT LEONES</Translation>
+		<Translation>HIC SUNT LEONES (лат.: здесь обитают львы)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_IMPROVEMENT_ACTION_REMOVE_VEGETATION_TITLE</zType>
-		<Translation>Remove {0}</Translation>
+		<Translation>Вырубить {0,3}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_IMPROVEMENT_ACTION_BUILD_ROAD_TITLE</zType>
-		<Translation>Build Road</Translation>
+		<Translation>Построить дорогу</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_IMPROVEMENT_ACTION_MAKE_URBAN_TITLE</zType>
-		<Translation>Make Urban</Translation>
+		<Translation>Создать городскую клетку</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TECH_TOOLTIP_PROGRESS</zType>
-		<Translation>Progress: {0}</Translation>
+		<Translation>Прогресс: {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TECH_TOOLTIP_LEADS_TO_WITH</zType>
-		<Translation>{0_tech} (with {1})</Translation>
+		<Translation>{0_tech} (вместе с {1,4})</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_BASE</zType>
-		<Translation>Base:</Translation>
+		<Translation>Базовый урон:</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_BASE_ENEMY</zType>
-		<Translation>:Base</Translation>
+		<Translation>:базовый урон</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_GENERAL</zType>
-		<Translation>General:</Translation>
+		<Translation>Генерал:</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_GENERAL_ENEMY</zType>
-		<Translation>:General</Translation>
+		<Translation>:Генерал</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_SETTLEMENT</zType>
-		<Translation>Settlement</Translation>
+		<Translation>Поселение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_AI_MODIFIER</zType>
-		<Translation>AI vs. {0}:</Translation>
+		<Translation>ИИ против {0,1}:</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_AI_MODIFIER_ENEMY</zType>
-		<Translation>:AI vs. {0}</Translation>
+		<Translation>:ИИ против {0,1}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_DISTANCE</zType>
-		<Translation>Distance:</Translation>
+		<Translation>Расстояние:</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_STRENGTH</zType>
-		<Translation>Strength:</Translation>
+		<Translation>Сила:</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_STRENGTH_ENEMY</zType>
-		<Translation>:Strength</Translation>
+		<Translation>:Сила</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_KILLING_BLOW</zType>
-		<Translation>Killing Blow</Translation>
+		<Translation>Смертельный удар</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_FORTIFY_ENEMY</zType>
-		<Translation>:Fortify</Translation>
+		<Translation>:Укрепить</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_TESTUDO_ENEMY</zType>
-		<Translation>:Testudo</Translation>
+		<Translation>:Боевой порядок</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_FAMILY_TERRITORY</zType>
-		<Translation>Family Territory:</Translation>
+		<Translation>Территория семьи:</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_FAMILY_TERRITORY_ENEMY</zType>
-		<Translation>:Family Territory</Translation>
+		<Translation>:Территория семьи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_CRITICAL_CHANCE</zType>
-		<Translation>Critical Chance:</Translation>
+		<Translation>Шанс критического удара:</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_IMMUNE</zType>
-		<Translation>Immune</Translation>
+		<Translation>Имунитет</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_COOLDOWN_FATIGUED</zType>
-		<Translation>Fatigued</Translation>
+		<Translation>Устал</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CITY_WIDGET_GOVERNOR_MARKER</zType>
-		<Translation>G</Translation>
+		<Translation>Г</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CITY_WIDGET_AGENT_MARKER</zType>
-		<Translation>A</Translation>
+		<Translation>А</Translation>
 	</Entry>
-	<Entry>
+	<Entry><!--Требуется перевод-->
 		<zType>TEXT_UI_TECH_PANEL_TECH_DISCOVERED</zType>
 		<Translation>{0} Discovered</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TECH_PANEL_RESEARCH_TECH</zType>
-		<Translation>Research</Translation>
+		<Translation>Исследование</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TECH_PANEL_CHOOSE_RESEARCH</zType>
-		<Translation>Choose Research</Translation>
+		<Translation>Выбрать исследование</Translation>
 	</Entry>
-	<Entry>
+	<Entry><!--Требуется перевод-->
 		<zType>TEXT_UI_TECH_PANEL_REDRAWING</zType>
 		<Translation>Redrawing...</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TECH_PANEL_ONE_YEAR_LEFT</zType>
-		<Translation>1Y</Translation>
+		<Translation>1г</Translation>
 	</Entry>
-	<Entry>
+	<Entry><!--Требуется перевод-->
 		<zType>TEXT_UI_UNIT_SELECTION_MAX_LEVEL</zType>
 		<Translation>(MAX LVL)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CITY_SELECTION_PROJECTS_TAB_LABEL</zType>
-		<Translation>Projects</Translation>
+		<Translation>Проекты</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CHARACTER_SELECTION_FAMILY</zType>
-		<Translation>Family: {0}</Translation>
+		<Translation>Семья: {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CHARACTER_SELECTION_GREAT_PERSON</zType>
-		<Translation>Great Person</Translation>
+		<Translation>Великий человек</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CHARACTER_SELECTION_GENERAL_UNIT</zType>
-		<Translation>Unit: {0}</Translation>
+		<Translation>Отряд: {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CHARACTER_SELECTION_GOVERNING_CITY</zType>
-		<Translation>City: {0}</Translation>
+		<Translation>Город: {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CHARACTER_SELECTION_CITY_AGENT</zType>
-		<Translation>Agent: {0}</Translation>
+		<Translation>Агент: {0}</Translation>
 	</Entry>
-	<Entry>
+	<Entry><!--Требуется перевод-->
 		<zType>TEXT_UI_CHARACTER_SELECTION_RATINGS_TITLE</zType>
 		<Translation>Ratings</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ACTIONS_WAKE</zType>
-		<Translation>Wake</Translation>
+		<Translation>Пробудить</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ACTIONS_PASS</zType>
-		<Translation>Pass</Translation>
+		<Translation>Пропустить</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ACTIONS_SLEEP</zType>
-		<Translation>Sleep</Translation>
+		<Translation>Сон</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ACTIONS_SENTRY</zType>
-		<Translation>Sentry</Translation>
+		<Translation>Дозор</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ACTIONS_DISBAND</zType>
-		<Translation>Disband</Translation>
+		<Translation>Распустить</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ACTIONS_UPGRADE</zType>
-		<Translation>Upgrade</Translation>
+		<Translation>Модернизация</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UNIT_ACTIONS_PROMOTE</zType>
-		<Translation>Promote</Translation>
+		<Translation>Повышение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CITY_ACTIONS_BUILD_UNIT_LEVEL</zType>
-		<Translation>{0} LVL</Translation>
+		<Translation>{0} ур.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CITY_ACTIONS_BUILD_UNIT_XP</zType>
@@ -275,219 +275,219 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CITY_ACTIONS_PROJECTS_CATEGORY</zType>
-		<Translation>Projects</Translation>
+		<Translation>Проекты</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CITY_ACTIONS_SPECIALISTS_CATEGORY</zType>
-		<Translation>Specialists</Translation>
+		<Translation>Специалисты</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CITY_ACTIONS_PRODUCTION_CATEGORY_GROWTH</zType>
-		<Translation>Growth</Translation>
+		<Translation>Рост</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CITY_ACTIONS_PRODUCTION_CATEGORY_TRAINING</zType>
-		<Translation>Training</Translation>
+		<Translation>Очки тренировки</Translation>
 	</Entry>
-	<Entry>
+	<Entry><!--Требуется перевод-->
 		<zType>TEXT_UI_CITY_ACTIONS_PRODUCTION_CATEGORY_CIVICS</zType>
 		<Translation>Civics</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CHARACTER_ACTIONS_SEND_RESOURCE</zType>
-		<Translation>Send {0}</Translation>
+		<Translation>Отправить {0,3}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CHARACTER_ACTIONS_STOP_SENDING_RESOURCE</zType>
-		<Translation>Stop Sending {0}</Translation>
+		<Translation>Прекратить отправку {0,1}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CHARACTER_ACTIONS_ACTIVE_MISSION</zType>
-		<Translation>{0} (ACTIVE)</Translation>
+		<Translation>{0} (активно)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CHARACTER_ACTIONS_LEAVE_UNIT</zType>
-		<Translation>Leave {0}</Translation>
+		<Translation>Покинуть {0,3}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVE_FATHER_LABEL</zType>
-		<Translation>Father</Translation>
+		<Translation>Отец</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVE_MOTHER_LABEL</zType>
-		<Translation>Mother</Translation>
+		<Translation>Мать</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVE_SPOUSE_LABEL</zType>
-		<Translation>Spouse</Translation>
+		<Translation>Супруг(а)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVE_CHILD_LABEL</zType>
-		<Translation>Child</Translation>
+		<Translation>Ребенок</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVES_TITLE</zType>
-		<Translation>Relatives</Translation>
+		<Translation>Родственники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_FAMILY_ACTIONS_SEND_LUXURY</zType>
-		<Translation>Send {0}</Translation>
+		<Translation>Отправить {0,3}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_FAMILY_ACTIONS_RETURN_LUXURY</zType>
-		<Translation>Return {0}</Translation>
+		<Translation>Вернуть {0,3}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_FAMILY_ACTIONS_TRADE_AND_LUXURIES_TITLE</zType>
-		<Translation><![CDATA[Trade & Luxuries]]></Translation>
+		<Translation><![CDATA[Торговля и редкие ресурсы]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_FAMILY_ACTIONS_LIVING_MEMBERS_TITLE</zType>
-		<Translation>Living Members</Translation>
+		<Translation>Живые члены семьи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_FAMILY_ACTIONS_CITIES_TITLE</zType>
-		<Translation>Cities</Translation>
+		<Translation>Города</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_UPGRADE_TO</zType>
-		<Translation>Upgrade to {0}</Translation>
+		<Translation>Модернизировать до {0,1}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_RELIGION_PANEL_STATE_RELIGION</zType>
-		<Translation>{0} (STATE)</Translation>
+		<Translation>{0} (Государственная)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_GOAL_PANEL_LEGACY</zType>
-		<Translation><![CDATA[{0}<br>(LEGACY)]]></Translation>
+		<Translation><![CDATA[{0}<br>(наследие)]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_GOAL_PANEL_YEARS_LEFT</zType>
-		<Translation>, Year(s): {0}</Translation>
+		<Translation><![CDATA[, {0} <singular_0>год<plural>года<plural2>лет<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CITY_LIST_IDLE</zType>
-		<Translation>Idle</Translation>
+		<Translation>Без производства</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_BUILD_COMPLETED</zType>
-		<Translation>{0} Completed</Translation>
+		<Translation>Завершено: {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_COMPLETED_BUILDS_IDLE</zType>
-		<Translation>Idle City</Translation>
+		<Translation>Город без производства</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CHAT_TEAM</zType>
-		<Translation>Team</Translation>
+		<Translation>Команда</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CHAT_ALL</zType>
-		<Translation>All</Translation>
+		<Translation>Все</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TURN_TEXT_YEAR</zType>
-		<Translation><![CDATA[Year {0}<true_1>   ({1_time})<false><end>]]></Translation>
+		<Translation><![CDATA[Год {0}<true_1>   ({1_time})<false><end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TURN_TEXT_YEAR_MAX</zType>
-		<Translation><![CDATA[Year {0}/{1}<true_2>   ({2_time})<false><end>]]></Translation>
+		<Translation><![CDATA[Год {0}/{1}<true_2>   ({2_time})<false><end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TURN_TIMER_PAUSED</zType>
-		<Translation>{0} (PAUSED)</Translation>
+		<Translation>{0} (пауза)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_WINNER_ROSTER_VICTORY</zType>
-		<Translation>VICTORY!!!</Translation>
+		<Translation>ПОБЕДА!!!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_WINNER_ROSTER_LOSS</zType>
-		<Translation>LOSS!!!</Translation>
+		<Translation>ПОРАЖЕНИЕ!!!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_BARBARIAN_INVASION</zType>
-		<Translation><![CDATA[Invasion! ({0} <singular_0>unit<plural>units<end> left)]]></Translation>
+		<Translation><![CDATA[Набег! (еще {0} <singular_0>отряд<plural>отряда<plural2>отряов<end>)]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_BARBARIAN_UNITS</zType>
-		<Translation>Barbarian Unit(s): {0}</Translation>
+		<Translation>Отряды варваров: {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_BARBARIAN_INVASION_IN_YEARS</zType>
-		<Translation>Barbarian Invasion in {0}</Translation>
+		<Translation>Варварский набег через {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_RENAME_CITY_POPUP</zType>
-		<Translation>Rename City</Translation>
+		<Translation>Переименовать город</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_RENAME_RELIGION_POPUP</zType>
-		<Translation>Rename Religion</Translation>
+		<Translation>Переименовать религию</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_RENAME_CHARACTER</zType>
-		<Translation>Rename {0}</Translation>
+		<Translation>Переименовть {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_BORDER_GROWTH</zType>
-		<Translation>Border Growth</Translation>
+		<Translation>Расширение границ</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TECH_TREE_TOOLTIP_UNAVAILABLE</zType>
-		<Translation>Unavailable</Translation>
+		<Translation>Недоступно</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TECH_TREE_TOOLTIP_CURRENTLY_AVAILABLE</zType>
-		<Translation>Tech Currently Available!</Translation>
+		<Translation>Технология доступна!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TECH_TREE_TOOLTIP_TECH_ACQUIRED</zType>
-		<Translation>Tech Acquired</Translation>
+		<Translation>Требуется технология</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TECH_TREE_TOOLTIP_RESEARCHING</zType>
-		<Translation>Researching...</Translation>
+		<Translation>Исследование...</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TECH_TREE_TOOLTIP_IN_TECH_DECK</zType>
-		<Translation>In the Tech Deck</Translation>
+		<Translation>В колоде технологий</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TECH_TREE_TOOLTIP_IN_DISCARD_PILE</zType>
-		<Translation>In the Discard Pile</Translation>
+		<Translation>В сбросе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TECH_TREE_TOOLTIP_TECH_TARGETED</zType>
-		<Translation>Tech is Targeted</Translation>
+		<Translation>Технология выбрана</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TECH_TREE_TOOLTIP_TARGETED_PREREQ</zType>
-		<Translation>Prerequisite for a targeted tech</Translation>
+		<Translation>Предварительные технологии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TOOLTIP_LUXURIES</zType>
-		<Translation>Luxuries: </Translation>
+		<Translation>Редкие ресурсы: </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_TOOLTIP_TRADABLE</zType>
-		<Translation><![CDATA[Tradable: {0_resource}{1_icon}<true_2> (x{2})<false><end>]]></Translation>
+		<Translation><![CDATA[Возможна торговля: {0_resource}{1_icon}<true_2> (x{2})<false><end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_AMBITION_DESIRED_BY_FAMILY</zType>
-		<Translation>{0} (desired by {1_family} {2_class})</Translation>
+		<Translation>{0} (желает семья {1_family} {2_class})</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_EVENT_STORY_DISCOVERED</zType>
-		<Translation>[{0} Discovered]</Translation>
+		<Translation>[Открыто: {0}]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_EVENT_STORY_TRIBE_CONTACTED</zType>
-		<Translation>[Tribe Contacted]</Translation>
+		<Translation>[Вы встретили племя]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_EVENT_STORY_PLAYER_CONTACTED</zType>
-		<Translation>[Player Contacted]</Translation>
+		<Translation>[Вы встретили игрока]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_EVENT_STORY_CULTURE_EVENT</zType>
@@ -495,27 +495,27 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_EVENT_STORY_X_FINISHED</zType>
-		<Translation>[{0} Finished]</Translation>
+		<Translation>[Завершено: {0}]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_EVENT_STORY_GOAL_FINISHED</zType>
-		<Translation>[Goal Finished: {0}]</Translation>
+		<Translation>[Целей достигнуто: {0}]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_EVENT_STORY_KILLED_UNIT</zType>
-		<Translation>[Killed Unit]</Translation>
+		<Translation>[Отряд уничтожен]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_EVENT_STORY_CRITICAL_HIT</zType>
-		<Translation>[Critical Hit]</Translation>
+		<Translation>[Критический удар]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_EVENT_STORY_INJURY</zType>
-		<Translation>[Injury]</Translation>
+		<Translation>[Ранение]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_EVENT_STORY_ATTACKED_UNIT</zType>
-		<Translation>[Attacked Unit]</Translation>
+		<Translation>[Отряд атакован]</Translation>
 	</Entry>
 	<!--menu-screens.xml-->
 	<Entry>
@@ -528,7 +528,7 @@
     </Entry>
 	<Entry>
 	<zType>TEXT_MENU_SCREEN_MOD_MANAGER_BUTTON</zType>
-	<Translation>Mods</Translation>
+	<Translation>Моды</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_MENU_SCREEN_TOOLS_BUTTON</zType>
@@ -722,7 +722,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MP_SETUP_VICTORY</zType>
-		<Translation>Victory</Translation>
+		<Translation>Победа</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MP_SETUP_TITLE_LABEL_HOSTG</zType>
@@ -856,7 +856,7 @@
     <!--mod-manager.xml-->
     <Entry>
 	<zType>TEXT_MOD_MANAGER_MANAGE_TAB</zType>
-	<Translation>Manage</Translation>
+	<Translation>Управлять</Translation>
     </Entry>	
     <!--options-menu.xml-->
     <!--title bar-->
@@ -1207,102 +1207,102 @@
 	<!--unit-list.xml-->
 	<Entry>
 		<zType>TEXT_UNIT_LIST</zType>
-		<Translation>Unit List</Translation>
+		<Translation>Список отрядов</Translation>
 	</Entry>
 	<!--tech-tree.xml-->
 	<Entry>
 		<zType>TEXT_TECH_TREE_TECHS</zType>
-		<Translation>Techs</Translation>
+		<Translation>Технологии</Translation>
 	</Entry>
 	<!--selected-worker.xml-->
 	<Entry>
 		<zType>TEXT_SELECTED_WORKER_TURN</zType>
-		<Translation>Turn</Translation>
+		<Translation>Ход</Translation>
 	</Entry>
 	<!--selected-unit.xml-->
 	<Entry>
 		<zType>TEXT_SELECTED_UNIT_UPGRADE</zType>
-		<Translation>Upgrade</Translation>
+		<Translation>Модернизация</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SELECTED_UNIT_TURN</zType>
-		<Translation>Turn</Translation>
+		<Translation>Ход</Translation>
 	</Entry>
 	<!--selected-city.xml-->
 	<Entry>
 		<zType>TEXT_SELECTED_CITY_CHOOSE</zType>
-		<Translation>Choose what to work on</Translation>
+		<Translation>Выбрать производство</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SELECTED_CITY_QUEUE</zType>
-		<Translation>Queue</Translation>
+		<Translation>Очередь</Translation>
 	</Entry>
 	<!--selected-character.xml-->
 	<Entry>
 		<zType>TEXT_SELECTED_CHARACTER_ACTIONS</zType>
-		<Translation>Actions</Translation>
+		<Translation>Действия</Translation>
 	</Entry>
 	<!--religion-tree.xml-->
 	<Entry>
 		<zType>TEXT_RELIGION_TREE_STATE_RELIGIONS</zType>
-		<Translation>State Religions</Translation>
+		<Translation>Государственные религии</Translation>
 	</Entry>
 	<!--popup-victory.xml-->
 	<Entry>
 		<zType>TEXT_POPUP_VICTORY_CONDITIONS</zType>
-		<Translation>Victory Conditions</Translation>
+		<Translation>Условия победы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_POPUP_VICTORY_AMBITIONS</zType>
-		<Translation>Ambitions</Translation>
+		<Translation>Амбиции</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_POPUP_VICTORY_SCORE</zType>
-		<Translation>Score</Translation>
+		<Translation>Счет</Translation>
 	</Entry>
 	<!--popup-pings.xml-->
 	<Entry>
 		<zType>TEXT_POPUP_PINGS_SUBMIT</zType>
-		<Translation>Submit</Translation>
+		<Translation>Предложить</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_POPUP_PINGS_CANCEL</zType>
-		<Translation>Cancel</Translation>
+		<Translation>Отмена</Translation>
 	</Entry>
 	<!--popup-laws.xml-->
 	<Entry>
 		<zType>TEXT_POPUP_LAWS</zType>
-		<Translation>Laws</Translation>
+		<Translation>Законы</Translation>
 	</Entry>
 	<!--popup-input.xml-->
 	<Entry>
 		<zType>TEXT_POPUP_INPUT_TITLE</zType>
-		<Translation>Title</Translation>
+		<Translation>Заголовок</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_POPUP_INPUT_DESC</zType>
-		<Translation>Description Text</Translation>
+		<Translation>Описание</Translation>
 	</Entry>
 	<!--popup-default.xml-->
 	<Entry>
 		<zType>TEXT_POPUP_DEFAULT_TITLE</zType>
-		<Translation>Title</Translation>
+		<Translation>Заголовок</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_POPUP_DEFAULT_DESC</zType>
-		<Translation>Description Text</Translation>
+		<Translation>Описание</Translation>
 	</Entry>
 	<!--leader-info.xml-->
 	<Entry>
 		<zType>TEXT_LEADER_INFO_QUESTS</zType>
-		<Translation>Quests:</Translation>
+		<Translation>Задания:</Translation>
 	</Entry>
 	<!--help-screen.xml-->
 	<Entry>
 		<zType>TEXT_HELP_SCREEN_STATS_HP</zType>
 		<Translation>HP</Translation>
 	</Entry>
-	<Entry>
+	<Entry><!--Требуется перевод?-->
 		<zType>TEXT_HELP_SCREEN_STATS_MOV</zType>
 		<Translation>MOV</Translation>
 	</Entry>
@@ -1320,81 +1320,81 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELP_SCREEN_OTHER</zType>
-		<Translation>Other</Translation>
+		<Translation>Другое</Translation>
 	</Entry>
 	<!--game-log.xml-->
 	<Entry>
 		<zType>TEXT_GAME_LOG</zType>
-		<Translation>Game Log</Translation>
+		<Translation>Журнал извещений</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_LOG_LOG</zType>
-		<Translation>Log</Translation>
+		<Translation>Журнал</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_LOG_TIMELINE</zType>
-		<Translation>Timeline</Translation>
+		<Translation>Хронология</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_LOG_AI</zType>
-		<Translation>AI Log</Translation>
+		<Translation>Журнал ИИ</Translation>
 	</Entry>
 	<!--family-list.xml-->
 	<Entry>
 		<zType>TEXT_FAMILY_LIST</zType>
-		<Translation>Families</Translation>
+		<Translation>Семьи</Translation>
 	</Entry>
 	<!--cycle-idle.xml-->
 	<Entry>
 		<zType>TEXT_CYCLE_IDLE_BUY</zType>
-		<Translation>Buy</Translation>
+		<Translation>Купить</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CYCLE_IDLE_SELL</zType>
-		<Translation>Sell</Translation>
+		<Translation>Продать</Translation>
 	</Entry>
 	<!--event-editor-bar-option.xml-->
 	<Entry>
 		<zType>TEXT_EVENT_EDITOR_BAR_MF</zType>
-		<Translation>M/F</Translation>
+		<Translation>М/Ж</Translation>
 	</Entry>
-	<Entry>
+	<Entry><!--Требуется перевод-->
 		<zType>TEXT_EVENT_EDITOR_BAR_GO</zType>
 		<Translation>GO</Translation>
 	</Entry>
 	<!--choose-research.xml-->
 	<Entry>
 		<zType>TEXT_CHOOSE_RESEARCH_TREE</zType>
-		<Translation>View Tech Tree</Translation>
+		<Translation>Показать дерево технологий</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHOOSE_RESEARCH_UNLOCKS</zType>
-		<Translation>Unlocks</Translation>
+		<Translation>Открывает</Translation>
 	</Entry>
 	<!--choose-character.xml-->
 	<Entry>
 		<zType>TEXT_CHOOSE_CHARACTER</zType>
-		<Translation>Choose</Translation>
+		<Translation>Выбрать</Translation>
 	</Entry>
 	<!--character-list.xml-->
 	<Entry>
 		<zType>TEXT_CHARACTER_LIST</zType>
-		<Translation>Characters</Translation>
+		<Translation>Персонажи</Translation>
 	</Entry>
 	<!--barbarian-list.xml-->
 	<Entry>
 		<zType>TEXT_BARBARIAN_LIST_TRIBES</zType>
-		<Translation>Tribes</Translation>
+		<Translation>Племена</Translation>
 	</Entry>
 	<!--ai-log.xml-->
 	<Entry>
 		<zType>TEXT_AI_LOG</zType>
-		<Translation>AI Log</Translation>
+		<Translation>Журнал ИИ</Translation>
 	</Entry>
 	<!--comparisonportrait-->
 	<Entry>
 		<zType>TEXT_POPUP_INHERITANCE_CURRENTHEIR</zType>
-<Translation>Текущий наследник</Translation>
+	<Translation>Текущий наследник</Translation>
     </Entry>
     <Entry>
         <zType>TEXT_POPUP_INHERITANCE_NEWHEIR</zType>
@@ -1421,11 +1421,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_UPGRADE_DECISION_RATING</zType>
-		<Translation>Upgrade: +1 {0_ratingtype} ({1_startrating} to {2_endrating})</Translation>
+		<Translation>Модернизация: +1 {0_ratingtype} (с {1_startrating} до {2_endrating})</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_UPGRADE_DECISION_TRAIT</zType>
-		<Translation>Upgrade: {0_trait}</Translation>
+		<Translation>Модернизация: {0_trait}</Translation>
 	</Entry>
 	<!-- tech tree-->
 	<Entry>
@@ -1439,71 +1439,71 @@
 	<!--MPSetupScreenPanel-->
 	<Entry>
 		<zType>TEXT_UI_MP_SETUP_START_GAME</zType>
-		<Translation>Start Game</Translation>
+		<Translation>Начать игру</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_MP_SETUP_UNPAUSE_GAME</zType>
-		<Translation>Unpause Game</Translation>
+		<Translation>Продолжить игру</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_MP_SETUP_PAUSE_GAME</zType>
-		<Translation>Pause Game</Translation>
+		<Translation>Приостановить игру</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_MP_SETUP_LOAD_GAME</zType>
-		<Translation>Load Game</Translation>
+		<Translation>Загрузить игру</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_MP_SETUP_SAVE_GAME</zType>
-		<Translation>Save Game</Translation>
+		<Translation>Сохранить игру</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_MP_SETUP_WAITING_FOR_GAME_START</zType>
-		<Translation>Waiting for game to start</Translation>
+		<Translation>Ожидание начала игры</Translation>
 	</Entry>
-	<Entry>
+	<Entry><!--Требуется перевод-->
 		<zType>TEXT_UI_MP_SETUP_STATUS_ACTIVE_TURN</zType>
-		<Translation>{0_time} Active turn:</Translation>
+		<Translation>Время хода: {0_time}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_MP_SETUP_STATUS_PAUSE</zType>
-		<Translation>Pause: {0}</Translation>
+		<Translation>Приостановить: {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_MP_SETUP_STATUS_UNPAUSE</zType>
-		<Translation>Unpause: {0}</Translation>
+		<Translation>Продолжить: {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_MP_SETUP_NEW_GAME_NAME</zType>
-		<Translation>New Game</Translation>
+		<Translation>Новая игра</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_MP_SETUP_PICK_NATION_AT_SETTLE</zType>
-		<Translation>Pick your nation when you settle the first city</Translation>
+		<Translation>Выбрать нацию при основании первого города</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_MP_SETUP_GAME_PICKS_NATION</zType>
-		<Translation>Let the game choose a nation for you.</Translation>
+		<Translation>Позволить игре выбрать нацию за вас</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_MP_SETUP_START_SIMULTANEOUS_TURNS</zType>
-		<Translation>Play the first turns in simultaneous turn style</Translation>
+		<Translation>Играть первые ходы одновременно</Translation>
 	</Entry>
 	<!--OptionsMenuPanel-->
 	<Entry>
 		<zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_SKIP_ALL</zType>
-		<Translation>None</Translation>
+		<Translation>Пропустить все</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_WAR</zType>
-		<Translation>War</Translation>
+		<Translation>Война</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_WAR_OR_TRUCE</zType>
-		<Translation>War or Truce</Translation>
+		<Translation>Война или перемирие</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_ALL</zType>
-		<Translation>All</Translation>
+		<Translation>Все</Translation>
 	</Entry>
 </Root>
