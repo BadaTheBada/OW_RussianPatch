@@ -10,6 +10,14 @@
 		<Translation>{CHARACTER-SUBJECT} успешно проник на территорию вашего соперника.</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_MISSIONRESULT_SLANDER_SUCCESS_DESCRIPTION</zType>
+		<Translation>{CHARACTER-SUBJECT} успешно опорочил вашего соперника.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_SLANDER_SUCCESS_EXPOSED_DESCRIPTION</zType>
+		<Translation>{CHARACTER-SUBJECT} успешно опорочил вашего соперника, но был обнаружен.</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL_DESCRIPTION</zType>
 		<Translation>Вы успешно убили {CHARACTER-TARGET},  и никто ничего не подозревает...</Translation>
 	</Entry>
@@ -209,6 +217,22 @@
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_INFILTRATE_REVEAL</zType>
 		<Translation>Внедрение шпиона</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_INFILTRATE_EVENT</zType>
+		<Translation>Внедрение шпиона</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_SLANDER_SUCCESS</zType>
+		<Translation>Распространение клеветы</Translation>
+	</Entry>
+	<Entry><!--Требуется перевод-->
+		<zType>TEXT_MISSIONRESULT_SLANDER_SUCCESS_EXPOSED</zType>
+		<Translation>Клевета распространена, цель опорочена</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_SLANDER_EVENT</zType>
+		<Translation>Распространение клеветы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL</zType>
