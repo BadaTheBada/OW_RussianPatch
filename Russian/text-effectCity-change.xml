@@ -8,7 +8,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_BASE</zType>
-		<Translation>Базово</Translation>
+		<Translation>Базовые хар-ки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CAPITAL</zType>
@@ -156,68 +156,67 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_ABLE</zType>
-		<Translation>The Able</Translation>
+		<Translation>Умелый</Translation>
 	</Entry>
-	<!--Требуется перевод-->
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_ABLE_CAPITAL</zType>
-		<Translation>The Able</Translation>
+		<Translation>Умелый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_JUST</zType>
-		<Translation>The Just</Translation>
+		<Translation>Достойный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_JUST_CAPITAL</zType>
-		<Translation>The Just</Translation>
+		<Translation>Достойный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_GOOD</zType>
-		<Translation>The Good</Translation>
+		<Translation>Справедливый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_GOOD_CAPITAL</zType>
-		<Translation>The Good</Translation>
+		<Translation>Справедливый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_STRONG</zType>
-		<Translation>The Strong</Translation>
+		<Translation>Решительный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_STRONG_CAPITAL</zType>
-		<Translation>The Strong</Translation>
+		<Translation>Решительный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_NOBLE</zType>
-		<Translation>The Noble</Translation>
+		<Translation>Храбрый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_NOBLE_CAPITAL</zType>
-		<Translation>The Noble</Translation>
+		<Translation>Храбрый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_GLORIOUS</zType>
-		<Translation>The Glorious</Translation>
+		<Translation>Прославленный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_GLORIOUS_CAPITAL</zType>
-		<Translation>The Glorious</Translation>
+		<Translation>Прославленный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_MAGNIFICENT</zType>
-		<Translation>The Magnificent</Translation>
+		<Translation>Великолепный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_MAGNIFICENT_CAPITAL</zType>
-		<Translation>The Magnificent</Translation>
+		<Translation>Великолепный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_GREAT</zType>
-		<Translation>The Great</Translation>
+		<Translation>Великий</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DIFFICULTY_GREAT_CAPITAL</zType>
-		<Translation>The Great</Translation>
+		<Translation>Великий</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HAMLET</zType>
@@ -589,43 +588,43 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_FURIOUS</zType>
-		<Translation>Ярость (Семья)</Translation>
+		<Translation>Ярость семьи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_ANGRY</zType>
-		<Translation>Злость (Семья)</Translation>
+		<Translation>Злость семьи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_UPSET</zType>
-		<Translation>Огорчение (Семья)</Translation>
+		<Translation>Огорчение семьи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_PLEASED</zType>
-		<Translation>Симпатия (Семья)</Translation>
+		<Translation>Симпатия семьи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_FRIENDLY</zType>
-		<Translation>Дружелюбие (Семья)</Translation>
+		<Translation>Дружелюбие семьи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_FURIOUS</zType>
-		<Translation>Ярость (Религия)</Translation>
+		<Translation>Ярость представителей религии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_ANGRY</zType>
-		<Translation>Злость (Религия)</Translation>
+		<Translation>Злость представителей религии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_UPSET</zType>
-		<Translation>Огорчение (Религия)</Translation>
+		<Translation>Огорчение представителей религии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_PLEASED</zType>
-		<Translation>Симпатия (Религия)</Translation>
+		<Translation>Симпатия представителей религии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_FRIENDLY</zType>
-		<Translation>Дружелюбие (Религия)</Translation>
+		<Translation>Дружелюбие представителей религии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_MONARCH</zType>
@@ -1109,15 +1108,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_SCRIBE_1</zType>
-		<Translation>Младший секретарь</Translation>
+		<Translation>Младший писарь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_SCRIBE_2</zType>
-		<Translation>Секретарь</Translation>
+		<Translation>Писарь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_SCRIBE_3</zType>
-		<Translation>Старший секретарь</Translation>
+		<Translation>Старший писарь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_OFFICER_1</zType>
@@ -1310,7 +1309,7 @@
 	<!--Source-->
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SEAT_SOURCE</zType>
-		<Translation>Оплот</Translation>
+		<Translation>Родовое гнездо</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CAPITAL_SOURCE</zType>
