@@ -43,7 +43,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM_NEW_DIPLOMACY</zType>
-		<Translation>Между вами и {1,4_team} начинается {0_newDiplomacy}.</Translation>
+		<Translation>Между {0_team} и {2_team} начинается {1_newDiplomacy}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM_ALLIANCE_WAR</zType>
