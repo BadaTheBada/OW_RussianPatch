@@ -5675,231 +5675,231 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASSASSINATION_BETRAYAL_ADMIT</zType>
-		<Translation><![CDATA[Admit your involvement, and make amends.]]></Translation>
+		<Translation><![CDATA[Признаю свою причастность и принесу извинения.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASSASSINATION_BETRAYAL_DENY</zType>
-		<Translation><![CDATA[Deny that you knew anything of a plot.]]></Translation>
+		<Translation><![CDATA[Буду отрицать, что мне известно о заговоре.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASSASSINATION_REVENGE_PAYOFF</zType>
-		<Translation><![CDATA[Take anything but my life.]]></Translation>
+		<Translation><![CDATA[Возьмите все, но сохраните мне жизнь.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASSASSINATION_REVENGE_DEATH</zType>
-		<Translation><![CDATA[Do it, but I will haunt your dreams.]]></Translation>
+		<Translation><![CDATA[Сделайте это, но я доберусь до вас во сне.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASSASSINATION_RUMORS_REMOVE</zType>
-		<Translation><![CDATA[Remove {CHARACTER-0} as a precaution.]]></Translation>
+		<Translation><![CDATA[Устранить {CHARACTER-0} в качестве предупреждения.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASSASSINATION_RUMORS_IMPRISON_WIFE</zType>
-		<Translation><![CDATA[{CHARACTER-1} will pay for this betrayal.]]></Translation>
+		<Translation><![CDATA[{CHARACTER-1} заплатит за предательство.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASSASSINATION_RUMORS_IMPRISON_HEIR</zType>
-		<Translation><![CDATA[My heir has disappointed me.]]></Translation>
+		<Translation><![CDATA[Мой наследник меня разочаровал.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_PARTISANS_OK</zType>
-		<Translation><![CDATA[Crush these rebels without mercy.]]></Translation>
+		<Translation><![CDATA[Беспощадно подавить восстание.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_PARTISANS_HELP</zType>
-		<Translation><![CDATA[Make key charitable donations and promise a better future.]]></Translation>
+		<Translation><![CDATA[Пожертвовать большую сумму денег и пообещать лучшее будущее.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SABOTAGE_OK</zType>
-		<Translation><![CDATA[I will make them pay for their insolence.]]></Translation>
+		<Translation><![CDATA[Они заплатят за свою заносчивость.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SABOTAGE_HELP</zType>
-		<Translation><![CDATA[It is time to mend ties with the {FAMILY-0,1}.]]></Translation>
+		<Translation><![CDATA[Пришло время восстановить отношения с семьей {FAMILY-0}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_SQUABBLE_LAND_RESPECT</zType>
-		<Translation><![CDATA[We must respect the {FAMILY-1,1} ancestral claim.]]></Translation>
+		<Translation><![CDATA[Мы должны уважать право наследования семьи {FAMILY-1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_SQUABBLE_LAND_KEEP</zType>
-		<Translation><![CDATA[The {FAMILY-2,1} have made the land their own.]]></Translation>
+		<Translation><![CDATA[{FAMILY-2} присвоили эту землю.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_SQUABBLE_LAND_STAND</zType>
-		<Translation><![CDATA[Do nothing... but watch for developments.]]></Translation>
+		<Translation><![CDATA[Останемся в стороне... и посмотрим, как все сложится.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_SQUABBLE_LAND_TAKE</zType>
-		<Translation><![CDATA[That land should belong to me.]]></Translation>
+		<Translation><![CDATA[Эта земля должна принадлежать мне.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_SQUABBLE_HONOR_GUARD_1</zType>
-		<Translation><![CDATA[Choose the {FAMILY-1,2} warrior. ]]></Translation>
+		<Translation><![CDATA[Выбрать воина семьи {FAMILY-1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_SQUABBLE_HONOR_GUARD_2</zType>
-		<Translation><![CDATA[Choose the {FAMILY-2,2} warrior.]]></Translation>
+		<Translation><![CDATA[Выбрать воина семьи {FAMILY-2}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_SQUABBLE_HONOR_GUARD_NO</zType>
-		<Translation><![CDATA[We should continue our search.]]></Translation>
+		<Translation><![CDATA[Продолжить поиск кандидатов.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_SQUABBLE_RUMORS_GOLD</zType>
-		<Translation><![CDATA[I support the {FAMILY-1} family. ]]></Translation>
+		<Translation><![CDATA[Я поддерживаю семью {FAMILY-1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_SQUABBLE_RUMORS_IRON</zType>
-		<Translation><![CDATA[I stand with the {FAMILY-2,1}.]]></Translation>
+		<Translation><![CDATA[Я на стороне семьи {FAMILY-2}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_SQUABBLE_RUMORS_THANKS</zType>
-		<Translation><![CDATA[Take the gifts, but support neither family.]]></Translation>
+		<Translation><![CDATA[Принять дары, но остаться в стороне.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_SQUABBLE_RUMORS_REFUSE</zType>
-		<Translation><![CDATA[I wish to stay out these endless squabbles!]]></Translation>
+		<Translation><![CDATA[Я не желаю участововать в бесконечных склоках!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_SQUABBLE_INVITATIONS_1</zType>
-		<Translation><![CDATA[Go to the {FAMILY-1} military review.]]></Translation>
+		<Translation><![CDATA[Посетить военное обозрение семьи {FAMILY-1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_SQUABBLE_INVITATIONS_2</zType>
-		<Translation><![CDATA[Attend the {FAMILY-2} legal conference.]]></Translation>
+		<Translation><![CDATA[Посетить конференцию права семьи {FAMILY-2}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_SQUABBLE_INVITATIONS_NO</zType>
-		<Translation><![CDATA[Refuse to indulge their pettiness.]]></Translation>
+		<Translation><![CDATA[Отказаться потакать их мелочности.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_QUARREL_ALLOW</zType>
-		<Translation><![CDATA[Leave the lovers to their affair.]]></Translation>
+		<Translation><![CDATA[Оставить влюбленных в покое.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_QUARREL_PURSUE</zType>
-		<Translation><![CDATA[Give {CHARACTER-0} permission to pursue them.]]></Translation>
+		<Translation><![CDATA[Позволить {CHARACTER-0} преследовать их.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_QUARREL_HELP</zType>
-		<Translation><![CDATA[Send troops to bring them back.]]></Translation>
+		<Translation><![CDATA[Отправить обученную группу на их поиски.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_QUARREL_PURSUE_RETREAT</zType>
-		<Translation><![CDATA[Retreat, and abandon the cause.]]></Translation>
+		<Translation><![CDATA[Отступайте и откажитесь от этой затеи.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_QUARREL_PURSUE_SIEGE</zType>
-		<Translation><![CDATA[Keep up the siege until they surrender.]]></Translation>
+		<Translation><![CDATA[Продолжайте осаду, пока город не падет.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_QUARREL_PURSUE_HORSE</zType>
-		<Translation><![CDATA[Build a wooden horse and hide our troops inside.]]></Translation>
+		<Translation><![CDATA[Постройте деревянного коня и спрячьте в нем наших воинов.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_QUARREL_SIEGE_CONTINUE</zType>
-		<Translation><![CDATA[Maybe if we keep the siege up just a little while longer.]]></Translation>
+		<Translation><![CDATA[Возможно, стоит продержать осаду еще немного.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_QUARREL_SIEGE_ATTACK</zType>
-		<Translation><![CDATA[Ready or not, it is time to scale the walls!]]></Translation>
+		<Translation><![CDATA[Готовы или нет, пора взбираться на стены!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_QUARREL_SIEGE_RETREAT</zType>
-		<Translation><![CDATA[Retreat, and abandon the cause.]]></Translation>
+		<Translation><![CDATA[Отступайте и откажитесь от этой затеи.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_QUARREL_FATIGUED_ATTACK</zType>
-		<Translation><![CDATA[It is now or never. Assault the city!]]></Translation>
+		<Translation><![CDATA[Сейчас или никогда. Штурмуйте город!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_QUARREL_FATIGUED_RETREAT</zType>
-		<Translation><![CDATA[Let us be free of {CHARACTER-1} and {CHARACTER-2}.]]></Translation>
+		<Translation><![CDATA[Оставим в покое {CHARACTER-1} и {CHARACTER-2}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ACROPOLIS_GUARD_YES</zType>
-		<Translation><![CDATA[Consider it done.]]></Translation>
+		<Translation><![CDATA[Можно считать, дело сделано.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ACROPOLIS_GUARD_NO</zType>
-		<Translation><![CDATA[Special guards are not necessary.]]></Translation>
+		<Translation><![CDATA[Особая стража не требуется.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ACROPOLIS_GUARD_NO_HELP</zType>
-		<Translation><![CDATA[Ordinary soldiers will have to suffice.]]></Translation>
+		<Translation><![CDATA[Достаточно обычных солдат.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_GAMES</zType>
-		<Translation><![CDATA[We will host the {FAMILY-0}'s games.]]></Translation>
+		<Translation><![CDATA[Мы не будем проводить игры семьи {FAMILY-0}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HOMELESS_CHILDREN_NO_AID</zType>
-		<Translation>{PLAYER-1} cannot become a home for charity.</Translation>
+		<Translation>{PLAYER-1} не благотворительный дом.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HOMELESS_CHILDREN_SHELTER</zType>
-		<Translation>We will shelter them.</Translation>
+		<Translation>Мы дадим им кров.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HOMELESS_CHILDREN_CHILD_LABOR</zType>
-		<Translation>We can always use citizens in {CITY-3}.</Translation>
+		<Translation>Мы можем использовать их труд в г. {CITY-3}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DECADENCE_SACRIFICE</zType>
-		<Translation><![CDATA[Each citizen must make a sacrifice at the temple!]]></Translation>
+		<Translation><![CDATA[Каждый житель должен принести жертву храму!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DECADENCE_CRAZY_PRIESTS</zType>
-		<Translation><![CDATA[Our high priests do not need encouragement.]]></Translation>
+		<Translation><![CDATA[Верховным священникам не нужна наша помощь.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STRICTER_RULES_PRIESTS_PLEASED</zType>
-		<Translation>Angering the priests will anger the gods.</Translation>
+		<Translation>Если мы прогневаем священников, мы прогневаем самих богов.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_STRICTER_RULES_PEOPLE_PLEASED</zType>
-		<Translation>The high priests have gone too far.</Translation>
+		<Translation>Верховные священники зашли слишком далеко.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RAMPANT_CORRUPTION_ALLOW</zType>
-		<Translation><![CDATA[Allow the campaign to proceed unhindered.]]></Translation>
+		<Translation><![CDATA[Позволить ему беспрепятственно вести борьбу.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RAMPANT_CORRUPTION_SUPPORT</zType>
-		<Translation><![CDATA[Send funds to support him and his cause.]]></Translation>
+		<Translation><![CDATA[Отправить средства на поддержку его замысла.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RAMPANT_CORRUPTION_HIRE</zType>
-		<Translation><![CDATA[Hire this talented politician for court.]]></Translation>
+		<Translation><![CDATA[Пригласить ко двору этого талантливого политика.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RAMPANT_CORRUPTION_BRIBES</zType>
-		<Translation><![CDATA[Accept bribes from {CITY-0} officials to stop him.]]></Translation>
+		<Translation><![CDATA[Принять взятку от представителей г. {CITY-0}, чтобы остановить его.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RADICAL_PHILOSOPHER_ACCEPT</zType>
-		<Translation><![CDATA[We will continue to use slaves.]]></Translation>
+		<Translation><![CDATA[Мы продолжим использовать рабский труд.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RADICAL_PHILOSOPHER_RID</zType>
-		<Translation><![CDATA[Rid the {FAMILY-0,1} of this troublesome philosopher.]]></Translation>
+		<Translation><![CDATA[Избавить семью {FAMILY-0,1} от проблемного философа.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CONTEST_OF_RHETORIC_MYSELF</zType>
-		<Translation><![CDATA[I will go and defend it myself.]]></Translation>
+		<Translation><![CDATA[Я отправлюсь на дебаты, чтобы самостоятельно защитить текущий порядок.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CONTEST_OF_RHETORIC_ORATOR</zType>
-		<Translation><![CDATA[Hire a master orator to speak on our behalf.]]></Translation>
+		<Translation><![CDATA[Наймите профессионального оратора для выступления от нашего имени.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CONTEST_OF_RHETORIC_ANYONE</zType>
-		<Translation><![CDATA[Send whoever has the spare time.]]></Translation>
+		<Translation><![CDATA[Отправьте любого, кто располагает свободным временем.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CONTEST_OF_RHETORIC_REFUSE</zType>
-		<Translation><![CDATA[Refuse to subject our policies to debate.]]></Translation>
+		<Translation><![CDATA[Откажитесь обсуждать на дебатах наши законы.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_EAGER_EXPLORERS_OK</zType>
