@@ -5171,507 +5171,507 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUMOR_HAS_IT_PETS</zType>
-		<Translation>People should ignore baseless lies.</Translation>
+		<Translation>Людям следует игнорировать нелепые слухи.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUMOR_HAS_IT_MISUNDERSTOOD</zType>
-		<Translation><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> practices an honorable and misunderstood religion.]]></Translation>
+		<Translation><![CDATA[<masculine_CHARACTER-0>Он<feminine>Она<end> следует достойной, но неправильно истолкованной религии.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RUMOR_HAS_IT_BURN</zType>
-		<Translation><![CDATA[<masculine_CHARACTER-0>He<feminine>She<end> must be burned at the stake!]]></Translation>
+		<Translation><![CDATA[<masculine_CHARACTER-0>Его<feminine>Ее<end> нужно сжечь на костре!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ENCHANTING_CONVERSATION_OPTION_0</zType>
-		<Translation><![CDATA[Let us see where the night takes us.]]></Translation>
+		<Translation><![CDATA[Посмотрим, куда эта ночь нас заведет.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ENCHANTING_CONVERSATION_OPTION_1</zType>
-		<Translation><![CDATA[A ruler needs <masculine_CHARACTER-0>his<feminine>her<end> rest.]]></Translation>
+		<Translation><![CDATA[<masculine_CHARACTER-0>Правителю<feminine>Правительнице<end> требуется отдых.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FRUITFUL_AFFAIR_OPTION_0</zType>
-		<Translation><![CDATA[This is a blessing to us all.]]></Translation>
+		<Translation><![CDATA[Это благо для всех нас.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_EMPTY_BED_OPTION_0</zType>
-		<Translation><![CDATA[Yes, I require companionship.]]></Translation>
+		<Translation><![CDATA[Да, мне требуется компания.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_EMPTY_BED_OPTION_1</zType>
-		<Translation><![CDATA[I will not defile my marriage bed.]]></Translation>
+		<Translation><![CDATA[Я не оскверню супружеское ложе.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_REVEALED_AFFAIR_OPTION_0</zType>
-		<Translation><![CDATA[It is still my child.]]></Translation>
+		<Translation><![CDATA[Это все еще мой ребенок.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_INDIFFERENT_QUEEN_OPTION_0</zType>
-		<Translation><![CDATA[We do enjoy each other's company.]]></Translation>
+		<Translation><![CDATA[Мы прекрасно проводим время вместе.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_INDIFFERENT_QUEEN_OPTION_1</zType>
-		<Translation><![CDATA[I will not forsake my marriage vows.]]></Translation>
+		<Translation><![CDATA[Я не нарушу брачный обет.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CHILD_OF_PASSION_OPTION_0</zType>
-		<Translation><![CDATA[I can see the resemblance.]]></Translation>
+		<Translation><![CDATA[Наше сходство нельзя не заметить.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DISTRACTING_CHILD_SNOW</zType>
-		<Translation><![CDATA[Hiking in the snowy mountains.]]></Translation>
+		<Translation><![CDATA[Забраться на снежные горы.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DISTRACTING_CHILD_HILLS</zType>
-		<Translation><![CDATA[Exploring the hills and cliffs.]]></Translation>
+		<Translation><![CDATA[Исследовать холмы и склоны.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DISTRACTING_CHILD_WOODS</zType>
-		<Translation><![CDATA[Tracking animals in the woods.]]></Translation>
+		<Translation><![CDATA[Следить в лесах за животными.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_OUTDOOR_PASTIME_FISH</zType>
-		<Translation><![CDATA[Fishing will teach patience.]]></Translation>
+		<Translation><![CDATA[Учиться терпению на рыбалке.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_OUTDOOR_PASTIME_PLANTS</zType>
-		<Translation><![CDATA[Planting will teach concentration.]]></Translation>
+		<Translation><![CDATA[Садоводство обучит концентрации.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_OUTDOOR_PASTIME_ANIMALS</zType>
-		<Translation><![CDATA[Tending animals will teach compassion.]]></Translation>
+		<Translation><![CDATA[Уход за животными обучит состраданию.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RESTLESS_HANDS_ARTIFACTS</zType>
-		<Translation><![CDATA[Digging for ancient artifacts.]]></Translation>
+		<Translation><![CDATA[Раскопки древних артефактов.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RESTLESS_HANDS_HERBS</zType>
-		<Translation><![CDATA[Gathering herbs in the forest.]]></Translation>
+		<Translation><![CDATA[Сбор трав в лесу.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_RESTLESS_HANDS_SLAG</zType>
-		<Translation><![CDATA[Helping the refiners haul slag.]]></Translation>
+		<Translation><![CDATA[Помощь в перевозке шлаков.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CHILD_DARK_OMENS_SACRIFICE</zType>
-		<Translation><![CDATA[Sacrifice cows to our chief god.]]></Translation>
+		<Translation><![CDATA[Отдайте коров в жертву богам ради их милости.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CHILD_DARK_OMENS_FIRE</zType>
-		<Translation><![CDATA[Build a great ritual fire to ward off evil.]]></Translation>
+		<Translation><![CDATA[Возведите огромный ритуальный костер, чтобы отвадить зло.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CHILD_DARK_OMENS_NOTHING</zType>
-		<Translation><![CDATA[Do nothing, this is mere superstition.]]></Translation>
+		<Translation><![CDATA[Ничего, это просто предрассудки.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CHILD_ROYAL_BIRTH_COLLECT</zType>
-		<Translation><![CDATA[Collect gifts from the noble families.]]></Translation>
+		<Translation><![CDATA[Соберите подарки со знатных семей.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CHILD_ROYAL_BIRTH_SEND</zType>
-		<Translation><![CDATA[Send commemorative coins to all nobles.]]></Translation>
+		<Translation><![CDATA[Отправьте знати памятные монеты.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CHILD_ROYAL_BIRTH_PRESENT</zType>
-		<Translation><![CDATA[Present the baby to an adoring public.]]></Translation>
+		<Translation><![CDATA[Покажите ребенка восторженной толпе.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CHILD_NEW_THOUGHTS_DEFEND</zType>
-		<Translation><![CDATA[My royal bloodline is all that matters.]]></Translation>
+		<Translation><![CDATA[Важна лишь королевская кровь.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CHILD_NEW_THOUGHTS_PEACE</zType>
-		<Translation><![CDATA[I want to live in a world of peace and beauty.]]></Translation>
+		<Translation><![CDATA[Я хочу жить в мире гармонии и красоты.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CHILD_NEW_THOUGHTS_FAMILY</zType>
-		<Translation><![CDATA[Family is the only treasure worth pursuing.]]></Translation>
+		<Translation><![CDATA[Семья — единственное богатство, к которому надо стремиться.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BULLYING_HEIR_ALLOW</zType>
-		<Translation><![CDATA[Ignore it. Dominance is the natural order.]]></Translation>
+		<Translation><![CDATA[Игнорировать. Стремление к лидерству в порядке вещей.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BULLYING_HEIR_TEACH</zType>
-		<Translation><![CDATA[Teach {CHARACTER-0} to respect <masculine_CHARACTER-0>his<feminine>her<end> inferiors.]]></Translation>
+		<Translation><![CDATA[Научить {CHARACTER-0} уважать младших.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BULLYING_HEIR_ESCALATION_ACCEPT</zType>
-		<Translation><![CDATA[Accept the bribe.]]></Translation>
+		<Translation><![CDATA[Принять взятку.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BULLYING_HEIR_ESCALATION_REFUSE</zType>
-		<Translation><![CDATA[Refuse the bribe and warn {CHARACTER-0}.]]></Translation>
+		<Translation><![CDATA[Отказаться от взятки и предупредить {CHARACTER-0}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BULLYING_HEIR_ESCALATION_REFUSE_HELP</zType>
-		<Translation><![CDATA[I must protect my line!]]></Translation>
+		<Translation><![CDATA[Я буду защищать свою кровь!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BULLYING_HEIR_ESCALATION_IMPRISON</zType>
-		<Translation><![CDATA[Let {CHARACTER-1} rot in prison for this plot.]]></Translation>
+		<Translation><![CDATA[Бросить {CHARACTER-1} гнить в тюрьме.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BULLYING_HEIR_ESCALATION_SUCCEEDED_OK</zType>
-		<Translation><![CDATA[I am relieved... but not proud.]]></Translation>
+		<Translation><![CDATA[Я могу успокоиться... но не гордиться.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BULLYING_HEIR_ESCALATION_DISCOVERED_OK</zType>
-		<Translation><![CDATA[At least their feuding is over.]]></Translation>
+		<Translation><![CDATA[Наконец их вражда подошла к концу.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BULLYING_HEIR_ESCALATION_FAILED_OK</zType>
-		<Translation><![CDATA[I always knew it would come to this.]]></Translation>
+		<Translation><![CDATA[Все к этому шло.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BULLYING_HEIR_ESCALATION_CALLED_OFF_OK</zType>
-		<Translation><![CDATA[My children will live to see another day.]]></Translation>
+		<Translation><![CDATA[Мои дети останутся живы.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_BRUTAL_HEIR_OPTION_0</zType>
-		<Translation><![CDATA[He will be punished for his cruelty.]]></Translation>
+		<Translation><![CDATA[<masculine_CHARACTER-1>Он<feminine>Она<end> будет <masculine_CHARACTER-1>наказан<feminine>наказана<end> за свою жестокость.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_BRUTAL_HEIR_OPTION_1</zType>
-		<Translation><![CDATA[It is an heir's right to punish the weak.]]></Translation>
+		<Translation><![CDATA[Право наследника наказывать слабых.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRAIT_BRUTAL_HEIR_OPTION_2</zType>
-		<Translation><![CDATA[The heir must be taught compassion.]]></Translation>
+		<Translation><![CDATA[<masculine_CHARACTER-1>Его<feminine>Ее<end> стоит научить состраданию.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_HOLY_WAR_OPTION_0</zType>
-		<Translation><![CDATA[Remove these sects... discreetly.]]></Translation>
+		<Translation><![CDATA[Избавьтесь от этих сект... не привлекая внимание.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_HOLY_WAR_OPTION_1</zType>
-		<Translation><![CDATA[The heir is unfit for the throne.]]></Translation>
+		<Translation><![CDATA[{CHARACTER-1} не годится в правители.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_HOLY_WAR_OPTION_2</zType>
-		<Translation><![CDATA[It is true, the savages must be destroyed.]]></Translation>
+		<Translation><![CDATA[Все верно, дикарей нужно уничтожить.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_COMING_OF_AGE_CEREMONY</zType>
-		<Translation><![CDATA[Conduct a traditional {PLAYER-1,1} ceremony.]]></Translation>
+		<Translation><![CDATA[Провести традиционную {PLAYER-1,25} церемонию.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_COMING_OF_AGE_GIFTS</zType>
-		<Translation><![CDATA[Commission new regalia for {CHARACTER-0}.]]></Translation>
+		<Translation><![CDATA[Предоставить {CHARACTER-0} особые привелегии.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_COMING_OF_AGE_HOLIDAY</zType>
-		<Translation><![CDATA[Declare a national holiday in {CITY-2}.]]></Translation>
+		<Translation><![CDATA[Объявить в г. {CITY-2} национальный праздник.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PREPARE_YOUR_HEIR_RULE</zType>
-		<Translation><![CDATA[Let <masculine_CHARACTER-0>him<feminine>her<end> rule for a day.]]></Translation>
+		<Translation><![CDATA[Предоставить <masculine_CHARACTER-0>ему<feminine>ей<end> один день правления.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PREPARE_YOUR_HEIR_HUNT</zType>
-		<Translation><![CDATA[Take <masculine_CHARACTER-0>him<feminine>her<end> on a hunt.]]></Translation>
+		<Translation><![CDATA[Взять <masculine_CHARACTER-0>его<feminine>ее<end> на охоту.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PREPARE_YOUR_HEIR_RIDE</zType>
-		<Translation><![CDATA[Show <masculine_CHARACTER-0>him<feminine>her<end> the farthest borders of the realm.]]></Translation>
+		<Translation><![CDATA[Показать <masculine_CHARACTER-0>ему<feminine>ей<end> самые отдаленные уголки королевства.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_JOYOUS_WEDDING_PRIVATE</zType>
-		<Translation><![CDATA[Keep it a small, private affair.]]></Translation>
+		<Translation><![CDATA[Без шумихи, в личном кругу.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_JOYOUS_WEDDING_ARISTOCRATS</zType>
-		<Translation><![CDATA[Invite the most prominent aristocrats.]]></Translation>
+		<Translation><![CDATA[Пригласим самых именитых аристократов.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_JOYOUS_WEDDING_FEASTS</zType>
-		<Translation><![CDATA[Decree feasts throughout the capital.]]></Translation>
+		<Translation><![CDATA[Проведем фестивали по всей столице.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_WEDDING_FAUX_PAS_BRIBES</zType>
-		<Translation><![CDATA[Make amends later with discreet bribes.]]></Translation>
+		<Translation><![CDATA[Загладить вину скромным подарком.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_WEDDING_FAUX_PAS_NOTHING</zType>
-		<Translation><![CDATA[Nothing, <masculine_CHARACTER-0>he<feminine>she<end> must learn to live with <masculine_CHARACTER-0>his<feminine>her<end> mistakes.]]></Translation>
+		<Translation><![CDATA[Ничего, пусть <masculine_CHARACTER-0>он<feminine>она<end> учится жить со своими ошибками.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_WEDDING_FAUX_PAS_LIGHTEN</zType>
-		<Translation><![CDATA[Lighten the mood, so the guests forget.]]></Translation>
+		<Translation><![CDATA[Разрядить обстановку, чтобы гости забыли о недоразумении.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_CRUSHING_BLOW_STUDY</zType>
-		<Translation><![CDATA[Order <masculine_CHARACTER-0>him<feminine>her<end> to teach officers his tactics.]]></Translation>
+		<Translation><![CDATA[Велеть <masculine_CHARACTER-0>ему<feminine>ей<end> обучить офицеров своей тактике.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_CRUSHING_BLOW_CHEER</zType>
-		<Translation><![CDATA[Inspire the people with news of this victory.]]></Translation>
+		<Translation><![CDATA[Вдохновить людей новостью об этой победе.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_BUDDING_ARCHER_EYES</zType>
-		<Translation><![CDATA[Sharpen your vision.]]></Translation>
+		<Translation><![CDATA[Отточить свой взгляд.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_BUDDING_ARCHER_ARMS</zType>
-		<Translation><![CDATA[Use your strength.]]></Translation>
+		<Translation><![CDATA[Использовать свою силу.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_BUDDING_ARCHER_HANDS</zType>
-		<Translation><![CDATA[Steady your grip.]]></Translation>
+		<Translation><![CDATA[Держать оружие твердо.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SLAIN_CHAMPION_PRAISE</zType>
-		<Translation><![CDATA[Publicly praise {CHARACTER-0} for <masculine_CHARACTER-0>his<feminine>her<end> courage.]]></Translation>
+		<Translation><![CDATA[Похвалим {CHARACTER-0} за храбрость на глазах у народа.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SLAIN_CHAMPION_COMMISSION</zType>
-		<Translation><![CDATA[Commission a poem to ccelebrate the duel.]]></Translation>
+		<Translation><![CDATA[Поручим написать поэму об этом бое.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SLAIN_CHAMPION_ADMONISH</zType>
-		<Translation><![CDATA[Urge {CHARACTER-0} to be more careful.]]></Translation>
+		<Translation><![CDATA[Порекомендуем {CHARACTER-0} быть осторожнее.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_AXES_HIGH_TREMBLE</zType>
-		<Translation><![CDATA[Our enemies will tremble before <masculine_CHARACTER-0>him<feminine>her<end>!]]></Translation>
+		<Translation><![CDATA[Наши враги будут трепетать перед <masculine_CHARACTER-0>ним<feminine>ней<end>!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_AXES_HIGH_HOME</zType>
-		<Translation><![CDATA[We need <masculine_CHARACTER-0>his<feminine>her<end> courage at home.]]></Translation>
+		<Translation><![CDATA[<masculine_CHARACTER-0>Его<feminine>Ее<end> храбрость пригодится дома.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_CRISIS_ACCIDENT</zType>
-		<Translation><![CDATA[Arrange for my wife to have an "accident."]]></Translation>
+		<Translation><![CDATA[Устройте "несчастный случай" для моей жены.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_CRISIS_DIVORCE</zType>
-		<Translation><![CDATA[I must divorce {CHARACTER-1}.]]></Translation>
+		<Translation><![CDATA[Я должен развестись с {CHARACTER-1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_CRISIS_NOTHING</zType>
-		<Translation><![CDATA[If the gods will it...]]></Translation>
+		<Translation><![CDATA[Если боги того желают...]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_CRISIS_SAFE_OK</zType>
-		<Translation><![CDATA[I'm a master of intrigue]]></Translation>
+		<Translation><![CDATA[Я просто мастер интриг.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_CRISIS_CAUGHT_OK</zType>
-		<Translation><![CDATA[This is an understandable reaction]]></Translation>
+		<Translation><![CDATA[Их ярость мне понятна.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DWINDLING_LINE_1</zType>
-		<Translation><![CDATA[I will adopt {CHARACTER-1}.]]></Translation>
+		<Translation><![CDATA[Я <masculine_CHARACTER-1>усыновлю<feminine>удочерю<end> {CHARACTER-1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DWINDLING_LINE_2</zType>
-		<Translation><![CDATA[I will adopt {CHARACTER-2}.]]></Translation>
+		<Translation><![CDATA[Я <masculine_CHARACTER-2>усыновлю<feminine>удочерю<end> {CHARACTER-2}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DWINDLING_LINE_3</zType>
-		<Translation><![CDATA[I will adopt {CHARACTER-3}.]]></Translation>
+		<Translation><![CDATA[Я <masculine_CHARACTER-3>усыновлю<feminine>удочерю<end> {CHARACTER-3}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DWINDLING_LINE_NO</zType>
-		<Translation><![CDATA[I refuse to sully my line with non-royal blood.]]></Translation>
+		<Translation><![CDATA[Я отказываюсь пачкать королевскую кровь.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_OF_CORRUPTION_OPTION_0</zType>
-		<Translation><![CDATA[He will be punished accordingly.]]></Translation>
+		<Translation><![CDATA[<masculine_CHARACTER-1>Его<feminine>Ее<end> ждет соответствующее наказание.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_OF_CORRUPTION_OPTION_1</zType>
-		<Translation><![CDATA[Boys will have their fun.]]></Translation>
+		<Translation><![CDATA[Пусть мужчины веселятся.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_OF_CORRUPTION_OPTION_2</zType>
-		<Translation><![CDATA[There are no excuses for waste!]]></Translation>
+		<Translation><![CDATA[Бездумным тратам нет никакого оправдания!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_OUR_CONSERVATIVE_ELDERS_OFFENDED_TRAIL</zType>
-		<Translation><![CDATA[I pay no heed to ignorant fools!]]></Translation>
+		<Translation><![CDATA[Глупцы не стоят моего внимания!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_OUR_CONSERVATIVE_ELDERS_SUBMISSION</zType>
-		<Translation><![CDATA[I understand their concerns, and I will concede.]]></Translation>
+		<Translation><![CDATA[Мне понятно их беспокойство. Я откажусь от трона.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_OUR_CONSERVATIVE_ELDERS_HATSHEPSUT</zType>
-		<Translation><![CDATA[I will wear a beard to resemble a man.]]></Translation>
+		<Translation><![CDATA[Я стану носить бороду, чтобы казаться мужчиной.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_ADOPTION_YES</zType>
-		<Translation><![CDATA[Yes, {CHARACTER-1} will be my heir.]]></Translation>
+		<Translation><![CDATA[Да, {CHARACTER-1} отныне наследует мой трон.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_ADOPTION_NO</zType>
-		<Translation><![CDATA[No, another heir must be found.]]></Translation>
+		<Translation><![CDATA[Нет, нужно найти другого наследника.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_FAMILY_ADOPTION_NO_HELP</zType>
-		<Translation><![CDATA[This one will never rule!]]></Translation>
+		<Translation><![CDATA[Этот человек никогда не будет управлять страной!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_POTENTIAL_HEIR_YES</zType>
-		<Translation><![CDATA[Yes, my legacy must be secured.]]></Translation>
+		<Translation><![CDATA[Да, моя династия будет сохранена.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_POTENTIAL_HEIR_NO</zType>
-		<Translation><![CDATA[No, this one will not do.]]></Translation>
+		<Translation><![CDATA[Нет, этот человек не будет править.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_POTENTIAL_HEIR_NO_HELP</zType>
-		<Translation><![CDATA[Continue the search for candidates.]]></Translation>
+		<Translation><![CDATA[Продолжайте поиск кандидатов.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LEGITIMIZE_HEIR_YES</zType>
-		<Translation>We must legitimize {CHARACTER-SHORT-0}.</Translation>
+		<Translation>Мы должны узаконить рождение {CHARACTER-SHORT-0}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_LEGITIMIZE_HEIR_NO</zType>
-		<Translation>I will not allow it.</Translation>
+		<Translation>Я этого не допущу.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DANGEROUS_HEIRS_OPTION_0</zType>
-		<Translation><![CDATA[Conspiracies will not be tolerated.]]></Translation>
+		<Translation><![CDATA[Я не потерплю заговоров.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DANGEROUS_HEIRS_DEATH_OPTION_0</zType>
-		<Translation><![CDATA[I should have killed them when I had the chance.]]></Translation>
+		<Translation><![CDATA[Мне следовало убить их при первой возможности.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_SELF_REFLECTION_RIGHTEOUSNESS</zType>
-		<Translation><![CDATA[I should focus on attaining righteousness. ]]></Translation>
+		<Translation><![CDATA[Мне следует сосредоточиться на справедливости.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_SELF_REFLECTION_BRILLIANT</zType>
-		<Translation><![CDATA[I should surround myself with brilliant artists.]]></Translation>
+		<Translation><![CDATA[Мне следует окружить себя лучшими художниками.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_SELF_REFLECTION_PEACEFUL</zType>
-		<Translation><![CDATA[I should lead a quiet life of philosophical study.]]></Translation>
+		<Translation><![CDATA[Мне следует вести тихую жизнь в философских учениях.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_SELF_REFLECTION_NO</zType>
-		<Translation><![CDATA[I am already a perfect ruler.]]></Translation>
+		<Translation><![CDATA[Я итак прекрасный правитель.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_NEW_LEAF_FEAST</zType>
-		<Translation><![CDATA[Throw a great feast in their honor.]]></Translation>
+		<Translation><![CDATA[Устрою большой праздник в их честь.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_NEW_LEAF_MONUMENT</zType>
-		<Translation><![CDATA[Erect a monument to their founder.]]></Translation>
+		<Translation><![CDATA[Воздвигну монумент в честь основателя их семьи.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_NEW_LEAF_BRIBE</zType>
-		<Translation><![CDATA[Send them a lavish bribe of gold..]]></Translation>
+		<Translation><![CDATA[Щедро одарю их золотом.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_NEW_LEAF_NO</zType>
-		<Translation><![CDATA[They deserve no special treatment.]]></Translation>
+		<Translation><![CDATA[Они не заслуживают особого отношения.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_CHANCE_FOR_PEACE_TRUCE</zType>
-		<Translation><![CDATA[Yes, let us make a temporary truce.]]></Translation>
+		<Translation><![CDATA[Да, давайте заключим временное перемирие.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_CHANCE_FOR_PEACE_FRIENDS</zType>
-		<Translation><![CDATA[Yes, let us exchange gifts of friendship.]]></Translation>
+		<Translation><![CDATA[Да, давайте обменяемся подарками в знак дружбы.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_CHANCE_FOR_PEACE_NO</zType>
-		<Translation><![CDATA[Why should we make peace with filth like you?]]></Translation>
+		<Translation><![CDATA[Зачем нам заключать мир с такими отбросами?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_CHANCE_FOR_PEACE_NO_HELP</zType>
-		<Translation><![CDATA[Give me one good reason.]]></Translation>
+		<Translation><![CDATA[Назовите мне одну стоящую причину.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_SNAKE_SIGNS_RACES</zType>
-		<Translation><![CDATA[Sponsor chariot races in {CITY-1}, the {FAMILY-1,2} seat.]]></Translation>
+		<Translation><![CDATA[Устройте гонки на колесницах в г. {CITY-1} семьи {FAMILY-1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_SNAKE_SIGNS_BANQUET</zType>
-		<Translation><![CDATA[Throw a banquet in {CITY-2}, the {FAMILY-2,2} seat.]]></Translation>
+		<Translation><![CDATA[Проведите банкет в г. {CITY-2} семьи {FAMILY-2}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_SNAKE_SIGNS_CONTEST</zType>
-		<Translation><![CDATA[Host a contest of arms in {CITY-3}, the {FAMILY-3,2} seat]]></Translation>
+		<Translation><![CDATA[Проведите соревнование оружейников в г. {CITY-3} семьи {FAMILY-3}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_SNAKE_SIGNS_NO</zType>
-		<Translation>No, I choose my own path.</Translation>
+		<Translation>Нет, я выберу собственный путь.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_CORONATION_FESTIVAL_POETRY</zType>
-		<Translation><![CDATA[The {FAMILY-1}'s songs and poetry.]]></Translation>
+		<Translation><![CDATA[Песни и поэзия семьи {FAMILY-1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_CORONATION_FESTIVAL_FEAST</zType>
-		<Translation><![CDATA[The {FAMILY-2}'s feasts of exotic dishes.]]></Translation>
+		<Translation><![CDATA[Пир с экзотическими блюдами от семьи {FAMILY-2}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_CORONATION_FESTIVAL_ARCHERY</zType>
-		<Translation><![CDATA[The {FAMILY-3}'s marksmanship contest.]]></Translation>
+		<Translation><![CDATA[Соревнования по стрельбе от семьи {FAMILY-3}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_PATRIOTIC_FERVOR_LABOR</zType>
-		<Translation><![CDATA[Organize a labor corps to improve lands.]]></Translation>
+		<Translation><![CDATA[Организуем рабочих в группы для благоустройства наших земель.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_PATRIOTIC_FERVOR_TRAIN</zType>
-		<Translation><![CDATA[Train with the army to increase morale.]]></Translation>
+		<Translation><![CDATA[Проведем военную подготовку, чтобы укрепить боевой дух.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_PATRIOTIC_FERVOR_ARTISANS</zType>
-		<Translation><![CDATA[Encourage artisans to move to our capital.]]></Translation>
+		<Translation><![CDATA[Поможем ремесленникам перебраться в столицу.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_FAMILY_DELEGATION_GRANITE</zType>
-		<Translation><![CDATA[Accept granite to build stelae carved with laws.]]></Translation>
+		<Translation><![CDATA[Гранит для создания стены законов.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_FAMILY_DELEGATION_STEEL</zType>
-		<Translation><![CDATA[Accept steel to equip an elite guard.]]></Translation>
+		<Translation><![CDATA[Сталь для экипировки элитный войск.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_FAMILY_DELEGATION_EBONY</zType>
-		<Translation><![CDATA[Accept ebony to study its strange properties.]]></Translation>
+		<Translation><![CDATA[Черное дерево для изучения его необычных свойств.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_FAMILY_DELEGATION_KILL</zType>
-		<Translation><![CDATA[Kill them and take everything.]]></Translation>
+		<Translation><![CDATA[Убить их и забрать все подарки.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_TAKING_THE_CROWN_FESTIVAL</zType>
-		<Translation><![CDATA[Host an enormous festival.]]></Translation>
+		<Translation><![CDATA[Организую огромный фестиваль.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_TAKING_THE_CROWN_INQUIRY</zType>
-		<Translation><![CDATA[Initiate yourself into a mystery cult.]]></Translation>
+		<Translation><![CDATA[Посвящу себя в мистический культ.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUCCESSION_TAKING_THE_CROWN_TRADITIONAL</zType>
-		<Translation><![CDATA[Conduct the traditional ceremony.]]></Translation>
+		<Translation><![CDATA[Проведу традиционную церемонию.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MASTER_OF_WHISPERS_FRIENDS</zType>
-		<Translation><![CDATA[They are just friends...]]></Translation>
+		<Translation><![CDATA[Они всего лишь друзья...]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MASTER_OF_WHISPERS_IMPRISION</zType>
-		<Translation><![CDATA[It's about time we got rid of our Spymaster. I will no longer tolerate such fabrications!]]></Translation>
+		<Translation><![CDATA[Пришло время избавиться от начальника разведки. Я больше не потерплю такой лжи!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SPYMASTER_MASTER_OF_POISONS_OPTION_0</zType>
-		<Translation><![CDATA[Intrigue must remain "honorable."]]></Translation>
+		<Translation><![CDATA[Заговоры должны оставаться "благородными".]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SPYMASTER_MASTER_OF_POISONS_OPTION_1</zType>
-		<Translation><![CDATA[Poisons are a powerful shadow weapon.]]></Translation>
+		<Translation><![CDATA[Яды - это мощное орудие тайной дипломатии.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASSASSINATION_BETRAYAL_ADMIT</zType>
