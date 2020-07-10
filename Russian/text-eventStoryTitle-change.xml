@@ -1791,103 +1791,103 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ASSASSINATION_BETRAYAL_TITLE</zType>
-		<Translation>Assassination Betrayal</Translation>
+		<Translation>Заговор</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ASSASSINATION_REVENGE_TITLE</zType>
-		<Translation>Assassination Revenge</Translation>
+		<Translation>Расплата</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ASSASSINATION_RUMORS_TITLE</zType>
-		<Translation>Assassination Rumors</Translation>
+		<Translation>Слухи о заговоре</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_PARTISANS_TITLE</zType>
-		<Translation>Family Partisans</Translation>
+		<Translation>Сторонники семьи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SABOTAGE_TITLE</zType>
-		<Translation>Sabotage</Translation>
+		<Translation>Саботаж</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_SQUABBLE_LAND_TITLE</zType>
-		<Translation>Land Dispute</Translation>
+		<Translation>Дележка земель</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_SQUABBLE_HONOR_GUARD_TITLE</zType>
-		<Translation>Honor Guard</Translation>
+		<Translation>Почетный караул</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_SQUABBLE_RUMORS_TITLE</zType>
-		<Translation>Vicious Rumors</Translation>
+		<Translation>Порочные слухи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_SQUABBLE_INVITATIONS_TITLE</zType>
-		<Translation>Dual Invitations</Translation>
+		<Translation>Двойное приглашение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_TITLE</zType>
-		<Translation>Family Quarrel</Translation>
+		<Translation>Семейная ссора</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_PURSUE_TITLE</zType>
-		<Translation>Family Quarrel</Translation>
+		<Translation>Семейная ссора</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_HORSE_TITLE</zType>
-		<Translation>Family Quarrel</Translation>
+		<Translation>Семейная ссора</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_SIEGE_TITLE</zType>
-		<Translation>Family Quarrel</Translation>
+		<Translation>Семейная ссора</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_FATIGUED_TITLE</zType>
-		<Translation>Family Quarrel</Translation>
+		<Translation>Семейная ссора</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_ATTACK_TITLE</zType>
-		<Translation>Family Quarrel</Translation>
+		<Translation>Семейная ссора</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ACROPOLIS_GUARD_TITLE</zType>
-		<Translation>Acropolis Guard</Translation>
+		<Translation>Страж Акрополиса</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_GAMES_TITLE</zType>
-		<Translation>Family Games</Translation>
+		<Translation>Игры семьи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_LAW_TITLE</zType>
-		<Translation>Change Law</Translation>
+		<Translation>Изменение закона</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ESTABLISH_THEOLOGY_TITLE</zType>
-		<Translation>Establish Theology</Translation>
+		<Translation>Принятие теологии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HOMELESS_CHILDREN_TITLE</zType>
-		<Translation>Homeless Children </Translation>
+		<Translation>Бездомные дети</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DECADENCE_TITLE</zType>
-		<Translation><![CDATA[Decadence]]></Translation>
+		<Translation><![CDATA[Упадок]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STRICTER_RULES_TITLE</zType>
-		<Translation>Stricter Rules</Translation>
+		<Translation>Суровые законы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RAMPANT_CORRUPTION_TITLE</zType>
-		<Translation>Rampant Corruption</Translation>
+		<Translation>Свирепствующая коррупция</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RADICAL_PHILOSOPHER_TITLE</zType>
-		<Translation>Radical Philosopher</Translation>
+		<Translation>Радикальный философ</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CONTEST_OF_RHETORIC_TITLE</zType>
-		<Translation>Contest of Rhetoric</Translation>
+		<Translation>Дебаты</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_EAGER_EXPLORERS_TITLE</zType>
