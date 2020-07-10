@@ -1587,207 +1587,207 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUMOR_HAS_IT_TITLE</zType>
-		<Translation>Rumor Has It</Translation>
+		<Translation>Слухи гласят</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ENCHANTING_CONVERSATION_TITLE</zType>
-		<Translation><![CDATA[Enchanting Conversation]]></Translation>
+		<Translation><![CDATA[Чарующая беседа]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FRUITFUL_AFFAIR_TITLE</zType>
-		<Translation><![CDATA[Fruitful Affair]]></Translation>
+		<Translation><![CDATA[Плодотворная ночь]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_EMPTY_BED_TITLE</zType>
-		<Translation><![CDATA[Empty Bed]]></Translation>
+		<Translation><![CDATA[Пустая постель]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_REVEALED_AFFAIR_TITLE</zType>
-		<Translation><![CDATA[Revealed Affair]]></Translation>
+		<Translation><![CDATA[Раскрытая неверность]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_INDIFFERENT_QUEEN_TITLE</zType>
-		<Translation><![CDATA[Indifferent Queen]]></Translation>
+		<Translation><![CDATA[Безразличная королева]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHILD_OF_PASSION_TITLE</zType>
-		<Translation><![CDATA[Child of Passion]]></Translation>
+		<Translation><![CDATA[Дитя страсти]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DISTRACTING_CHILD_TITLE</zType>
-		<Translation>Distracting Child</Translation>
+		<Translation>Наследник отвлекает от дел</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_OUTDOOR_PASTIME_TITLE</zType>
-		<Translation>Outdoor Pastime</Translation>
+		<Translation>Время на природе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RESTLESS_HANDS_TITLE</zType>
-		<Translation>Restless Hands</Translation>
+		<Translation>Неуемные руки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHILD_DARK_OMENS_TITLE</zType>
-		<Translation>Dark Omens</Translation>
+		<Translation>Темные знамения</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHILD_ROYAL_BIRTH_TITLE</zType>
-		<Translation>Royal Birth</Translation>
+		<Translation>Королевское дитя</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHILD_NEW_THOUGHTS_TITLE</zType>
-		<Translation>New Thoughts</Translation>
+		<Translation>Новые мысли</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_EDUCATION_TITLE</zType>
-		<Translation>Heir Education</Translation>
+		<Translation>Обучение наследника</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_TITLE</zType>
-		<Translation>Bullying Heir</Translation>
+		<Translation>Задира</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_ESCALATION_TITLE</zType>
-		<Translation>Escalated Feud</Translation>
+		<Translation>Растущая вражда</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_ESCALATION_SUCCEEDED_TITLE</zType>
-		<Translation>Successful Assassination</Translation>
+		<Translation>Успешное убийство</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_ESCALATION_DISCOVERED_TITLE</zType>
-		<Translation>Successful Assassination</Translation>
+		<Translation>Успешное убийство</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_ESCALATION_FAILED_TITLE</zType>
-		<Translation>Failed Assassination</Translation>
+		<Translation>Убийство провалилось</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_ESCALATION_CALLED_OFF_TITLE</zType>
-		<Translation>Assassins Called Off</Translation>
+		<Translation>Отказ от наемников</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_BRUTAL_HEIR_TITLE</zType>
-		<Translation><![CDATA[Brutal Heir]]></Translation>
+		<Translation><![CDATA[Жестокость наследника]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_HOLY_WAR_TITLE</zType>
-		<Translation><![CDATA[Holy War]]></Translation>
+		<Translation><![CDATA[Священная война]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_COMING_OF_AGE_TITLE</zType>
-		<Translation>Coming of Age</Translation>
+		<Translation>Совершеннолетие</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PREPARE_YOUR_HEIR_TITLE</zType>
-		<Translation>Prepare your Heir</Translation>
+		<Translation>Подготовка наследника</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_JOYOUS_WEDDING_TITLE</zType>
-		<Translation>Joyous Wedding</Translation>
+		<Translation>Радость свадьбы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_WEDDING_FAUX_PAS_TITLE</zType>
-		<Translation>Wedding Faux Pas</Translation>
+		<Translation>Бестактность на свадьбе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_CRUSHING_BLOW_TITLE</zType>
-		<Translation>Crushing Blow</Translation>
+		<Translation>Решающий удар</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_BUDDING_ARCHER_TITLE</zType>
-		<Translation>Budding Archer</Translation>
+		<Translation>Начинающий лучник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SLAIN_CHAMPION_TITLE</zType>
-		<Translation>Brave Deeds</Translation>
+		<Translation>Отважный шаг</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AXES_HIGH_TITLE</zType>
-		<Translation>Maces High</Translation>
+		<Translation>Поднять оружие</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_CRISIS_TITLE</zType>
-		<Translation>Heir Crisis</Translation>
+		<Translation>Кризис наследования</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_CRISIS_SAFE_TITLE</zType>
-		<Translation>Perfect Crime</Translation>
+		<Translation>Идеальное преступление</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_CRISIS_CAUGHT_TITLE</zType>
-		<Translation>Murder Discovered</Translation>
+		<Translation>Преступник обнаружен</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_OF_CORRUPTION_TITLE</zType>
-		<Translation><![CDATA[Heir of Corruption]]></Translation>
+		<Translation><![CDATA[Продажный наследник]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_OUR_CONSERVATIVE_ELDERS_TITLE</zType>
-		<Translation><![CDATA[Our Conservative Elders]]></Translation>
+		<Translation><![CDATA[Консервативные старейшины]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_ADOPTION_TITLE</zType>
-		<Translation>Family Adoption</Translation>
+		<Translation>Усновление</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_POTENTIAL_HEIR_TITLE</zType>
-		<Translation>Potential Heir</Translation>
+		<Translation>Потенциальный наследник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEGITIMIZE_HEIR_TITLE</zType>
-		<Translation>Legitimize Heir</Translation>
+		<Translation>Узаконить наследника</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DWINDLING_LINE_TITLE</zType>
-		<Translation>Dwindling Line</Translation>
+		<Translation>Увядающая кровь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DANGEROUS_HEIRS_TITLE</zType>
-		<Translation>Dangerous Heirs</Translation>
+		<Translation>Опасные наследники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DANGEROUS_HEIRS_DEATH_TITLE</zType>
-		<Translation>Deadly Heirs</Translation>
+		<Translation>Беспощадные наследники</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUCCESSION_SELF_REFLECTION_TITLE</zType>
-		<Translation>Self-Reflection</Translation>
+		<Translation>Самоанализ</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUCCESSION_NEW_LEAF_TITLE</zType>
-		<Translation>New Leaf</Translation>
+		<Translation>С чистого листа</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUCCESSION_CHANCE_FOR_PEACE_TITLE</zType>
-		<Translation>Chance for Peace</Translation>
+		<Translation>Возможность мира</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUCCESSION_SNAKE_SIGNS_TITLE</zType>
-		<Translation>Snake Signs</Translation>
+		<Translation>Змеиные знаки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUCCESSION_CORONATION_FESTIVAL_TITLE</zType>
-		<Translation>Coronation Festival</Translation>
+		<Translation>Коронация</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUCCESSION_PATRIOTIC_FERVOR_TITLE</zType>
-		<Translation>Patriotic Fervor</Translation>
+		<Translation>Патриотизм</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUCCESSION_FAMILY_DELEGATION_TITLE</zType>
-		<Translation>Foreign Delegation</Translation>
+		<Translation>Иностранная делегация</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUCCESSION_TAKING_THE_CROWN_TITLE</zType>
-		<Translation>Taking the Crown</Translation>
+		<Translation>Вступление на престол</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MASTER_OF_WHISPERS_TITLE</zType>
-		<Translation>Master of Whispers</Translation>
+		<Translation>Мастер над шептунами</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SPYMASTER_MASTER_OF_POISONS_TITLE</zType>
-		<Translation><![CDATA[Master of Poisons]]></Translation>
+		<Translation><![CDATA[Мастер над ядами]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ASSASSINATION_BETRAYAL_TITLE</zType>
