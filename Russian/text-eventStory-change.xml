@@ -2593,302 +2593,302 @@ How shall we accommodate?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUMOR_HAS_IT</zType>
-		<Translation><![CDATA[A rumor that your royal consort is a <masculine_CHARACTER-0>warlock<feminine>witch<end> has caused an uproar in the streets. Our people will not tolerate a <masculine_CHARACTER-0>man<feminine>woman<end> who supposedly practices barbaric rituals and worships snakes.
+		<Translation><![CDATA[Слухи о том, что <masculine_CHARACTER-0>ваш супруг — чернокнижник<feminine>ваша супруга — ведьма<end>, вызвали волнения на улицах города. Народ не потерпит <masculine_CHARACTER-0>мужчину, который<feminine>женщину, которая<end>, по их мнению, практикует варварские обряды и почитает змей.
 
-What shall we do?]]></Translation>
+Что нам делать?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ENCHANTING_CONVERSATION</zType>
-		<Translation><![CDATA[During a royal feast, you share an enchanting conversation with one of your minor courtiers. The wine flows freely, as the two of you talk late into the night. As the revels close, your companion lingers on as the rest of the guests depart...]]></Translation>
+		<Translation><![CDATA[Во время королевского фестиваля вы ведете чарующую беседу с <masculine_CHARACTER-0>одной<feminine>одним<end> из младших придворных. Бокалы неустанно наполняются вином, пока вы двое разговариваете до поздней ночи. По окончании пира гости покинули зал, но <masculine_CHARACTER-0>ваша собеседница задержалась<feminine>ваш собеседник задержался<end>...]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FRUITFUL_AFFAIR</zType>
-		<Translation><![CDATA[Nine months ago, the morning after a great royal feast, you woke up next to one of your minor courtiers. The affair was short... but fruitful. 
+		<Translation><![CDATA[Девять месяцев назад, на утро после великого праздника, вы проснулись в постели с одной из младших придворных. Связь была краткой, но принесла свои результаты. 
 
-Your new child cannot inherit the throne, but it will surely be a blessing to your household.]]></Translation>
+Ваше новое дитя не может наследовать трон, но несомненно станет счастьем королевского дома.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_EMPTY_BED</zType>
-		<Translation><![CDATA[Your husband, the king consort, has been away from the palace for many nights, and the the royal bed grows cold. Perhaps you should request the company of one of your servants... to keep you warm.]]></Translation>
+		<Translation><![CDATA[Ваш муж уже много ночей не появлялся во дворце, и проводить их в одиночестве становится слишком холодно. Возможно, стоит попросить о компании одного из ваших слуг... чтобы согреться.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_REVEALED_AFFAIR</zType>
-		<Translation><![CDATA[After several months, your condition becomes impossible to ignore. One night is all it took...
+		<Translation><![CDATA[Спустя несколько месяцев ваше интересное положение стало привлекать взгляды окружающих. Вам потребовалась всего одна ночь...
 
-Your husband agrees to look the other way as long as the child is born outside the royal line. Are you ready to welcome your new baby into the world?]]></Translation>
+Ваш супруг согласен закрыть глаза на то, что дитя не принадлежит его крови. Готовы ли вы подарить ребенку жизнь?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_INDIFFERENT_QUEEN</zType>
-		<Translation><![CDATA[Your wife, the queen consort, spends more and more nights at her private estate outside the capital. When she visits the palace, she treats you with cold indifference. Meanwhile, your beautiful, lowborn hunting companion has drawn your attention.  
+		<Translation><![CDATA[Ваша жена проводит все больше ночей в личном поместье за пределами столицы. Во время своих визитов во дворец она проявляет к вам холод и безразличие. Тем временем ваше внимание привлекла очаровательная девушка из простых кругов.  
 
-Shall we arrange some private time for you?]]></Translation>
+Выделить ли вам время наедине?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHILD_OF_PASSION</zType>
-		<Translation><![CDATA[After disappearing for months, your beautiful hunting companion has requested a private audience. She presents you with a child born of your passionate affair. You agree to let her raise the baby at court as your own, but outside of the royal line.
+		<Translation><![CDATA[Объявившись спустя несколько месяцев, ваша очаровательная спутница запрашивает личную аудиенцию. Она представляет вам дитя, рожденное в страсти. Вы признаете ребенка и позволяете девушке воспитывать его при дворе, но без права наследования.
 
-She smiles, pleased with the outcome.]]></Translation>
+Она улыбается, довольная сложившимся разговором.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DISTRACTING_CHILD</zType>
-		<Translation><![CDATA[Your energetic <masculine_CHARACTER-0>son<feminine>daughter<end> {CHARACTER-0} is distracting you from your royal duties, and something must done.  
+		<Translation><![CDATA[<masculine_CHARACTER-0>Ваш активный сын<feminine>Ваша активная дочь<end> {CHARACTER-0} отвлекает вас от королевских задач. С этим нужно что-то делать.  
 
-What activities do you suggest?]]></Translation>
+Какие занятия вы предложите?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_OUTDOOR_PASTIME</zType>
-		<Translation><![CDATA[Your <masculine_CHARACTER-0>son<feminine>daughter<end> {CHARACTER-0} enjoys nature and feels at home in the outdoors. 
+		<Translation><![CDATA[<masculine_CHARACTER-0>Ваш сын<feminine>Ваша дочь<end> {CHARACTER-0} обожает природу и чувствует себя там как дома. 
 
-What hobby shall we encourage <masculine_CHARACTER-0>him<feminine>her<end> to pursue?]]></Translation>
+Какое занятие <masculine_CHARACTER-0>ему<feminine>ей<end>предложить?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RESTLESS_HANDS</zType>
-		<Translation><![CDATA[Your <masculine_CHARACTER-0>son<feminine>daughter<end> {CHARACTER-0} fidgets during lessons and has difficulty concentrating.
+		<Translation><![CDATA[<masculine_CHARACTER-0>Ваш сын<feminine>Ваша дочь<end> {CHARACTER-0} постоянно возится на уроках и не может сосредоточиться.
 
-To what discipline should <masculine_CHARACTER-0>he<feminine>she<end> apply this energy?]]></Translation>
+На что мы должны направить <masculine_CHARACTER-0>его<feminine>ее<end> энергию?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHILD_DARK_OMENS</zType>
-		<Translation><![CDATA[Your newborn, {CHARACTER-0}, arrives in the dead of night during a howling rainstorm. Mystics on the court view this event as a very bad omen, and they warn us of coming turmoil.
+		<Translation><![CDATA[Ваше дитя, {CHARACTER-0}, рождается ночью во время ревущей бури. Тайновидцы двора считают, что это событие знаменует грядущие беспорядки.
 
-What should we do?]]></Translation>
+Что нам делать?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHILD_ROYAL_BIRTH</zType>
-		<Translation><![CDATA[Your heart swells with joy, as you gaze down upon your newborn <masculine_CHARACTER-0>son<feminine>daughter<end>, {CHARACTER-0}. This is a momentous occasion.
+		<Translation><![CDATA[Ваше сердце наполняется радостью при взгляде на <masculine_CHARACTER-0>новорожденного сына<feminine>новорожденную дочь<end>, {CHARACTER-0}. Это знаменательное событие.
 
-How should we celebrate the royal birth?]]></Translation>
+Как мы отпразднуем рождение королевского дитя?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHILD_NEW_THOUGHTS</zType>
-		<Translation><![CDATA[The birth of your <masculine_CHARACTER-0>son<feminine>daughter<end> {CHARACTER-0} has inspired you to see the world in a new light! More than ever, you wish to make the most of your time on this mortal plane.
+		<Translation><![CDATA[Рождение <masculine_CHARACTER-0>сына<feminine>дочери<end> {CHARACTER-0} открыло вам мир в новом свете! Сильнее, чем когда-либо, вы желаете наполнить делами каждую минуту своей жизни.
 
-What is most important in life?]]></Translation>
+Что для вас наиболее важно?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_EDUCATION</zType>
-		<Translation>Time passes quickly. {CHARACTER-0} is growing up fast and eager to learn.
+		<Translation><![CDATA[Время летит быстро. {CHARACTER-0} <masculine_CHARACTER-0>вырос<feminine>выросла<end> и желает учиться.
 
-How would you like to educate {CHARACTER-SHORT-0}?</Translation>
+Чему вы хотите обучать {CHARACTER-SHORT-0}?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BULLYING_HEIR</zType>
-		<Translation><![CDATA[Your heir, {CHARACTER-0}, has been caught bullying <masculine_CHARACTER-0>his<feminine>her<end> <masculine_CHARACTER-1>brother<feminine>sister<end> {CHARACTER-1}. Such repeated torment appears to be taking a toll.
+		<Translation><![CDATA[<masculine_CHARACTER-0>Ваш наследник {CHARACTER-0} пойман<feminine>Ваша наследница {CHARACTER-0} поймана<end> на издевательствах над <masculine_CHARACTER-1>собственным братом<feminine>собственной сестрой<end> {CHARACTER-1}. Такое поведение требует серьезного решения.
 
-How will you handle this family strife?]]></Translation>
+Как вы справитесь с семейными трудностями?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_ESCALATION</zType>
-		<Translation><![CDATA[The childhood feud between {CHARACTER-0} and {CHARACTER-1} has escalated. We have discovered that {CHARACTER-1} is offering members of the court substantial bribes to look the other way while assassins kill {CHARACTER-0}. 
+		<Translation><![CDATA[Вражда между вашими детьми, {CHARACTER-0} и {CHARACTER-1}, обострилась. Мы обнаружили, что {CHARACTER-1} пытается подкупить придворных, чтобы они закрыли глаза на предстоящее убийство {CHARACTER-0}. 
 
-What do you do?]]></Translation>
+Что вы будете делать?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_ESCALATION_SUCCEEDED</zType>
-		<Translation><![CDATA[Assassins have succeeded in their mission to kill your heir, {CHARACTER-0}. Luckily, no one knows that you were involved.
+		<Translation><![CDATA[Наемники успешно завершили поручение по убийству <masculine_CHARACTER-0>вашего наследника<feminine>вашей наследницы<end> {CHARACTER-0}. К счастью, никто не знает, что вы причастны.
 
-It is best to forget...]]></Translation>
+Лучше забыть все это...]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_ESCALATION_DISCOVERED</zType>
-		<Translation><![CDATA[Assassins have succeeded in their mission to kill your heir, {CHARACTER-0}, but your role in the plot has been discovered! 
+		<Translation><![CDATA[Наемники успешно завершили поручение по убийству <masculine_CHARACTER-0>вашго наследника<feminine>вашей наследницы<end> {CHARACTER-0}, но ваше участие в коварной задумке раскрыто! 
 
-Disgusted by your complicity in such murderous intrigues, the court shuns you.]]></Translation>
+Преисполненные отвращением за смертоносные интриги, придворные начали вас избегать.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_ESCALATION_FAILED</zType>
-		<Translation><![CDATA[Assassins have failed to kill the heir, {CHARACTER-0}, but <masculine_CHARACTER-0>he<feminine>she<end> has already taken <masculine_CHARACTER-0>his<feminine>her<end> revenge! Just this morning, {CHARACTER-1} was discovered dead on <masculine_CHARACTER-0>his<feminine>her<end> chamber floor. Poisoned. 
+		<Translation><![CDATA[Наемникам не удалось убить <masculine_CHARACTER-0>вашего наследника<feminine>вашу наследницу<end> {CHARACTER-0}, и <masculine_CHARACTER-0>он<feminine>она<end> успела поквитаться! Этим утром {CHARACTER-1} <masculine_CHARACTER-1>найден мертвым<feminine>найдена мертвой<end> на полу своей комнаты. <masculine_CHARACTER-1>Отравлен<feminine>Отравлена<end>. 
 
-Fortunately, your role in this mess has escaped notice.]]></Translation>
+К счастью, ваше участие в этом хаосе осталось незамеченным.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_ESCALATION_CALLED_OFF</zType>
-		<Translation><![CDATA[{CHARACTER-1} has called off <masculine_CHARACTER-1>his<feminine>her<end> assassins in light of your refusal to accept a bribe.
+		<Translation><![CDATA[{CHARACTER-1} отказывается от услуг наемников в свете вашего нежелания брать взятку.
 
-You just saved a life.]]></Translation>
+Вы только что спасли жизнь.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_BRUTAL_HEIR</zType>
-		<Translation><![CDATA[A group of scarred and bloodied laborers come to court, accusing the royal heir, {CHARACTER-1}, of unspeakable brutalities. According to their stories, <masculine_CHARACTER-1>he<feminine>she<end> sets impossible production quotas, punishing those who fail short with prison, beatings, and even crucifixion.
+		<Translation><![CDATA[Группа напуганных окровавленных рабочих прибыла ко двору, обвиняя <masculine_CHARACTER-1>королевского наследника<feminine>королевскую наследницу<end> {CHARACTER-1} в неописуемой жестокости. По их словам, <masculine_CHARACTER-1>он<feminine>она<end> устанавливает невыполнимые нормы выработки, наказывая тех, кто не справился, заключением в тюрьму, избиением и даже распятием.
 
-The workers request our immediate intervention.]]></Translation>
+Рабочие требуют немедленного вмешательства.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_HOLY_WAR</zType>
-		<Translation><![CDATA[Your heir, the passionate {CHARACTER-1}, gives a stirring, vicious speech to court. <masculine_CHARACTER-1>He<feminine>She<end> has fallen in with fiery sects on the outskirts of the capital. These madmen have been urging war against the savage {BARBARIAN-2,3}, no matter what the cost.
+		<Translation><![CDATA[<masculine_CHARACTER-1>Ваш наследник<feminine>Ваша наследница<end> {CHARACTER-1} с большим энтузиазмом произносит двору волнующую речь, полную ярости. <masculine_CHARACTER-1>Он присоединился<feminine>Она присоединилась<end> к пылкой секте на окраинах столицы. Эти безумцы призывают нас к войне против {BARBARIAN-2,1}, и неважно, какой ценой.
 
-{CHARACTER-SHORT-1} demands action, but we worry that your legacy may be stained by such mania.]]></Translation>
+{CHARACTER-SHORT-1} требует действий, но мы боимся запятнать нашу династию этой манией.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_COMING_OF_AGE</zType>
-		<Translation><![CDATA[Rejoice! Your heir, {CHARACTER-0}, has become an adult in the eyes of {PLAYER-1,1} law. 
+		<Translation><![CDATA[Возрадуйтесь! <masculine_CHARACTER-0>Ваш наследник {CHARACTER-0} стал взрослым<feminine>Ваша наследница {CHARACTER-0} стала взрослой<end> по законам {PLAYER-1,1}. 
 
-How shall we mark this occasion?]]></Translation>
+Как мы отметим это событие?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PREPARE_YOUR_HEIR</zType>
-		<Translation><![CDATA[Your heir, {CHARACTER-0}, has reached adulthood, causing you to reflect on <masculine_CHARACTER-0>his<feminine>her<end> years of growth and training.
+		<Translation><![CDATA[<masculine_CHARACTER-0>Ваш наследник {CHARACTER-0} достиг<feminine>Ваша наследница {CHARACTER-0} достигла<end> совершеннолетия, заставив вас задуматься о годах <masculine_CHARACTER-0>его<feminine>ее<end> воспитания и подготовки.
 
-How will you prepare <masculine_CHARACTER-0>him<feminine>her<end> for the throne?]]></Translation>
+Как вы подготовите <masculine_CHARACTER-0>его<feminine>ее<end> к правлению?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_JOYOUS_WEDDING</zType>
-		<Translation><![CDATA[The marriage of your heir {CHARACTER-0} to {CHARACTER-2} brings the nation great joy! 
+		<Translation><![CDATA[Свадьба <masculine_CHARACTER-0>вашего наследника<feminine>вашей наследницы<end> {CHARACTER-0} с {CHARACTER-2} приносит радость империи! 
 
-How shall we celebrate?]]></Translation>
+Как мы отметим это событие?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_WEDDING_FAUX_PAS</zType>
-		<Translation><![CDATA[One evening, your heir {CHARACTER-0}, disrupts a crowded court wedding with <masculine_CHARACTER-0>his<feminine>her<end> vulgar speeches and raucous behavior. You are humiliated.
+		<Translation><![CDATA[Однажды вечером <masculine_CHARACTER-0>ваш наследник<feminine>ваша наследница<end> {CHARACTER-0} нарушает свадьбу придворных пошлыми речами и резким поведением на глазах у толпы. Вы опозорены.
 
-What shall we do?]]></Translation>
+Что нам делать?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_CRUSHING_BLOW</zType>
-		<Translation><![CDATA[Reports from the recent fighting describe how your heir, {CHARACTER-0}, dealt the enemy a decisive blow, helping to change the course of the battle.  
+		<Translation><![CDATA[В отчетах о недавнем сражении упоминается <masculine_CHARACTER-0>ваш наследник {CHARACTER-0}, который нанес<feminine>ваша наследница {CHARACTER-0}, которая нанесла<end> врагу решающий удар и <masculine_CHARACTER-0>помог<feminine>помогла<end> изменить ход битвы. 
 
-How should we take advantage of this?]]></Translation>
+Какую выгоду нам из этого извлечь?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_BUDDING_ARCHER</zType>
-		<Translation><![CDATA[{CHARACTER-0} has developed an interest in the new technological advances in archery, and <masculine_CHARACTER-0>he<feminine>she<end> comes to you for advice. 
+		<Translation><![CDATA[{CHARACTER-0} <masculine_CHARACTER-0>проявил<feminine>проявила<end> интерес к новым технологиям стрельбы и теперь обращается к вам за советом. 
 
-What do you tell the budding sharpshooter?]]></Translation>
+Что вы порекомендуете начинающему стрелку?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SLAIN_CHAMPION</zType>
-		<Translation><![CDATA[Rumors reach the court that your heir, {CHARACTER-0}, was forced into a duel against a towering mercenary champion. Thank the gods, <masculine_CHARACTER-0>he<feminine>she<end> was victorious! Witnesses claim that {CHARACTER-0} dominated <masculine_CHARACTER-0>his<feminine>her<end> much larger opponent in close combat.
+		<Translation><![CDATA[До нас дошли слухи, что <masculine_CHARACTER-0>ваш наследник {CHARACTER-0} был вынужден<feminine>ваша наследница {CHARACTER-0} была вынуждена<end> сразиться в поединке против могучего лидера наемников. Хвала богам, <masculine_CHARACTER-0>он одержал<feminine>она одержала<end> победу! Свидетели утверждают, что {CHARACTER-0} <masculine_CHARACTER-0>превосходил<feminine>превосходила<end> в бою своего не в меру сильного оппонента.
 
 
-How shall we respond?]]></Translation>
+Как мы ответим на эту новость?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AXES_HIGH</zType>
-		<Translation><![CDATA[As forges fill the royal armory with new steel weapons, your heir, {CHARACTER-0}, seems eager to take up an an axe against our foes. 
+		<Translation><![CDATA[Чем больше стали мы получаем из кузницы, тем больше {CHARACTER-0}, <masculine_CHARACTER-0>ваш наследник<feminine>ваша наследница<end>, желает поднять топор против наших врагов. 
 
-What shall we tell <masculine_CHARACTER-0>him<feminine>her<end>?]]></Translation>
+Что мы <masculine_CHARACTER-0>ему<feminine>ей<end> скажем?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_CRISIS</zType>
-		<Translation><![CDATA[There is a growing concern among members of the court. You have no viable heirs, and your wife, {CHARACTER-1}, is beyond child-bearing age. 
-
-You must consider legacy. The fate of our nation is at stake...]]></Translation>
+		<Translation><![CDATA[Во дворе нарастает беспокойство. У вас нет законных наследников, а ваша жена {CHARACTER-1} уже не способна подарить дитя.
+		
+Вы должны рассмотреть проблему наследования. На карту поставлена судьба нашей нации...]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_CRISIS_SAFE</zType>
-		<Translation><![CDATA[Nobody seems to be any the wiser about your hand in the untimely death of your wife {CHARACTER-1}...]]></Translation>
+		<Translation><![CDATA[Никто и не догадывается о том, что вы приложили руку к смерти своей жены {CHARACTER-1}...]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_CRISIS_CAUGHT</zType>
-		<Translation><![CDATA[The {FAMILY-1} family has discovered that you were behind the assassination of your wife {CHARACTER-1}. They are furious!]]></Translation>
+		<Translation><![CDATA[Члены семьи {FAMILY-1} обнаружили, что это вы стояли за смертью своей жены {CHARACTER-1}. Они в ярости!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_OF_CORRUPTION</zType>
-		<Translation><![CDATA[It has come to your attention that your heir, {CHARACTER-1}, has been secretly instructing judges and ministers to pocket public fund for their own coffers. 
+		<Translation><![CDATA[До вашего внимания дошло, что <masculine_CHARACTER-1>ваш наследник<feminine>ваша наследница<end> {CHARACTER-1} в тайне позволяет судьям и министрам присваивать деньги из королевской казны на собственные нужды. 
 
-This is the same {CHARACTER-1} who recently moved <masculine_CHARACTER-1>his<feminine>her<end> private residence to a plundered holy site, angering many of your more superstitious subjects.
+Это <masculine_CHARACTER-1>тот самый<feminine>та самая<end> {CHARACTER-1}, <masculine_CHARACTER-1>который<feminine>которая<end> не задолго до этого <masculine_CHARACTER-1>перенес<feminine>перенесла<end> личное поместье в разграбленное священное место, вызвав гнев верующих.
 
-Something must be done!]]></Translation>
+Нужно что-то делать!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_OUR_CONSERVATIVE_ELDERS</zType>
-		<Translation><![CDATA[The {FAMILY-1} family expresses concerns that our leader is a female. There are rumors in court of a vote to oust you from power, and to replace you with a male, the next in line, {CHARACTER-2}.
+		<Translation><![CDATA[Семья {FAMILY-1} выражает беспокойство о том, что нашей страной правит женщина. Ходят слухи, что вас собираются лишить власти и заместить мужчиной, наследником вашей крови, {CHARACTER-2}.
 
-How shall you face this challenge?]]></Translation>
+Как вы встретите это испытание?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_ADOPTION</zType>
-		<Translation><![CDATA[While you have no valid heirs, a potential candidate within your own family has come to light. 
+		<Translation><![CDATA[Поскольку у вас нет законных наследников, объявился потенциальный кандидат на престол из вашей семьи. 
 
-Do you wish to adopt {CHARACTER-1}?]]></Translation>
+Хотите ли вы <masculine_CHARACTER-1>усыновить<feminine>удочерить<end> {CHARACTER-1}?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_POTENTIAL_HEIR</zType>
-		<Translation><![CDATA[As the days pass, you start to worry that there is no one to inherit the realm. After sharing your concern with advisors, they have found an eligible candidate to continue the royal line. 
+		<Translation><![CDATA[Дни проходят, и вы начинаете беспокоиться о том, что некому передать бразды правления. После обсуждения тревог с советниками вам подбирают подходящего кандидата для продолжения королевской династии.  
 
-Will you adopt {CHARACTER-1}?]]></Translation>
+Хотите ли вы <masculine_CHARACTER-1>усыновить<feminine>удочерить<end> {CHARACTER-1}?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEGITIMIZE_HEIR</zType>
-		<Translation><![CDATA[The court grows concerned over your lack of heirs. How will the dynasty continue? 
+		<Translation><![CDATA[При дворе растет беспокойство о нехватке наследников. Не завершится ли династия? 
 
-One option would be to legitimize {CHARACTER-1}.]]></Translation>
+Одним из вариантов будет узаконить рождение {CHARACTER-1}.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DWINDLING_LINE</zType>
-		<Translation><![CDATA[The royal line withers... and you are growing older. It is time to introduce some fresh blood into the dynasty.
+		<Translation><![CDATA[Королевская династия увядает... а вы становитесь старше. Пришло время добавить свежую кровь.
 
-You may choose to adopt from one of the other noble families, but only if you are interested.]]></Translation>
+Вы можете принять дитя из знатной семьи, если желаете этого.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DANGEROUS_HEIRS</zType>
-		<Translation><![CDATA[Bitter that they were passed over in the royal succession, {CHARACTER-0} and {CHARACTER-1} are rumored to be plotting your demise. Of course, rumors are not always true.
+		<Translation><![CDATA[Огорченные тем, что вы отказали им в наследовании престола, {CHARACTER-0} и {CHARACTER-1}, по слухам, готовят вашу кончину. Разумеется, слухи не всегда верны.
 
-What shall we do?]]></Translation>
+Что нам делать?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DANGEROUS_HEIRS_DEATH</zType>
-		<Translation><![CDATA[Late one evening, as you drift off to sleep, you spot shadows in the corners of your chamber. "This throne should have been ours," says an icy voice.
+		<Translation><![CDATA[Поздним вечером, откланяясь ко сну, вы заметили тени в углу своей комнаты. "Этот трон должен принадлежать нам", — произнес ледяной голос.
 
-The last people you see are {CHARACTER-0} and {CHARACTER-1}, standing over your bed with daggers...]]></Translation>
+Последнее, что вы видели — {CHARACTER-0} и {CHARACTER-1}, стоящие с кинжалами подле вашей кровати...]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUCCESSION_SELF_REFLECTION</zType>
-		<Translation><![CDATA[The day of your coronation is at hand. Before the ceremony, you take some time to reflect about all the responsibilities that come with the throne. It makes you rethink some things about yourself...]]></Translation>
+		<Translation><![CDATA[До дня вашей коронации подать рукой. Перед церемонией вы размышляете о той ответственности, что достанется вам вместе с троном. Это заставляет вас переосмыслить о себе некоторые вещи...]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUCCESSION_NEW_LEAF</zType>
-		<Translation><![CDATA[It has come to our attention that the {FAMILY-1} family was often displeased with your predecessor. As the new ruler, you have a unique opportunity to regain the {FAMILY-1,1} favor. 
+		<Translation><![CDATA[До нашего внимания дошло, что семья {FAMILY-1} часто была недовольна решениями вашего предшественника. Как новый правитель, вы обладаете уникальной возможностью вернуть ее расположение. 
 
-What would you like to do?]]></Translation>
+Что вы будете делать?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUCCESSION_CHANCE_FOR_PEACE</zType>
-		<Translation><![CDATA[The {BARBARIAN-1,0} have sent one of their nobles to attend your coronation. After the ceremony, he approaches you cordially. "We made war against your last ruler," he says, "but we have no quarrel with you. Will you accept {BARBARIAN-1,1}'s offer of peace?"
+		<Translation><![CDATA[{BARBARIAN-1,0} прислали представителя своей элиты присутствовать на вашей коронации. После церемонии он искренне к вам обращается. "У нас была война с вашим предшественником, — говорит он, — но с вами нам нечего делить. Вы готовы принять от {BARBARIAN-1,1} предложение мира?"
 
-What will you tell him?]]></Translation>
+Что вы ему ответите?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUCCESSION_SNAKE_SIGNS</zType>
-		<Translation><![CDATA[The week before your coronation, a seer discovers a strange omen: one dead snake near the palace, with three living baby snakes in nests nearby. Startled, he interprets this to mean that you must hold the ceremony in one of the family seats.
+		<Translation><![CDATA[За неделю до коронации ваш пророк обнаруживает странное знамение: мертвая змея возле дворца с тремя змеенышами в гнезде неподалеку. Напуганный, он считает, что боги велят вам провести церемонию в родовом гнезде семьи.
 
-Which city do you choose?]]></Translation>
+Какой город вы выберите?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUCCESSION_CORONATION_FESTIVAL</zType>
-		<Translation><![CDATA[All three noble families have requested to plan your coronation festivities. By tradition, the host will present you with a gift that represents the family's values, as a reminder of their goodwill. 
+		<Translation><![CDATA[Каждая из трех знатных семей просит вас передать в их руки подготовку к коронации. По традиции, правители города, в котором проходит церемония, одаривают вас семейными сокровищами в качестве напоминания об их доброй воле. 
 
-Which family's gift will you accept?]]></Translation>
+Подарок какой семьи вы готовы принять?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUCCESSION_PATRIOTIC_FERVOR</zType>
-		<Translation><![CDATA[Your coronation has been met with a wave of patriotic fervor, as subjects from across the nation seek to serve the new ruler. 
+		<Translation><![CDATA[Ваша коронация встречена волной патриотизма, поскольку подданые по всей империи желают служить новому правителю. 
 
-How shall we harness this enthusiasm?]]></Translation>
+Как мы воспользуемся этим рвением?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUCCESSION_FAMILY_DELEGATION</zType>
-		<Translation><![CDATA[Your coronation brings delegations from all across {PLAYER-0}. These subjects have brought a selection of fine gifts from their home villages. However, the visitors stipulate that they will only give their gifts if they will be used in great royal works.
+		<Translation><![CDATA[Ваша коронация вызвала череду делегаций жителей {PLAYER-0,1}. Подданые приносят замечательные подарки из родных земель. Но гости настаивают, чтобы их дары использовались с достойной целью.
 
-What gift should we accept?]]></Translation>
+Какой подарок нам принять?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUCCESSION_TAKING_THE_CROWN</zType>
-		<Translation><![CDATA[At last, the time for your coronation has come. Our advisers encourage you to keep the ceremony traditional, but you have mentioned several... unconventional ideas.
+		<Translation><![CDATA[Наконец пришло время вашей коронации. Советники просят вас провести традиционную церемонию, но у вас было несколько... необычных идей.
 
-Which would you like us to include?]]></Translation>
+Какую из них вы воплотите в жизнь?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MASTER_OF_WHISPERS</zType>
-		<Translation><![CDATA[Word has reached our spymaster, {CHARACTER-0}, that your <masculine_CHARACTER-1>husband<feminine>wife<end> is involved in amourous relations with a famous court philanderer. The pair was seen numerous times in an intimate embrace. Something must be done before rumors spread.
+		<Translation><![CDATA[До начальника разведки {CHARACTER-0} дошла новость о том, что <masculine_CHARACTER-1>ваш муж<feminine>ваша жена<end> состоит в любовных отношениях с <masculine_CHARACTER-1>известной придворной распутницей<feminine>известным придворным распутником<end>. Пара не раз была замечена во время личных встреч. Нужно что-то предпринять, прежде чем слухи разлетятся по королевству.
 
-What is your command?]]></Translation>
+Какие ваше указания?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SPYMASTER_MASTER_OF_POISONS</zType>
-		<Translation><![CDATA[Our spymaster approaches us with an unusual request: a laboratory for poisons. As <masculine_CHARACTER-0>he<feminine>she<end> explains it, additional research into poisons and venomous creatures would increase <masculine_CHARACTER-0>his<feminine>her<end> ability to combat intrigue. 
+		<Translation><![CDATA[Начальник разведки обращается к нам с необычной просьбой: основать лабораторию отравителя. По <masculine_CHARACTER-0>его<feminine>ее<end> словам, дополнительные исследования в области ядов и ядовитых существ увеличат шансы противостоять заговорам.
 
-"Daggers can be so... messy," <masculine_CHARACTER-0>he<feminine>she<end> explains.]]></Translation>
+"Кинжалы это так... грязно," — считает <masculine_CHARACTER-0>он<feminine>она<end>.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ASSASSINATION_BETRAYAL</zType>
