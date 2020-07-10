@@ -2892,151 +2892,151 @@ How shall we accommodate?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ASSASSINATION_BETRAYAL</zType>
-		<Translation><![CDATA[Your assassination plot has been revealed! In a grand spectacle, {CHARACTER-0} confronts you publicly, demanding that you to admit your involvement in the conspiracy. 
+		<Translation><![CDATA[Ваш план убийства был раскрыт! {CHARACTER-0} устраивает грандиозное зрелище, публично выступив против вас с требованием признать свою причастность в заговору. 
 
-How do you respond to these allegations?]]></Translation>
+Как вы ответите на это заявление?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ASSASSINATION_REVENGE</zType>
-		<Translation><![CDATA[Armed men burst into your chambers and prepare to strike! It seems that {CHARACTER-0} has been secretly plotting revenge for your failed assassination attempt. Your life hangs by a thread... 
+		<Translation><![CDATA[Вооруженные мужчины врываются в вашу комнату, готовые нанести удар! Похоже, {CHARACTER-0} <masculine_CHARACTER-0>решил<feminine>решила<end> поквитаться с вами за неудачную попытку убийства. Ваша жизнь висит на волоске... 
 
-What do you tell these would-be assassins?]]></Translation>
+Что вы скажете вероятным убийцам?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ASSASSINATION_RUMORS</zType>
-		<Translation><![CDATA[Our spymaster hears whispers of conspiracy... of a plot by your <masculine_CHARACTER-1>husband<feminine>wife<end> and heir to have you assassinated.
+		<Translation><![CDATA[До начальника разведки дошли слухи о заговоре... Ваши <masculine_CHARACTER-1>муж<feminine>жена<end> и наследник готовят ваше убийство.
 
-How shall we deal with these co-conspirators?]]></Translation>
+Как мы поступим с заговорщиками?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_PARTISANS</zType>
-		<Translation><![CDATA[Smoke fills the skies over {CITY-0}! Partisans supporting the disgruntled {FAMILY-0} family have risen against you in the streets.  They threaten to put the whole city to the torch.
+		<Translation><![CDATA[Небеса над г. {CITY-0} затянул густой дым! Сторонники враждебной к вам семьи {FAMILY-0} подняли восстание. Они угрожают предать город огню. 
 
-What shall we do?]]></Translation>
+Что нам делать?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SABOTAGE</zType>
-		<Translation><![CDATA[Unhappy with our rule, {FAMILY-0,2} saboteurs have destroyed several improvements in the capital! They seek to deface and topple those landmarks that define us as a nation.
+		<Translation><![CDATA[Недовольные вышим правлением, диверсанты семьи {FAMILY-0,2} разрушили в столице несколько строений! Они стремятся испортить и уничтожить значимые места, которые определяют нашу нацию.
 
-This cannot stand!]]></Translation>
+Этого нельзя допустить!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_SQUABBLE_LAND</zType>
-		<Translation><![CDATA[The {FAMILY-1} and {FAMILY-2} families have engaged in a heated land dispute. The {FAMILY-1,1} claim they have an ancestral right to a particularly productive {FAMILY-2,2} estate, but the {FAMILY-2,1} deny the claims. 
+		<Translation><![CDATA[Семьи {FAMILY-1} и {FAMILY-2} вступили в жаркий спор о разделе земель. {FAMILY-1,1} утверждают, что имеют право наследования особо урожайного поместья семьи {FAMILY-2}, но {FAMILY-2} не согласны с этим заявлением. 
 
-Whose side shall we take?]]></Translation>
+На чью сторону мы встанем?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_SQUABBLE_HONOR_GUARD</zType>
-		<Translation><![CDATA[A position in your personal honor guard has become available. Rival candidates from the {FAMILY-1} and {FAMILY-2} families have both come forward to petition for the opening.  
+		<Translation><![CDATA[Вашему личному почетному караулу требуется еще один воин. Семьи {FAMILY-1} и {FAMILY-2} представили на рассмотрение своих кандидатов.  
 
-Which shall we choose?]]></Translation>
+Кого мы выберем?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_SQUABBLE_RUMORS</zType>
-		<Translation><![CDATA[Unsurprisingly, two of your vassal families are squabbling. The {FAMILY-1} family accuses the {FAMILY-2,1} of spreading vicious rumors about them. When confronted, the {FAMILY-2,2} elders claim to know nothing about such slander. 
+		<Translation><![CDATA[Между двумя вассальными семьями совершенно ожидаемо возникли склоки. {FAMILY-1} обвиняют семью {FAMILY-2} в распространении порочных слухов. В ответ на претензии старейшины семьи {FAMILY-2} заявили, что им ничего неизвестно об этой клевете. 
 
-Each family comes to you with a gift, asking for support. What do we tell them?]]></Translation>
+Каждая семья приподносит вам дар в поисках поддержки. Что мы им ответим?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_SQUABBLE_INVITATIONS</zType>
-		<Translation><![CDATA[The squabbling {FAMILY-1} and {FAMILY-2} families have each requested your presence at important events on the same day. Both must know that your absence would embarrass the other. 
+		<Translation><![CDATA[Повздорившие семьи {FAMILY-1} и {FAMILY-2} просят вашего визита на важные мероприятияя в один и тот же день. Каждая из семей знает, что ваше отсутствие смутит другую. 
 
-What will you do?]]></Translation>
+Как нам поступить?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL</zType>
-		<Translation><![CDATA[Drama consumes the court. {CHARACTER-1} has run away with {CHARACTER-2}, leaving their families behind. Now <masculine_CHARACTER-1>his<feminine>her<end> <masculine_CHARACTER-0>husband<feminine>wife<end>, {CHARACTER-0}, demands that we organize an expedition to pursue {CHARACTER-2}, kill <masculine_CHARACTER-2>him<feminine>her<end> and return {CHARACTER-1}.
+		<Translation><![CDATA[При дворе развернулась драма. {CHARACTER-1} <masculine_CHARACTER-1>сбежал<feminine>сбежала<end> вместе с {CHARACTER-2}, бросив свою семью. Теперь <masculine_CHARACTER-1>его жена<feminine>ее муж<end>, {CHARACTER-0}, требует организовать погоню за {CHARACTER-2}, убить <masculine_CHARACTER-2>его<feminine>ее<end> и вернуть в дом {CHARACTER-1}.
 
 How shall we respond?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_PURSUE</zType>
-		<Translation><![CDATA[After many months in pursuit, {CHARACTER-0} has followed {CHARACTER-1} and <masculine_CHARACTER-1>his<feminine>her<end> lover, {CHARACTER-2}, to a city in a distant land. <masculine_CHARACTER-0>He<feminine>She<end> has launched a siege of the city, but its defenses hold strong. <masculine_CHARACTER-0>He<feminine>She<end> wishes us to lend support.
+		<Translation><![CDATA[Многие месяцы поисков привели {CHARACTER-0} к городу в далеких землях, где укрылись {CHARACTER-1} и <masculine_CHARACTER-1>его возлюбленная<feminine>ее возлюбленный<end> {CHARACTER-2}. {CHARACTER-0} <masculine_CHARACTER-0>начал<feminine>начала<end> осаду города, но не в силах справиться с обороной. <masculine_CHARACTER-0>Он<feminine>Она<end> просит отправить к ним помощь.
 
-What do we tell {CHARACTER-0}?]]></Translation>
+Что мы ответим {CHARACTER-0}?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_HORSE</zType>
-		<Translation><![CDATA[The distant city harboring {CHARACTER-1} and <masculine_CHARACTER-1>his<feminine>her<end> lover, {CHARACTER-2}, is intrigued by our wooden horse. Its garrison has brought the structure inside the city walls for inspection. 
+		<Translation><![CDATA[Жители чужеземного города, укрывшего {CHARACTER-1} и <masculine_CHARACTER-1>его возлюбленную<feminine>ее возлюбленного<end>, {CHARACTER-2}, заинтригованы появлением деревянного коня. Гарнизон внес сооружение на территорию для подробного изучения.
 
-The troops inside await our orders...]]></Translation>
+Притаившиеся воины ждут вашего приказа...]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_SIEGE</zType>
-		<Translation><![CDATA[Our soldiers grow weary of laying siege to the impenetrable city where {CHARACTER-1} and {CHARACTER-2} have sought sanctuary. Morale is low, and the defenders show no signs of surrendering.
+		<Translation><![CDATA[Наши солдаты устали от осады неприступного города, в котором нашли убежище {CHARACTER-1} и {CHARACTER-2}. Боевой дух воинов пал, но защитники и не думают сдаваться.
 
-What are our orders?]]></Translation>
+Какими будут приказы?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_FATIGUED</zType>
-		<Translation><![CDATA[{PLAYER-3,2} forces outside the besieged city grow wearier, and violence fills the camps every night. We run the risk of a true mutiny if we do not attack soon.
+		<Translation><![CDATA[{PLAYER-3,30} войска измотаны осадой города, и в лагерях каждую ночь происходит кровопролитие. Назревает мятеж, предотвратить который можно только атаковав город.
 
-What are our orders?]]></Translation>
+Какими будут приказы?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_ATTACK</zType>
-		<Translation><![CDATA[At last! Our soldiers have breached the walls of the city! {CHARACTER-1} and {CHARACTER-2} are somewhere inside.
+		<Translation><![CDATA[Наконец! Наши солдаты пробили стены города! {CHARACTER-1} и {CHARACTER-2} где-то внутри.
 
-What are our orders?]]></Translation>
+Какими будут приказы?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ACROPOLIS_GUARD</zType>
-		<Translation><![CDATA[The {FAMILY-0} offers to train an elite guard unit to protect their treasury inside the Acropolis. Of course, they are only willing to invest in this idea if the court shares some of the costs.
+		<Translation><![CDATA[Семья {FAMILY-0} предлагает подготовить элитного стражника для защиты сокровищ в Акрополисе. Разумеется, они не желают в одиночку финансировать эту идею.
 
-What shall we tell them?]]></Translation>
+Что мы им скажем?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_GAMES</zType>
-		<Translation><![CDATA[A messenger arrives with news that the {FAMILY-0} family is displeased with our lack of support. They demand that the court plan and host a week of expensive athletic games in their honor. 
+		<Translation><![CDATA[Прибывает сообщение о недовольстве семьи {FAMILY-0} отсутствием государственной поддержки. Они требуют, чтобы дворец провел неделю затратных спортивных соревнований в их честь. 
 
-How shall we respond?]]></Translation>
+Как мы ответим?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_LAW</zType>
-		<Translation><![CDATA[Representatives of the {FAMILY-0} family arrive in court to make an appeal. They request that the {PLAYER-0,1} government adopt a new law, {LAW-1}, that favors their interests.
+		<Translation><![CDATA[Представители семьи {FAMILY-0} обращаются ко двору с просьбой. Они желают, чтобы правительство {PLAYER-0,1} ввело новый закон, {LAW-1}, отвечающий их интересам.
 
-How shall we respond?]]></Translation>
+Как мы ответим?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ESTABLISH_THEOLOGY</zType>
-		<Translation><![CDATA[A cadre of {FAMILY-0,2} spiritual leaders seek an audience. In their passionate oration, they ask for the court to consider accepting a new theology.]]></Translation>
+		<Translation><![CDATA[Вашей аудиенции ждут духовные лидеры семьи {FAMILY-0,2}. В своей страстной речи они просят двор рассмотреть принятие новой теологии.]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HOMELESS_CHILDREN</zType>
-		<Translation>Our explorers discover a group of orphaned, homeless, and hungry children hiding in the ruins. If we leave them, they will surely starve to death, but our cities are on the verge of overcrowding. 
+		<Translation>Наши исследователи обнаружили группу бездомных сирот, укрывшихся в руинах. Если мы их оставим, они наверняка погибнут от голода, но наши города уже на грани перенаселения. 
 
-There is room in our caravan for either salvaged stone or passengers. What would you have us do?</Translation>
+В караване есть место либо для добытого камня, либо для пассажиров. Что нам делать?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DECADENCE</zType>
-		<Translation>High priests in {CITY-1} worry that the city has grown decadent, and citizens are abandoning their gods. They foresee doom and demand offerings and sacrifices.
+		<Translation>Верховных священников г. {CITY-1} беспокоит, что город приходит в упадок, а его жители отрекаются от своих богов. Они предвидят скорую погибель и требуют подношений и жертв.
 
-How shall we respond? </Translation>
+Как мы ответим? </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STRICTER_RULES</zType>
-		<Translation>The citizens of {CITY-1} have petitioned the court to revert the rules recently imposed by the temples. High priests have grown in power and are increasing their demands for sacrifices and tribute.
+		<Translation>Жители г. {CITY-1} просят двор пересмотреть закон, недавно введенный в храмах. Влась верховных священников возрасла, и они требуют все больше подношений и жертв.
 
-Do we wish to interfere?</Translation>
+Будем ли мы вмешиваться?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RAMPANT_CORRUPTION</zType>
-		<Translation><![CDATA[Corruption is running rampant in {CITY-0}. A charismatic local aristocrat has pledged to root out crooked administrators and restore some semblance of virtue. 
+		<Translation><![CDATA[В г. {CITY-0} свирепствует коррупция. Местный аристократ, наделенный немалой харизмой, пообещал искоренить нечестных чиновников и восстановить некое подобие нравственности. 
 
-Shall we acknowledge his efforts?]]></Translation>
+Признаем ли мы его усилия?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RADICAL_PHILOSOPHER</zType>
-		<Translation><![CDATA[A wandering philosopher has joined the household of the {FAMILY-0} family. She teaches a radical idea: that no human being has the right to treat another as property. This notion has energized the {FAMILY-0} nobility, and they are spreading it within the court. 
+		<Translation><![CDATA[К дому семьи {FAMILY-0} присоединился блуждающий философ. Она продвигает радикальную идею: ни один человек не может считать другого своей собственностью. Это учение захватило умы знати {FAMILY-0}, и они начали распространять его во дворце.
 
-Shall we intervene?]]></Translation>
+Стоит ли нам вмешаться?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CONTEST_OF_RHETORIC</zType>
-		<Translation><![CDATA[The {FAMILY-0} family stages a contest of rhetoric, discussing the merits of our highly centralized state. They request that the court send a royal scholar to defend the status quo. Despite appearances, the {FAMILY-0,1} assure us that their interest in the matter is purely theoretical. 
+		<Translation><![CDATA[Семья {FAMILY-0} проводит дебаты, выдвинув на обсуждение достоинства высокого уровня централизации нашего государства. Они просят двор прислать королевского академика для сохранения статуса кво. Несмотря на выступления, семья {FAMILY-0} утверждает, что их интерес исключительно теоретический. 
 
-What do we do?]]></Translation>
+Что мы будем делать?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_EAGER_EXPLORERS</zType>
