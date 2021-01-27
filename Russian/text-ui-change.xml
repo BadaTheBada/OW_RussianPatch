@@ -648,6 +648,49 @@
         <zType>CLOUD_SCREEN_BACK_BUTTON</zType>
         <Translation>Назад</Translation>
     </Entry>
+	<!--MP wizard screen-->
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_TITLE</zType>
+		<Translation>
+      Выбирите режим совместной игры
+    </Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_NETWORK_MODE</zType>
+		<Translation>Играйте против соперников онлайн в реальном времени</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_PLAY_BY_CLOUD_MODE</zType>
+		<Translation>Ходы в игре сохраняются в облаке для следующего игрока</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_HOTSEAT_MODE</zType>
+		<Translation>Все игроки за одним устройством</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_SERVER_MODE</zType>
+		<Translation>Создание игры на удаленном сервере</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_NETWORK_MODE_BUTTON</zType>
+		<Translation>Сетевой режим</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_PLAY_BY_CLOUD_MODE_BUTTON</zType>
+		<Translation>Облачный режим</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_HOTSEAT_MODE_BUTTON</zType>
+		<Translation>ХОТСИТ</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_SERVER_MODE_BUTTON</zType>
+		<Translation>Серверный режим</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_BACK_BUTTON</zType>
+		<Translation>Назад</Translation>
+	</Entry>
     <!--multiplayer games screen-->
     <Entry>
         <zType>MP_GAME_SCREEN_BUTTON</zType>
@@ -661,6 +704,11 @@
         <zType>MP_GAME_SCREEN_BROWSER_BUTTON</zType>
         <Translation>Обзор игры</Translation>
     </Entry>
+	<!--multiplayer servers screen-->
+	<Entry>
+		<zType>TEXT_MP_SERVERS_SCREEN_TITLE</zType>
+		<Translation>Серверы</Translation>
+	</Entry>
     <!--games header in multiplayer-->
     <Entry>
         <zType>TEXT_GAME_HEADER_NAME_CELL</zType>
@@ -687,6 +735,14 @@
         <zType>MP_PLAYERS_SCREEN_BACK_BUTTON</zType>
         <Translation>Назад</Translation>
     </Entry>
+	<Entry>
+		<zType>TEXT_MP_PLAYER_CONNECTED</zType>
+		<Translation>{0} подключился к серверу</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_PLAYER_DISCONNECTED</zType>
+		<Translation>{0} отключился от сервера</Translation>
+	</Entry>
     <!--tools-->
     <Entry>
         <zType>TOOLS_SCREEN_MAP_EDITOR_BUTTON</zType>
@@ -753,16 +809,44 @@
         <zType>TEXT_MP_SETUP_OPTIONS_LABEL_SERVERS</zType>
         <Translation>Серверы</Translation>
     </Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SERVERPASSWORD</zType>
+		<Translation>Пароль сервера</Translation>
+	</Entry>
+	<Entry>
+        <zType>TEXT_MP_SETUP_OPTIONS_LABEL_SERVERS</zType>
+        <Translation>Серверы</Translation>
+    </Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_OPTIONS_LABEL_GAME_MODE</zType>
+		<Translation>Режим игры</Translation>
+	</Entry>
     <!--network-->
     <Entry>
         <zType>TEXT_MP_SETUP_OPTIONS_LABEL_NETWORK</zType>
         <Translation>Сеть</Translation>
     </Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_OPTIONS_LABEL_PLAY_BY_CLOUD</zType>
+		<Translation>Игра в облаке</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_OPTIONS_LABEL_HOTSEAT</zType>
+		<Translation>ХОТСИТ</Translation>
+	</Entry>
     <!--game options-->
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_GAMENAME</zType>
         <Translation>Имя игры</Translation>
     </Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_GAMEPASSWORD</zType>
+		<Translation>Пароль игры</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_HOSTPASSWORD</zType>
+		<Translation>Пароль хоста</Translation>
+	</Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_PLAYERS</zType>
         <Translation>Игроки</Translation>
@@ -771,6 +855,18 @@
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TEAMS</zType>
         <Translation>Команды</Translation>
     </Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TRIBAL_STRENGTH</zType>
+		<Translation>Сила племен</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_AI_AGGRESSION</zType>
+		<Translation>Агрессивность ИИ</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_AI_DEVELOPMENT</zType>
+		<Translation>Развитие ИИ</Translation>
+	</Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_BARBARIANS</zType>
         <Translation>Варвары</Translation>
@@ -779,6 +875,10 @@
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SUCCESSION</zType>
         <Translation>Престолонаследие</Translation>
     </Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SUCCESSION_ORDER</zType>
+		<Translation>Порядок наследования</Translation>
+	</Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MORTALITY</zType>
         <Translation>Смертность</Translation>
@@ -799,6 +899,10 @@
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SIMULTURNS</zType>
         <Translation>Одновременные ходы</Translation>
     </Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TEAM_NATIONS</zType>
+		<Translation>Нации</Translation>
+	</Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_VICTORY</zType>
         <Translation>Победа</Translation>
@@ -831,11 +935,48 @@
         <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SEED</zType>
         <Translation>Шаблон карты</Translation>
     </Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_USE_OTHER_MODS</zType>
+		<Translation>Использовать модификации</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_BUTTON_LABEL_MOD_SELECTION</zType>
+		<Translation>Выбор модификации</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_MOD_SELECTION_TITLE</zType>
+		<Translation>Модификации</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_MOD_SELECTION_CUSTOM_OPTIONS_LABEL</zType>
+		<Translation>Пользовательские параметры</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_HUMAN</zType>
+		<Translation>Человек</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_AI</zType>
+		<Translation>ИИ</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_INVALID_START</zType>
+		<Translation>
+      Невозможно начать игру
+      "No Duplicate Nations" опция включена, но у нескольких игроков выбрана одинаковая нация или
+      "Готовая карта" опиця включениа, но файл карты не был указан
+    </Translation>
+	<!-- TOFIX: перевести название мода-->
+	</Entry>
     <!-- players-->
     <Entry>
         <zType>TEXT_MP_SETUP_PLAYERS_NAME</zType>
         <Translation>Имя</Translation>
     </Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_PLAYERS_NATION</zType>
+		<Translation>Нация</Translation>
+	</Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_PLAYERS_DIFFICULTY</zType>
         <Translation>Сложность</Translation>
@@ -844,6 +985,10 @@
         <zType>TEXT_MP_SETUP_PLAYERS_TEAM</zType>
         <Translation>Команда</Translation>
     </Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_PLAYERS_CONTROL</zType>
+		<Translation>Управление</Translation>
+	</Entry>
     <Entry>
         <zType>TEXT_MP_SETUP_PLAYERS_EMAIL</zType>
         <Translation>Email</Translation>
@@ -934,10 +1079,22 @@
         <zType>TEXT_SCENARIO_SETUP_SCENARIO</zType>
         <Translation>Сценарии</Translation>
     </Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_NATION</zType>
+		<Translation>Нация</Translation>
+	</Entry>
     <Entry>
         <zType>TEXT_SCENARIO_SETUP_OPPONENTS</zType>
         <Translation>Оппоненты</Translation>
     </Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_OPPONENT_NATIONS</zType>
+		<Translation>Нации оппонентов: {LIST}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_TRIBE</zType>
+		<Translation>Пелмена</Translation>
+	</Entry>
     <Entry>
         <zType>TEXT_SCENARIO_SETUP_BARBARIANS</zType>
         <Translation>Варвары</Translation>
@@ -946,6 +1103,14 @@
         <zType>TEXT_SCENARIO_SETUP_DIFFICULTY</zType>
         <Translation>Сложность</Translation>
     </Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_SHOWOPTIONS</zType>
+		<Translation>Показать опции</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_FILE_LOADED</zType>
+		<Translation>{0} Загружено</Translation>
+	</Entry>
     <Entry>
         <zType>TEXT_SCENARIO_SETUP_CANCEL</zType>
         <Translation>Отмена</Translation>
@@ -1020,6 +1185,10 @@
         <zType>TEXT_SP_SETUP_ADVANCED_NUMOPPS</zType>
         <Translation>Количество оппонентов</Translation>
     </Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_NUMOPPS_OPTION</zType>
+		<Translation><![CDATA[{0_count} <singular_0>Оппонент<plural>Оппонентов<end>]]></Translation>
+	</Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_ADVANCED_MORTALITY</zType>
         <Translation>Смертность</Translation>
@@ -1032,6 +1201,10 @@
         <zType>TEXT_SP_SETUP_ADVANCED_SUCCESSION</zType>
         <Translation>Престолонаследие</Translation>
     </Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_SUCCESSION_ORDER</zType>
+		<Translation>Порядок престолонаследия</Translation>
+	</Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_ADVANCED_DIFFICULTY</zType>
         <Translation>Сложность</Translation>
@@ -1040,6 +1213,10 @@
         <zType>TEXT_SP_SETUP_ADVANCED_BARBSTRENGTH</zType>
         <Translation>Сила варваров</Translation>
     </Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_TRIBE_LEVEL</zType>
+		<Translation>Сида племен</Translation>
+	</Entry>
     <Entry>
         <zType>TEXT_SP_SETUP_ADVANCED_AIAGGRESSION</zType>
         <Translation>Агрессия ИИ</Translation>
@@ -1054,6 +1231,10 @@
     </Entry>
     <!--tab-panel.xml-->
     <!--character tab-->
+	<Entry>
+		<zType>TEXT_TAB_PANEL_CHARTAB_COURT</zType>
+		<Translation>Двор</Translation>
+	</Entry>
     <Entry>
         <zType>TEXT_TAB_PANEL_CHARTAB_CHARACTERS</zType>
         <Translation>Персонажи</Translation>
@@ -1172,10 +1353,22 @@
         <zType>TEXT_CITY_LIST_FAMILY</zType>
         <Translation>Семья</Translation>
     </Entry>
+	<Entry>
+		<zType>TEXT_CITY_LIST_RELIGION</zType>
+		<Translation>Религия</Translation>
+	</Entry>
     <Entry>
         <zType>TEXT_CITY_LIST_POPULATION</zType>
         <Translation>Население</Translation>
     </Entry>
+	<Entry>
+		<zType>TEXT_CITY_LIST_SORT</zType>
+		<Translation>[CLICK] сортировать по {0_yield} уровню производства</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITY_LIST_SORT_LEVEL</zType>
+		<Translation>[CTRL+CLICK] сортировать по {0_yield} уровню</Translation>
+	</Entry>
     <!--overview-map.xml-->
     <Entry>
         <zType>TEXT_OVERVIEW_MAP_MAPOPTIONS</zType>
@@ -1302,6 +1495,14 @@
 		<zType>TEXT_POPUP_LAWS</zType>
 		<Translation>Законы</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_LAWS_LAW_UPKEEP</zType>
+		<Translation>Содержание: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_LAWS_LAW_FAMILY_OPINION</zType>
+		<Translation>{0} Мнение: {1}</Translation>
+	</Entry>
 	<!--popup-input.xml-->
 	<Entry>
 		<zType>TEXT_POPUP_INPUT_TITLE</zType>
@@ -1386,9 +1587,9 @@
 		<zType>TEXT_EVENT_EDITOR_BAR_MF</zType>
 		<Translation>М/Ж</Translation>
 	</Entry>
-	<Entry><!--Требуется перевод-->
+	<Entry><!--Требуется проверить контекст слова-->
 		<zType>TEXT_EVENT_EDITOR_BAR_GO</zType>
-		<Translation>GO</Translation>
+		<Translation>Начать</Translation>
 	</Entry>
 	<!--choose-research.xml-->
 	<Entry>
@@ -1412,6 +1613,10 @@
 	<!--barbarian-list.xml-->
 	<Entry>
 		<zType>TEXT_BARBARIAN_LIST_TRIBES</zType>
+		<Translation>Племена</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_LIST</zType>
 		<Translation>Племена</Translation>
 	</Entry>
 	<!--ai-log.xml-->
@@ -1455,14 +1660,44 @@
 		<zType>TEXT_CHARACTER_UPGRADE_DECISION_TRAIT</zType>
 		<Translation>Модернизация: {0_trait}</Translation>
 	</Entry>
+	<!--selected-decision-->
+	<Entry>
+		<zType>TEXT_AMBITION_SKIP_DECISION</zType>
+		<Translation>Сейчас не время для новых целей.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITY_FAMILY_DECISION</zType>
+		<Translation>{0_family} ({1_class}, {2_opinion}, {singular_3:1 Город:{3} Городов})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITY_CAPITAL_FAMILY_DECISION</zType>
+		<Translation>{0_family} ({1_class})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_UPGRADE_DECISION_RATING</zType>
+		<Translation>Улучшение: +1 {0_ratingtype} ({1_startrating} к {2_endrating})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_UPGRADE_DECISION_TRAIT</zType>
+		<Translation>Улучшение: {0_trait}</Translation>
+	</Entry>
 	<!-- tech tree-->
 	<Entry>
 		<zType>TEXT_TECH_TREE_OVERRIDE_CURRENT_RESEARCH</zType>
 		<Translation>Изменить исследование: [CTRL+Click]</Translation>
   </Entry>
   <Entry>
+		<zType>TEXT_TECH_TREE_OVERRIDE_TARGET_RESEARCH</zType>
+		<Translation>[Click] для установки флага при выборе исследования</Translation>
+	</Entry>
+  <Entry>
     <zType>TEXT_TECH_TREE_BONUS_CARD_DISCARDED</zType>
     <Translation>Немедленное удаление при сбросе</Translation>
+	</Entry>
+	<!-- Main Menu-->
+	<Entry>
+		<zType>TEXT_UI_MAIN_MENU_ACTIVE_MODS</zType>
+		<Translation><![CDATA[Активные <color=#e3c08ccc>Модификации</color>]]></Translation>
 	</Entry>
 	<!--MPSetupScreenPanel-->
 	<Entry>
@@ -1476,6 +1711,10 @@
 	<Entry>
 		<zType>TEXT_UI_MP_SETUP_PAUSE_GAME</zType>
 		<Translation>Приостановить игру</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_UNLOAD_GAME</zType>
+		<Translation>Выгрузить игру</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_MP_SETUP_LOAD_GAME</zType>
@@ -1517,6 +1756,10 @@
 		<zType>TEXT_UI_MP_SETUP_START_SIMULTANEOUS_TURNS</zType>
 		<Translation>Играть первые ходы одновременно</Translation>
 	</Entry>
+	<Entry><!--Требуется перевод-->
+		<zType>TEXT_UI_MP_SETUP_START_TURN_SCALE</zType>
+		<Translation>Each turn is a {0_turnScale}</Translation>
+	</Entry>
 	<!--OptionsMenuPanel-->
 	<Entry>
 		<zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_SKIP_ALL</zType>
@@ -1533,5 +1776,390 @@
 	<Entry>
 		<zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_ALL</zType>
 		<Translation>Все</Translation>
+	</Entry>
+<!--Mods Screen (mod-manager.xml)-->
+	<Entry>
+		<zType>TEXT_UI_MODS_POWERED_BY_MODIO_TOOLTIP</zType>
+		<Translation>Powered by mod.io</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_BACK_TO_MENU</zType>
+		<Translation>Главное меню</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_TITLE</zType>
+		<Translation>Модификации</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MANAGE_TAB</zType>
+		<Translation>Управлять</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_INSTALL_TAB</zType>
+		<Translation>Уставноить</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_UPLOAD_TAB</zType>
+		<Translation>Выгрузить</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_ALL</zType>
+		<Translation>Все</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_SINGLEPLAYER</zType>
+		<Translation>Один игрок</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_MULTIPLAYER</zType>
+		<Translation>Мультиплеер</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_TRANSLATIONS</zType>
+		<Translation>Переводы</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_MAPS</zType>
+		<Translation>Карты</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_MAP_SCRIPTS</zType>
+		<Translation>Карты сценариев</Translation>
+	</Entry>
+	<Entry><!-- Требуется перевод -->
+		<zType>TEXT_UI_MODS_INCLUDE_INTERNAL_TOGGLE_LABEL</zType>
+		<Translation>Include Internal</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_NEW_MOD_BUTTON</zType>
+		<Translation>Новая модификация</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_RESOURCES</zType>
+		<Translation>Ресурсы</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_VERSION_LABEL</zType>
+		<Translation>Версия модификации:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_AUTHOR_LABEL</zType>
+		<Translation>Автор:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_HOMEPAGE_LABEL</zType>
+		<Translation>Домашняя страница:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_NAME_LABEL</zType>
+		<Translation>Имя модификации:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_FILENAME_LABEL</zType>
+		<Translation>Имя файла:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_PICTURE_LABEL</zType>
+		<Translation>Изображание модификации:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_DESCRIPTION_LABEL</zType>
+		<Translation>Описание:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_CHANGELOG_LABEL</zType>
+		<Translation>Описание изменений:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_CHANGELOG_LABEL_TOOLTIP</zType>
+		<Translation>Этот текст будет отоброжаться на mod.io а так же в нотификации от бота в discord</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_SINGLEPLAYER_TOGGLE_LABEL</zType>
+		<Translation>Один игрок:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_MULTIPLAYER_TOGGLE_LABEL</zType>
+		<Translation>Мультиплеер:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_TRANSLATION_TOGGLE_LABEL</zType>
+		<Translation>Перевод:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_SINGLEPLAYER_TAG</zType>
+		<Translation>[Один игрок]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MULTIPLAYER_TAG</zType>
+		<Translation>[Мультиплеер]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_TRANSLATION_TAG</zType>
+		<Translation>[Перевод]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MAP_TAG</zType>
+		<Translation>[Карта]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MAP_SCRIPT_TAG</zType>
+		<Translation>[Карта сценарий]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_FILES</zType>
+		<Translation>Файлы:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_ADD_FILES</zType>
+		<Translation>Добавить файлы</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_DEPENDENCIES</zType>
+		<Translation>Зависимости:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_INCOMPATIBILITIES</zType>
+		<Translation>Несовместимости:</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_DEPENDENCIES_TOOLTIP</zType>
+		<Translation>Список модификаций требующихся для корректной работы. Эти модификации будут всегда загружены перед текущей.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_INCOMPATIBILITIES_TOOLTIP</zType>
+		<Translation>Список не совместимых модификаций.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_RELATIONS_FORMAT_EXPLANATION</zType>
+		<Translation><![CDATA[каждый в формате: mod_name,modio_id,modfile_id<br>где mod_name единственное обязательное поле. modio_id числовой идентификатор для модификации на mod.io. И modfile_id специальный файл версии для модификации.]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_OPEN_MOD_FOLDER_BUTTON</zType>
+		<Translation>Открыть каталог карт</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_SAVE_LOCAL_CHANGES_BUTTON</zType>
+		<Translation>Сохранить локальные изменения</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_UPLOAD_BUILD_BUTTON</zType>
+		<Translation>Выгрузить сборку</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_CLEAR_MOD_SELECTION_BUTTON</zType>
+		<Translation>Очистить модификации</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_REVERT_SELECTION_BUTTON</zType>
+		<Translation>Инвертировать выделение</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PLAY_WITH_MODS_BUTTON</zType>
+		<Translation>Играть с модификациями</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_INTERNAL_MOD</zType>
+		<Translation>{0_modName} (Внутренний)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_CREATE_MOD_PROFILE_BUTTON</zType>
+		<Translation>Создать профиль модификации</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_UPDATE_MOD_PROFILE_BUTTON</zType>
+		<Translation>Обновить профиль</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_UPDATE_MOD_BUTTON</zType>
+		<Translation>Обновить</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_UNINSTALL_MOD_BUTTON</zType>
+		<Translation>Удалить</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_DOWNLOAD_MOD_BUTTON</zType>
+		<Translation>Скачать</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_REQUEST_ERROR_POPUP_TITLE</zType>
+		<Translation>Ошибка запроса</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_SECURITY_CODE_SENT_POPUP_TITLE</zType>
+		<Translation>Секретный код отправлен</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_LOG_OUT_BUTTON</zType>
+		<Translation>Выйти</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_SIGN_IN_BUTTON</zType>
+		<Translation>Зарегистрироваться</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MOD_UPDATE_VERSION_DIFF</zType>
+		<Translation>{0_modName} - текущий: {1}, последний: {2}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MOD_UPDATE_MODS_POPUP_TITLE</zType>
+		<Translation>Обновить модификацию?</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MODS_UPDATED_CONFIRMED_POPUP_TITLE</zType>
+		<Translation>Модификация обновлена</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_DOWNLOAD_COMPLETE_POPUP_TITLE</zType>
+		<Translation>Загрузка заверщина</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_DOWNLOAD_COMPLETE_POPUP_BODY</zType>
+		<Translation>Вавершенные загрузки {LIST}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_ENTER_EMAIL_POPUP_TITLE</zType>
+		<Translation>Введите Email</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_VALIDATION_ERROR_POPUP_TITLE</zType>
+		<Translation>Ошибка валидации</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_ERROR_MOD_NOT_BLANK</zType>
+		<Translation>Название модификации не может быть пустым</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_ERROR_DUPLICATE_MOD_NAME</zType>
+		<Translation>Имя модификации дублируется</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_ERROR_RESERVED_MOD_NAME_POPUP_TITLE</zType>
+		<Translation>Имя модификации зарезервированно</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_ERROR_RESERVED_MOD_NAME_POPUP_BODY</zType>
+		<Translation>Имя модификации "{0_modName}" зарезервированно для внутреннего использования</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_UPDATING_MOD_PROFILE</zType>
+		<Translation>Обновление профиля модификации...</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_UPLOADING_MOD_PROFILE</zType>
+		<Translation>Выгрузка профиля модификации...</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_UPLOADING_BUILD</zType>
+		<Translation>Выгрузка билда...</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MOD_HAS_NO_PROFILE_POPUP_TITLE</zType>
+		<Translation>У модификации отсутствует профиль</Translation>
+	</Entry>
+	<Entry><!-- Требуется перевод -->
+		<zType>TEXT_UI_MODS_PANEL_MOD_HAS_NO_PROFILE_POPUP_BODY</zType>
+		<Translation>How would you like to procede?</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_CREATE_NEW_MOD_PROFILE_POPUP_OPTION</zType>
+		<Translation>Создать новый профиль для модификации</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MOD_PROFILE_CHANGES_COMPLETE_POPUP_TITLE</zType>
+		<Translation>Изменения профиля модификации завершены</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MOD_FILE_UPLOADED_POPUP_TITLE</zType>
+		<Translation>Файл модификации выгружен</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MOD_DEFAULT_DESCRIPTION</zType>
+		<Translation>Введите описание здесь...</Translation>
+	</Entry>
+	<Entry><!-- Требуется перевод -->
+		<zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_TITLE</zType>
+		<Translation>Mods Set</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_BODY</zType>
+		<Translation><![CDATA[Следующие модификации активны:<br>{0_list}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_NEW_GAME_SINGLEPLAYER_OR_MULTIPLAYER_POPUP_TITLE</zType>
+		<Translation>Один игрок или мультиплеер?</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_NEW_GAME_SINGLEPLAYER_POPUP_OPTION</zType>
+		<Translation>Один игрок</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_NEW_GAME_MULTIPLAYER_POPUP_OPTION</zType>
+		<Translation>Мультиплеер</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_LOGGED_OUT_TITLE</zType>
+		<Translation>Выход успешно завершен</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_CREATE_NEW_MOD_POPUP_TITLE</zType>
+		<Translation>Создать новую модификацию</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_CREATE_NEW_MOD_POPUP_BODY</zType>
+		<Translation>Введите имя модификации</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_SAVE_LOCAL_CHANGES_TOOLTIP</zType>
+		<Translation>Сохранить локальные изменения в {0_filename} файл</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_SAVE_LOCAL_CHANGES_NOT_AVAILABLE_TOOLTIP</zType>
+		<Translation>Невозможно сохронить локальне данные для Карты и Сценария, необходимо обновить/создать онлайн-профиль</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_CREATE_NEW_MOD_PROFILE_TOOLTIP</zType>
+		<Translation>Создать новый профиль на mod.io</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_UPDATE_MOD_PROFILE_TOOLTIP</zType>
+		<Translation>Обновить профиль на mod.io</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_PUBLISH_NEW_BUILD_TOOLTIP</zType>
+		<Translation>Создать и Опубликовать новую сборку для модификации</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_VERSION_NOT_LATEST_TOOLTIP</zType>
+		<Translation><![CDATA[Устаревшая версия.<br>загружена: {0}<br>последняя: {1}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_UP_TO_DATE_TOOLTIP</zType>
+		<Translation>загружено и обновлено!</Translation>
+	</Entry>
+	<Entry><!-- Требуется перевод -->
+		<zType>TEXT_UI_MODS_PANEL_MOD_PICTURE_TOOLTIP</zType>
+		<Translation><![CDATA[icon(bullet)1280x720 or larger recommended<br>icon(bullet)16:9 aspect ratio recommended<br>icon(bullet)8mb maximum<br>icon(bullet)GIFs will be converted to PNG]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_LOAD_GAME_MODS_NOT_FOUND_POPUP_TITLE</zType>
+		<Translation>Модификация не найдена!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_LOAD_GAME_MODS_NOT_FOUND_POPUP_BODY</zType>
+		<Translation>Следующие модификации не найдены на вашей системе, хотите попробовать скачать их?</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_DOWNLOADING_MODS_POPUP_TITLE</zType>
+		<Translation>Загрузка модификация, пожалуйста ожидайте.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MOD_DOWNLOADS_COMPLETE_POPUP_TRY_LOAD_AGAIN_BUTTON</zType>
+		<Translation>Попробуйте загрузить игру заново</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_NOT_FOUND_ON_SERVER_POPUP_TITLE</zType>
+		<Translation>Запрашиваемые модификации не найдены на mod.io</Translation>
 	</Entry>
 </Root>
