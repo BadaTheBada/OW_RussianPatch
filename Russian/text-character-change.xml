@@ -49,6 +49,14 @@
 		<zType>TEXT_CHARACTER_TITLE_AGENT</zType>
 		<Translation>Агент {0_name}</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_PATRIARCH</zType>
+		<Translation><![CDATA[<masculine_0>Патриарх<feminine>Матриарх<end> {0_name}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_OLIGRARCH</zType>
+		<Translation>Олигарх {0_name}</Translation>
+	</Entry>
 	<!-- Relation -->
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_YOU</zType>
@@ -68,7 +76,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_DESCENDANT</zType>
-		<Translation>Ваш отпрыск</Translation>
+		<Translation>Ваш потомок</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_PARENT</zType>
@@ -88,6 +96,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_SIBLING_IN_LAW</zType>
+		<!--Требуется уточнение: in law это родственники со сторорны супруга/супруги.-->
 		<Translation><![CDATA[<masculine_0>Ваш сводный брат<feminine>Ваша сводная сестра<end>]]></Translation>
 	</Entry>
 	<Entry>
