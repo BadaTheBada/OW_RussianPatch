@@ -523,6 +523,26 @@
 	</Entry>
 	<!--menu-screens.xml-->
 	<Entry>
+		<zType>TEXT_UI_SURRENDER_DIALOG</zType>
+		<Translation>Подтвердите капитуляцию?</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EXIT_DIALOG</zType>
+		<Translation>Вы уверенны что хотите выйти? Весь не сохранненый прогресс будет потерян.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_RESTART_DIALOG</zType>
+		<Translation>Вы уверенны что хотите начать заново? Весь не сохранненый прогресс будет потерян.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SURRENDER_CONFIRM</zType>
+		<Translation>Да</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MENU_SCREEN_RESUME_BUTTON</zType>
+		<Translation>Продолжить</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_MENU_SCREEN_SP_BUTTON</zType>
 <Translation>Одиночная игра</Translation>
     </Entry>
@@ -860,6 +880,10 @@
     </Entry>	
     <!--options-menu.xml-->
     <!--title bar-->
+	<Entry>
+		<zType>TEXT_OPTIONS_MENU_TITLEBAR_GENERAL</zType>
+		<Translation>Основные</Translation>
+	</Entry>
     <Entry>
         <zType>TEXT_OPTIONS_MENU_TITLEBAR_GAMEPLAY</zType>
         <Translation>Игра</Translation>
@@ -876,6 +900,10 @@
         <zType>TEXT_OPTIONS_MENU_TITLEBAR_UI</zType>
         <Translation>Интерфейс</Translation>
     </Entry>
+	<Entry>
+		<zType>TEXT_OPTIONS_MENU_TITLEBAR_CAMERA</zType>
+		<Translation>Камера</Translation>
+	</Entry>
     <Entry>
         <zType>TEXT_OPTIONS_MENU_TITLEBAR_CONTROLS</zType>
         <Translation>Управление</Translation>
