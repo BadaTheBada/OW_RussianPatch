@@ -1,337 +1,569 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Andy Auseon (Mohawk Games) -->
 <Root>
-	<Entry>
-		<zType/>
-		<Translation/>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_INFILTRATE_REVEAL_DESCRIPTION</zType>
-		<Translation>{CHARACTER-SUBJECT} успешно проник на территорию вашего соперника.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_SLANDER_SUCCESS_DESCRIPTION</zType>
-		<Translation>{CHARACTER-SUBJECT} успешно опорочил вашего соперника.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_SLANDER_SUCCESS_EXPOSED_DESCRIPTION</zType>
-		<Translation>{CHARACTER-SUBJECT} успешно опорочил вашего соперника, но был обнаружен.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL_DESCRIPTION</zType>
-		<Translation>Вы успешно убили {CHARACTER-TARGET},  и никто ничего не подозревает...</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL_EXPOSED_DESCRIPTION</zType>
-		<Translation>Ваши убийцы успешно ликвидировали {CHARACTER-TARGET}, но улики ведут к вам.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_ASSASSINATE_FAIL_EXPOSED_DESCRIPTION</zType>
-		<Translation>Ваши убийцы не смогли убить {CHARACTER-TARGET}. Хуже того, ваш гнусный заговор раскрыт.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_TREACHERY_DESCRIPTION</zType>
-		<Translation><![CDATA[{CHARACTER-SUBJECT} успешно <masculine_CHARACTER-SUBJECT>ослабил<feminine>ослабила<end> защиту города.]]></Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_DESCRIPTION</zType>
-		<Translation>Ваша вассальная семья ценит подарки, которые принес от вас ваш Канцлер {CHARACTER-SUBJECT}.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_WEAKEN_DESCRIPTION</zType>
-		<Translation>Ваша вассальная семья ценит подарки, которые принес ваш Канцлер {CHARACTER-SUBJECT}, но другие ваши подданные рассматривают это потворство как признак слабости.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_IMPRISON_JUST_DESCRIPTION</zType>
-		<Translation><![CDATA[{CHARACTER-TARGET} <masculine_CHARACTER-TARGET>был заключен<feminine>была заключена<end> в тюрьму по обвинению, которое считается справедливым.]]></Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_IMPRISON_UNJUST_DESCRIPTION</zType>
-		<Translation><![CDATA[{CHARACTER-TARGET} <masculine_CHARACTER-TARGET>был заключен<feminine>была заключена<end> в тюрьму по вопиюще ложным обвинениям. Некоторые обвиняют вас в тирании.]]></Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_IMPRISON_ESCAPE_DESCRIPTION</zType>
-		<Translation><![CDATA[{CHARACTER-TARGET} <masculine_CHARACTER-TARGET>сбежал<feminine>сбежала<end> из-под ареста и теперь в бегах!]]></Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_RELEASE_GRATEFUL_DESCRIPTION</zType>
-		<Translation><![CDATA[{CHARACTER-TARGET} <masculine_CHARACTER-TARGET>был освобожден<feminine>была освобождена<end> из тюрьмы. В благодарность за то, что снова <masculine_CHARACTER-TARGET>свободен, он простил<feminine>свободна, она простила<end> выши прошлые злодеяния по отношению к <masculine_CHARACTER-TARGET>нему<feminine>ней<end>.]]></Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_RELEASE_BITTER_DESCRIPTION</zType>
-		<Translation><![CDATA[{CHARACTER-TARGET} <masculine_CHARACTER-TARGET>был освобожден<feminine>была освобождена<end> из тюрьмы, но <masculine_CHARACTER-TARGET>затаил<feminine>затаила<end> обиду за свое заточение.]]></Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_RELEASE_UNJUST_DESCRIPTION</zType>
-		<Translation><![CDATA[{CHARACTER-TARGET} <masculine_CHARACTER-TARGET>был освобожден<feminine>была освобождена<end> из тюрьмы, и не <masculine_CHARACTER-TARGET>стыдился<feminine>стыдилась<end> жаловаться на свое наспреведливое заточение]]></Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_CAPTURE_SURRENDER_DESCRIPTION</zType>
-		<Translation><![CDATA[Ваши попытки поймать {CHARACTER-TARGET} увенчались успехом. <masculine_CHARACTER-TARGET>Он сдался<feminine>Она сдалась<end> и находится в плену.]]></Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_CAPTURE_KILLED_DESCRIPTION</zType>
-		<Translation><![CDATA[{CHARACTER-TARGET} <masculine_CHARACTER-TARGET>отказался сдаться группе, которую вы послали за ним<feminine>отказалась сдаться группе, которую вы послали за ней<end>, предпочтя смерть плену.]]></Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_CAPTURE_FLEE_DESCRIPTION</zType>
-		<Translation><![CDATA[{CHARACTER-TARGET} <masculine_CHARACTER-TARGET>ускользнул от ваших следопытов и сбежал<feminine>ускользнула от ваших следопытов и сбежала<end> из страны, прячясь где-то вне вашей досягаемости...]]></Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_CAPTURE_FAIL_DESCRIPTION</zType>
-		<Translation><![CDATA[Ваши следопыты не смогли обнаружить местонахождение {CHARACTER-TARGET}. Мы можем только предполагать, что <masculine_CHARACTER-TARGET>он<feminine>она<end> остается в бегах.]]></Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_MARRY_COURTIER_DESCRIPTION</zType>
-		<Translation><![CDATA[Хорошая новость: {CHARACTER-SUBJECT} <masculine_CHARACTER-SUBJECT>согласился<feminine>согласилась<end> на ваше предложение руки и сердца. Поздравляем!]]></Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_CAPTURED_RANSOM_DESCRIPTION</zType>
-		<Translation><![CDATA[Вы заплатили выкуп за {CHARACTER-SUBJECT} и обеспечили <masculine_CHARACTER-SUBJECT>его<feminine>ее<end> освобождение!]]></Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_DIVORCE_MUTUAL_DESCRIPTION</zType>
-		<Translation><![CDATA[После некоторых уговоров, {CHARACTER-SUBJECT} <masculine_CHARACTER-SUBJECT>согласился<feminine>согласилась<end> на взаимный развод.]]></Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_DIVORCE_FORCED_DESCRIPTION</zType>
-		<Translation><![CDATA[Вы вынудили {CHARACTER-TARGET} развестись с вами против <masculine_CHARACTER-TARGET>его<feminine>ее<end> воли.]]></Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_EVENT_DESCRIPTION</zType>
-		<Translation>Задание {CHARACTER-SUBJECT} привело к событию...</Translation>
-	</Entry>
-	<!--Result Name-->
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_AMBASSADOR</zType>
-		<Translation>Посол</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_CHANCELLOR</zType>
-		<Translation>Канцлер</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_SPYMASTER</zType>
-		<Translation>Начальник разведки</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_TEAM_ALLIANCE_EVENT</zType>
-		<Translation>Вступление в союз</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_PLAYER_PEACE_EVENT</zType>
-		<Translation>Заключение мира с нацией</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_PLAYER_PEACE_OFFER_EVENT</zType>
-		<Translation>Предложение перемирия за мир</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_PLAYER_PEACE_NO_EVENT</zType>
-		<Translation>Просьба заключить мир</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_PLAYER_PEACE_DEMAND_EVENT</zType>
-		<Translation>Требование перемирия за мир</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_EVENT</zType>
-		<Translation>Заключение перемирия с нацией</Translation>
-	</Entry>
-		<Entry>
-		<zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_OFFER_EVENT</zType>
-		<Translation>Предложение перемирия за мир</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_NO_EVENT</zType>
-		<Translation>Просьба заключить мир</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_DEMAND_EVENT</zType>
-		<Translation>Требование перемирия за мир</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_PLAYER_DECLARE_WAR_EVENT</zType>
-		<Translation>Объявление войны</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_PLAYER_BREAK_PEACE_EVENT</zType>
-		<Translation>Нарушение мира с нацией</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_PLAYER_END_ALLIANCE_EVENT</zType>
-		<Translation>Выход из союза</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_PLAYER_CANCEL_TRADE_EVENT</zType>
-		<Translation>Прекращение торговли</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_BARBARIAN_ALLIANCE_EVENT</zType>
-		<Translation>Вступление в союз с племенем</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_BARBARIAN_PEACE_EVENT</zType>
-		<Translation>Заключение мира с племенем</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_BARBARIAN_TRUCE_EVENT</zType>
-		<Translation>Заключение перемирия с племенем</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_BARBARIAN_DECLARE_WAR_EVENT</zType>
-		<Translation>Объявление войны племени</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_BARBARIAN_BREAK_PEACE_EVENT</zType>
-		<Translation>Нарушение мира с племенем</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_BARBARIAN_END_ALLIANCE_EVENT</zType>
-		<Translation>Выход из союза с племенем</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_ADOPT_RELIGION_EVENT</zType>
-		<Translation>Принятие религии</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_FAMILY_MARRIAGE_EVENT</zType>
-		<Translation>Заключение брака с семьей</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_ABDICATE</zType>
-		<Translation>Отречение от престола</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_ADOPT</zType>
-		<Translation>Принятие</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_LEGITIMIZE</zType>
-		<Translation>Узаконенный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_CHOSEN_HEIR</zType>
-		<Translation>Объявление наследника</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_INFILTRATE_REVEAL</zType>
-		<Translation>Внедрение шпиона</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_INFILTRATE_EVENT</zType>
-		<Translation>Внедрение шпиона</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_SLANDER_SUCCESS</zType>
-		<Translation>Распространение клеветы</Translation>
-	</Entry>
-	<Entry><!--Требуется перевод-->
-		<zType>TEXT_MISSIONRESULT_SLANDER_SUCCESS_EXPOSED</zType>
-		<Translation>Клевета распространена, цель опорочена</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_SLANDER_EVENT</zType>
-		<Translation>Распространение клеветы</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL</zType>
-		<Translation>Цель уничтожена</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL_EXPOSED</zType>
-		<Translation>Цель уничтожена, заговор раскрыт</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_ASSASSINATE_FAIL_EXPOSED</zType>
-		<Translation>Цель выжила, заговор раскрыт</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_ASSASSINATE_EVENT</zType>
-		<Translation>Убийство</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_TREACHERY</zType>
-		<Translation>Предательство прошло успешно</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_TRADE_MISSION_EVENT</zType>
-		<Translation>Торговая делегация</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS</zType>
-		<Translation>Семья оценила подарки</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_WEAKEN</zType>
-		<Translation>Подарки показывают нашу слабость</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_EVENT</zType>
-		<Translation>Передача подарков семье</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_IMPRISON_JUST</zType>
-		<Translation>Цель справедливо заключена в тюрьму</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_IMPRISON_UNJUST</zType>
-		<Translation>Цель не справедливо заключена в тюрьму</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_IMPRISON_ESCAPE</zType>
-		<Translation>Цель сбежала из-под ареста</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_RELEASE_GRATEFUL</zType>
-		<Translation>Пленник благодарен</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_RELEASE_BITTER</zType>
-		<Translation>Пленник затаил обиду</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_RELEASE_UNJUST</zType>
-		<Translation>Пленник недоволен несправедливым заточением</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_CAPTURE_SURRENDER</zType>
-		<Translation>Цель сдалась</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_CAPTURE_KILLED</zType>
-		<Translation>Цель убита при сопротивлении захвату</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_CAPTURE_FLEE</zType>
-		<Translation>Цель сбежала из страны</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_CAPTURE_FAIL</zType>
-		<Translation>Цель не найдена</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_MARRY_COURTIER</zType>
-		<Translation>Бракосочетание</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_DIVORCE_MUTUAL</zType>
-		<Translation>Взаимный развод</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_DIVORCE_FORCED</zType>
-		<Translation>Принудительный развод</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_CAPTURED_RANSOM</zType>
-		<Translation>Выкуп выплачен</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_PLAYER_BARBARIAN_WAR_EVENT</zType>
-		<Translation>Война с племенем</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MISSIONRESULT_PLAYER_PLAYER_WAR_EVENT</zType>
-		<Translation>Война с нацией</Translation>
-	</Entry>
+  <Entry>
+    <zType />
+    <English />
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TEAM_ALLIANCE_HUMAN_DESCRIPTION</zType>
+    <Translation>Вы отправили гонца с предложением заключить союз.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PLAYER_PEACE_HUMAN_DESCRIPTION</zType>
+    <Translation>Вы отправили гонца с предложением заключить мир.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_HUMAN_DESCRIPTION</zType>
+    <Translation>Вы отправили гонца с предложением о перемирии.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_RALLY_TROOPS_DESCRIPTION</zType>
+    <Translation>Вы сплотили армию, повысив моральный дух и дисциплину воинов.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_RALLY_TROOPS_EVENT_DESCRIPTION</zType>
+    <Translation>Попытка {CHARACTER-SUBJECT,1} сплотить войска привела к событию...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_INFLUENCE_DESCRIPTION</zType>
+    <Translation>Вы успешно распространили свое влияние на {CHARACTER-TARGET}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_INFLUENCE_EVENT_DESCRIPTION</zType>
+    <Translation>Попытка {CHARACTER-SUBJECT,1} распространить ваше влияние привела к событию...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_INFILTRATE_REVEAL_DESCRIPTION</zType>
+    <Translation>{CHARACTER-SUBJECT} успешно проникает на территорию вашего соперника.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_INFILTRATE_REVEAL_EXPOSED_DESCRIPTION</zType>
+    <Translation>{CHARACTER-SUBJECT} успешно проникает на территорию вашего соперника, но выдает себя.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_INFILTRATE_EVENT_DESCRIPTION</zType>
+    <Translation>Скрытное проникновение {CHARACTER-SUBJECT,1} привело к событию...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_SLANDER_SUCCESS_DESCRIPTION</zType>
+    <Translation>{CHARACTER-SUBJECT} успешно порочит честь вашего соперника.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_SLANDER_SUCCESS_EXPOSED_DESCRIPTION</zType>
+    <Translation>{CHARACTER-SUBJECT} успешно порочит честь вашего соперника, но выдает себя.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_SLANDER_EVENT_DESCRIPTION</zType>
+    <Translation>Попытка {CHARACTER-SUBJECT,1} опорочить честь соперника привела к событию...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_STEAL_RESEARCH_SUCCESS_DESCRIPTION</zType>
+    <Translation>{CHARACTER-SUBJECT} успешно крадет исследование у вашего соперника.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_STEAL_RESEARCH_SUCCESS_EXPOSED_DESCRIPTION</zType>
+    <Translation>{CHARACTER-SUBJECT} успешно крадет исследование у вашего соперника, но заговор был раскрыт.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_STEAL_RESEARCH_EVENT_DESCRIPTION</zType>
+    <Translation>Попытка {CHARACTER-SUBJECT,1} украсть исследование привела к событию...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL_DESCRIPTION</zType>
+    <Translation>Вы успешно убили {CHARACTER-TARGET}, и никто ничего не подозревает...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL_EXPOSED_DESCRIPTION</zType>
+    <Translation>Ваши наемники успешно устранили {CHARACTER-TARGET}, но улики ведут к вам.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_ASSASSINATE_FAIL_EXPOSED_DESCRIPTION</zType>
+    <Translation>Ваши наемники не смогли убить {CHARACTER-TARGET}. Хуже того, ваш гнусный заговор раскрыт.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_ASSASSINATE_EVENT_DESCRIPTION</zType>
+    <Translation>Попытка {CHARACTER-SUBJECT,1} устранить цель привела к событию...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TREACHERY_SUCCESS_DESCRIPTION</zType>
+    <Translation>{CHARACTER-SUBJECT} успешно ослабляет защиту города.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TREACHERY_FAILURE_DESCRIPTION</zType>
+    <Translation>{CHARACTER-SUBJECT} не удалось ослабить защиту города.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TREACHERY_EVENT_DESCRIPTION</zType>
+    <Translation>Попытка {CHARACTER-SUBJECT,1} ослабить защиту города привела к событию...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_INSURRECTION_SUCCESS_DESCRIPTION</zType>
+    <Translation>{CHARACTER-SUBJECT} успешно начинает восстание в городе.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_INSURRECTION_FAILURE_DESCRIPTION</zType>
+    <Translation>{CHARACTER-SUBJECT} не удалось начать восстание в городе.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_INSURRECTION_EVENT_DESCRIPTION</zType>
+    <Translation>Попытка {CHARACTER-SUBJECT,1} начать восстание привела к событию...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_DESCRIPTION</zType>
+    <Translation>Знатная семья ценит подарки, которые передает ваш link(COUNCIL_CHANCELLOR) {CHARACTER-SUBJECT}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_WEAKEN_DESCRIPTION</zType>
+    <Translation>Ваша знатная семья ценит подарки, которые передает ваш link(COUNCIL_CHANCELLOR) {CHARACTER-SUBJECT}, но другие подданные рассматривают это потворство как признак слабости.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_FAMILY_GIFT_EVENT_DESCRIPTION</zType>
+    <Translation>Попытка {CHARACTER-SUBJECT,1} преподнести семье подарки привела к событию...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PACIFY_CITY_SUCCESS_DESCRIPTION</zType>
+    <Translation>{CHARACTER-SUBJECT} выслушивает жалобы правителей города и снижает link(YIELD_DISCONTENT).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PACIFY_CITY_SUCCESS_WEAKEN_DESCRIPTION</zType>
+    <Translation>{CHARACTER-SUBJECT} выслушивает жалобы правителей города и снижает link(YIELD_DISCONTENT), но это заискивание ослабило вашу репутацию.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PACIFY_CITY_EVENT_DESCRIPTION</zType>
+    <Translation>Попытка {CHARACTER-SUBJECT,1} умиротворить жителей привела к событию...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_IMPRISON_JUST_DESCRIPTION</zType>
+    <Translation>{CHARACTER-TARGET} заключают в тюрьму по обвинению, которое подданные сочли справедливым.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_IMPRISON_UNJUST_DESCRIPTION</zType>
+    <Translation>{CHARACTER-TARGET} заключают в тюрьму по вопиюще ложным обвинениям. Некоторые обвиняют вас в тирании.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_IMPRISON_ESCAPE_DESCRIPTION</zType>
+    <Translation>{CHARACTER-TARGET} сбегает из-под ареста и теперь находится в бегах!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_IMPRISON_EVENT_DESCRIPTION</zType>
+    <Translation>Попытка {CHARACTER-SUBJECT,1} заключить в тюрьму привела к событию...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_RELEASE_GRATEFUL_DESCRIPTION</zType>
+    <Translation><![CDATA[{CHARACTER-SUBJECT} освобождают из тюрьмы. В благодарность за свободу <masculine_CHARACTER-SUBJECT>он<feminine>она<end> прощает вам прошлые злодеяния.]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_RELEASE_BITTER_DESCRIPTION</zType>
+    <Translation><![CDATA[{CHARACTER-SUBJECT} <masculine_CHARACTER-SUBJECT>освобожден<feminine>освобождена<end> из тюрьмы, но таит обиду за заточение.]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_RELEASE_UNJUST_DESCRIPTION</zType>
+    <Translation><![CDATA[{CHARACTER-SUBJECT} <masculine_CHARACTER-SUBJECT> освобожден<feminine>освобождена<end> из тюрьмы, и открыто жалуется на несправедливое заточение.]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_CAPTURE_SURRENDER_DESCRIPTION</zType>
+    <Translation><![CDATA[Ваши попытки поймать {CHARACTER-SUBJECT} увенчались успехом. <masculine_CHARACTER-SUBJECT>Он сдался<feminine>Она сдалась<end> и находится в плену.]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_CAPTURE_KILLED_DESCRIPTION</zType>
+    <Translation><![CDATA[{CHARACTER-SUBJECT} отказывается сдаться группе, которую вы за <masculine_CHARACTER-SUBJECT>ним<feminine>ней<end> послали, предпочтя смерть плену.]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_CAPTURE_FLEE_DESCRIPTION</zType>
+    <Translation><![CDATA[{CHARACTER-SUBJECT} <masculine_CHARACTER-SUBJECT>ускользнул от ваших следопытов и сбежал<feminine>ускользнула от ваших следопытов и сбежала<end> из страны, прячась где-то вне вашей досягаемости...]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PAY_RANSOM_DESCRIPTION</zType>
+    <Translation><![CDATA[Вы заплатили выкуп за {CHARACTER-SUBJECT} и обеспечили <masculine_CHARACTER-SUBJECT>его<feminine>ее<end> освобождение!]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_MARRY_COURTIER_DESCRIPTION</zType>
+    <Translation>Хорошая новость: {CHARACTER-TARGET} соглашается на ваше предложение руки и сердца. Поздравляем!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_DIVORCE_DESCRIPTION</zType>
+    <Translation>После недолгих уговоров {CHARACTER-TARGET} соглашается на ваше предложение о разводе.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_DIVORCE_EVENT_DESCRIPTION</zType>
+    <Translation>Попытка {CHARACTER-SUBJECT,1} предложить развод привела к событию...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TUTOR_WISDOM_DESCRIPTION</zType>
+    <Translation><![CDATA[{CHARACTER-SUBJECT} обучает {CHARACTER-TARGET}, развивая <masculine_CHARACTER-TARGET>его<feminine>ее<end> link(RATING_WISDOM)!]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TUTOR_CHARISMA_DESCRIPTION</zType>
+    <Translation><![CDATA[{CHARACTER-SUBJECT} обучает {CHARACTER-TARGET}, развивая <masculine_CHARACTER-TARGET>его<feminine>ее<end> link(RATING_CHARISMA)!]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TUTOR_COURAGE_DESCRIPTION</zType>
+    <Translation><![CDATA[{CHARACTER-SUBJECT} обучает {CHARACTER-TARGET}, развивая <masculine_CHARACTER-TARGET>его<feminine>ее<end> link(RATING_COURAGE)!]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TUTOR_DISCIPLINE_DESCRIPTION</zType>
+    <Translation><![CDATA[{CHARACTER-SUBJECT} обучает {CHARACTER-TARGET}, развивая <masculine_CHARACTER-TARGET>его<feminine>ее<end> link(RATING_DISCIPLINE)!]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TUTOR_EVENT_DESCRIPTION</zType>
+    <Translation>Попытка обучения {CHARACTER-SUBJECT,1} привела к событию...</Translation>
+  </Entry>
+  <!--Result Name-->
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_AMBASSADOR</zType>
+    <Translation>link(COUNCIL_AMBASSADOR)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_CHANCELLOR</zType>
+    <Translation>link(COUNCIL_CHANCELLOR)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_SPYMASTER</zType>
+    <Translation>link(COUNCIL_SPYMASTER)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TEAM_ALLIANCE_EVENT</zType>
+    <Translation>link(CONCEPT_ALLIANCE_PLAYER)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TEAM_ALLIANCE_HUMAN_EVENT</zType>
+    <Translation>link(CONCEPT_ALLIANCE_PLAYER)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PLAYER_PEACE_EVENT</zType>
+    <Translation>Заключение мира</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PLAYER_PEACE_OFFER_EVENT</zType>
+    <Translation>Предложение дани за мир</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PLAYER_PEACE_NO_EVENT</zType>
+    <Translation>Просьба о мире</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PLAYER_PEACE_DEMAND_EVENT</zType>
+    <Translation>Требование дани за мир</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PLAYER_PEACE_HUMAN_EVENT</zType>
+    <Translation>Заключение мира</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_EVENT</zType>
+    <Translation>Заключение перемирия</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_OFFER_EVENT</zType>
+    <Translation>Предложение дани за мир</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_NO_EVENT</zType>
+    <Translation>Просьба о мире</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_DEMAND_EVENT</zType>
+    <Translation>Требование дани за мир</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_HUMAN_EVENT</zType>
+    <Translation>Заключение перемирия</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PLAYER_DECLARE_WAR_EVENT</zType>
+    <Translation>Объявление войны</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PLAYER_DECLARE_WAR_HUMAN_EVENT</zType>
+    <Translation>Объявление войны</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PLAYER_BREAK_PEACE_EVENT</zType>
+    <Translation>Нарушение мира</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PLAYER_END_ALLIANCE_EVENT</zType>
+    <Translation>Выход из союза</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PLAYER_CANCEL_TRADE_EVENT</zType>
+    <Translation>Прекращение торговли</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TRIBE_ALLIANCE_EVENT</zType>
+    <Translation>Вступление в союз</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TRIBE_PEACE_EVENT</zType>
+    <Translation>Заключение мира</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TRIBE_TRUCE_EVENT</zType>
+    <Translation>Заключение перемирия</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TRIBE_DECLARE_WAR_EVENT</zType>
+    <Translation>Объявление войны</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TRIBE_BREAK_PEACE_EVENT</zType>
+    <Translation>Нарушение мира</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TRIBE_END_ALLIANCE_EVENT</zType>
+    <Translation>Выход из союза</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_ADOPT_RELIGION_EVENT</zType>
+    <Translation>Принятие религии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PLAYER_MARRIAGE_EVENT</zType>
+    <Translation>Брак с чужеземцем</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TRIBE_MARRIAGE_EVENT</zType>
+    <Translation>Брак с варваром</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_FAMILY_MARRIAGE_EVENT</zType>
+    <Translation>Брак с членом семьи</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_RALLY_TROOPS</zType>
+    <Translation>Войска сплотились</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_RALLY_TROOPS_EVENT</zType>
+    <Translation>Сплочение войск</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_ABDICATE</zType>
+    <Translation>Отрекается от престола</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_INFLUENCE</zType>
+    <Translation>Оказано влияние</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_INFLUENCE_EVENT</zType>
+    <Translation>Влияние</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_ADOPT</zType>
+    <Translation>Религия принята</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_ADOPT_EVENT</zType>
+    <Translation>Принятие религии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_LEGITIMIZE</zType>
+    <Translation>Признание наследника</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_LEGITIMIZE_EVENT</zType>
+    <Translation>Усыновление</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_CHOSEN_HEIR</zType>
+    <Translation>Наследник объявлен</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_CHOSEN_HEIR_EVENT</zType>
+    <Translation>Объявление наследника</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_INFILTRATE_REVEAL</zType>
+    <Translation>Проникновение успешно</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_INFILTRATE_REVEAL_EXPOSED</zType>
+    <Translation>Проникновение успешно, вас разоблачили</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_INFILTRATE_EVENT</zType>
+    <Translation>Проникновение</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_SLANDER_SUCCESS</zType>
+    <Translation>Клевета распространена</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_SLANDER_SUCCESS_EXPOSED</zType>
+    <Translation>Клевета распространена, вас разоблачили</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_SLANDER_EVENT</zType>
+    <Translation>Распространение клеветы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_STEAL_RESEARCH_SUCCESS</zType>
+    <Translation>Исследование украдено</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_STEAL_RESEARCH_SUCCESS_EXPOSED</zType>
+    <Translation>Исследование украдено, вас разоблачили</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_STEAL_RESEARCH_EVENT</zType>
+    <Translation>Кража исследования</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL</zType>
+    <Translation>Цель убита</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL_EXPOSED</zType>
+    <Translation>Цель убита, вас разоблачили</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_ASSASSINATE_FAIL_EXPOSED</zType>
+    <Translation>Цель выжила, заговор раскрыт</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_ASSASSINATE_EVENT</zType>
+    <Translation>Убийство</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TREACHERY_SUCCESS</zType>
+    <Translation>Предательство успешно</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TREACHERY_FAILURE</zType>
+    <Translation>Предательство провалилось</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TREACHERY_EVENT</zType>
+    <Translation>Предательство</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_INSURRECTION_SUCCESS</zType>
+    <Translation>Восстание успешно</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_INSURRECTION_FAILURE</zType>
+    <Translation>Восстание провалилось</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_INSURRECTION_EVENT</zType>
+    <Translation>Восстание</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TRADE_MISSION_EVENT</zType>
+    <Translation>Торговая делегация</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS</zType>
+    <Translation>Семья довольна подарками</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_WEAKEN</zType>
+    <Translation>Дары выявили нашу слабость</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_FAMILY_GIFT_EVENT</zType>
+    <Translation>Передача подарков</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PACIFY_CITY_SUCCESS</zType>
+    <Translation>Мир восстановлен</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PACIFY_CITY_SUCCESS_WEAKEN</zType>
+    <Translation>Принуждение к миру выявляет нашу слабость</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PACIFY_CITY_EVENT</zType>
+    <Translation>Восстановление мира</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_IMPRISON_JUST</zType>
+    <Translation>Цель справедливо link(TRAIT_IMPRISONED,1)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_IMPRISON_UNJUST</zType>
+    <Translation>Цель несправедливо link(TRAIT_IMPRISONED,1)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_IMPRISON_ESCAPE</zType>
+    <Translation>Цель сбегает</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_IMPRISON_EVENT</zType>
+    <Translation>Заключение в тюрьму</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_RELEASE_GRATEFUL</zType>
+    <Translation>Цель благодарна</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_RELEASE_BITTER</zType>
+    <Translation>Цель затаивает обиду</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_RELEASE_UNJUST</zType>
+    <Translation>Освобождение сочли несправедливым</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_CAPTURE_SURRENDER</zType>
+    <Translation>Цель сдается</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_CAPTURE_KILLED</zType>
+    <Translation>Цель убита при сопротивлении</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_CAPTURE_FLEE</zType>
+    <Translation>Цель покидает страну</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PAY_RANSOM</zType>
+    <Translation>Выкуп выплачен</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_MARRY_COURTIER</zType>
+    <Translation>Вступление в брак</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_DIVORCE</zType>
+    <Translation>Развестись с</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_DIVORCE_EVENT</zType>
+    <Translation>Развод</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TUTOR_WISDOM</zType>
+    <Translation>Развить мудрость</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TUTOR_CHARISMA</zType>
+    <Translation>Развить харизму</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TUTOR_COURAGE</zType>
+    <Translation>Развить храбрость</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TUTOR_DISCIPLINE</zType>
+    <Translation>Развить дисциплину</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TUTOR_EVENT</zType>
+    <Translation>Развитие</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_TRIBE_PLAYER_WAR_EVENT</zType>
+    <Translation>Война племени с игроком</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PLAYER_TRIBE_WAR_EVENT</zType>
+    <Translation>Война игрока с племенем</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_PLAYER_PLAYER_WAR_EVENT</zType>
+    <Translation>Война игрока с игроком</Translation>
+  </Entry>
 </Root>
