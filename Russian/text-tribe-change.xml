@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<Root>
+  <!-- NOTE: Proper Name ~ Adjective ~ Indefinite & Adjective ~ Plural -->
+  <Entry>
+    <zType />
+    <English />
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_REBELS</zType>
+    <Translation>Мятежники~Мятежников~Мятежникам~Мятежников~Мятежниками~Мятежниках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_ANARCHY</zType>
+    <Translation>Анархия</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_RAIDERS</zType>
+    <Translation>Разбойники~Разбойников~Разбойникам~Разбойников~Разбойниками~Разбойниках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_BARBARIANS</zType>
+    <Translation>Варвары~Варваров~Варварам~Варваров~Варварами~Варварах~Варварск.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_GAULS</zType>
+    <Translation>Галлы~Галлов~Галлам~Галлов~Галлами~Галлах~Галльск.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_VANDALS</zType>
+    <Translation>Вандалы~Вандалов~Вандалам~Вандалов~Вандалами~Вандалах~Вандальск.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_DANES</zType>
+    <Translation>Даны~Дан~Данам~Дан~Данами~Данах~Датск.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_THRACIANS</zType>
+    <Translation>Фракийцы~Фракийцев~Фракийцам~Фракийцев~Фракийцами~Фракийцах~Фракийск.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_SCYTHIANS</zType>
+    <Translation>Скифы~Скифов~Скифам~Скифов~Скифами~Скифах~Скифск.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_NUMIDIANS</zType>
+    <Translation>Нумидийцы~Нумидийцев~Нумидийцам~Нумидийцев~Нумидийцами~Нумидийцах~Нумидийск.</Translation>
+  </Entry>
+</Root>
