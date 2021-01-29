@@ -1,1326 +1,734 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
-	<!--Name-->
-	<Entry>
-		<zType/>
-		<Translation/>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_BASE</zType>
-		<Translation>Базовые хар-ки</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_CAPITAL</zType>
-		<Translation>Столица</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_SEAT</zType>
-		<Translation>link(CONCEPT_FAMILY_SEAT)</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_CONNECTED</zType>
-		<Translation>Связан со столицей</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_DAMAGED</zType>
-		<Translation>Поврежден</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_HOLY_CITY</zType>
-		<Translation>Священный город</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FRESH_WATER</zType>
-		<Translation>Доступ к пресной воде</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_CITIZEN</zType>
-		<Translation>Житель</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_POPULATION</zType>
-		<Translation>Население~Населения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LUXURY</zType>
-		<Translation>Редкий ресурс</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_AMBITION_CAPITAL</zType>
-		<Translation>Амбиций завершено</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LEGACY_CAPITAL</zType>
-		<Translation>Наследий завершено</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_LANDOWNERS</zType>
-		<Translation>Землевладельцы</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_LANDOWNERS_SEAT</zType>
-		<Translation>Землевладельцы</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_CHAMPIONS</zType>
-		<Translation>Чемпионы</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_CHAMPIONS_SEAT</zType>
-		<Translation>Чемпионы</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_STATESMEN</zType>
-		<Translation>Политики</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_STATESMEN_SEAT</zType>
-		<Translation>Политики</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_STATESMEN_SEAT_DECREE</zType>
-		<Translation>Указ</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_PATRONS</zType>
-		<Translation>Покровители</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_CLERICS</zType>
-		<Translation>Церковники</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_CLERICS_SEAT</zType>
-		<Translation>Церковники</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_SAGES</zType>
-		<Translation>Мудрецы</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_SAGES_SEAT</zType>
-		<Translation>Мудрецы</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_SAGES_SEAT_INQUIRY</zType>
-		<Translation>Научное изыскание</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_TRADERS</zType>
-		<Translation>Торговцы</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_TRADERS_SEAT</zType>
-		<Translation>Торговцы</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_ARTISANS</zType>
-		<Translation>Ремесленники</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_ARTISANS_SEAT</zType>
-		<Translation>Ремесленники</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_RIDERS</zType>
-		<Translation>Наездники</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_RIDERS_SEAT</zType>
-		<Translation>Наездники</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_HUNTERS</zType>
-		<Translation>Охотники</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_HUNTERS_SEAT</zType>
-		<Translation>Охотники</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_HUNTERS_SEAT_HUNT</zType>
-		<Translation>Охота</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_CULTURE_DEVELOPING</zType>
-		<Translation>Развивающийся</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_CULTURE_STRONG</zType>
-		<Translation>Сильный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_CULTURE_LEGENDARY</zType>
-		<Translation>Легендарный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_DIFFICULTY_ABLE</zType>
-		<Translation>Умелый</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_DIFFICULTY_ABLE_CAPITAL</zType>
-		<Translation>Умелый</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_DIFFICULTY_JUST</zType>
-		<Translation>Достойный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_DIFFICULTY_JUST_CAPITAL</zType>
-		<Translation>Достойный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_DIFFICULTY_GOOD</zType>
-		<Translation>Справедливый</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_DIFFICULTY_GOOD_CAPITAL</zType>
-		<Translation>Справедливый</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_DIFFICULTY_STRONG</zType>
-		<Translation>Решительный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_DIFFICULTY_STRONG_CAPITAL</zType>
-		<Translation>Решительный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_DIFFICULTY_NOBLE</zType>
-		<Translation>Храбрый</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_DIFFICULTY_NOBLE_CAPITAL</zType>
-		<Translation>Храбрый</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_DIFFICULTY_GLORIOUS</zType>
-		<Translation>Прославленный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_DIFFICULTY_GLORIOUS_CAPITAL</zType>
-		<Translation>Прославленный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_DIFFICULTY_MAGNIFICENT</zType>
-		<Translation>Великолепный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_DIFFICULTY_MAGNIFICENT_CAPITAL</zType>
-		<Translation>Великолепный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_DIFFICULTY_GREAT</zType>
-		<Translation>Великий</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_DIFFICULTY_GREAT_CAPITAL</zType>
-		<Translation>Великий</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HAMLET</zType>
-		<Translation>Деревня</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_VILLAGE</zType>
-		<Translation>Поселок</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_TOWN</zType>
-		<Translation>Городок</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_BARRACKS</zType>
-		<Translation>Казармы</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_RANGE</zType>
-		<Translation>Стрельбище</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MARKET_1</zType>
-		<Translation>Рынок</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MARKET_2</zType>
-		<Translation>Бакалея</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MARKET_3</zType>
-		<Translation>Ярмарка</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_LIBRARY_1</zType>
-		<Translation>Библиотека</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_LIBRARY_2</zType>
-		<Translation>Академия</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_LIBRARY_3</zType>
-		<Translation>Университет</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_COURTHOUSE_1</zType>
-		<Translation>Здание суда</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_COURTHOUSE_2</zType>
-		<Translation>Министерство</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_COURTHOUSE_3</zType>
-		<Translation>Дворец</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GARRISON_1</zType>
-		<Translation>Гарнизон</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GARRISON_2</zType>
-		<Translation>Крепость</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GARRISON_3</zType>
-		<Translation>Цитадель</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_FIRE</zType>
-		<Translation>Святилище огня</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_UNDERWORLD</zType>
-		<Translation>Святилище подземного мира</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_HEALING</zType>
-		<Translation>Храм исцеления</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_HUNTING</zType>
-		<Translation>Святилище охоты</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zType>
-		<Translation>Адур Бурзен-Михр</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_JUDAISM</zType>
-		<Translation>Храм Соломона</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_CHRISTIANITY</zType>
-		<Translation>Храм Гроба Господня</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_MANICHAEISM</zType>
-		<Translation>Цаоань</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GREAT_ZIGGURAT</zType>
-		<Translation>Великий Зиккурат</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GREAT_ZIGGURAT_ALL</zType>
-		<Translation>Великий Зиккурат</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_ORACLE</zType>
-		<Translation>Оракул</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HANGING_GARDENS_ALL</zType>
-		<Translation>Висячие сады</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_NECROPOLIS</zType>
-		<Translation>Некрополь</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_NECROPOLIS_ALL</zType>
-		<Translation>Некрополь</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_ISHTAR_GATE</zType>
-		<Translation>Ворота Иштара</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_LIGHTHOUSE</zType>
-		<Translation>Фаросский Маяк</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_LIGHTHOUSE_COAST</zType>
-		<Translation>Фаросский Маяк</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_APADANA_STATE</zType>
-		<Translation>Ападана</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MAUSOLEUM_ALL</zType>
-		<Translation>Галикарнасский Мавзолей</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_ACROPOLIS</zType>
-		<Translation>Афинский Акрополь</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_ACROPOLIS_ALL</zType>
-		<Translation>Афинский Акрополь</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_COLOSSUS</zType>
-		<Translation>Колосс</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_COLOSSUS_ALL</zType>
-		<Translation>Колосс</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MUSAEUM</zType>
-		<Translation>Александрийская библиотека</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MUSAEUM_ALL</zType>
-		<Translation>Александрийская библиотека</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_CIRCUS_MAXIMUS_ALL</zType>
-		<Translation>Большой цирк</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_PANTHEON</zType>
-		<Translation>Пантеон</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_PANTHEON_STATE</zType>
-		<Translation>Пантеон</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HAGIA_SOPHIA_ALL</zType>
-		<Translation>Собор Святой Софии</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GRAND_BAZAAR_ALL</zType>
-		<Translation>Гранд-Базар</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_ODEON</zType>
-		<Translation>Театры</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MARKET</zType>
-		<Translation>Рынки</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_LIBRARY</zType>
-		<Translation>Библиотеки</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_COURTHOUSE</zType>
-		<Translation>Здания суда</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_HOLY_SITE</zType>
-		<Translation>Священный город</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MONASTERY_MYTHOLOGY</zType>
-		<Translation>Монастырь Мифологии</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MONASTERY_VENERATION</zType>
-		<Translation>Монастырь Почитания</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MONASTERY_LEGALISM</zType>
-		<Translation>Монастырь Законничества</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_TEMPLE</zType>
-		<Translation>Храм</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_TEMPLE_REVELATION</zType>
-		<Translation>Храм Откровения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_TEMPLE_GNOSTICISM</zType>
-		<Translation>Храм Гностицизма</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL</zType>
-		<Translation>Собор</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL_REDEMPTION</zType>
-		<Translation>Собор Искупления</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL_DUALISM</zType>
-		<Translation>Собор Дуализма</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL_ENLIGHTENMENT</zType>
-		<Translation>Собор Просвещения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_SLAVERY</zType>
-		<Translation>Рабство</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_FREEDOM</zType>
-		<Translation>Свобода</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_CENTRALIZATION</zType>
-		<Translation>Централизация</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_TYRANNY</zType>
-		<Translation>Тирания</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_SERFDOM</zType>
-		<Translation>Крепостное право</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_MONOTHEISM</zType>
-		<Translation>Монотеизм</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_POLYTHEISM</zType>
-		<Translation>Политеизм</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_PROFESSIONAL_ARMY</zType>
-		<Translation>Профессиональная армия</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_VOLUNTEERS</zType>
-		<Translation>Добровольная служба</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_TOLERANCE</zType>
-		<Translation>Толерантность</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_ORTHODOXY</zType>
-		<Translation>Православие</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_GUILDS</zType>
-		<Translation>Гильдии</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_ELITES</zType>
-		<Translation>Знать</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_PHILOSOPHY</zType>
-		<Translation>Философия</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_ICONOGRAPHY</zType>
-		<Translation>Иконография</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_CALLIGRAPHY</zType>
-		<Translation>Каллиграфия</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_ASCETICISM</zType>
-		<Translation>Аскетизм</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_HOLY_WAR</zType>
-		<Translation>Священная война</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_DIVINE_RULE</zType>
-		<Translation>Божественное происхождение власти</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_SECULARISM</zType>
-		<Translation>Секуляризм</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_ISOLATIONISM</zType>
-		<Translation>Изоляционализм</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_COIN_DEBASEMENT</zType>
-		<Translation>Порча монет</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_MONETARY_REFORM</zType>
-		<Translation>Денежная реформа</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_NATION_ASSYRIA</zType>
-		<Translation>Ассирия</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_NATION_BABYLONIA</zType>
-		<Translation>Вавилония</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_NATION_CARTHAGE</zType>
-		<Translation>Карфаген</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_NATION_EGYPT</zType>
-		<Translation>Египет</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_NATION_GREECE</zType>
-		<Translation>Греция</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_NATION_ROME</zType>
-		<Translation>Рим</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_NATION_PERSIA</zType>
-		<Translation>Персия</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_FURIOUS</zType>
-		<Translation>Ярость семьи</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_ANGRY</zType>
-		<Translation>Злость семьи</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_UPSET</zType>
-		<Translation>Огорчение семьи</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_PLEASED</zType>
-		<Translation>Симпатия семьи</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_FRIENDLY</zType>
-		<Translation>Дружелюбие семьи</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_FURIOUS</zType>
-		<Translation>Ярость представителей религии</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_ANGRY</zType>
-		<Translation>Злость представителей религии</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_UPSET</zType>
-		<Translation>Огорчение представителей религии</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_PLEASED</zType>
-		<Translation>Симпатия представителей религии</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_FRIENDLY</zType>
-		<Translation>Дружелюбие представителей религии</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_MONARCH</zType>
-		<Translation>Монарх</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_GOVERNOR</zType>
-		<Translation>Губернатор</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_WALLS</zType>
-		<Translation>Стены</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_MOAT</zType>
-		<Translation>Ров</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_TOWERS</zType>
-		<Translation>Башни</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_TREASURY</zType>
-		<Translation>Казначейство</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_TREASURY_1</zType>
-		<Translation>Казначейство I</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_TREASURY_2</zType>
-		<Translation>Казначейство II</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_TREASURY_3</zType>
-		<Translation>Казначейство III</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_TREASURY_4</zType>
-		<Translation>Казначейство IV</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_FORUM</zType>
-		<Translation>Форум</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_FORUM_1</zType>
-		<Translation>Форум I</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_FORUM_2</zType>
-		<Translation>Форум II</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_FORUM_3</zType>
-		<Translation>Форум III</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_FORUM_4</zType>
-		<Translation>Форум IV</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_ARCHIVE</zType>
-		<Translation>Архив</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_ARCHIVE_1</zType>
-		<Translation>Архив I</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_ARCHIVE_2</zType>
-		<Translation>Архив II</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_ARCHIVE_3</zType>
-		<Translation>Архив III</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_ARCHIVE_4</zType>
-		<Translation>Архив IV</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_FESTIVAL</zType>
-		<Translation>Фестиваль</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_INQUIRY</zType>
-		<Translation>Научное изыскание</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_HUNT</zType>
-		<Translation>Охота</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_OLYMPICS</zType>
-		<Translation>Олимпиада</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_CONVOY</zType>
-		<Translation>Караван</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_SWORD_CULT</zType>
-		<Translation>Культ Меча</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_SWORD_CULT_TITHE</zType>
-		<Translation>Десятина культа Меча</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_HOSTILE_GARRISON</zType>
-		<Translation>Вражеский гарнизон</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_PUBLIC_MURAL</zType>
-		<Translation>Народная фреска</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_TRIUMPH</zType>
-		<Translation>Триумф</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_PURPLE_DYE</zType>
-		<Translation>Пурпурная краска</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_PROPAGANDA</zType>
-		<Translation>Пропаганда</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_CHILD_LABOR</zType>
-		<Translation>Детский труд</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_CORRUPTION_REFORM</zType>
-		<Translation>Коррупционная реформа</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_ROYAL_INSCRIPTIONS</zType>
-		<Translation>Королевские писания</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_IMPERIAL_NECROPOLIS</zType>
-		<Translation>Императорский Некрополь</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_FORCED_DEPORTATIONS</zType>
-		<Translation>Принудительная депортация</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_GLADIATORS</zType>
-		<Translation>Гладиаторы</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_PLAYS</zType>
-		<Translation>Драматические пьесы</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_MERCHANT_TOWN</zType>
-		<Translation>Торговый городок</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_OUTBREAK</zType>
-		<Translation>Мятеж</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_LUXURIOUS_DELIGHTS</zType>
-		<Translation>Роскошные удовольствия</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_MIDWIFERY</zType>
-		<Translation>Акушерство</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_TRADE_PERSIA</zType>
-		<Translation>Торговля с Персией</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_FEAST_PERSIA</zType>
-		<Translation>Провести Ежегодный праздник для персидских гостей</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_TRADE_ROME</zType>
-		<Translation>Торговля с Римом</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_TRADE_BABYLONIA</zType>
-		<Translation>Торговля с Вавилонией</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_TRADE_CARTHAGE</zType>
-		<Translation>Торговля с Карфагеном</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_ADVANCED_TRADE_CARTHAGE</zType>
-		<Translation>Развитая торговля с Карфагеном</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_INTERNATIONAL_TRADE</zType>
-		<Translation>Соглашение о международной торговле</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_MISTHOPHORIA</zType>
-		<Translation>Мистофория</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_GRAIN_DOLE</zType>
-		<Translation>Зерновая доля</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_FOREIGN_FIGHTERS</zType>
-		<Translation>Чужеземные воины</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_WAR_COUNCIL</zType>
-		<Translation>Военный Совет</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_SEWER_SYSTEM</zType>
-		<Translation>Канализация</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_CASE_HARDENING</zType>
-		<Translation>Цементирование</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_TURPAN_WELLS</zType>
-		<Translation>Турфанские скважины</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_NATIONAL_HOLIDAY</zType>
-		<Translation>Национальный праздник</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_SCIENTIFIC_METHOD</zType>
-		<Translation>Научный метод</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_PROTECTION_EDICTS</zType>
-		<Translation>Эдикты о защите</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_HORREUM</zType>
-		<Translation>Склад Хорреум</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_AVESTA_TREASURY</zType>
-		<Translation>Казначейство Авеста</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_DISEASED_SETTLERS</zType>
-		<Translation>Больные граждане</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_TERRACE_LOVE_SHRINE</zType>
-		<Translation>Зиккурат Любви</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_TERRACE_WISDOM_SHRINE</zType>
-		<Translation>Зиккурат Мудрости</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_TERRACE_WAR_SHRINE</zType>
-		<Translation>Зиккурата Войны</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_CONSULAR_TRIBUNES</zType>
-		<Translation>Консульские трибуны</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_CONFUCIANISM</zType>
-		<Translation>Конфуцианство</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_SALT_PRODUCTION</zType>
-		<Translation>Производство соли</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_AUTONOMOUS_RULE</zType>
-		<Translation>Автономия</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_MONUMENTAL_GATE</zType>
-		<Translation>Монументальные ворота</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RELIGION_JUDAISM</zType>
-		<Translation>Иудаизм</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RELIGION_JUDAISM_STATE</zType>
-		<Translation>Иудаизм</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RELIGION_ZOROASTRIANISM</zType>
-		<Translation>Зороастризм</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RELIGION_ZOROASTRIANISM_STATE</zType>
-		<Translation>Зороастризм</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RELIGION_CHRISTIANITY</zType>
-		<Translation>Христианство</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RELIGION_CHRISTIANITY_STATE</zType>
-		<Translation>Христианство</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RELIGION_MANICHAEISM</zType>
-		<Translation>Манихеизм</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RELIGION_MANICHAEISM_STATE</zType>
-		<Translation>Манихеизм</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RESOURCE_ORE</zType>
-		<Translation>Руда</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RESOURCE_SALT</zType>
-		<Translation>Соль</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RESOURCE_GEM</zType>
-		<Translation>Драгоценные камни</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RESOURCE_HORSE</zType>
-		<Translation>Лошади</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RESOURCE_CAMEL</zType>
-		<Translation>Верблюды</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RESOURCE_ELEPHANT</zType>
-		<Translation>Слоны</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RESOURCE_FUR</zType>
-		<Translation>Меха</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RESOURCE_INCENSE</zType>
-		<Translation>Пряности</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RESOURCE_WINE</zType>
-		<Translation>Вино</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RESOURCE_OLIVE</zType>
-		<Translation>Оливки</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RESOURCE_DYE</zType>
-		<Translation>Красители</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RESOURCE_PEARL</zType>
-		<Translation>Жемчуг</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RESOURCE_SCROLLS</zType>
-		<Translation>Свитки</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_RESOURCE_FOOD_STAPLE</zType>
-		<Translation>Продовольственное сырье</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_FARMER</zType>
-		<Translation>Фермер</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_WOODCUTTER</zType>
-		<Translation>Лесоруб</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_STONECUTTER</zType>
-		<Translation>Камнерез</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_MINER</zType>
-		<Translation>Рудокоп</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_DOCTOR_1</zType>
-		<Translation>Младший целитель</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_DOCTOR_2</zType>
-		<Translation>Целитель</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_DOCTOR_3</zType>
-		<Translation>Старший целитель</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_ACOLYTE_1</zType>
-		<Translation>Младший прислужник</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_ACOLYTE_2</zType>
-		<Translation>Прислужник</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_ACOLYTE_3</zType>
-		<Translation>Старший прислужник</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_MONK_1</zType>
-		<Translation>Младший монах</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_MONK_2</zType>
-		<Translation>Монах</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_MONK_3</zType>
-		<Translation>Старший монах</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_PRIEST_1</zType>
-		<Translation>Младший священник</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_PRIEST_2</zType>
-		<Translation>Священник</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_PRIEST_3</zType>
-		<Translation>Старший священник</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_BISHOP_1</zType>
-		<Translation>Младший епископ</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_BISHOP_2</zType>
-		<Translation>Епископ</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_BISHOP_3</zType>
-		<Translation>Старший епископ</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_POET_1</zType>
-		<Translation>Младший поэт</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_POET_2</zType>
-		<Translation>Поэт</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_POET_3</zType>
-		<Translation>Старший поэт</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_SHOPKEEPER_1</zType>
-		<Translation>Младший торговец</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_SHOPKEEPER_2</zType>
-		<Translation>Торговец</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_SHOPKEEPER_3</zType>
-		<Translation>Старший торговец</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_PHILOSOPHER_1</zType>
-		<Translation>Младший философ</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_PHILOSOPHER_2</zType>
-		<Translation>Философ</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_PHILOSOPHER_3</zType>
-		<Translation>Старший философ</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_SCRIBE_1</zType>
-		<Translation>Младший писарь</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_SCRIBE_2</zType>
-		<Translation>Писарь</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_SCRIBE_3</zType>
-		<Translation>Старший писарь</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_OFFICER_1</zType>
-		<Translation>Младший офицер</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_OFFICER_2</zType>
-		<Translation>Офицер</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_OFFICER_3</zType>
-		<Translation>Старший офицер</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_RURAL</zType>
-		<Translation>Сельский специалист</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_APPRENTICE</zType>
-		<Translation>Младший специалист</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_MASTER</zType>
-		<Translation>Специалист</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SPECIALIST_ELDER</zType>
-		<Translation>Старший специалист</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_JUDGE_ARCHETYPE_ALL</zType>
-		<Translation>Правитель Оратор</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_ORATOR_ARCHETYPE_ALL</zType>
-		<Translation>Правитель Судья</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_BUILDER_ARCHETYPE_ALL</zType>
-		<Translation>Правитель Строитель</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_COMMANDER_ARCHETYPE_ALL</zType>
-		<Translation>Правитель Командир</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_ZEALOT_ARCHETYPE_STATE</zType>
-		<Translation>Правитель Фанатик</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_ROBUST</zType>
-		<Translation>Сильный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_VIGILANT</zType>
-		<Translation>Бдительный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_STRICT</zType>
-		<Translation>Строгий</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_DRILLMASTER</zType>
-		<Translation>Вояка</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_KEEN</zType>
-		<Translation>Проницательный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_EQUESTRIAN</zType>
-		<Translation>Всадник</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_AFFABLE</zType>
-		<Translation>Вежливый</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_WARLIKE</zType>
-		<Translation>Воинственный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_ELOQUENT</zType>
-		<Translation>Красноречивый</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_INSPIRING</zType>
-		<Translation>Вдохновляющий</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_INTELLIGENT</zType>
-		<Translation>Умный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_PROSPEROUS</zType>
-		<Translation>Успешный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_FRUGAL</zType>
-		<Translation>Скромный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_RIGHTEOUS</zType>
-		<Translation>Справедливый</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_CRUEL</zType>
-		<Translation>Жестокий</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_CARELESS</zType>
-		<Translation>Беспечный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_SLOTHFUL</zType>
-		<Translation>Ленивый</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_UNCOUTH</zType>
-		<Translation>Грубый</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_FOOLISH</zType>
-		<Translation>Глупый</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_EXTRAVAGANT</zType>
-		<Translation>Экстравагантный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_CORRUPT</zType>
-		<Translation>Продажный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_DEBAUCHED</zType>
-		<Translation>Скандальный</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_ANGLER</zType>
-		<Translation>Моряк</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_PLANTER</zType>
-		<Translation>Фермер</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_FORESTER</zType>
-		<Translation>Лесник</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_DELVER</zType>
-		<Translation>Поставщик</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_SMELTER</zType>
-		<Translation>Плавильщик</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_HERDER</zType>
-		<Translation>Пастух</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_DEALMAKER</zType>
-		<Translation>Делец</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_MISERABLE</zType>
-		<Translation>Жалкий</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_MOURNING</zType>
-		<Translation>Скорбящий</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_SOLDIER</zType>
-		<Translation>Солдат</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_FAMOUNS</zType>
-		<Translation>Знаменитый</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_ENEMY_OF_THE_STATE</zType>
-		<Translation>Враг государства</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_UNIT_CARAVAN</zType>
-		<Translation>Караван</Translation>
-	</Entry>
-	<!--Source-->
-	<Entry>
-		<zType>TEXT_EFFECTCITY_SEAT_SOURCE</zType>
-		<Translation>Родовое гнездо</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_CAPITAL_SOURCE</zType>
-		<Translation>Столица</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_STATE_RELIGION_SOURCE</zType>
-		<Translation>Государственная религия</Translation>
-	</Entry>
+  <Entry>
+    <zType />
+    <English />
+  </Entry>
+  <!--Source-->
+  <Entry>
+    <zType>TEXT_EFFECTCITY_SEAT_SOURCE</zType>
+    <Translation>Родовое гнездо</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CAPITAL_SOURCE</zType>
+    <Translation>Столица~Столицы~Столице~Столицу~Столицей~Столице</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_STATE_RELIGION_SOURCE</zType>
+    <Translation>Государственная религия</Translation>
+  </Entry>
+  <!--Name-->
+  <Entry>
+    <zType>TEXT_EFFECTCITY_BASE</zType>
+    <Translation>Базовые хар-ки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CAPITAL</zType>
+    <Translation>Столица~Столицы~Столице~Столицу~Столицей~Столице</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_FAMILY_SEAT</zType>
+    <Translation>link(CONCEPT_FAMILY_SEAT)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CONNECTED</zType>
+    <Translation>Связан со столицей~связанный со столицей~связанных со столицей</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DAMAGED</zType>
+    <Translation>Поврежден</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_HOLY_CITY</zType>
+    <Translation>Священный город</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CITIZEN</zType>
+    <Translation>Житель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_POPULATION</zType>
+    <Translation>Население~Населения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY</zType>
+    <Translation>Редкий ресурс</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_LANDOWNERS_HONEY</zType>
+    <Translation>Мед землевладельцев</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_CHAMPIONS_WINE	</zType>
+    <Translation>Вино воителей</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_STATESMEN_PEARL</zType>
+    <Translation>Жемчуг политиков</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_PATRONS_GEM</zType>
+    <Translation>Драгоценности меценатов</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_CLERICS_INCENSE</zType>
+    <Translation>Благовония жрецов</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_SAGES_LAVENDER</zType>
+    <Translation>Лаванда мудрецов</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_TRADERS_OLIVE</zType>
+    <Translation>Оливки торговцев</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_ARTISANS_DYE</zType>
+    <Translation>Красители ремесленников</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_RIDERS_SALT</zType>
+    <Translation>Соль наездников</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_HUNTERS_FUR</zType>
+    <Translation>Меха охотников</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_FAMILYCLASS_STATESMEN_SEAT_DECREE</zType>
+    <Translation>Распорядители~Распорядителей~Распорядителей~Распорядителей</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_FAMILYCLASS_SAGES_SEAT_INQUIRY</zType>
+    <Translation>Изыскатели~Изыскателей~Изыскателей~Изыскателей</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_FAMILYCLASS_HUNTERS_SEAT_HUNT</zType>
+    <Translation>Охотники~Охотников~Охотников~Охотников</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_AMBITION_CAPITAL</zType>
+    <Translation>link(CONCEPT_AMBITION,7) завершено</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LEGACY_CAPITAL</zType>
+    <Translation>Наследий завершено</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CULTURE_DEVELOPING</zType>
+    <Translation>Растущий город~Растущих городов~Растущие~Растущие города~Растущего</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CULTURE_STRONG</zType>
+    <Translation>Высокий город~Высоких городов~Высокое~Высокие города~Высокой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CULTURE_LEGENDARY</zType>
+    <Translation>Легендарный город~Легендарных городов~Легендарные~Легендарные города~Легендарной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DIFFICULTY_ABLE</zType>
+    <Translation>Умелый</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DIFFICULTY_ABLE_CAPITAL</zType>
+    <Translation>Умелый</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DIFFICULTY_JUST</zType>
+    <Translation>Достойный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DIFFICULTY_JUST_CAPITAL</zType>
+    <Translation>Достойный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DIFFICULTY_GOOD</zType>
+    <Translation>Справедливый</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DIFFICULTY_GOOD_CAPITAL</zType>
+    <Translation>Справедливый</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DIFFICULTY_STRONG</zType>
+    <Translation>Решительный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DIFFICULTY_STRONG_CAPITAL</zType>
+    <Translation>Решительный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DIFFICULTY_NOBLE</zType>
+    <Translation>Храбрый</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DIFFICULTY_NOBLE_CAPITAL</zType>
+    <Translation>Храбрый</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DIFFICULTY_GLORIOUS</zType>
+    <Translation>Прославленный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DIFFICULTY_GLORIOUS_CAPITAL</zType>
+    <Translation>Прославленный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DIFFICULTY_MAGNIFICENT</zType>
+    <Translation>Великолепный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DIFFICULTY_MAGNIFICENT_CAPITAL</zType>
+    <Translation>Великолепный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DIFFICULTY_GREAT</zType>
+    <Translation>Великий</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DIFFICULTY_GREAT_CAPITAL</zType>
+    <Translation>Великий</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_FIRE</zType>
+    <Translation>Святилище огня</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_UNDERWORLD</zType>
+    <Translation>Святилище подземного мира</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_HUNTING</zType>
+    <Translation>Святилище охоты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MONASTERY_MYTHOLOGY</zType>
+    <Translation>Монастырь мифологии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MONASTERY_VENERATION</zType>
+    <Translation>Монастырь почитания</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MONASTERY_LEGALISM</zType>
+    <Translation>Монастырь законничества</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_TEMPLE_REVELATION</zType>
+    <Translation>Храм откровения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_TEMPLE_GNOSTICISM</zType>
+    <Translation>Храм гностицизма</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL_REDEMPTION</zType>
+    <Translation>Собор искупления</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL_DUALISM</zType>
+    <Translation>Собор дуализма</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL_ENLIGHTENMENT</zType>
+    <Translation>Собор просветления</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_SLAVERY</zType>
+    <Translation>Рабство~Рабства~Рабству~Рабство~Рабством~Рабстве</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_FREEDOM</zType>
+    <Translation>Свобода~Свободы~Свободе~Свободу~Свободой~Свободе</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_TYRANNY</zType>
+    <Translation>Тирания~Тирании~Тирании~Тиранию~Тиранией~Тирании</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_CENTRALIZATION</zType>
+    <Translation>Централизация~Централизации~Централизации~Централизацию~Централизацией~Централизации</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_SERFDOM</zType>
+    <Translation>Закрепощение~Закрепощения~Закрепощению~Закрепощение~Закрепощением~Закрепощении</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_MONOTHEISM</zType>
+    <Translation>Единобожие~Единобожия~Единобожию~Единобожие~Единобожием~Единобожии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_POLYTHEISM</zType>
+    <Translation>Многобожие~Многобожия~Многобожию~Многобожие~Многобожием~Многобожии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_LEGAL_CODE</zType>
+    <Translation>Свод законов~Свода законов~Своду законов~Свод законов~Сводом законов~Своде законов</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_TOLERANCE</zType>
+    <Translation>Терпимость~Терпимости~Терпимости~Терпимость~Терпимостью~Терпимости</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_ORTHODOXY</zType>
+    <Translation>Догматизм~Догматизма~Догматизму~Догматизм~Догматизмом~Догматизме</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_PROFESSIONAL_ARMY</zType>
+    <Translation>Профессиональная армия~Профессиональной армии~Профессиональную армию~Профессиональную армию~Профессиональной армией~Профессиональной армии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_VOLUNTEERS</zType>
+    <Translation>Добровольная служба~Добровольной службы~Добровольной службе~Добровольную службу~Добровольной службой~Добровольной службе</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_PHILOSOPHY</zType>
+    <Translation>Философия~Философии~Философии~Философию~Философией~Философии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_ENGINEERING</zType>
+    <Translation>Инженерное дело~Инженерного дела~Инженерному делу~Инженерное дело~Инженерном делом~Инженерном деле</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_ICONOGRAPHY</zType>
+    <Translation>Иконография~Иконографии~Иконографии~Иконографию~Иконографией~Иконографии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_CALLIGRAPHY</zType>
+    <Translation>Каллиграфия~Каллиграфии~Каллиграфии~Каллиграфию~Каллиграфией~Каллиграфии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_PILGRIMAGE</zType>
+    <Translation>Паломничество~Паломничества~Паломничеству~Паломничество~Паломничеством~Паломничестве</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_HOLY_WAR</zType>
+    <Translation>Священная война~Священной войны~Священной войне~Священную войну~Священной войной~Священной войне</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_GUILDS</zType>
+    <Translation>Гильдии~Гильдий~Гильдиям~Гильдии~Гильдиями~Гильдиях</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_ELITES</zType>
+    <Translation>Знать~Знати~Знати~Знать~Знатью~Знати</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_ISOLATIONISM</zType>
+    <Translation>Изоляционизм~Изоляционизма~Изоляционизму~Изоляционизм~Изоляционизмом~Изоляционизме</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_COIN_DEBASEMENT</zType>
+    <Translation>Порча монет~Порчи монет~Порче монет~Порчу монет~Порчей монет~Порче монет</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LAW_MONETARY_REFORM</zType>
+    <Translation>Денежная реформа~Денежной реформы~Денежной реформе~Денежную реформу~Денежной реформой~Денежной реформе</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_NATION_ASSYRIA</zType>
+    <Translation>Ассирия</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_NATION_BABYLONIA</zType>
+    <Translation>Вавилония</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_NATION_CARTHAGE</zType>
+    <Translation>Карфаген</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_NATION_EGYPT</zType>
+    <Translation>Египет</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_NATION_GREECE</zType>
+    <Translation>Греция</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_NATION_ROME</zType>
+    <Translation>Рим</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_NATION_PERSIA</zType>
+    <Translation>Персия</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_OPINIONFAMILY_FURIOUS</zType>
+    <Translation>Ярость семьи</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_OPINIONFAMILY_ANGRY</zType>
+    <Translation>Гнев семьи</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_OPINIONFAMILY_UPSET</zType>
+    <Translation>Возмущение семьи</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_OPINIONFAMILY_PLEASED</zType>
+    <Translation>Симпатия семьи</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_OPINIONFAMILY_FRIENDLY</zType>
+    <Translation>Дружелюбие семьи</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_OPINIONRELIGION_FURIOUS</zType>
+    <Translation>Ярость представителей религии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_OPINIONRELIGION_ANGRY</zType>
+    <Translation>Гнев представителей религии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_OPINIONRELIGION_UPSET</zType>
+    <Translation>Возмущение представителей религии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_OPINIONRELIGION_PLEASED</zType>
+    <Translation>Симпатия представителей религии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_OPINIONRELIGION_FRIENDLY</zType>
+    <Translation>Дружелюбие представителей религии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_PROJECT_TREASURY</zType>
+    <Translation>Казначейство</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_PROJECT_FORUM</zType>
+    <Translation>Форум</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_PROJECT_ARCHIVE</zType>
+    <Translation>Архив</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_MARBLE</zType>
+    <Translation>Мрамор</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_ORE</zType>
+    <Translation>Руда</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_SALT</zType>
+    <Translation>Соль</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_SALT_LUXURY</zType>
+    <Translation>Особая соль</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_GEM</zType>
+    <Translation>Драгоценные камни</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_GEM_LUXURY</zType>
+    <Translation>Особые драгоценные камни</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_GOLD</zType>
+    <Translation>Золото</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_SILVER</zType>
+    <Translation>Серебро</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_HORSE</zType>
+    <Translation>Лошади</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_CATTLE</zType>
+    <Translation>Скот</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_SHEEP</zType>
+    <Translation>Овцы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_PIG</zType>
+    <Translation>Свиньи</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_GOAT</zType>
+    <Translation>Козы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_WHEAT</zType>
+    <Translation>Пшеница</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_BARLEY</zType>
+    <Translation>Ячмень</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_SORGHUM</zType>
+    <Translation>Сорго</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_CAMEL</zType>
+    <Translation>Верблюды</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_ELEPHANT</zType>
+    <Translation>Слоны</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_GAME</zType>
+    <Translation>Дичь</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_FUR</zType>
+    <Translation>Меха</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_FUR_LUXURY</zType>
+    <Translation>Особые меха</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_CITRUS</zType>
+    <Translation>Цитрусовые</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_HONEY</zType>
+    <Translation>Мед</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_HONEY_LUXURY</zType>
+    <Translation>Особый мед</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_INCENSE</zType>
+    <Translation>Пряности</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_INCENSE_LUXURY</zType>
+    <Translation>Особые пряности</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_LAVENDER</zType>
+    <Translation>Лаванда</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_LAVENDER_LUXURY</zType>
+    <Translation>Особая лаванда</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_WINE</zType>
+    <Translation>Вино</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_WINE_LUXURY</zType>
+    <Translation>Особое вино</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_OLIVE</zType>
+    <Translation>Оливки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_OLIVE_LUXURY</zType>
+    <Translation>Особые оливки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_DYE</zType>
+    <Translation>Красители</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_DYE_LUXURY</zType>
+    <Translation>Особые красители</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_PEARL</zType>
+    <Translation>Жемчуг</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_PEARL_LUXURY</zType>
+    <Translation>Особый жемчуг</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_FISH</zType>
+    <Translation>Рыба</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_CRAB</zType>
+    <Translation>Крабы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_SCROLLS</zType>
+    <Translation>Свитки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_GRAIN</zType>
+    <Translation>Зерно</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_SPECIALIST_RURAL</zType>
+    <Translation>Сельский специалист</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_SPECIALIST_APPRENTICE</zType>
+    <Translation>Младший специалист</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_SPECIALIST_MASTER</zType>
+    <Translation>Специалист</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_SPECIALIST_ELDER</zType>
+    <Translation>Старший специалист</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_JUDGE_ARCHETYPE_ALL</zType>
+    <Translation>Правитель-оратор</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_ORATOR_ARCHETYPE_ALL</zType>
+    <Translation>Правитель-судья</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_BUILDER_ARCHETYPE_ALL</zType>
+    <Translation>Правитель-зодчий</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_COMMANDER_ARCHETYPE_ALL</zType>
+    <Translation>Правитель-военачальник</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_ZEALOT_ARCHETYPE_ALL</zType>
+    <Translation>Фанатичный правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_ZEALOT_ARCHETYPE_STATE</zType>
+    <Translation>Фанатичный правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_AFFABLE_ALL</zType>
+    <Translation>Учтивый правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_ELOQUENT_ALL</zType>
+    <Translation>Красноречивый правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_WARLIKE_ALL</zType>
+    <Translation>Воинственный правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_INSPIRING_ALL</zType>
+    <Translation>Вдохновенный правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_INTELLIGENT_ALL</zType>
+    <Translation>Умный правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_PROSPEROUS_ALL</zType>
+    <Translation>Удачливый правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_FRUGAL_ALL</zType>
+    <Translation>Скаредный правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_RIGHTEOUS_ALL</zType>
+    <Translation>Праведный правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_CRUEL_ALL</zType>
+    <Translation>Жестокий правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_INTOLERANT_ALL</zType>
+    <Translation>Нетерпимый правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_SLOTHFUL_ALL</zType>
+    <Translation>Ленивый правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_UNCOUTH_ALL</zType>
+    <Translation>Продажный правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_FOOLISH_ALL</zType>
+    <Translation>Грубый правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_EXTRAVAGANT_ALL</zType>
+    <Translation>Глупый правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_CORRUPT_ALL</zType>
+    <Translation>Сумасбродный правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_DEBAUCHED_ALL</zType>
+    <Translation>Распутный правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_ROBUST</zType>
+    <Translation>Сильный правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_VIGILANT</zType>
+    <Translation>Бдительный правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_STRICT</zType>
+    <Translation>Строгий правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_DRILLMASTER</zType>
+    <Translation>Правитель-вояка</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_KEEN</zType>
+    <Translation>Проницательный правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_EQUESTRIAN</zType>
+    <Translation>Правитель-всадник</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_CARPENTER</zType>
+    <Translation>Правитель-плотник</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_ANGLER</zType>
+    <Translation>Правитель-рыболов</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_PLANTER</zType>
+    <Translation>Правитель-сеятель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_FORESTER</zType>
+    <Translation>Правитель-лесник</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_DELVER</zType>
+    <Translation>Правитель-добытчик</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_SMELTER</zType>
+    <Translation>Правитель-плавильщик</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_HERDER</zType>
+    <Translation>Правитель-пастух</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_ASCETIC</zType>
+    <Translation>Аскет</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_PRIEST</zType>
+    <Translation>Священник</Translation>
+  </Entry>
 </Root>
