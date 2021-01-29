@@ -1,149 +1,117 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
 <Root>
-	<!-- Barbarian -->
-	<Entry>
-		<zType/>
-		<Translation/>
-	</Entry>
-	<Entry>
-		<zType>TEXT_BARBARIAN_PLURAL</zType>
-		<Translation>{0,0}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_BARBARIAN_SINGULAR</zType>
-		<Translation>{0,1}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_BARBARIAN_ADJECTIVE</zType>
-		<Translation>{0,2}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_BARBARIAN_SITE</zType>
-		<Translation>{0,2_BarbarianAdjective} Site</Translation>
-	</Entry>
-	<!-- Nation -->
-	<Entry>
-		<zType>TEXT_NATION_NAME</zType>
-		<Translation>{0,0}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_NATION_SINGULAR</zType>
-		<Translation>{0,1}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_NATION_PLURAL</zType>
-		<Translation>{0,2}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_NATION_ADJECTIVE</zType>
-		<Translation>{0,3}</Translation>
-	</Entry>
-	<!-- Family -->
-	<Entry>
-		<zType>TEXT_FAMILY_SINGULAR</zType>
-		<Translation>{0,0}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_FAMILY_PLURAL</zType>
-		<Translation>{0,1}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_FAMILY_ADJECTIVE</zType>
-		<Translation>{0,2}</Translation>
-	</Entry>
-	<!-- Player -->
-	<Entry>
-		<zType>TEXT_PLAYER_NUMBER</zType>
-		<Translation>Игрок {0_number}</Translation>
-	</Entry>
-	<!-- HotKeys -->
-	<Entry>
-		<zType>TEXT_HOTKEY_PLUS_SPACE_TWO</zType>
-		<Translation>{0_key} + {1_key}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HOTKEY_PLUS_TWO</zType>
-		<Translation>{0_key}+{1_key}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HOTKEY_RIGHT_CLICK</zType>
-		<Translation>[RIGHT-CLICK]</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HOTKEY_CTRL_CLICK</zType>
-		<Translation>[CTRL+CLICK]</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HOTKEY_SHIFT_CLICK</zType>
-		<Translation>[SHIFT+CLICK]</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HOTKEY_CTRL_SHIFT_CLICK</zType>
-		<Translation>[CTRL+SHIFT+CLICK]</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HOTKEY_CTRL_ALT_CLICK</zType>
-		<Translation>[CTRL+ALT+CLICK]</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HOTKEY_SHIFT</zType>
-		<Translation>[SHIFT]</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HOTKEY_CTRL</zType>
-		<Translation>[CTRL]</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HOTKEY_ALT</zType>
-		<Translation>[ALT]</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MAP_OPTION_RESOURCE_DENSITY</zType>
-		<Translation>Количество ресурсов</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MAP_OPTION_MIRROR_MAP</zType>
-		<Translation>Зеркальная карта</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MAP_SCENARIO_RESOURCES</zType>
-		<Translation>Ресурсы</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MAP_OPTION_WATER_SIZE</zType>
-		<Translation>Уровень воды</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MAP_OPTION_WATER_LOCATION</zType>
-		<Translation>Расположение воды на карте</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MAP_OPTION_PLAYER_START_LOCATION</zType>
-		<Translation>Стартовая локация игрока</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MAP_OPTION_TRIBES</zType>
-		<Translation>Племена</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MAP_OPTION_TERRAIN_TYPE_VARIATION</zType>
-		<Translation>Тип ландшафта</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MAP_OPTION_LOCATION_OF_TRIBAL_LANDS</zType>
-		<Translation>Размещение племен</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MAP_OPTION_TYPE_OF_EXTREME_TERRAIN</zType>
-		<Translation>Ландшафт по краям карты</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MAP_OPTION_CENTER_BIAS</zType>
-		<Translation>Начать в центре карты</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_MAP_OPTION_CONTINENTS</zType>
-		<Translation>Континенты</Translation>
-	</Entry>
+  <Entry>
+    <zType />
+    <English />
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_ADJECTIVE</zType>
+    <Translation>{0,6_TribeAdjective}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_SITE</zType>
+    <Translation>{0,6_TribeAdjective} лагерь</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NATION_SITE</zType>
+    <Translation>{0,13_NationAdjective} место</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYER_NUMBER</zType>
+    <Translation>Игрок {0_number}</Translation>
+  </Entry>
+  <!-- HotKeys -->
+  <Entry>
+    <zType>TEXT_HOTKEY_PLUS_SPACE_TWO</zType>
+    <Translation>{0_key} + {1_key}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_PLUS_TWO</zType>
+    <Translation>{0_key}+{1_key}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_RIGHT_CLICK</zType>
+    <Translation>[ПРАВЫЙ-КЛИК]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CTRL_CLICK</zType>
+    <Translation>[CTRL+КЛИК]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_SHIFT_CLICK</zType>
+    <Translation>[SHIFT+КЛИК]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_ALT_CLICK</zType>
+    <Translation>[ALT+КЛИК]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CTRL_SHIFT_CLICK</zType>
+    <Translation>[CTRL+SHIFT+КЛИК]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CTRL_ALT_CLICK</zType>
+    <Translation>[CTRL+ALT+КЛИК]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_SHIFT</zType>
+    <Translation>[SHIFT]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CTRL</zType>
+    <Translation>[CTRL]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_ALT</zType>
+    <Translation>[ALT]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_RESOURCE_DENSITY</zType>
+    <Translation>Количество ресурсов</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_MIRROR_MAP</zType>
+    <Translation>Зеркальная карта</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_SCENARIO_RESOURCES</zType>
+    <Translation>Ресурсы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_WATER_SIZE</zType>
+    <Translation>Уровень воды</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_WATER_LOCATION</zType>
+    <Translation>Расположение воды на карте</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_PLAYER_START_LOCATION</zType>
+    <Translation>Стартовая локация игрока</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_TRIBES</zType>
+    <Translation>Племена</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_TERRAIN_TYPE_VARIATION</zType>
+    <Translation>Тип ландшафта</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_LOCATION_OF_TRIBAL_LANDS</zType>
+    <Translation>Размещение племен</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_TYPE_OF_EXTREME_TERRAIN</zType>
+    <Translation>Ландшафт по краям карты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CENTER_BIAS</zType>
+    <Translation>Начать в центре карты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENTS</zType>
+    <Translation>Континенты</Translation>
+  </Entry>
 </Root>
