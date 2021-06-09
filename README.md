@@ -1,8 +1,10 @@
-# Old World Russian localization
+# Old World Russian Localization
 Русификатор для игры Old World.
+Свежую версию можно найти в самой игре (Главное меню -> MODS -> Russian Translation) или скачать напрямую здесь: https://oldworld.mod.io/russian.
+По ссылке доступны предыдущие версии перевода, но с каждой новой публикацией переведенного материала становится только больше.
 
 # Установка и использование
-Скачайте архив OW_RussianPatch-master с помощью зеленой кнопки справа сверху (Code -> Download ZIP). Вытащите из него папку Russian и поместите ее в папку D:\User\Documents\My Games\OldWorld\Translations или аналогичную. Запустите Old World и поменяйте язык в настройках: Options -> вкладка UI -> Languages -> Russian (User Translation) -> Save.
+Скачайте архив OW_RussianPatch-master с помощью зеленой кнопки справа сверху (Code -> Download ZIP). Вытащите из него папку russian, наиболее близкую к версии вашей игры, и поместите ее в папку D:\User\Documents\My Games\OldWorld\Translations или аналогичную. Запустите Old World и поменяйте язык в настройках: Options -> вкладка UI -> Languages -> Russian (User Translation) -> Save.
 
 # Помощь переводчикам
 Мы будем рады, если вы поможете с тестированием. Поделитесь с нами ошибками и неточностями перевода, описав игровую ситуацию и приложив скриншот в [дискорде.](https://discord.gg/XwdkQQ5)
