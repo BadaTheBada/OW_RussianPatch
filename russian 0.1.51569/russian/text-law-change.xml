@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<Root>
+  <Entry>
+    <zType />
+    <English />
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_PRIMOGENITURE</zType>
+    <Translation>Первородство</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_ULTIMOGENITURE</zType>
+    <Translation>Минорат</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_LATERAL</zType>
+    <Translation>Лествичный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_DYNASTIC</zType>
+    <Translation>Династический</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_SENIORITY</zType>
+    <Translation>Сеньорат</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_EPICS</zType>
+    <Translation>Эпос~Эпоса~Эпосу~Эпос~Эпосом~Эпосе</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_EXPLORATION</zType>
+    <Translation>Дальняя разведка~Дальней разведки~Дальней разведке~Дальнюю разведку~Дальней разведкой~Дальней разведке</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_SLAVERY</zType>
+    <Translation>Рабство~Рабства~Рабству~Рабство~Рабством~Рабстве</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_FREEDOM</zType>
+    <Translation>Свобода~Свободы~Свободе~Свободу~Свободой~Свободе</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_CENTRALIZATION</zType>
+    <Translation>Централизация~Централизации~Централизации~Централизацию~Централизацией~Централизации</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_VASSALAGE</zType>
+    <Translation>Служение~Служения~Служению~Служение~Служением~Служении</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_TYRANNY</zType>
+    <Translation>Тирания~Тирании~Тирании~Тиранию~Тиранией~Тирании</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_CONSTITUTION</zType>
+    <Translation>Учредительный закон~Учредительного закона~Учредительному закону~Учредительный закон~Учредительным законом~Учредительном законе</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_COLONIES</zType>
+    <Translation>Колонизация~Колонизации~Колонизации~Колонизацию~Колонизацией~Колонизации</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_SERFDOM</zType>
+    <Translation>Закрепощение~Закрепощения~Закрепощению~Закрепощение~Закрепощением~Закрепощении</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_MONOTHEISM</zType>
+    <Translation>Единобожие~Единобожия~Единобожию~Единобожие~Единобожием~Единобожии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_POLYTHEISM</zType>
+    <Translation>Многобожие~Многобожия~Многобожию~Многобожие~Многобожием~Многобожии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_DIVINE_RULE</zType>
+    <Translation>Божественное правление~Божественного правления~Божественному правлению~Божественное правление~Божественным правлением~Божественном правлении</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_LEGAL_CODE</zType>
+    <Translation>Свод законов~Свода законов~Своду законов~Свод законов~Сводом законов~Своде законов</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_TOLERANCE</zType>
+    <Translation>Терпимость~Терпимости~Терпимости~Терпимость~Терпимостью~Терпимости</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_ORTHODOXY</zType>
+    <Translation>Догматизм~Догматизма~Догматизму~Догматизм~Догматизмом~Догматизме</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_PROFESSIONAL_ARMY</zType>
+    <Translation>Профессиональная армия~Профессиональной армии~Профессиональную армию~Профессиональную армию~Профессиональной армией~Профессиональной армии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_VOLUNTEERS</zType>
+    <Translation>Добровольная служба~Добровольной службы~Добровольной службе~Добровольную службу~Добровольной службой~Добровольной службе</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_PHILOSOPHY</zType>
+    <Translation>Философия~Философии~Философии~Философию~Философией~Философии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_ENGINEERING</zType>
+    <Translation>Инженерное дело~Инженерного дела~Инженерному делу~Инженерное дело~Инженерном делом~Инженерном деле</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_ICONOGRAPHY</zType>
+    <Translation>Иконография~Иконографии~Иконографии~Иконографию~Иконографией~Иконографии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_CALLIGRAPHY</zType>
+    <Translation>Каллиграфия~Каллиграфии~Каллиграфии~Каллиграфию~Каллиграфией~Каллиграфии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_PILGRIMAGE</zType>
+    <Translation>Паломничество~Паломничества~Паломничеству~Паломничество~Паломничеством~Паломничестве</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_HOLY_WAR</zType>
+    <Translation>Священная война~Священной войны~Священной войне~Священную войну~Священной войной~Священной войне</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_GUILDS</zType>
+    <Translation>Гильдии~Гильдий~Гильдиям~Гильдии~Гильдиями~Гильдиях</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_ELITES</zType>
+    <Translation>Знать~Знати~Знати~Знать~Знатью~Знати</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_AUTARKY</zType>
+    <Translation>Автаркия~Автаркии~Автаркии~Автаркию~Автаркией~Автаркии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_TRADE_LEAGUE</zType>
+    <Translation>Торговые союзы~Торговых союзов~Торговым союзам~Торговые союзы~Торговыми союзами~Торговых союзах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_COIN_DEBASEMENT</zType>
+    <Translation>Порча монет~Порчи монет~Порче монет~Порчу монет~Порчей монет~Порче монет</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_MONETARY_REFORM</zType>
+    <Translation>Денежная реформа~Денежной реформы~Денежной реформе~Денежную реформу~Денежной реформой~Денежной реформе</Translation>
+  </Entry>
+</Root>

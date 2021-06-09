@@ -1,0 +1,3050 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Entry>
+    <zType />
+    <English />
+  </Entry>
+  <Entry>
+    <zType>TEXT_GENERIC_CONFIRM</zType>
+    <Translation>Подтвердить</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GENERIC_YES</zType>
+    <Translation>Да</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GENERIC_CANCEL</zType>
+    <Translation>Отмена</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GENERIC_NONE</zType>
+    <Translation>отсутствует</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_INPUT_MAX_CHARACTERS</zType>
+    <Translation> (Макс. персонажей: {0})</Translation>
+  </Entry>
+  <!--ClientUI-->
+  <Entry>
+    <zType>TEXT_UI_REDRAW_TECH</zType>
+    <Translation>Перетасовать</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TRIBE_TURN</zType>
+    <Translation>Ход {0,1}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TRIBAL_TURN</zType>
+    <Translation>Ход племени</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_YOUR_TURN</zType>
+    <Translation>Ваш ход</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TURN_ENDED</zType>
+    <Translation>Ход завершен</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_THEIR_TURN</zType>
+    <Translation>Ход {0,1}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_HOTSEAT_PLAYER</zType>
+    <Translation>{0} в хотсит!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RIVALS_TURN</zType>
+    <Translation>Ход противников</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_YEAR_ENDED</zType>
+    <Translation>{0_turnScale} завершен</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_END_YEAR</zType>
+    <Translation>Завершить {0,3_turnScale}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_YEAR_NUMBER</zType>
+    <Translation>Год {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_YEAR_NUMBER_AND_MAX</zType>
+    <Translation>Год: {0}/{1}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_IDLE_LABEL_NEXT_UNIT</zType>
+    <Translation>Следующий отряд</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_IDLE_LABEL_CHOOSE_PRODUCTION</zType>
+    <Translation><![CDATA[Выбрать производство<br><color=#e3c08c>({0_city})</color>]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_IDLE_LABEL_OPEN_CITY</zType>
+    <Translation><![CDATA[Открыть город<br><color=#e3c08c>({0_city})</color>]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_TURN_SUMMARY</zType>
+    <Translation>ИТОГИ ХОДА</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_POPUP_MESSAGE</zType>
+    <Translation>УВЕДОМЛЕНИЕ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_ACHIEVEMENT</zType>
+    <Translation>ДОСТИЖЕНИЯ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CHARACTER_SUCCESSION</zType>
+    <Translation>НАСЛЕДОВАНИЕ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_DO_BONUS</zType>
+    <Translation>БОНУСЫ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_GOAL_STARTED</zType>
+    <Translation>ЦЕЛИ НАЧАТЫ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_GOAL_FINISHED</zType>
+    <Translation>ЦЕЛИ ЗАВЕРШЕНЫ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_GOAL_FAILED</zType>
+    <Translation>ЦЕЛИ ПРОВАЛЕНЫ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_MAKE_LEGACY</zType>
+    <Translation>НАСЛЕДИЕ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_COURTIER</zType>
+    <Translation>НОВЫЕ ПРИДВОРНЫЕ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_RELIGION_FOUNDED</zType>
+    <Translation>ОСНОВАНИЕ РЕЛИГИИ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_THEOLOGY_ESTABLISHED</zType>
+    <Translation>ПРИНЯТИЕ ТЕОЛОГИИ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_RELIGION_SPREAD</zType>
+    <Translation>РАСПРОСТРАНЕНИЕ РЕЛИГИИ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_TRIBE_CONTACT</zType>
+    <Translation>ВСТРЕЧА С ПЛЕМЕНЕМ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_TRIBE_DIPLOMACY</zType>
+    <Translation>ДИПЛОМАТИЯ С ПЛЕМЕНЕМ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_TEAM_CONTACT</zType>
+    <Translation>ВСТРЕЧА С НАЦИЕЙ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_TEAM_DIPLOMACY</zType>
+    <Translation>ДИПЛОМАТИЯ С НАЦИЕЙ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_TECH_DISCOVERED</zType>
+    <Translation>ОТКРЫТИЕ ТЕХНОЛОГИЙ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_RESOURCE_SHORTFALL</zType>
+    <Translation>НЕХВАТКА РЕСУРСОВ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_COVER_DEBT</zType>
+    <Translation>ДОЛГ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_GIFT_ORDERS</zType>
+    <Translation>ПОДАРКИ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_MAX_ORDERS</zType>
+    <Translation>МАКС. ПРИКАЗОВ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_MAX_CIVICS</zType>
+    <Translation>МАКС. ПРАВА</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_MAX_TRAINING</zType>
+    <Translation>МАКС. МУШТРЫ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_GENERAL_INJURY</zType>
+    <Translation>ПОЛКОВОДЕЦ РАНЕН</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_UNIT_ATTACKED</zType>
+    <Translation>ОТРЯДЫ АТАКОВАНЫ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_UNIT_KILLED</zType>
+    <Translation>ОТРЯДЫ УНИЧТОЖЕНЫ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_UNIT_CAPTURED</zType>
+    <Translation>ОТРЯД ЗАХВАЧЕН</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_UNIT_REBELLED</zType>
+    <Translation>ОТРЯДЫ МЯТЕЖНИКОВ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_UNIT_SEEN</zType>
+    <Translation>ЗАМЕЧЕНЫ ОТРЯДЫ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_UNIT_QUEUE_CANCELLED</zType>
+    <Translation>ОЧЕРЕДЬ ДЕЙСТВИЙ ОТМЕНЕНА</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CITY_ATTACKED</zType>
+    <Translation>ГОРОД АТАКОВАН</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CITY_CAPTURED</zType>
+    <Translation>ГОРОД ЗАХВАЧЕН</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CITY_RAZED</zType>
+    <Translation>ГОРОД РАЗРУШЕН</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CITY_FOUNDED</zType>
+    <Translation>ОСНОВАНЫ ГОРОДА</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CITY_EVENT</zType>
+    <Translation>СОБЫТИЕ В ГОРОДЕ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CITY_BUILT</zType>
+    <Translation>СТРОИТЕЛЬСТВО В ГОРОДЕ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CITY_CANCELLED</zType>
+    <Translation>ОТМЕНА ПРОИЗВОДСТВА</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CITY_WARNING</zType>
+    <Translation>ПРЕДУПРЕЖДЕНИЕ ГОРОДА</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CAMP_DESTROYED</zType>
+    <Translation>ЛАГЕРЬ УНИЧТОЖЕН</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_IMPROVEMENT_FINISHED</zType>
+    <Translation>ПОСТРОЕНО СООРУЖЕНИЕ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_IMPROVEMENT_PILLAGED</zType>
+    <Translation>СООРУЖЕНИЕ РАЗГРАБЛЕНО</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_WONDER_ACTIVITY</zType>
+    <Translation>ВОЗВЕДЕНИЕ ЧУДЕС</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CARAVAN_MISSION</zType>
+    <Translation>ТОРГОВЫЙ КАРАВАН</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_LAUNCH_OFFENSIVE</zType>
+    <Translation>НАСТУПЛЕНИЕ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_GIFT_GOOD</zType>
+    <Translation>РЕСУРСЫ В ДАР</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_MISSION_CANCELLED</zType>
+    <Translation>ЗАДАНИЕ ОТМЕНЕНО</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CHARACTER_ADULT</zType>
+    <Translation>ВЗРОСЛЕНИЕ ПЕРСОНАЖА</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CHARACTER_BIRTH</zType>
+    <Translation>РОЖДЕНИЕ ПЕРСОНАЖА</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CHARACTER_DEATH</zType>
+    <Translation>СМЕРТЬ ПЕРСОНАЖА</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_PING</zType>
+    <Translation>ПИНГ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_EVENT_STORY</zType>
+    <Translation>НОВОЕ СОБЫТИЕ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_DISMISS_TOOLTIP</zType>
+    <Translation><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> — отказаться от этого уведомления<br><TEXT_HOTKEY_CTRL_RIGHT_CLICK> — отказаться от всех уведомлений]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_WATER_TITLE</zType>
+    <Translation>Mare incognitum</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_WATER_BODY</zType>
+    <Translation>HIC SUNT DRACONES</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_LAND_TITLE</zType>
+    <Translation>Terra incognita</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_LAND_BODY</zType>
+    <Translation>HIC SUNT LEONES</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_FAMILY</zType>
+    <Translation>Семья</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_REBEL_PROB</zType>
+    <Translation>Шанс появления link(TRIBE_REBELS,1)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_GOVERNOR</zType>
+    <Translation>Наместник~Наместника~Наместнику~Наместника~Наместником~Наместнике</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_HP</zType>
+    <Translation>HP</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_STRENGTH</zType>
+    <Translation>Оборона</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_CITIZENS</zType>
+    <Translation><![CDATA[<singular_1>{0,1}<plural>{0,1}<plural2>{0,1}<end>]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_RELIGIONS</zType>
+    <Translation>Религии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_ID</zType>
+    <Translation>ID</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_IMPROVEMENT_ACTION_REMOVE_VEGETATION_TITLE</zType>
+    <Translation>Убирает {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_IMPROVEMENT_ACTION_BUILD_ROAD_TITLE</zType>
+    <Translation>Построить дорогу</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_IMPROVEMENT_ACTION_MAKE_URBAN_TITLE</zType>
+    <Translation>Создать городскую клетку</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TOOLTIP_PROGRESS</zType>
+    <Translation>Прогресс: {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TOOLTIP_LEADS_TO_WITH</zType>
+    <Translation>{0_tech} (с {LIST,4})</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_BASE</zType>
+    <Translation>Базовые хар-ки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_GENERAL</zType>
+    <Translation>Общие</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_GENERAL_OPINION</zType>
+    <Translation>Полководец ({0_opinion})</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_GENERAL_ENEMY_DEFENSE</zType>
+    <Translation>Полководец icon(Icon_Defense)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_WATER_VS_LAND</zType>
+    <Translation>Вода vs Земля</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_LAND_VS_WATER</zType>
+    <Translation>Земля vs Вода</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_SETTLEMENT</zType>
+    <Translation>Поселение~Поселения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_AI_MODIFIER</zType>
+    <Translation>ИИ против {0,1}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_DISTANCE</zType>
+    <Translation>Расстояние</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_ATTACK</zType>
+    <Translation>Атака</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_DEFENSE</zType>
+    <Translation>Оборона</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_KILLING_BLOW</zType>
+    <Translation>Смертельный удар</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_FORTIFY</zType>
+    <Translation>Укрепиться</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_TESTUDO_ENEMY</zType>
+    <Translation>Построиться "черепахой"</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_FAMILY_TERRITORY</zType>
+    <Translation>Территория {0,2_family}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_CRITICAL_CHANCE</zType>
+    <Translation>Шанс критического удара</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_IMMUNE</zType>
+    <Translation>Неуязвимость</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ATTACK_PREVIEW_POPULATION</zType>
+    <Translation>Население~Населения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_COOLDOWN_FATIGUED</zType>
+    <Translation>Устал</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_PANEL_TECH_DISCOVERED</zType>
+    <Translation>{0} открыто</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_PANEL_RESEARCH_TECH</zType>
+    <Translation>Исследование</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_PANEL_CHOOSE_RESEARCH</zType>
+    <Translation>Выбрать исследование</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_LEVEL</zType>
+    <Translation>Ур. {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_SELECTION_MAX_LEVEL</zType>
+    <Translation>Макс. ур.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_SELECTION_PROJECTS_TAB_LABEL</zType>
+    <Translation>Проекты:  </Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_SELECTION_CITIZENS_TAB_LABEL</zType>
+    <Translation>Жители {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_SELECTION_FAMILY</zType>
+    <Translation>Семья: {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_SELECTION_COURTIER</zType>
+    <Translation>Придворный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_SELECTION_GENERAL_UNIT</zType>
+    <Translation>Отряд: {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_SELECTION_GOVERNING_CITY</zType>
+    <Translation>Город: {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_SELECTION_CITY_AGENT</zType>
+    <Translation>Агент: {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_SELECTION_RATINGS_TITLE</zType>
+    <Translation>Рейтинг</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_WAKE</zType>
+    <Translation>Пробудить</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_PASS</zType>
+    <Translation>Пропустить</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_SLEEP</zType>
+    <Translation>Сон</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_SENTRY</zType>
+    <Translation>Дозор</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_DISBAND</zType>
+    <Translation>Распустить</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_UPGRADE</zType>
+    <Translation>Улучшить</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_PROMOTE</zType>
+    <Translation>Повышение</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_BUILD_UNIT_LEVEL</zType>
+    <Translation>{0} ур.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_BUILD_UNIT_XP</zType>
+    <Translation>{0} XP</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_PROJECTS_CATEGORY</zType>
+    <Translation>Проекты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_SPECIALISTS_CATEGORY</zType>
+    <Translation>Специалисты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_PRODUCTION_CATEGORY_GROWTH</zType>
+    <Translation>Рост~Роста~Росту~Рост~Ростом~Росте</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_PRODUCTION_CATEGORY_TRAINING</zType>
+    <Translation>Муштра~Муштры~Муштре~Муштру~Муштрой~Муштре</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_PRODUCTION_CATEGORY_CIVICS</zType>
+    <Translation>Право~Права~Праву~Право~Правом~Праве</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_SEND_RESOURCE</zType>
+    <Translation>Отправить {0,3}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_STOP_SENDING_RESOURCE</zType>
+    <Translation>Прекратить поставку {0,1}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_ACTIVE_MISSION</zType>
+    <Translation>{0} (АКТИВНО, {1})</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_LEAVE</zType>
+    <Translation>Покинуть {0,3}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVE_FATHER_LABEL</zType>
+    <Translation>Отец</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVE_MOTHER_LABEL</zType>
+    <Translation>Мать</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVE_SPOUSE_LABEL</zType>
+    <Translation>Супруг(а)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVE_CHILD_LABEL</zType>
+    <Translation>Ребенок</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVES_TITLE</zType>
+    <Translation>Живые родственники</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_FAMILY_ACTIONS_SEND_LUXURY</zType>
+    <Translation>Отправить {0,3}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_FAMILY_ACTIONS_RETURN_LUXURY</zType>
+    <Translation>Вернуть {0,3}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_FAMILY_ACTIONS_TRADE_AND_LUXURIES_TITLE</zType>
+    <Translation>Торговля и link(CONCEPT_LUXURY)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_FAMILY_HEAD</zType>
+    <Translation>Глава семьи</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_FAMILY_ACTIONS_LIVING_MEMBERS_TITLE</zType>
+    <Translation>Живые члены семьи</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_FAMILY_ACTIONS_CITIES_TITLE</zType>
+    <Translation>Города</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RELIGION_HEAD</zType>
+    <Translation>Глава религии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_PLAYER_SUCCESSION</zType>
+    <Translation>Престолонаследие</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_PLAYER_LEADER</zType>
+    <Translation>Правитель</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UPGRADE_TO</zType>
+    <Translation>Модернизировать до {0,1}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RELIGION_PANEL_STATE_RELIGION</zType>
+    <Translation>{0} (ГОСУДАРСТВЕННАЯ)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_GOAL_PANEL_YEARS_LEFT_LEGACY</zType>
+    <Translation>link(CONCEPT_LEGACY) {0,1_character}: {1} {2_turnScale}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_GOAL_PANEL_YEARS_LEFT</zType>
+    <Translation>{0_turnScale}: {1}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_LIST_IDLE</zType>
+    <Translation>Свободный~Свободного~Свободному~Свободный~Свободным~Свободном~Свободные~Свободных~Свободным~Свободные~Свободными~Свободных</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_BUILD_COMPLETED</zType>
+    <Translation>Завершено: {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_COMPLETED_BUILDS_IDLE</zType>
+    <Translation>Город без производства</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHAT_TEAM</zType>
+    <Translation>Команда</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHAT_ALL</zType>
+    <Translation>Все</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHAT_CLEAR</zType>
+    <Translation>Нет растений</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TURN_TEXT_YEAR</zType>
+    <Translation><![CDATA[Год {0}<true_1> / {1}<false><end><true_2> ({2_time})<false><end>]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TURN_TEXT_SCALE</zType>
+    <Translation><![CDATA[{0}, год {1}<true_2> ({2} <singular_2>ход<plural>хода<plural2>ходов<end>)<false><end><true_3> ({3_time})<false><end>]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TURN_TEXT_TURN_MAX</zType>
+    <Translation>{0}/{1}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TURN_TIMER_PAUSED</zType>
+    <Translation>{0} (ПАУЗА)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TURN_LOCKED</zType>
+    <Translation>Ход заблокирован</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_WINNER_ROSTER_VICTORY</zType>
+    <Translation>ПОБЕДА!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_WINNER_ROSTER_VICTORY_ALLIANCE</zType>
+    <Translation>ПОБЕДА СОЮЗА!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_WINNER_ROSTER_LOSS</zType>
+    <Translation>ПОРАЖЕНИЕ!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MAX_CITIES</zType>
+    <Translation><![CDATA[Макс. городов: {0}/{1}]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RENAME_CITY_POPUP</zType>
+    <Translation>Переименовать город</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RENAME_UNIT_POPUP</zType>
+    <Translation>Переименовать отряд</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RENAME_RELIGION_POPUP</zType>
+    <Translation>Переименовать религию</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RENAME_PLAYER_POPUP</zType>
+    <Translation>Переименовать этого игрока</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RENAME_CHARACTER</zType>
+    <Translation>Переименовть {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_PLAYER_EMAIL_NOTIFICATIONS</zType>
+    <Translation>Введите свой email, чтобы получать уведомления, когда соперник передаст вам ход</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_BORDER_GROWTH</zType>
+    <Translation>Расширение границ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_UNAVAILABLE</zType>
+    <Translation>Недоступно</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_CURRENTLY_AVAILABLE</zType>
+    <Translation>Технология доступна!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_TECH_ACQUIRED</zType>
+    <Translation>Требуется технология</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_RESEARCHING</zType>
+    <Translation>Исследование...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_IN_DRAW_PILE</zType>
+    <Translation>В сбросе</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_IN_DISCARD_PILE</zType>
+    <Translation>В сбросе</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_TECH_TARGETED</zType>
+    <Translation>Технология выбрана</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_TARGETED_PREREQ</zType>
+    <Translation>Предварительные технологии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TOOLTIP_LUXURIES</zType>
+    <Translation>Редкие ресурсы: </Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TOOLTIP_LUXURIES_HELP</zType>
+    <Translation>link(CONCEPT_LUXURY,3) можно отправить нациям, племенам или семьям, чтобы улучшить мнение о правителе (в меню «Управление редкими ресурсами» при выборе ресурса). Также их можно передать городам, чтобы снизить link(YIELD_DISCONTENT,3).
+Редкие ресурсы становятся доступны после обучения специалистов в зданиях Например, link(SPECIALIST_GARDENER,6) на link(IMPROVEMENT_GROVE,1) приносят link(RESOURCE_HONEY) .</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TOOLTIP_LUXURIES_NONE</zType>
+    <Translation>Нет доступных</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TOOLTIP_TRADABLE</zType>
+    <Translation><![CDATA[Доступно: {0_resource}<true_1> (x{1})<false><end>]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_AMBITION_DESIRED_BY_FAMILY</zType>
+    <Translation>{0} (желает семья {1_family} {2_class})</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_WON_GAME</zType>
+    <Translation>[Вы одержали победу]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_LOST_GAME</zType>
+    <Translation>[Вы потерпели поражение]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_DISCOVERED</zType>
+    <Translation>[Открыто: {0}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_RELIGION_FOUNDED</zType>
+    <Translation>[Основывается {0_religion}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_RELIGION_SPREAD</zType>
+    <Translation>[{0_religion} распространяется в г. {1_city}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_RELIGION_REMOVED</zType>
+    <Translation>[{0_religion} теряет последователей в г. {1_city}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_THEOLOGY_ESTABLISHED</zType>
+    <Translation>[{0_religion} принимает теологию {1_theology}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_TRIBE_CONTACTED</zType>
+    <Translation>[Вы встретили {0,3_tribe}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_PLAYER_CONTACTED</zType>
+    <Translation>[Вы встретили {0,3_player}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_CITY_FOUNDED</zType>
+    <Translation>[Основан г. {0_city}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_CITY_LOST</zType>
+    <Translation>[Захвачен г. {0_city}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_CITY_BREACHED</zType>
+    <Translation>[Оборона г. {0_city} нарушена]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_CITY_RAZED</zType>
+    <Translation>[Город разрушен ({0_tilePosition})]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_CULTURE_EVENT</zType>
+    <Translation>[{0} {1} в {2}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_DISCONTENT_EVENT</zType>
+    <Translation>[{0} в {1}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_X_FINISHED</zType>
+    <Translation>[Завершено: {0}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_X_PILLAGED</zType>
+    <Translation>[Разграблено: {0}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_AMBITION_FINISHED</zType>
+    <Translation>[Амбиций завершено: {0}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_QUEST_FINISHED</zType>
+    <Translation>[Заданий завершено: {0}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_QUEST_FAILED</zType>
+    <Translation>[Задание не выполнено: {0}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_MISSION_FINISHED</zType>
+    <Translation>[Миссий завершено: {0}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_MARRIES</zType>
+    <Translation>[{0} и {1} вступают в брак]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_BORN</zType>
+    <Translation>[Рождается {0}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_DIES</zType>
+    <Translation>[{0} умирает]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_ADULT</zType>
+    <Translation>[{0} становится взрослее]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_COURTIER</zType>
+    <Translation>[{0} становится {G0:{1,4_courtier}:{1,10_courtier}}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_ADOPTED</zType>
+    <Translation>[{0} становится членом семьи]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_DIVORCES</zType>
+    <Translation>[{0} и {1} расторгли брак]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_COGNOMEN</zType>
+    <Translation>[{0} получает статус {1}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_SUCCESSION</zType>
+    <Translation>[Престолонаследие: {0}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_UNIT_COMBAT</zType>
+    <Translation>[{0} атакуют {1,3}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_UNIT_COMBAT_EMPTY</zType>
+    <Translation>[Сражение отрядов]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_ATTACKED_CITY</zType>
+    <Translation>[Атака г. {0}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_CITY_ATTACKED</zType>
+    <Translation>[Г. {0} атакован]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_KILLED_UNIT</zType>
+    <Translation>[Отряд уничтожен]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_GENERAL_ATTACK</zType>
+    <Translation>[Атакован полководцем]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_GENERAL_DUEL</zType>
+    <Translation>[Дуэль полководцев]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_CRITICAL_HIT</zType>
+    <Translation>[link(CONCEPT_CRITICAL_HIT)]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_GENERAL_INJURY</zType>
+    <Translation>[Полководец ранен]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_UNIT_PROMOTION</zType>
+    <Translation>[Повышение {0,1_unit}: {1_promotion}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_RESOURCE_HARVESTED</zType>
+    <Translation>[Добыт ресурс: {0_resource}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_LANDMARK_DISCOVERED</zType>
+    <Translation>[Открыто новое место]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_PLAYER_ELIMINATED</zType>
+    <Translation>[Государство {0_player} уничтожено]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_NONE</zType>
+    <Translation>Все персонажи</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_COURT</zType>
+    <Translation>Придворные</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_GENERALS</zType>
+    <Translation>Доступные link(CONCEPT_GENERAL,6)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_GOVERNORS</zType>
+    <Translation>Доступные link(CONCEPT_GOVERNOR,6)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_AGENTS</zType>
+    <Translation>Доступные link(CONCEPT_AGENT,6)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_AMBASSADORS</zType>
+    <Translation>Доступные link(COUNCIL_AMBASSADOR,6)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_CHANCELLORS</zType>
+    <Translation>Доступные link(COUNCIL_CHANCELLOR,6)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_SPYMASTERS</zType>
+    <Translation>Доступные link(COUNCIL_SPYMASTER,6)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_GENERAL_AGE</zType>
+    <Translation>Должен быть младше int(GENERAL_START_AGE) лет.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_CIVILIAN_FILTER</zType>
+    <Translation><![CDATA[<true_0>Скрыть<false>Показать<end> мирные отряды]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_SCOUT_FILTER</zType>
+    <Translation><![CDATA[<true_0>Скрыть<false>Показать<end> разведчиков]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_MILITARY_WATER_FILTER</zType>
+    <Translation><![CDATA[<true_0>Скрыть<false>Показать<end> морские отряды]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_MILITARY_MOUNTED_FILTER</zType>
+    <Translation><![CDATA[<true_0>Скрыть<false>Показать<end> верховые отряды]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_MILITARY_SIEGE_FILTER</zType>
+    <Translation><![CDATA[<true_0>Скрыть<false>Показать<end> осадные орудия]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_MILITARY_RANGED_FILTER</zType>
+    <Translation><![CDATA[<true_0>Скрыть<false>Показать<end> отряды дальнего боя]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_MILITARY_INFANTRY_FILTER</zType>
+    <Translation><![CDATA[<true_0>Скрыть<false>Показать<end> пехотные отряды]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_FILTER_OTHERS</zType>
+    <Translation>{0} — показать только отряды этого типа</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_FILTER_RESET</zType>
+    <Translation>{0} — сбросить фильтры</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RELIGION_NOT_FOUNDED</zType>
+    <Translation>Еще не основана</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_ADOPT_BUTTON</zType>
+    <Translation>Принять {0,3}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_FOLLOWERS</zType>
+    <Translation>Последователи</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_THEOLOGIES</zType>
+    <Translation>Теология</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_THEOLOGY</zType>
+    <Translation>Ур. {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_NO_THEOLOGY_ADOPTED</zType>
+    <Translation>отсутствует</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_FOLLOWERS_EMPIRES</zType>
+    <Translation>Империи</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_FOLLOWERS_FAMILIES</zType>
+    <Translation>Семьи</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_FOLLOWERS_TRIBES</zType>
+    <Translation>Племена</Translation>
+  </Entry>
+  <!--menu-screens.xml-->
+  <Entry>
+    <zType>TEXT_UI_SURRENDER_DIALOG</zType>
+    <Translation>Вы хотите сдаться?</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EXIT_DIALOG</zType>
+    <Translation>Выйти из игры?
+Весь несохраненный прогресс будет утерян.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RESTART_DIALOG</zType>
+    <Translation>Перезапустить игру? 
+Весь несохраненный прогресс будет утерян.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SURRENDER_CONFIRM</zType>
+    <Translation>Да</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_RESUME_BUTTON</zType>
+    <Translation>Продолжить</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_SP_BUTTON</zType>
+    <Translation>Одиночная игра</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_MP_BUTTON</zType>
+    <Translation>Мультиплеер</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_MOD_MANAGER_BUTTON</zType>
+    <Translation>Моды</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_TOOLS_BUTTON</zType>
+    <Translation>Инструменты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_OPTIONS_BUTTON</zType>
+    <Translation>Настройки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_QUIT_BUTTON</zType>
+    <Translation>Выйти на рабочий стол</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_PREVIOUS_BUTTON</zType>
+    <Translation>Назад</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_NEWSLETTER</zType>
+    <Translation>Рассылка</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_NEWSLETTER_INPUT</zType>
+    <Translation>Укажите email, чтобы подписаться...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_NEWSLETTER_SUBSCRIBE_SUCCESS</zType>
+    <Translation>Подписка успешно оформлена!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_NEWSLETTER_SUBSCRIBE_FAILURE</zType>
+    <Translation><![CDATA[<color=#cc0d0dff>Ошибка оформления подписки!</color>]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_NEWSLETTER_DESC</zType>
+    <Translation>Вы можете указать email и подписаться на рассылку Mohawk Games</Translation>
+  </Entry>
+  <!-- wiki-navigation -->
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_FAMILYCLASSES</zType>
+    <Translation>Классы семей</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_CONCEPTS</zType>
+    <Translation>Общее</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_YIELDS</zType>
+    <Translation>Продукция</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_TECHNOLOGIES</zType>
+    <Translation>Технологии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_UNITS</zType>
+    <Translation>Отряды</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_SPECIALISTS</zType>
+    <Translation>Специалисты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_PROJECTS</zType>
+    <Translation>Проекты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_LAWS</zType>
+    <Translation>Законы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_RELIGIONS</zType>
+    <Translation>Религии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_NATIONS</zType>
+    <Translation>Нации</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_TRIBES</zType>
+    <Translation>Племена</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_COGNOMEN</zType>
+    <Translation>Статусы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_CHARACTERS</zType>
+    <Translation>Персонажи</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_IMPROVEMENTS</zType>
+    <Translation>Сооружения (общие)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_RESOURCES</zType>
+    <Translation>Ресурсы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_VEGETATION</zType>
+    <Translation>Растения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_TERRAIN</zType>
+    <Translation>Почва</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_ARCHETYPES</zType>
+    <Translation>Черты характера (архетипы)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_COUNCILS</zType>
+    <Translation>Советники</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_WONDERS</zType>
+    <Translation>Сооружения (Чудеса)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_RELIGIOUSIMPROVEMENTS</zType>
+    <Translation>Сооружения (религия)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_TRAITS</zType>
+    <Translation>Черты характера (другие)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_PROMOTIONS</zType>
+    <Translation>Повышения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_TRAITSADJECTIVES</zType>
+    <Translation>Черты характера (прилагательные)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_THEOLOGIES</zType>
+    <Translation>Теологии</Translation>
+  </Entry>
+  <!-- selected-city -->
+  <Entry>
+    <zType>TEXT_GIFT_CITY_TEAMMATE</zType>
+    <Translation>Подарить город</Translation>
+  </Entry>
+  <!-- selected-worker-->
+  <Entry>
+    <zType>TEXT_WORKER_FILTERS_LABEL</zType>
+    <Translation>Фильтры</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_SORT_LABEL</zType>
+    <Translation>Сортировка</Translation>
+  </Entry>
+  <!-- other selection panels-->
+  <Entry>
+    <zType>TEXT_MANAGE_LUXURIES</zType>
+    <Translation>Управление link(CONCEPT_LUXURY,4)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MANAGE_LUXURIES_DESC</zType>
+    <Translation>Начать или прекратить поставку link(CONCEPT_LUXURY,1)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SEND_ITEM</zType>
+    <Translation>Отправить {0,3}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STOP_SENDING_LUXURY</zType>
+    <Translation>Прекратить поставку {0,1}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GIFT_YIELD</zType>
+    <Translation>Отправить товары</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AGENT_MISSIONS</zType>
+    <Translation>Задания агентов</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AGENT_MISSION_NAME</zType>
+    <Translation><![CDATA[{0_missionLink} <color=#e3c08c>({1_cityLink})</color>]]></Translation>
+  </Entry>
+  <!--single player menu-->
+  <Entry>
+    <zType>TEXT_SP_MENU_SCREEN_NEWGAME_BUTTON</zType>
+    <Translation>Новая игра</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_MENU_SCREEN_LOADGAME_BUTTON</zType>
+    <Translation>Загрузить игру</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_MENU_SCREEN_SCEN_BUTTON</zType>
+    <Translation>Сценарии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_MENU_SCREEN_GOFTW_BUTTON</zType>
+    <Translation>Игра недели</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_MENU_SCREEN_BACK_BUTTON</zType>
+    <Translation>Назад</Translation>
+  </Entry>
+  <!--multiplayer menu-->
+  <Entry>
+    <zType>TEXT_MP_KICK_ACTIVE_PLAYER</zType>
+    <Translation>Исключить этого игрока?</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_DELETE_CLOUD_SAVE</zType>
+    <Translation>Удалить это сохранение ({0_gameName})?</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_MENU_SCREEN_JOIN_BUTTON</zType>
+    <Translation>Присоединиться</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_MENU_SCREEN_NEWGAME_BUTTON</zType>
+    <Translation>Новая игра</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_MENU_SCREEN_LOADGAME_BUTTON</zType>
+    <Translation>Загрузить игру</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_MENU_SCREEN_CLOUD_BUTTON</zType>
+    <Translation>Загрузить из облака</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_MENU_SCREEN_BACK_BUTTON</zType>
+    <Translation>Назад</Translation>
+  </Entry>
+  <!--cloud-->
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_BACK_BUTTON</zType>
+    <Translation>Назад</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_KICK_ACTIVE_PLAYER</zType>
+    <Translation>Исключить активного игрока</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_DOWNLOAD_SAVE</zType>
+    <Translation>Скачать</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_DELETE_GAME</zType>
+    <Translation>Удалить</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_USER_TITLE</zType>
+    <Translation>Игры в облаке</Translation>
+  </Entry>
+  <!--MP wizard screen-->
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_TITLE</zType>
+    <Translation>
+			Выбрать режим мультиплеера
+		</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_NETWORK_MODE</zType>
+    <Translation>Играть против реальных соперников в режиме реального времени</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_PLAY_BY_CLOUD_MODE</zType>
+    <Translation>Сохранять ходы в облаке для следующего игрока</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_HOTSEAT_MODE</zType>
+    <Translation>Играть на одном устройстве</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_SERVER_MODE</zType>
+    <Translation>Хост на удаленном сервере</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_NETWORK_MODE_BUTTON</zType>
+    <Translation>По сети</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_PLAY_BY_CLOUD_MODE_BUTTON</zType>
+    <Translation>В облаке</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_HOTSEAT_MODE_BUTTON</zType>
+    <Translation>Хотсит</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_SERVER_MODE_BUTTON</zType>
+    <Translation>Сервер</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_BACK_BUTTON</zType>
+    <Translation>Назад</Translation>
+  </Entry>
+  <!--multiplayer games screen-->
+  <Entry>
+    <zType>TEXT_MP_GAME_SCREEN_BUTTON</zType>
+    <Translation>Мультиплеер</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_GAME_SCREEN_BROWSER_BUTTON</zType>
+    <Translation>Обзор игры</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_GAME_SCREEN_TEAM_NAME</zType>
+    <Translation>Команда {0}</Translation>
+  </Entry>
+  <!--multiplayer servers screen-->
+  <Entry>
+    <zType>TEXT_MP_SERVERS_SCREEN_TITLE</zType>
+    <Translation>Серверы</Translation>
+  </Entry>
+  <!--games header in multiplayer-->
+  <Entry>
+    <zType>TEXT_GAME_HEADER_NAME_CELL</zType>
+    <Translation>Имя</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_HEADER_PLAYERS_CELL</zType>
+    <Translation>Игроки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_HEADER_SERVER_CELL</zType>
+    <Translation>Сервер</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_HEADER_VERSION_CELL</zType>
+    <Translation>Версия</Translation>
+  </Entry>
+  <!--multiplayer-->
+  <Entry>
+    <zType>TEXT_MP_PLAYERS_SCREEN_OBSERVE_BUTTON</zType>
+    <Translation>Наблюдать</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_PLAYERS_SCREEN_BACK_BUTTON</zType>
+    <Translation>Назад</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_PLAYER_CONNECTED</zType>
+    <Translation>{0} присоединяется к серверу</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_PLAYER_DISCONNECTED</zType>
+    <Translation>{0} покидает сервер</Translation>
+  </Entry>
+  <!--tools-->
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_BUTTON</zType>
+    <Translation>Редактор карт</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_GENERIC_NATION</zType>
+    <Translation>Общее</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_VOLCANO</zType>
+    <Translation>Вулканы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_MOUNTAIN_RANGE</zType>
+    <Translation>Горные цепи</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_PEAK</zType>
+    <Translation>Вершины</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_RIVER</zType>
+    <Translation>Реки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_FOREST</zType>
+    <Translation>Леса</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_HEATH</zType>
+    <Translation>Болота</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_PLAINS</zType>
+    <Translation>Равнины</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_DESERT</zType>
+    <Translation>Пустыни</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_PLATEAU</zType>
+    <Translation>Нагорье</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_VALLEY</zType>
+    <Translation>Долины</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_OCEAN</zType>
+    <Translation>Океаны</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_SEA</zType>
+    <Translation>Моря</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_BAY</zType>
+    <Translation>Бухты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_LAKE</zType>
+    <Translation>Озера</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_ISLAND</zType>
+    <Translation>Острова</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_EVENT_BROWSER_BUTTON</zType>
+    <Translation>Обзор событий</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_ENCYCLOPEDIA_BUTTON</zType>
+    <Translation>Энциклопедия</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_BACK_BUTTON</zType>
+    <Translation>Назад</Translation>
+  </Entry>
+  <!--minimap.xml-->
+  <!--mini map-->
+  <Entry>
+    <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_NO_OVERLAY</zType>
+    <Translation>Без оверлея</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_ZOC</zType>
+    <Translation>Зона контроля [X]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_DANGER</zType>
+    <Translation>Опасность [C]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_CONNECTIONS</zType>
+    <Translation>Связи со столицей [V]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_IDLEUNITS</zType>
+    <Translation>Свободные отряды [B]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_TILERES</zType>
+    <Translation>Ресурсы клетки [N]</Translation>
+  </Entry>
+  <!--mp-setup-screen.xml-->
+  <!--multiplayer setup screen-->
+  <Entry>
+    <zType>TEXT_MP_SETUP_SEC_BUTTON_BACK</zType>
+    <Translation>Назад</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_SEC_BUTTON_ADVANCED</zType>
+    <Translation>Расписание</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_VICTORY</zType>
+    <Translation>Победа</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_TITLE_LABEL_HOSTG</zType>
+    <Translation>Хост</Translation>
+  </Entry>
+  <!--servers-->
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SERVERPASSWORD</zType>
+    <Translation>Пароль сервера</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_OPTIONS_LABEL_SERVERS</zType>
+    <Translation>Серверы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_OPTIONS_LABEL_GAME_MODE</zType>
+    <Translation>Режим игры</Translation>
+  </Entry>
+  <!--network-->
+  <Entry>
+    <zType>TEXT_MP_SETUP_OPTIONS_LABEL_NETWORK</zType>
+    <Translation>Сеть</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_OPTIONS_LABEL_PLAY_BY_CLOUD</zType>
+    <Translation>Игра в облаке</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_OPTIONS_LABEL_HOTSEAT</zType>
+    <Translation>Хотсит</Translation>
+  </Entry>
+  <!--game options-->
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_GAMENAME</zType>
+    <Translation>Имя игры</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_GAMEPASSWORD</zType>
+    <Translation>Пароль</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_HOSTPASSWORD</zType>
+    <Translation>Пароль хоста</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_PLAYERS</zType>
+    <Translation>Игроки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TEAMS</zType>
+    <Translation>Команды</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TRIBAL_STRENGTH</zType>
+    <Translation>Сила племен</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_AI_AGGRESSION</zType>
+    <Translation>Агрессия ИИ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_AI_DEVELOPMENT</zType>
+    <Translation>Развитие ИИ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SUCCESSION</zType>
+    <Translation>Пол наследников</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SUCCESSION_ORDER</zType>
+    <Translation>Порядок наследования</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MORTALITY</zType>
+    <Translation>Смертность</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_EVENTLEVEL</zType>
+    <Translation>Уровень событий</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TURNTIMER</zType>
+    <Translation>Таймер хода</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TURNSTYLE</zType>
+    <Translation>Тип хода</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TURN_SCALE</zType>
+    <Translation>Масштаб хода</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SIMULTURNS</zType>
+    <Translation>Одновременные ходы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TEAM_NATIONS</zType>
+    <Translation>Нации</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_VICTORY</zType>
+    <Translation>Победа</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAPTYPE</zType>
+    <Translation>Тип карты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAPTYPE_RANDOM</zType>
+    <Translation>Случайная карта</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAPTYPE_PREMADE</zType>
+    <Translation>Готовая карта</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAP</zType>
+    <Translation>Карта</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAP_FILE</zType>
+    <Translation>Файл карты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAP_SIZE</zType>
+    <Translation>Размер карты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SEED</zType>
+    <Translation>Шаблон карты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_SHOW_HIDDEN_SCRIPTS</zType>
+    <Translation>Отобразить скрытые скрипты карты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_USE_OTHER_MODS</zType>
+    <Translation>Моды</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_BUTTON_LABEL_MOD_SELECTION</zType>
+    <Translation>Выбрать моды</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_MOD_SELECTION_TITLE</zType>
+    <Translation>Моды</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_MOD_SELECTION_CUSTOM_OPTIONS_LABEL</zType>
+    <Translation>Пользовательские настройки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_HUMAN</zType>
+    <Translation>Человек</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_AI</zType>
+    <Translation>ИИ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_INVALID_START</zType>
+    <Translation>Невозможно начать игру</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_INVALID_START_NATIONS</zType>
+    <Translation>Включена опция "Нации не дублируются", но игроков больше, чем уникальных наций, либо нации повторяются</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_INVALID_START_MAP</zType>
+    <Translation>выбрана опция "Готовая карта", но файл карты не определен</Translation>
+  </Entry>
+  <!-- players-->
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_NAME</zType>
+    <Translation>Имя</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_NATION</zType>
+    <Translation>Нация</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_DIFFICULTY</zType>
+    <Translation>Сложность</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_TEAM</zType>
+    <Translation>Команда</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_CONTROL</zType>
+    <Translation>Управление</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_EMAIL</zType>
+    <Translation>Email</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_USERNAME</zType>
+    <Translation>Имя пользователя</Translation>
+  </Entry>
+  <!-- schedule-->
+  <Entry>
+    <zType>TEXT_MP_SETUP_SCHEDULE_NETWORKPOST</zType>
+    <Translation>Порт</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_START</zType>
+    <Translation>Приостановить начало</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_END</zType>
+    <Translation>Приостановить конец</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_ADD</zType>
+    <Translation>Добавить паузу</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_CLEAR</zType>
+    <Translation>Очистить список пауз</Translation>
+  </Entry>
+  <!--options-menu.xml-->
+  <!--title bar-->
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_TITLEBAR_GENERAL</zType>
+    <Translation>Общие</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_TITLEBAR_GRAPHICS</zType>
+    <Translation>Видео</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_TITLEBAR_AUDIO</zType>
+    <Translation>Аудио</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_TITLEBAR_UI</zType>
+    <Translation>Интерфейс</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_TITLEBAR_ACCESSIBILITY</zType>
+    <Translation>Доступность</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_TITLEBAR_CONTROLS</zType>
+    <Translation>Управление</Translation>
+  </Entry>
+  <!--<Entry>
+		<zType>TEXT_OPTIONS_MENU_TITLEBAR_COLORS</zType>
+		<Translation>Colors</Translation>
+	</Entry>-->
+  <!--controls-->
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_CONTROLS_SAVE</zType>
+    <Translation>Сохранить</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_CONTROLS_RESET</zType>
+    <Translation>Сбросить</Translation>
+  </Entry>
+  <!--scenario-setup-screen.xml -->
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_NEWSCENARIO</zType>
+    <Translation>Новый сценарий</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_PLAYERNAME</zType>
+    <Translation>Имя игрока</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_SCENARIO</zType>
+    <Translation>Сценарии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_NATION</zType>
+    <Translation>Нация</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_OPPONENTS</zType>
+    <Translation>Оппоненты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_OPPONENT_NATIONS</zType>
+    <Translation>Нации оппонентов: {LIST}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_TRIBE</zType>
+    <Translation>Племена</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_DIFFICULTY</zType>
+    <Translation>Сложность</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_TURN_SCALE</zType>
+    <Translation>Масштаб хода</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_SHOW_OPTIONS</zType>
+    <Translation>Показать настройки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_SHOW_DESC</zType>
+    <Translation>Показать описание</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_FILE_BROWSE</zType>
+    <Translation>Выбрать</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_FILE_LOADED</zType>
+    <Translation>{0} загружено</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_STARTGAME</zType>
+    <Translation>Начать игру</Translation>
+  </Entry>
+  <!--sp-setup-screen.xml-->
+  <!--tabs-->
+  <Entry>
+    <zType>TEXT_SP_SETUP_TABS_BIO</zType>
+    <Translation>Биография</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_TABS_STATS</zType>
+    <Translation>Характеристики</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_TABS_SETUP_SIMPLE</zType>
+    <Translation>Базовые настройки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_TABS_SETUP_ADVANCED</zType>
+    <Translation>Расширенные настройки</Translation>
+  </Entry>
+  <!--stats-->
+  <Entry>
+    <zType>TEXT_SP_SETUP_STATS_STARTSWITH</zType>
+    <Translation>Начальные технологии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_TABS_SETUP_UNIQUE</zType>
+    <Translation>Уникальные отряды и сооружения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_TABS_SETUP_FAMILIES</zType>
+    <Translation>Семьи</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_TABS_SETUP_ARCHETYPE</zType>
+    <Translation>Архетип правителя</Translation>
+  </Entry>
+  <!--random-->
+  <Entry>
+    <zType>TEXT_SP_SETUP_RANDOM</zType>
+    <Translation>Случайно</Translation>
+  </Entry>
+  <!--simple-->
+  <Entry>
+    <zType>TEXT_SP_SETUP_SIMPLE_DIFFICULTY</zType>
+    <Translation>Сложность</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_SIMPLE_MAPTYPE</zType>
+    <Translation>Тип карты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_SIMPLE_RANDOM_MAP</zType>
+    <Translation>Случайная карта</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_SIMPLE_PREMADE_MAP</zType>
+    <Translation>Готовая карта</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_SIMPLE_MAPSIZE</zType>
+    <Translation>Размер карты</Translation>
+  </Entry>
+  <!--advanced-->
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_NATION</zType>
+    <Translation>Нация</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_NUMOPPS</zType>
+    <Translation>Количество оппонентов</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_NUMOPPS_OPTION</zType>
+    <Translation><![CDATA[{0_count} <singular_0>оппонент<plural>оппонента<plural2>оппонентов<end>]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_MORTALITY</zType>
+    <Translation>Смертность</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_TURN_SCALE</zType>
+    <Translation>Масштаб хода</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_EVENTLEVEL</zType>
+    <Translation>Уровень событий</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_SUCCESSION</zType>
+    <Translation>Пол наследников</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_SUCCESSION_ORDER</zType>
+    <Translation>Порядок наследования</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_DIFFICULTY</zType>
+    <Translation>Сложность</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_TRIBE_LEVEL</zType>
+    <Translation>Сила племен</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_AI_AGGRESSION</zType>
+    <Translation>Агрессия ИИ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_AI_DEVELOPMENT</zType>
+    <Translation>Развитие ИИ</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_SEED</zType>
+    <Translation>Шаблон карты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_SHOW_HIDDEN_SCRIPTS</zType>
+    <Translation>Отобразить скрытые скрипты карты</Translation>
+  </Entry>
+  <!--tab-panel.xml-->
+  <!--character tab-->
+  <Entry>
+    <zType>TEXT_TAB_PANEL_CHARTAB_COURT</zType>
+    <Translation>Царский двор</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_CHARTAB_CHARACTERS</zType>
+    <Translation>Персонажи</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_CHARTAB_SPOUSE</zType>
+    <Translation>Супруг(а)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_CHARTAB_HEIRS</zType>
+    <Translation>Наследники</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_CHARTAB_COURT_COURTIERS</zType>
+    <Translation>Придворные</Translation>
+  </Entry>
+  <!--relationships tab-->
+  <Entry>
+    <zType>TEXT_TAB_PANEL_RELATIONSTAB_RELIGIONS</zType>
+    <Translation>Религии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_RELATIONSTAB_FAMILIES</zType>
+    <Translation>Семьи</Translation>
+  </Entry>
+  <!--diplomacy tab-->
+  <Entry>
+    <zType>TEXT_TAB_PANEL_DIPLOTAB_EMPIRES</zType>
+    <Translation>Империи</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_DIPLOTAB_TRIBES</zType>
+    <Translation>Племена</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_DIPLOTAB_CITIES</zType>
+    <Translation>Города{true_0: (по {0,2_filter})}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_DIPLOTAB_AGENTS</zType>
+    <Translation>Города под наблюдением{true_0: (по {0,2_filter})}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITYSORT_PRODUCTION</zType>
+    <Translation>Продукция~продукции~продукции</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITYSORT_GOVERNOR</zType>
+    <Translation>Статус наместника~статуса наместника~статусу наместника</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITYSORT_FAMILY</zType>
+    <Translation>Семьи~семей~семьям</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITYSORT_RELIGION</zType>
+    <Translation>Религия~религии~религии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITYSORT_POPULATION</zType>
+    <Translation>Население (горожане + специалисты)~населения (горожане + специалисты)~населению (горожане + специалисты)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITYTAB_CITIES_MODE</zType>
+    <Translation>Показать ваши города</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITYTAB_AGENTS_MODE</zType>
+    <Translation>Показать города link(CONCEPT_AGENT_NETWORK,1)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_DIPLOTAB_UNITS</zType>
+    <Translation>Отряды</Translation>
+  </Entry>
+  <!--tolltips.xml-->
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_REQUIREMENTS</zType>
+    <Translation>Требования</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_COST</zType>
+    <Translation>Строительство</Translation>
+  </Entry>
+  <!--unit info-->
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_UNLOCKBONUS</zType>
+    <Translation>Открыть бонус</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_EFFECT</zType>
+    <Translation>Эффект</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_UNLOCKS</zType>
+    <Translation>Открывает</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_REQUIRES</zType>
+    <Translation>Требуется:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_BONUSCARDS</zType>
+    <Translation>Бонусные карты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_RESEARCHING</zType>
+    <Translation>Исследование</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_AVAILABLE</zType>
+    <Translation>Доступно</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_DRAWPILE</zType>
+    <Translation>Колода</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_DISCARDPILE</zType>
+    <Translation>Сброс</Translation>
+  </Entry>
+  <!--top-bar.xml-->
+  <Entry>
+    <zType>TEXT_TOP_BAR_BUY</zType>
+    <Translation>Купить</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOP_BAR_SELL</zType>
+    <Translation>Продать</Translation>
+  </Entry>
+  <!--city-list.xml-->
+  <Entry>
+    <zType>TEXT_CITY_LIST_CITIES</zType>
+    <Translation>Города</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_PRODUCTION</zType>
+    <Translation>Продукция~продукции~продукции</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_GOVERNOR</zType>
+    <Translation>Наместник~Наместника~Наместнику~Наместника~Наместником~Наместнике</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_FAMILY</zType>
+    <Translation>Семья</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_RELIGION</zType>
+    <Translation>Религия</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_POPULATION</zType>
+    <Translation>Население~Населения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_SORT</zType>
+    <Translation><![CDATA[<TEXT_HOTKEY_LEFT_CLICK> — сортировать по {0,2_yield}]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_SORT_LEVEL</zType>
+    <Translation><![CDATA[<TEXT_HOTKEY_CTRL_CLICK> — сортировать по уровню {0,1_yield}]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_SORT_DIRECTION</zType>
+    <Translation><![CDATA[<TEXT_HOTKEY_LEFT_CLICK> — изменить порядок сортировки]]></Translation>
+  </Entry>
+  <!-- popup-victory.xml-->
+  <Entry>
+    <zType>TEXT_UI_VICTORY_SCREEN_GOALS</zType>
+    <Translation><![CDATA[<true_0>Амбиции и счет<false>Счет<end>]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_VICTORY_SCREEN_PROGRESS</zType>
+    <Translation>Путь к победе</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_VICTORY_SCREEN_SCENARIO</zType>
+    <Translation>О сценарии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_VICTORY_CURRENT_LEADER</zType>
+    <Translation>Текущий лидер:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_VICTORY_TIME_PROGRESS</zType>
+    <Translation>Осталось ходов: {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_VICTORY_CONQUEST_PROGRESS</zType>
+    <Translation>Осталось команд соперников: {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_VICTORY_DOUBLE_PROGRESS</zType>
+    <Translation>Требуется очков: {0}</Translation>
+  </Entry>
+  <!--overview-map.xml-->
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_MAPOPTIONS</zType>
+    <Translation>Настройки карты</Translation>
+  </Entry>
+  <!--appears on hover-->
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_REGION</zType>
+    <Translation>Страна</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_BORDERS</zType>
+    <Translation>Границы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_TRADENETWORK</zType>
+    <Translation>Торговая сеть~Торговой сети~Торговой сети~Торговую сеть~Торговой сетью~Торговой сети</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_DANGER</zType>
+    <Translation>Опасность</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_ZOC</zType>
+    <Translation>Зона контроля</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_MARKERS</zType>
+    <Translation>Маркеры</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_UNITS</zType>
+    <Translation>Отряды</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_RESOURCES</zType>
+    <Translation>Ресурсы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_CITYSITES</zType>
+    <Translation>link(IMPROVEMENT_CITY_SITE,6)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_OTHER</zType>
+    <Translation>Другие</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_WORLDEXTENTS</zType>
+    <Translation>Размер мира</Translation>
+  </Entry>
+  <!--popup-inheritance.xml-->
+  <Entry>
+    <zType>TEXT_POPUP_INHERITANCE</zType>
+    <Translation>Наследование</Translation>
+  </Entry>
+  <!--unit-list.xml-->
+  <Entry>
+    <zType>TEXT_UNIT_LIST</zType>
+    <Translation>Список отрядов</Translation>
+  </Entry>
+  <!--tech-tree.xml-->
+  <Entry>
+    <zType>TEXT_TECH_TREE_TECHS</zType>
+    <Translation>Дерево технологий</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_TECHS_COMPACT</zType>
+    <Translation>Мини-дерево</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_SHOW_NAMES</zType>
+    <Translation>Отобразить названия</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_SHOW_NAMES_TOOLTIP</zType>
+    <Translation>Зажмите [ALT], чтобы увидеть названия технологий</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_TECHS_FULL</zType>
+    <Translation>Подробное дерево</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_COMPLETED</zType>
+    <Translation>Завершено</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_LOCKED</zType>
+    <Translation>Недоступно</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_RESEARCHING</zType>
+    <Translation>Исследование</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_AVAILABLE</zType>
+    <Translation>Доступно</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_DISCARD</zType>
+    <Translation>Сброс</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_DECK</zType>
+    <Translation>В колоде</Translation>
+  </Entry>
+  <!--selected-worker.xml-->
+  <Entry>
+    <zType>TEXT_SELECTED_WORKER_TURN</zType>
+    <Translation>Ход</Translation>
+  </Entry>
+  <!--selected-unit.xml-->
+  <Entry>
+    <zType>TEXT_SELECTED_UNIT_UPGRADE</zType>
+    <Translation>Улучшить</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SELECTED_UNIT_TURN</zType>
+    <Translation>Ход</Translation>
+  </Entry>
+  <!--selected-city.xml-->
+  <Entry>
+    <zType>TEXT_SELECTED_CITY_CHOOSE</zType>
+    <Translation>Выбрать производство</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SELECTED_CITY_QUEUE</zType>
+    <Translation>Очередь</Translation>
+  </Entry>
+  <!--selected-character.xml-->
+  <Entry>
+    <zType>TEXT_SELECTED_CHARACTER_ACTIONS</zType>
+    <Translation>Действия</Translation>
+  </Entry>
+  <!--religion-tree.xml-->
+  <Entry>
+    <zType>TEXT_RELIGION_TREE_STATE_RELIGIONS</zType>
+    <Translation>Государственные религии</Translation>
+  </Entry>
+  <!--popup-victory.xml-->
+  <Entry>
+    <zType>TEXT_POPUP_VICTORY_CONDITIONS</zType>
+    <Translation>Условия победы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_VICTORY_PROGRESS</zType>
+    <Translation>Путь к победе</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_VICTORY_SCENARIO</zType>
+    <Translation>О сценарии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_VICTORY_AMBITIONS</zType>
+    <Translation>Амбиции</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_VICTORY_SCORE</zType>
+    <Translation>Счет</Translation>
+  </Entry>
+  <!--popup-pings.xml-->
+  <Entry>
+    <zType>TEXT_POPUP_PINGS_SUBMIT</zType>
+    <Translation>Предложить</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_PINGS_CANCEL</zType>
+    <Translation>Отмена</Translation>
+  </Entry>
+  <!--popup-laws.xml-->
+  <Entry>
+    <zType>TEXT_POPUP_LAWS</zType>
+    <Translation>Законы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_LAWS_LAW_FAMILY_OPINION</zType>
+    <Translation>{0} {1}</Translation>
+  </Entry>
+  <!--popup-input.xml-->
+  <Entry>
+    <zType>TEXT_POPUP_INPUT_TITLE</zType>
+    <Translation>Заголовок</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_INPUT_DESC</zType>
+    <Translation>Описание</Translation>
+  </Entry>
+  <!--popup-default.xml-->
+  <Entry>
+    <zType>TEXT_POPUP_DEFAULT_TITLE</zType>
+    <Translation>Заголовок</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_DEFAULT_DESC</zType>
+    <Translation>Описание</Translation>
+  </Entry>
+  <!--leader-info.xml-->
+  <Entry>
+    <zType>TEXT_LEADER_INFO_QUESTS</zType>
+    <Translation>Задания:</Translation>
+  </Entry>
+  <!--help-screen.xml-->
+  <Entry>
+    <zType>TEXT_HELP_SCREEN_TOGGLE_ALPHA_SORT</zType>
+    <Translation><![CDATA[<true_0>Отключить<false>Включить<end> сортировку по алфавиту]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELP_SCREEN_STATS_HP</zType>
+    <Translation>HP</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELP_SCREEN_STATS_MOV</zType>
+    <Translation>MOV</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELP_SCREEN_STATS_STR</zType>
+    <Translation>STR</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELP_SCREEN_STATS_RNG</zType>
+    <Translation>RNG</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELP_SCREEN_STATS_VIS</zType>
+    <Translation>VIS</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELP_SCREEN_OTHER</zType>
+    <Translation>Другие</Translation>
+  </Entry>
+  <!--game-log.xml-->
+  <Entry>
+    <zType>TEXT_GAME_LOG</zType>
+    <Translation>История развития: {0_turnScale} {1_turn}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG_LEADERS</zType>
+    <Translation>Правители</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG_LOG</zType>
+    <Translation>Журнал извещений</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG_TOGGLE_FOG</zType>
+    <Translation>Отобразить туман</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG_EXPORT</zType>
+    <Translation>Экспортировать GIF</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG_SHOW_MAP</zType>
+    <Translation>Отобразить карту</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG_SHOW_TREE</zType>
+    <Translation>Отобразить семейное древо</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG_TIMELINE</zType>
+    <Translation>Хронология</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG_DEBUG</zType>
+    <Translation>Журнал отладки</Translation>
+  </Entry>
+  <!--family-list.xml-->
+  <Entry>
+    <zType>TEXT_FAMILY_LIST</zType>
+    <Translation>Семьи</Translation>
+  </Entry>
+  <!--cycle-idle.xml-->
+  <Entry>
+    <zType>TEXT_CYCLE_IDLE_BUY</zType>
+    <Translation>Купить</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CYCLE_IDLE_SELL</zType>
+    <Translation>Продать</Translation>
+  </Entry>
+  <!--event-editor-bar-option.xml-->
+  <Entry>
+    <zType>TEXT_EVENT_EDITOR_BAR_MF</zType>
+    <Translation>М/Ж</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENT_EDITOR_BAR_GO</zType>
+    <Translation>ГОТОВО</Translation>
+  </Entry>
+  <!--choose-research.xml-->
+  <Entry>
+    <zType>TEXT_CHOOSE_RESEARCH_TREE</zType>
+    <Translation>Показать дерево технологий</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHOOSE_RESEARCH_UNLOCKS</zType>
+    <Translation>Открывает</Translation>
+  </Entry>
+  <!--choose-character.xml-->
+  <Entry>
+    <zType>TEXT_CHOOSE_CHARACTER</zType>
+    <Translation>Выбрать</Translation>
+  </Entry>
+  <!--character-list.xml-->
+  <Entry>
+    <zType>TEXT_CHARACTER_LIST</zType>
+    <Translation>Персонажи</Translation>
+  </Entry>
+  <!--barbarian-list.xml-->
+  <Entry>
+    <zType>TEXT_TRIBE_LIST</zType>
+    <Translation>Племена</Translation>
+  </Entry>
+  <!--ai-log.xml-->
+  <Entry>
+    <zType>TEXT_DEBUG_LOG</zType>
+    <Translation>Журнал отладки</Translation>
+  </Entry>
+  <!--comparisonportrait-->
+  <Entry>
+    <zType>TEXT_POPUP_INHERITANCE_CURRENTHEIR</zType>
+    <Translation>Текущий наследник</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_INHERITANCE_NEWHEIR</zType>
+    <Translation>Новый наследник</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_INHERITANCE_CURRENTLAW</zType>
+    <Translation>Текущий закон</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_INHERITANCE_CHOOSELAW</zType>
+    <Translation>Выбрать закон</Translation>
+  </Entry>
+  <!--toprightwidget-->
+  <Entry>
+    <zType>TEXT_POPUP_INHERITANCE_WIDGET_CHANGELAWS</zType>
+    <Translation>Изменить законы</Translation>
+  </Entry>
+  <!--city-widget-->
+  <Entry>
+    <zType>TEXT_WIDGET_CITY_IDLE</zType>
+    <Translation>Свободный~Свободного~Свободному~Свободный~Свободным~Свободном~Свободные~Свободных~Свободным~Свободные~Свободными~Свободных</Translation>
+  </Entry>
+  <!--selected-decision-->
+  <Entry>
+    <zType>TEXT_AMBITION_SKIP_DECISION</zType>
+    <Translation>Мне сейчас ничего не хочется.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_FAMILY_DECISION</zType>
+    <Translation>{0_family} ({1_class}, {2_opinion}, {singular_3:1 город:{3} города: {3} городов})</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_CAPITAL_FAMILY_DECISION</zType>
+    <Translation>{0_family} ({1_class})</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_UPGRADE_DECISION_RATING</zType>
+    <Translation>Модернизация: +1 {0_ratingtype} (с {1_startrating} до {2_endrating})</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_UPGRADE_DECISION_TRAIT</zType>
+    <Translation>Модернизация: {0_trait}</Translation>
+  </Entry>
+  <!-- tech tree-->
+  <Entry>
+    <zType>TEXT_TECH_TREE_OVERRIDE_CURRENT_RESEARCH</zType>
+    <Translation><![CDATA[<TEXT_HOTKEY_CTRL_CLICK> — изменить исследование]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_OVERRIDE_TARGET_RESEARCH</zType>
+    <Translation><![CDATA[<TEXT_HOTKEY_LEFT_CLICK> — установить цель]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_BONUS_CARD_DISCARDED</zType>
+    <Translation>Немедленное удаление при сбросе</Translation>
+  </Entry>
+  <!-- Main Menu-->
+  <Entry>
+    <zType>TEXT_MAIN_MENU_ACTIVE_MODS</zType>
+    <Translation><![CDATA[Активные <color=#e3c08ccc>моды</color>]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAIN_MENU_CURRENT_GAMES</zType>
+    <Translation>Активные игры</Translation>
+  </Entry>
+  <!--MPSetupScreenPanel-->
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_START_GAME</zType>
+    <Translation>Начать игру</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_UNPAUSE_GAME</zType>
+    <Translation>Продолжить игру</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_PAUSE_GAME</zType>
+    <Translation>Приостановить игру</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_UNLOAD_GAME</zType>
+    <Translation>Выгрузить игру</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_LOAD_GAME</zType>
+    <Translation>Загрузить игру</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_SAVE_GAME</zType>
+    <Translation>Сохранить игру</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_WAITING_FOR_GAME_START</zType>
+    <Translation>Ожидание начала игры</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_STATUS_ACTIVE_TURN</zType>
+    <Translation>Время хода: {0_time}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_STATUS_PAUSE</zType>
+    <Translation>Приостановить: {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_STATUS_UNPAUSE</zType>
+    <Translation>Продолжить: {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_NEW_GAME_NAME</zType>
+    <Translation>Новая игра</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_PICK_NATION_AT_SETTLE</zType>
+    <Translation>Выбрать нацию при основании первого города</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_GAME_PICKS_NATION</zType>
+    <Translation>Позволить игре выбрать нацию за вас</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_START_SIMULTANEOUS_TURNS</zType>
+    <Translation>Играть первые ходы одновременно</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_START_TURN_SCALE</zType>
+    <Translation>{0_turnScale} каждый ход</Translation>
+  </Entry>
+  <!--OptionsMenuPanel-->
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_SKIP_ALL</zType>
+    <Translation>отсутствует</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_WAR</zType>
+    <Translation>Война~войны~войне~войну~войной~войне</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_WAR_OR_TRUCE</zType>
+    <Translation>Война или перемирие</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_ALL</zType>
+    <Translation>Все</Translation>
+  </Entry>
+  <!--Mods Screen (mod-manager.xml)-->
+  <Entry>
+    <zType>TEXT_UI_MODS_POWERED_BY_MODIO_TOOLTIP</zType>
+    <Translation>При поддержке mod.io</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_BACK_TO_MENU</zType>
+    <Translation>Главное меню</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_TITLE</zType>
+    <Translation>Моды</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MANAGE_TAB</zType>
+    <Translation>Управление</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_INSTALL_TAB</zType>
+    <Translation>Установка</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_UPLOAD_TAB</zType>
+    <Translation>Загрузка</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_ALL</zType>
+    <Translation>Все</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_SINGLEPLAYER</zType>
+    <Translation>Одиночная игра</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_MULTIPLAYER</zType>
+    <Translation>Мультиплеер</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_TRANSLATIONS</zType>
+    <Translation>Переводы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_MAPS</zType>
+    <Translation>Карты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_MAP_SCRIPTS</zType>
+    <Translation>Сценарии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_INCLUDE_INTERNAL_TOGGLE_LABEL</zType>
+    <Translation>Добавить внутренние</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_NEW_MOD_BUTTON</zType>
+    <Translation>Новый мод</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_RESOURCES</zType>
+    <Translation>Ресурсы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_VERSION_LABEL</zType>
+    <Translation>Версия мода:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_AUTHOR_LABEL</zType>
+    <Translation>Автор:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_HOMEPAGE_LABEL</zType>
+    <Translation>Домашняя страница:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_NAME_LABEL</zType>
+    <Translation>Название мода:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_FILENAME_LABEL</zType>
+    <Translation>Имя файла:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_PICTURE_LABEL</zType>
+    <Translation>Изображение мода:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_DESCRIPTION_LABEL</zType>
+    <Translation>Описание:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_CHANGELOG_LABEL</zType>
+    <Translation>Изменения:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_CHANGELOG_LABEL_TOOLTIP</zType>
+    <Translation>Этот текст появится на сайте mod.io и в уведомлениях бота Discord</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_SINGLEPLAYER_TOGGLE_LABEL</zType>
+    <Translation>Одиночная игра:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_MULTIPLAYER_TOGGLE_LABEL</zType>
+    <Translation>Мультиплеер:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_TRANSLATION_TOGGLE_LABEL</zType>
+    <Translation>Перевод:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_SINGLEPLAYER_TAG</zType>
+    <Translation>[Одиночная игра]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MULTIPLAYER_TAG</zType>
+    <Translation>[Мультиплеер]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_TRANSLATION_TAG</zType>
+    <Translation>[Перевод]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MAP_TAG</zType>
+    <Translation>[Карта]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MAP_SCRIPT_TAG</zType>
+    <Translation>[Сценарий]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_FILES</zType>
+    <Translation>Файлы:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_ADD_FILES</zType>
+    <Translation>Добавить файлы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_DEPENDENCIES</zType>
+    <Translation>Исходные данные:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_INCOMPATIBILITIES</zType>
+    <Translation>Несовместимость:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_DEPENDENCIES_TOOLTIP</zType>
+    <Translation>Для корректной работы этого мода требуется список модов. Они также будут загружены.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_INCOMPATIBILITIES_TOOLTIP</zType>
+    <Translation>Список модов, несовместимых с данным модом.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_RELATIONS_FORMAT_EXPLANATION</zType>
+    <Translation><![CDATA[каждый в формате: mod_name,modio_id,modfile_id,<br>где только поле mod_name обязательно. modio_id — это id для мода на mod.io. А modfile_id — это id особой версии файла.]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_OPEN_MOD_FOLDER_BUTTON</zType>
+    <Translation>Открыть папку с модом</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_SAVE_LOCAL_CHANGES_BUTTON</zType>
+    <Translation>Сохранить текущие изменения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_UPLOAD_BUILD_BUTTON</zType>
+    <Translation>Загрузить конфигурацию</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_CLEAR_MOD_SELECTION_BUTTON</zType>
+    <Translation>Очистить моды</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_REVERT_SELECTION_BUTTON</zType>
+    <Translation>Обратить выделение</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PLAY_WITH_MODS_BUTTON</zType>
+    <Translation>Играть с модами</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_INTERNAL_MOD</zType>
+    <Translation>{0_modName} (внутренний)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_CREATE_MOD_PROFILE_BUTTON</zType>
+    <Translation>Создать профиль мода</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UPDATE_MOD_PROFILE_BUTTON</zType>
+    <Translation>Обновить профиль</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UPDATE_MOD_BUTTON</zType>
+    <Translation>Обновить</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UNINSTALL_MOD_BUTTON</zType>
+    <Translation>Удалить</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_DOWNLOAD_MOD_BUTTON</zType>
+    <Translation>Скачать</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_REQUEST_ERROR_POPUP_TITLE</zType>
+    <Translation>Ошибка запроса</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_SECURITY_CODE_SENT_POPUP_TITLE</zType>
+    <Translation>Отправлен код безопасности</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_LOG_OUT_BUTTON</zType>
+    <Translation>Выйти</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_SIGN_IN_BUTTON</zType>
+    <Translation>Войти</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_UPDATE_VERSION_DIFF</zType>
+    <Translation>{0_modName} - текущ.: {1}, последн.: {2}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_UPDATE_MODS_POPUP_TITLE</zType>
+    <Translation>Обновить моды?</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MODS_UPDATED_CONFIRMED_POPUP_TITLE</zType>
+    <Translation>Моды обновлены</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_DOWNLOAD_COMPLETE_POPUP_TITLE</zType>
+    <Translation>Скачивание завершено</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_DOWNLOAD_COMPLETE_POPUP_BODY</zType>
+    <Translation>Скачивание завершено: {LIST}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_ENTER_EMAIL_POPUP_TITLE</zType>
+    <Translation>Введите Email</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_VALIDATION_ERROR_POPUP_TITLE</zType>
+    <Translation>Ошибка авторизации</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_ERROR_MOD_NOT_BLANK</zType>
+    <Translation>Имя мода не может быть пустым</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_ERROR_DUPLICATE_MOD_NAME</zType>
+    <Translation>Имя мода повторяется</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_ERROR_RESERVED_MOD_NAME_POPUP_TITLE</zType>
+    <Translation>Имя мода зарезервировано</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_ERROR_RESERVED_MOD_NAME_POPUP_BODY</zType>
+    <Translation>Имя мода "{0_modName}" зарезервировано только для внутреннего пользования</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UPDATING_MOD_PROFILE</zType>
+    <Translation>Обновление профиля мода...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UPLOADING_MOD_PROFILE</zType>
+    <Translation>Загрузка профиля мода...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UPLOADING_BUILD</zType>
+    <Translation>Загрузка конфигурации...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_HAS_NO_PROFILE_POPUP_TITLE</zType>
+    <Translation>У мода нет профиля</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_HAS_NO_PROFILE_POPUP_BODY</zType>
+    <Translation>Как вы хотите продолжить?</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_CREATE_NEW_MOD_PROFILE_POPUP_OPTION</zType>
+    <Translation>Создать новый профиль мода</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_PROFILE_CHANGES_COMPLETE_POPUP_TITLE</zType>
+    <Translation>Завершены изменения в профиле мода</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_FILE_UPLOADED_POPUP_TITLE</zType>
+    <Translation>Файл мода загружен</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_DEFAULT_DESCRIPTION</zType>
+    <Translation>Введите описание здесь...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_TITLE</zType>
+    <Translation>Набор модов</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_BODY</zType>
+    <Translation><![CDATA[Активны следующие моды:<br>{0_list}]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_NEW_GAME_SINGLEPLAYER_OR_MULTIPLAYER_POPUP_TITLE</zType>
+    <Translation>Одиночная игра или мультиплеер?</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_NEW_GAME_SINGLEPLAYER_POPUP_OPTION</zType>
+    <Translation>Одиночная игра</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_NEW_GAME_MULTIPLAYER_POPUP_OPTION</zType>
+    <Translation>Мультиплеер</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_LOGGED_OUT_TITLE</zType>
+    <Translation>Выход из системы успешен</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_CREATE_NEW_MOD_POPUP_TITLE</zType>
+    <Translation>Создать новый мод</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_CREATE_NEW_MOD_POPUP_BODY</zType>
+    <Translation>Введите имя мода</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_SAVE_LOCAL_CHANGES_TOOLTIP</zType>
+    <Translation>Сохранить локальные изменения в файле  {0_filename}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_SAVE_LOCAL_CHANGES_NOT_AVAILABLE_TOOLTIP</zType>
+    <Translation>Невозможно сохранить локальную информацию о модах для модов Map и MapScript, необходимо обновить/создать онлайн-профиль</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_CREATE_NEW_MOD_PROFILE_TOOLTIP</zType>
+    <Translation>Создайте новый профиль мода на mod.io</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UPDATE_MOD_PROFILE_TOOLTIP</zType>
+    <Translation>Обновите профиль модов на mod.io</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_PUBLISH_NEW_BUILD_TOOLTIP</zType>
+    <Translation>Создайте и опубликуйте новый профиль конфигурации для своего мода</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_VERSION_NOT_LATEST_TOOLTIP</zType>
+    <Translation><![CDATA[Версия устарела.<br>загружено: {0}<br>последняя: {1}]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UP_TO_DATE_TOOLTIP</zType>
+    <Translation>Скачана последняя версия!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_PICTURE_TOOLTIP</zType>
+    <Translation><![CDATA[Рекомендуется icon(bullet)1280x720 или больше<br>Рекомендуется icon(bullet)16:9<br>Максимум icon(bullet)8mb<br>icon(bullet)GIF будут конвертированы в PNG]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_LOAD_GAME_MODS_NOT_FOUND_POPUP_TITLE</zType>
+    <Translation>Моды не найдены!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_LOAD_GAME_MODS_NOT_FOUND_POPUP_BODY</zType>
+    <Translation>Эти моды не найдены в вашей система, вы хотите попробовать их скачать?</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_DOWNLOADING_MODS_POPUP_TITLE</zType>
+    <Translation>Загрузка модов. Пожалуйста, подождите.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MOD_DOWNLOADS_COMPLETE_POPUP_TRY_LOAD_AGAIN_BUTTON</zType>
+    <Translation>Попробуйте загрузить игру снова</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_NOT_FOUND_ON_SERVER_POPUP_TITLE</zType>
+    <Translation>Требуемые моды не были найдены на серверах mod.io</Translation>
+  </Entry>
+</Root>

@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+  <Entry>
+    <zType />
+    <English />
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_COMBAT1</zType>
+    <Translation>Бой I</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_COMBAT2</zType>
+    <Translation>Бой II</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_COMBAT3</zType>
+    <Translation>Бой III</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_STRIKE1</zType>
+    <Translation>Strike I</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_STRIKE2</zType>
+    <Translation>Strike II</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_STRIKE3</zType>
+    <Translation>Strike III</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_GUARD1</zType>
+    <Translation>Охрана I</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_GUARD2</zType>
+    <Translation>Охрана II</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_GUARD3</zType>
+    <Translation>Охрана III</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_FOCUS1</zType>
+    <Translation>Точность I</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_FOCUS2</zType>
+    <Translation>Точность II</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_FOCUS3</zType>
+    <Translation>Точность III</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_TRACKER</zType>
+    <Translation>Охотник</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_SWIFT</zType>
+    <Translation>Неуловимый</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_EAGLE_EYE</zType>
+    <Translation>Орлиный глаз</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_MARKSMAN</zType>
+    <Translation>Меткий стрелок</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_AMPHIBIOUS</zType>
+    <Translation>Десант</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_BESIEGER</zType>
+    <Translation>Осаждающий</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_GARRISON</zType>
+    <Translation>Гарнизон</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_TOUGH</zType>
+    <Translation>Закаленный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_BLOODTHIRSTY</zType>
+    <Translation>Кровожадный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_HECKLER</zType>
+    <Translation>Гроза полководцев</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_STEADFAST</zType>
+    <Translation>Непоколебимый</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_HERBALIST</zType>
+    <Translation>Травник</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_HEALER</zType>
+    <Translation>Лекарь</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_HIGHLANDER</zType>
+    <Translation>Горец</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_RANGER</zType>
+    <Translation>Странник</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_BRAVE</zType>
+    <Translation>Храбрый</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_SHIELDBEARER</zType>
+    <Translation>Щитоносец</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_FIERCE</zType>
+    <Translation>Свирепый</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_HORSEBANE</zType>
+    <Translation>Гроза всадников</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_ENGINEER</zType>
+    <Translation>Инженер</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_SHRAPNEL</zType>
+    <Translation>Осколки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_COCKSWAIN</zType>
+    <Translation>Рулевой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_GRAPPLER</zType>
+    <Translation>Захват</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_SEABORN</zType>
+    <Translation>Прирожденный моряк</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_OVERWHELM</zType>
+    <Translation>Затопление</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_FIRESHIP</zType>
+    <Translation>Брандер</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_LADING</zType>
+    <Translation>Lading</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_INGENUITY</zType>
+    <Translation>Искусность</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_SADDLEBORN</zType>
+    <Translation>Прирожденный всадник</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_SNIPING</zType>
+    <Translation>Снайпер</Translation>
+  </Entry>
+</Root>

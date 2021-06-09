@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Entry>
+    <zType />
+    <English />
+  </Entry>
+  <!-- Wizard: Event Story Helper -->
+  <Entry>
+    <zType>TEXT_EVENTEDITOR_STORY_NAME_BASE_DESC</zType>
+    <Translation>Уникальная база имен для этого события (например, FAMILY_SQUABBLE). Не включайте в эту строку EVENTSTORY_ .
+
+База имен автоматически получит префиксы EVENTSTORY_ и EVENTOPTION_ для создания zTypes.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTEDITOR_OPTION_NAME_BASES_DESC</zType>
+    <Translation><![CDATA[База имен для настроек этой истории. Они будут добавлены в zTypes после базы имен самой истории.<br><br>Если вы хотите добавить существующие опции или опции, имена которых рассчитаны иначе, просто добавьте здесь пустые элементы.]]></Translation>
+  </Entry>
+  <!-- Other -->
+  <Entry>
+    <zType>TEXT_EVENTEDITOR_GROUP_DESC</zType>
+    <Translation><![CDATA[Группа, к которой относится эта запись. Необходима для сортировки в browser/xml]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTEDITOR_SHOW_REFERENCES_DESC</zType>
+    <Translation><![CDATA[Отображает список информационных тегов, которые ссылаются на эту запись]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTEDITOR_SHOW_EVENT_ROOTS_DESC</zType>
+    <Translation><![CDATA[Отображает список событий, которые ссылаются на эту запись в другом месте иерархии]]></Translation>
+  </Entry>
+</Root>

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <!--Generic-->
+  <Entry>
+    <zType />
+    <English />
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_1</zType>
+    <Translation>Отряды в лесу получают бонус к защите против атак link(UNITTRAIT_RANGED,2).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_2</zType>
+    <Translation>Отряды на равнине уязвимы к атакам link(UNITTRAIT_MOUNTED,2).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_3</zType>
+    <Translation>link(UNITTRAIT_INFANTRY) link(UNITTRAIT_MELEE,7) может укрепиться, получив бонус к обороне, пока не переместится на другую клетку.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_4</zType>
+    <Translation>Сухопутные отряды могут быстро перемещаться по воде, которую контролируют ваши города и стоящие на якоре корабли.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_5</zType>
+    <Translation>Hold [V] to see your link(CONCEPT_TRADE_NETWORK) and Connections.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_6</zType>
+    <Translation>Запасы link(YIELD_TRAINING,1) icon(YIELD_TRAINING) не могут быть больше, чем int(MAX_TRAINING). Все излишки конвертируются в link(YIELD_ORDERS,6) icon(YIELD_ORDERS).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_7</zType>
+    <Translation>Каждую игру вы можете использовать 3 из 4-х доступных семей вашей нации. Поэкспериментируйте, чтобы выяснить, какие комбинации работают лучше всего!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_8</zType>
+    <Translation>Излишки link(YIELD_CIVICS,1) icon(YIELD_CIVICS) и link(YIELD_TRAINING,1) icon(YIELD_TRAINING) будут добавлены в национальный запас.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_9</zType>
+    <Translation>Если вы не хотите использовать все link(YIELD_ORDERS,6) icon(YIELD_ORDERS), то можете завершить ход, нажав клавишу [6].</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_10</zType>
+    <Translation>Ваши рабочие могут добывать дерево в соседних лесах. The trees will regrow in several years if they aren't completely removed.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_11</zType>
+    <Translation>If you don't have enough materials to start a Unit or Improvement, [ALT+Click] to automatically buy what you're missing (assuming you have enough link(YIELD_MONEY)icon(YIELD_MONEY)).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_12</zType>
+    <Translation>Создание сооружения на холме увеличит время строительства на 1 год.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_13</zType>
+    <Translation>link(TRIBE_BARBARIANS) враждебны ко всем нациям. При нападении на них и захвате их земель нет никаких дипломатических последствий. У них нет союзников, даже среди других link(TRIBE_BARBARIANS,1).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_14</zType>
+    <Translation>Если на ваших территориях мало link(YIELD_WOOD,1) icon(YIELD_WOOD), сосредоточьтесь на создании военных отрядов, требующих link(YIELD_STONE,3) icon(YIELD_STONE) или link(YIELD_IRON,3) icon(YIELD_IRON). Ограниченное количество link(YIELD_WOOD,1) icon(YIELD_WOOD) пойдет на создание сельских построек.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_15</zType>
+    <Translation>link(IMPROVEMENT_QUARRY,6), построенные рядом с горами, производят больше link(YIELD_STONE,1) icon(YIELD_STONE) за каждую соседнюю клетку с горой. link(IMPROVEMENT_QUARRY,6) также получают небольшой бонус при постройке в засушливой местности.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_16</zType>
+    <Translation>link(IMPROVEMENT_LUMBERMILL,6) производят больше link(YIELD_WOOD,1) icon(YIELD_WOOD) рядом с link(IMPROVEMENT_CAMP,4). Охотники следят за хищниками, прокладывают тропы в лесах и т.д.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_17</zType>
+    <Translation>Находясь в состоянии войны с несколькими противниками, вы можете испытать нехватку link(YIELD_ORDERS,7) icon(YIELD_ORDERS) для эффективного ведения войны на всех фронтах. Используйте дипломатию, чтобы это предотвратить.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_18</zType>
+    <Translation>Исследование технологии для создания link(IMPROVEMENT_LUMBERMILL,7) займет какое-то время. Возможно, придется посылать link(UNIT_WORKER,1) за пределы вашей территории для добычи link(YIELD_WOOD,1) icon(YIELD_WOOD) на клетках link(VEGETATION_TREES,7) и link(VEGETATION_SCRUB,7).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_19</zType>
+    <Translation>С ростом городов будет расти и потребление link(YIELD_FOOD,1) icon(YIELD_FOOD).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_20</zType>
+    <Translation>Улучшение отрядов обходится недешево, но оно позволит вам быстро нарастить военную мощь.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_21</zType>
+    <Translation>Дороги позволяют отрядам продвигаться дальше с каждым потраченным icon(YIELD_ORDERS) link(YIELD_ORDERS,4), особенно если link(CONCEPT_ROAD) проложена через труднопроходимую местность. They also extend your link(CONCEPT_TRADE_NETWORK).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_22</zType>
+    <Translation>link(UNITTRAIT_RANGED,2), атакующие с холмов, получают 1 дополнительную клетку к радиусу атаки, кроме случаев, когда их цель тоже находится на холмах.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_23</zType>
+    <Translation>Разместив свой военный отряд в центре захваченного города, вы станете его владельцем. Не оставляйте главную клетку без охраны – иначе город могут занять варвары или ваш соперник.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_24</zType>
+    <Translation>Увеличение количества link(YIELD_ORDERS,7) icon(YIELD_ORDERS) должно быть вашей главной целью. Чем больше территорий и подразделений вы контролируете, тем больше link(YIELD_ORDERS,7) icon(YIELD_ORDERS) потребуется для развития и защиты нации.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_25</zType>
+    <Translation>Сила каждого закона увеличивается с ростом вашей нации. Выбирая исследования, не пренебрегайте открытием новых законов.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_26</zType>
+    <Translation>Если город контролирует прибрежные клетки, то он может строить корабли.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_27</zType>
+    <Translation>link(UNIT_SCOUT) имеют большой радиус обзора. Они могут предоставить ценную информацию о силах и передвижениях противника.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_28</zType>
+    <Translation>Города, имеющие высокий уровень link(YIELD_GROWTH,1) icon(YIELD_GROWTH), создают новых link(UNIT_SETTLER,1), link(UNIT_WORKER,1) и link(UNIT_SCOUT,1) намного быстрее.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_29</zType>
+    <Translation>Скорость создания военных отрядов напрямую зависит от уровня link(YIELD_TRAINING,1) icon(YIELD_TRAINING) в городе.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_30</zType>
+    <Translation>Скорость создания проектов напрямую зависит от уровня link(YIELD_CIVICS,1) icon(YIELD_CIVICS) в городе.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_31</zType>
+    <Translation>link(CONCEPT_URBAN,20) специалистов можно развивать, значительно увеличивая производительность link(CONCEPT_URBAN,2) зданий.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_32</zType>
+    <Translation>Для сооружения большинства видов link(CONCEPT_URBAN,20) зданий требуется link(YIELD_STONE) icon(YIELD_STONE). По мере развития игры и открытия новых технологий потребность в link(YIELD_STONE,5) icon(YIELD_STONE) будет расти.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_33</zType>
+    <Translation>link(UNITTRAIT_RANGED,1) часто атакуют противника, не расходуя link(YIELD_ORDERS,6) icon(YIELD_ORDERS) для передвижения.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_34</zType>
+    <Translation>Вырубка link(YIELD_WOOD,1) icon(YIELD_WOOD) с link(VEGETATION_SCRUB,1) не расходует link(YIELD_ORDERS,6) icon(YIELD_ORDERS). Если вы перемещаете link(UNIT_WORKER,3) через клетку с link(VEGETATION_SCRUB,4) в другое место, вы можете собрать немного link(YIELD_WOOD,1) icon(YIELD_WOOD).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_35</zType>
+    <Translation>Отряды link(UNIT_MILITIA,1) и link(UNIT_CONSCRIPT,1) не могут быть повышены, зато для их производства вместо link(YIELD_TRAINING,1) icon(YIELD_TRAINING) используется link(YIELD_GROWTH) icon(YIELD_GROWTH). Города с высоким уровнем link(YIELD_GROWTH,1) icon(YIELD_GROWTH) могут создавать эти отряды гораздо быстрее.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_36</zType>
+    <Translation>link(UNITTRAIT_MOUNTED) обладает навыком link(CONCEPT_ROUT). При уничтожении вражеского отряда они занимают его место. Такое подразделение больше не сможет перемещаться, но по-прежнему способно атаковать другую цель поблизости.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_37</zType>
+    <Translation>Вы можете потратить link(YIELD_TRAINING,3) icon(YIELD_TRAINING) на повышение отрядов. Отряды, которые участвовали в бою и заработали опыт, требуют меньше link(YIELD_TRAINING,1) icon(YIELD_TRAINING) для повышения.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_38</zType>
+    <Translation>Племена — это не Нации. Во время войны их отряды представляют угрозу только вашим отрядам и территории. Конечно, если вы не разгневаете их настолько, что дело дойдет до вторжения...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_39</zType>
+    <Translation>Прибрежные города контролируют меньше суши, но и менее уязвимы для нападения.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_40</zType>
+    <Translation>Облака проливаются дождями, проходя над горами с более холодным воздухом. Поэтому с одной стороны гор местность имеет много лугов, в зависимости от направления ветра в регионе.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_41</zType>
+    <Translation>В начале хода разберитесь с произошедшими событиями. Для некоторых из них потребуются link(YIELD_ORDERS,6) icon(YIELD_ORDERS).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_42</zType>
+    <Translation>link(CONCEPT_ALLIANCE_TRIBE) позволяет вам основывать города поблизости без риска нападения с их стороны.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_43</zType>
+    <Translation>Запасы link(YIELD_CIVICS,1) icon(YIELD_CIVICS) не могут быть больше, чем int(MAX_CIVICS). Все излишки конвертируются в link(YIELD_SCIENCE,3) icon(YIELD_SCIENCE).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_44</zType>
+    <Translation>link(UNIT_WORKER), не излеченные до конца, строят на 1 ход дольше.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_45</zType>
+    <Translation>Зажмите [CTRL] и щелкните, чтобы уставшие отряды продолжали движение на "Марше".</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_46</zType>
+    <Translation>Удерживайте клавишу [Z], чтобы скрыть link(VEGETATION_TREES,6) и link(VEGETATION_SCRUB,6).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_47</zType>
+    <Translation>Удерживайте клавишу [X] для подсветки зоны контроля (ЗК).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_48</zType>
+    <Translation>Удерживайте клавишу [C] для подсветки клеток, доступных для вражеских атак.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_49</zType>
+    <Translation>Удерживайте клавишу [V] для подсветки городов, связанных со столицей.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_50</zType>
+    <Translation>Удерживайте клавишу [B] для подсветки отрядов, которые еще могут сделать ход.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_51</zType>
+    <Translation>Hold [N] to highlight Resources and to see what each Improvements produces.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_52</zType>
+    <Translation>Если правитель при жизни не смог реализовать амбиции, то они становятся наследием. Наследие тоже дает одно очко победы, но приносит меньше link(CONCEPT_LEGITIMACY,1) icon(YIELD_LEGITIMACY).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_53</zType>
+    <Translation>"Уровень варваров" в расширенных настройках игры влияет на количество пустых мест возле столицы для основания городов.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_54</zType>
+    <Translation>link(CONCEPT_URBAN,19) сооружения на суше должны примыкать к городу или двум другим link(CONCEPT_URBAN,21) сооружениям.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_55</zType>
+    <Translation>link(CONCEPT_URBAN,19) сооружения на побережье должны примыкать только к одному link(CONCEPT_URBAN,3) сооружению.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_56</zType>
+    <Translation>Выбрав link(UNIT_WORKER,1), удерживайте клавишу [CTRL] и перемещайте курсор над клеткой, чтобы посмотреть, что на ней можно построить.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_57</zType>
+    <Translation>В link(VEGETATION_TREES,11) link(UNIT_SCOUT) незаметны.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_58</zType>
+    <Translation>Удерживайте [SHIFT] или [СРЕД. КЛАВ. МЫШИ], чтобы заморозить подсказки.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_59</zType>
+    <Translation>Specialists are produced faster in higher-level improvements. (Poets take less time in an link(IMPROVEMENT_THEATER_2) than in an link(IMPROVEMENT_THEATER_1) - and even less time in a link(IMPROVEMENT_THEATER_3).)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_60</zType>
+    <Translation>Удерживайте клавишу SHIFT при перемещении отряда, чтобы задать движение на несколько ходов. Отряд будет перемещаться к указанной клетке каждый ход до потери выносливости.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_61</zType>
+    <Translation>Pressing [ESC] will close the topmost tooltip or window.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_62</zType>
+    <Translation>Cities gain link(YIELD_DISCONTENT)icon(YIELD_DISCONTENT) over time. When a City's link(YIELD_DISCONTENT)icon(YIELD_DISCONTENT) meter is filled, its overall link(YIELD_DISCONTENT)icon(YIELD_DISCONTENT) Level goes up, which increases link(YIELD_MAINTENANCE)icon(YIELD_MAINTENANCE) and reduces link(YIELD_GROWTH)icon(YIELD_GROWTH).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_63</zType>
+    <Translation>link(CONCEPT_FAMILY) Classes determine what effects a link(CONCEPT_FAMILY) has on its Cities, as well as what Laws, link(CONCEPT_LUXURY,2), and other conditions keep them happy.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_64</zType>
+    <Translation>You can reduce link(YIELD_DISCONTENT)icon(YIELD_DISCONTENT) by connecting your cities with link(CONCEPT_ROAD,2), recruiting link(SPECIALISTCLASS_PRIEST,1), and building link(IMPROVEMENTCLASS_BATHS,2).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_65</zType>
+    <Translation>link(UNIT_SCOUT), link(UNIT_SETTLER) и link(UNIT_WORKER) могут собрать ресурс для быстрого получения сырья.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_66</zType>
+    <Translation>A Forced March permits a Unit to continue moving this turn when out of Moves, at the cost of int(UNIT_MARCH_COST) link(YIELD_TRAINING)icon(YIELD_TRAINING), and twice as many link(YIELD_ORDERS)icon(YIELD_ORDERS) per additional Move.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_67</zType>
+    <Translation>A Fatigued Unit can only Move again this turn through a link(CONCEPT_MARCH).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_68</zType>
+    <Translation>Flank an enemy Unit by attacking it while another friendly Unit is on the opposite side.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_69</zType>
+    <Translation>Наместников можно назначить, построив link(IMPROVEMENT_GARRISON_1,3), чтобы улучшить выработку города.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_70</zType>
+    <Translation>Святилища дают различные преимущества и помогают распространять язычество.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_71</zType>
+    <Translation>Удерж. [{0_key}], чтобы скрыть все сооружения.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_72</zType>
+    <Translation>Легитимность достигается с помощью завершения link(CONCEPT_AMBITION,7) и получения достойных link(CONCEPT_COGNOMEN,7) (например, "link(COGNOMEN_GREAT)"). Высокий уровень легитимности улучшает мнение семей и увеличивает ежегодное количество link(YIELD_ORDERS,7)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_73</zType>
+    <Translation>Adopting a link(CONCEPT_STATE_RELIGION) improves that Religion's opinion of your Nation, and also both reduces link(YIELD_DISCONTENT) and enables the recruitment of link(CONCEPT_DISCIPLE,2) in your Cities of that Religion.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_74</zType>
+    <Translation>Редкие ресурсы можно продать городу, чтобы уменьшить link(YIELD_DISCONTENT). Их можно также продать другим нациям, link(CONCEPT_TRIBE,2) и link(CONCEPT_FAMILY,8), чтобы улучшить их мнение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_75</zType>
+    <Translation>Правители Карфагена и правители с чертой link(TRAIT_ORATOR_ARCHETYPE) могут выбрать наемников из числа воинов link(CONCEPT_TRIBE,1).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_76</zType>
+    <Translation>A Disciple can spread your link(CONCEPT_STATE_RELIGION) to other Cities. With the link(LAW_ORTHODOXY) law, they can also purge other Religions from your Cities.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_77</zType>
+    <Translation>Теологии дают одной из мировых религий дополнительные преимущества. Theologies are established using Disciples.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_78</zType>
+    <Translation>A link(IMPROVEMENT_HAMLET), and its upgrades link(IMPROVEMENT_VILLAGE) and link(IMPROVEMENT_TOWN), if brought into your link(CONCEPT_TRADE_NETWORK), will produce extra link(YIELD_MONEY)icon(YIELD_MONEY).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_79</zType>
+    <Translation>The link(CONCEPT_TRADE_NETWORK) consists of all Tiles connected to your link(CONCEPT_CAPITAL) City.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_80</zType>
+    <Translation>Cities and link(IMPROVEMENT_HAMLET,2) can be connected with one another over link(CONCEPT_ROAD,2), rivers, and even open water if they are on the coast, or are connected to a link(IMPROVEMENT_HARBOR).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_81</zType>
+    <Translation>You can check the link(CONCEPT_TRADE_NETWORK) overlay with the icon(MAP_OVERLAY_NETWORK) button below the mini-map, or the hotkey(HOTKEY_SHOW_TRADE_NETWORK) key.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_82</zType>
+    <Translation>You can verify that a City is connected by checking that the  icon(CONNECTED) icon is displayed under its City banner.</Translation>
+  </Entry>
+</Root>
