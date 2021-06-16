@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <displayName>Russian Translation</displayName>
+  <description>Русификатор интерфейса.</description>
+  <modpicture>1200px-Flag_of_Russia.svg.png</modpicture>
+  <author>ATD Translations</author>
+  <modioID>174946</modioID>
+  <modioFileID>1235658</modioFileID>
+  <modversion>main br.  0.1.51893</modversion>
+  <singlePlayer>true</singlePlayer>
+  <multiplayer>true</multiplayer>
+  <modDependencies />
+  <modIncompatibilities />
+</ModInfo>

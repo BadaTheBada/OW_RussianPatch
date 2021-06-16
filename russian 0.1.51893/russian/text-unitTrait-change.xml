@@ -1,0 +1,46 @@
+<Root>
+  <Entry>
+    <zType />
+    <English />
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNITTRAIT_MELEE</zType>
+    <Translation>Ближний бой~Отряды ближнего боя~Отрядов ближнего боя~Отрядам ближнего боя~Отряды ближнего боя~Отрядами ближнего боя~Отрядах ближнего боя~Ближнего боя</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNITTRAIT_RANGED</zType>
+    <Translation>Дальний бой~Отряды дальнего боя~Отрядов дальнего боя~Отрядам дальнего боя~Отряды дальнего боя~Отрядами дальнего боя~Отрядах дальнего боя~Дальнего боя</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNITTRAIT_INFANTRY</zType>
+    <Translation>Пехота~Пехотные отряды~Пехотных отрядов~Пехотным отрядам~Пехотные отряды~Пехотными отрядами~Пехотных отрядах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNITTRAIT_POLEARM</zType>
+    <Translation>Копьеносцы~Копьеносные отряды~Копьеносных отрядов~Копьеносным отрядам~Копьеносные отряды~Копьеносными отрядами~Копьеносных отрядах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNITTRAIT_MOUNTED</zType>
+    <Translation>Кавалерия~Кавалерийские отряды~Кавалерийских отрядов~Кавалерийским отрядам~Кавалерийские отряды~Кавалерийскими отрядами~Кавалерийских отрядах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNITTRAIT_HORSE</zType>
+    <Translation>Лошади~Лошадей~Лошадям~Лошадей</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNITTRAIT_CAMEL</zType>
+    <Translation>Верблюды~Верблюдов~Верблюдам~Верблюдов</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNITTRAIT_ELEPHANT</zType>
+    <Translation>Слоны~Слонов~Слонам~Слонов</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNITTRAIT_SIEGE</zType>
+    <Translation>Осадное орудие~Осадные орудия~Осадных орудий~Осадным орудиям~Осадные орудия~Осадными орудиями~Осадных орудиях</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNITTRAIT_SHIP</zType>
+    <Translation>Корабль~Корабли~Кораблей~Кораблям~Корабли~Кораблями~Кораблях</Translation>
+  </Entry>
+</Root>

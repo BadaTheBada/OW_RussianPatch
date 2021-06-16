@@ -1,0 +1,3341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<Root>
+  <Entry>
+    <zType />
+    <English />
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_ADJECTIVE</zType>
+    <Translation>{0,6_TribeAdjective}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_SITE</zType>
+    <Translation>{0,6_TribeAdjective} лагерь</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NATION_SITE</zType>
+    <Translation>{0,13_NationAdjective} место</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYER_NUMBER</zType>
+    <Translation>Игрок {0_number}</Translation>
+  </Entry>
+  <!-- HotKeys -->
+  <Entry>
+    <zType>TEXT_HOTKEY_PLUS_SPACE_TWO</zType>
+    <Translation>{0_key} + {1_key}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_PLUS_TWO</zType>
+    <Translation>{0_key}+{1_key}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_LEFT_CLICK</zType>
+    <Translation>[ЛЕВЫЙ-КЛИК]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_RIGHT_CLICK</zType>
+    <Translation>[ПРАВЫЙ-КЛИК]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CTRL_CLICK</zType>
+    <Translation>[CTRL+КЛИК]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CTRL_RIGHT_CLICK</zType>
+    <Translation>[CTRL+ПРАВЫЙ-КЛИК]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_SHIFT_CLICK</zType>
+    <Translation>[SHIFT+КЛИК]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_ALT_CLICK</zType>
+    <Translation>[ALT+КЛИК]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CTRL_SHIFT_CLICK</zType>
+    <Translation>[CTRL+SHIFT+КЛИК]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CTRL_ALT_CLICK</zType>
+    <Translation>[CTRL+ALT+КЛИК]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_SHIFT</zType>
+    <Translation>[SHIFT]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CTRL</zType>
+    <Translation>[CTRL]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_ALT</zType>
+    <Translation>[ALT]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_F1</zType>
+    <Translation>[F1]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_RESOURCE_DENSITY</zType>
+    <Translation>Количество ресурсов</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_MIRROR_MAP</zType>
+    <Translation>Зеркальная карта</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_SCENARIO_RESOURCES</zType>
+    <Translation>Ресурсы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_WATER_SIZE</zType>
+    <Translation>Уровень воды</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_WATER_LOCATION</zType>
+    <Translation>Расположение воды на карте</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_PLAYER_START_LOCATION</zType>
+    <Translation>Стартовая локация игрока</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_TRIBES</zType>
+    <Translation>Племена</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_TERRAIN_TYPE_VARIATION</zType>
+    <Translation>Тип ландшафта</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_LOCATION_OF_TRIBAL_LANDS</zType>
+    <Translation>Размещение племен</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_TYPE_OF_EXTREME_TERRAIN</zType>
+    <Translation>Ландшафт по краям карты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CENTER_BIAS</zType>
+    <Translation>Начать в центре карты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENTS</zType>
+    <Translation>Континенты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_KING_OF_THE_HILL</zType>
+    <Translation>King of the Hill</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECTRELATION_MIN_CONFLICT_TURNS</zType>
+    <Translation>Shorter than int(MIN_TREATY_TURNS) Turns since last link(DIPLOMACY_WAR)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COUNCIL_AMBASSADOR</zType>
+    <Translation>Ambassador</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COUNCIL_CHANCELLOR</zType>
+    <Translation>Chancellor</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COUNCIL_SPYMASTER</zType>
+    <Translation>Мастер разведки~Мастера разведки~Мастеру разведки~Мастера разведки~Мастером разведки~Мастере разведки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIPLOMACY_TEAM</zType>
+    <Translation>Команда</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIPLOMACY_PEACE</zType>
+    <Translation>Мир~мира~миру~мир~миром~мире</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIPLOMACY_TRUCE</zType>
+    <Translation>Перемирие~перемирия~перемирию~перемирие~перемирием~перемирии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIPLOMACY_WAR</zType>
+    <Translation>Война~войны~войне~войну~войной~войне</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ATTACK_FORWARD</zType>
+    <Translation>Forward</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ATTACK_ARC</zType>
+    <Translation>Arc</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ATTACK_CIRCLE</zType>
+    <Translation>Circle</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ATTACK_SPLASH</zType>
+    <Translation>Splash</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CULTURE_WEAK</zType>
+    <Translation>Weak</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CULTURE_DEVELOPING</zType>
+    <Translation>Developing</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CULTURE_STRONG</zType>
+    <Translation>Strong</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CULTURE_LEGENDARY</zType>
+    <Translation>Legendary</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTLEVEL_LOW</zType>
+    <Translation>Low</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTLEVEL_LOW_HELP</zType>
+    <Translation>Fewer Events than normal</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTLEVEL_MODERATE</zType>
+    <Translation>Moderate</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTLEVEL_MODERATE_HELP</zType>
+    <Translation>The default Event rate</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTLEVEL_HIGH</zType>
+    <Translation>High</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTLEVEL_HIGH_HELP</zType>
+    <Translation>More Events than normal</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAPSIZE_DUEL</zType>
+    <Translation>Duel</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAPSIZE_SMALL</zType>
+    <Translation>Small</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAPSIZE_MEDIUM</zType>
+    <Translation>Medium</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAPSIZE_LARGE</zType>
+    <Translation>Large</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAPSIZE_HUGE</zType>
+    <Translation>Huge</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROXIMITY_VERY_CLOSE</zType>
+    <Translation>Very Close</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROXIMITY_CLOSE</zType>
+    <Translation>Close</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROXIMITY_NEAR</zType>
+    <Translation>Near</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROXIMITY_DISTANT</zType>
+    <Translation>Distant</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROXIMITY_FAR</zType>
+    <Translation>Far</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KNOWLEDGE_PRIMITIVE</zType>
+    <Translation>Primitive</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KNOWLEDGE_NAIVE</zType>
+    <Translation>Naive</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KNOWLEDGE_COMPETENT</zType>
+    <Translation>Competent</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KNOWLEDGE_LEARNED</zType>
+    <Translation>Learned</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KNOWLEDGE_ERUDITE</zType>
+    <Translation>Erudite</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUSUNITCLASS_LEVY</zType>
+    <Translation>Levy</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUSUNITCLASS_HEAVY_INFANTRY</zType>
+    <Translation>Heavy Infantry</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUSUNITCLASS_POLEARM_INFANTRY</zType>
+    <Translation>Polearm Infantry</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUSUNITCLASS_RANGED_INFANTRY</zType>
+    <Translation>Ranged Infantry</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUSUNITCLASS_MELEE_CAVALRY</zType>
+    <Translation>Melee Cavalry</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUSUNITCLASS_RANGED_CAVALRY</zType>
+    <Translation>Ranged Cavalry</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUSUNITCLASS_SIEGE</zType>
+    <Translation>Осадное орудие~Осадные орудия~Осадных орудий~Осадным орудиям~Осадные орудия~Осадными орудиями~Осадных орудиях</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUSUNITCLASS_SHIP</zType>
+    <Translation>Корабль~Корабли~Кораблей~Кораблям~Корабли~Кораблями~Кораблях</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_NEW</zType>
+    <Translation>Новоявленный~Новоявленная</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_FOUNDER</zType>
+    <Translation>Основатель~Основательница</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_WARRIOR</zType>
+    <Translation>Воитель~Воительница</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_BRAVE</zType>
+    <Translation>Храбрый~Храбрая</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_VALIANT</zType>
+    <Translation>Доблестный~Доблестная</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_MIGHTY</zType>
+    <Translation>Могучий~Могучая</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_VICTORIOUS</zType>
+    <Translation>Победоносный~Победоносная</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_LION</zType>
+    <Translation>Лев~Львица</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_INVINCIBLE</zType>
+    <Translation>Непобедимый~Непобедимая</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_CAPABLE</zType>
+    <Translation>Умелый~Умелая</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_READY</zType>
+    <Translation>Решительный~Решительная</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_DESTROYER</zType>
+    <Translation>Разрушитель~Разрушительница</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_AVENGER</zType>
+    <Translation>Мститель~Мстительница</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_WHITE_DEATH</zType>
+    <Translation>Белая Смерть</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_INTERCESSOR</zType>
+    <Translation>Заступник~Заступница</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_PEACEMAKER</zType>
+    <Translation>Миротворец~Миротворица</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_CONQUEROR</zType>
+    <Translation>Завоеватель~Завоевательница</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_SUBJUGATOR</zType>
+    <Translation>Покоритель~Покорительница</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_RESTORER</zType>
+    <Translation>Избавитель~Избавительница</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_LIBERATOR</zType>
+    <Translation>Освободитель~Освободительница</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_SETTLER</zType>
+    <Translation>Созидатель~Созидательница</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_PIONEER</zType>
+    <Translation>Первопроходец~Первопроходчица</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_AMBITIOUS</zType>
+    <Translation>Амбициозный~Амбициозная</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_BRILLIANT</zType>
+    <Translation>Блистательный~Блистательная</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_BELOVED</zType>
+    <Translation>Уважаемый~Уважаемая</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_REBUILDER</zType>
+    <Translation>Реставратор</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_BUILDER</zType>
+    <Translation>Строитель~Строительница</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_MASON</zType>
+    <Translation>Зодчий~Зодчая</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_ARCHITECT</zType>
+    <Translation>Архитектор</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_KEYSTONE</zType>
+    <Translation>Незыблемый~Незыблемая</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_DEVOUT</zType>
+    <Translation>Набожный~Набожная</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_HOLY</zType>
+    <Translation>Благочестивый~Благочестивая</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_EXPLORER</zType>
+    <Translation>Исследователь~Исследовательница</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_INTREPID</zType>
+    <Translation>Бесстрашный~Бесстрашная</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_LEARNED</zType>
+    <Translation>Ученый~Ученая</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_ENLIGHTENED</zType>
+    <Translation>Просвещенный~Просвещенная</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_WISE</zType>
+    <Translation>Мудрый~Мудрая</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_OLD</zType>
+    <Translation>Старый~Старая</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_ANCIENT</zType>
+    <Translation>Старейший~Старейшая</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_ABLE</zType>
+    <Translation>Способный~Способная</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_JUST</zType>
+    <Translation>Достойный~Достойная</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_GOOD</zType>
+    <Translation>Искусный~Искусная</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_STRONG</zType>
+    <Translation>Могучий~Могучая</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_NOBLE</zType>
+    <Translation>Выдающийся~Выдающаяся</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_GLORIOUS</zType>
+    <Translation>Прославленный~Прославленная</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_MAGNIFICENT</zType>
+    <Translation>Великолепный~Великолепная</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_GREAT</zType>
+    <Translation>Великий~Великая</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_UNFORTUNATE</zType>
+    <Translation>Невезучий~Невезучая</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_UNREADY</zType>
+    <Translation>Нерешительный~Нерешительная</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_WEAK</zType>
+    <Translation>Немощный~Немощная</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_BAD</zType>
+    <Translation>Ничтожный~Ничтожная</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COGNOMEN_BLOODY</zType>
+    <Translation>Кровавый~Кровавая</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLORCLASS_TEXT</zType>
+    <Translation>Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLORCLASS_NATIONS</zType>
+    <Translation>Нации</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLORCLASS_PLAYERS</zType>
+    <Translation>Игроки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLORCLASS_TRIBES</zType>
+    <Translation>Племена</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLORCLASS_MOVEMENT</zType>
+    <Translation>Movement</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLORCLASS_OVERLAYS</zType>
+    <Translation>Overlays</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLORCLASS_SELECTION</zType>
+    <Translation>Selection</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLORCLASS_STATUS</zType>
+    <Translation>Statuses</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLORCLASS_RATINGS</zType>
+    <Translation>Рейтинг</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLORCLASS_YIELDS</zType>
+    <Translation>Продукция</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLORCLASS_LAWS</zType>
+    <Translation>Законы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLORCLASS_TECHS</zType>
+    <Translation>Techs</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLORCLASS_RELATIONSHIPS</zType>
+    <Translation>Relationships</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLORCLASS_HEALTH</zType>
+    <Translation>Здоровье</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_UNDEFINED</zType>
+    <English />
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_SELECTION</zType>
+    <Translation>Selection</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_SELECTION_FADED</zType>
+    <Translation>Faded</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_SELECTION_SPECIAL</zType>
+    <Translation>Special</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TILE_HIGHLIGHT</zType>
+    <Translation>Tile Highlight</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_WHITE</zType>
+    <Translation>White</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_POSITIVE</zType>
+    <Translation>Positive</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_AVERAGE</zType>
+    <Translation>Average</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NEGATIVE</zType>
+    <Translation>Negative</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_MOVEMENT_BOUNDARY_1</zType>
+    <Translation>Boundary 1</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_MOVEMENT_BOUNDARY_2</zType>
+    <Translation>Boundary 2</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_MOVEMENT_BOUNDARY_3</zType>
+    <Translation>Boundary 3</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_MOVEMENT_BOUNDARY_4</zType>
+    <Translation>Boundary 4</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_MOVEMENT_BOUNDARY_5</zType>
+    <Translation>Boundary 5</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_MOVEMENT_BOUNDARY_NEGATIVE</zType>
+    <Translation>Boundary Unable</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_MOVEMENT_BOUNDARY_FATIGUE</zType>
+    <Translation>Boundary Fatigue</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_MOVEMENT_REGION_1</zType>
+    <Translation>Region 1</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_MOVEMENT_REGION_2</zType>
+    <Translation>Region 2</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_MOVEMENT_REGION_3</zType>
+    <Translation>Region 3</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_MOVEMENT_REGION_4</zType>
+    <Translation>Region 4</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_MOVEMENT_REGION_5</zType>
+    <Translation>Region 5</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_MOVEMENT_REGION_NEGATIVE</zType>
+    <Translation>Region Unable</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_MOVEMENT_REGION_FATIGUE</zType>
+    <Translation>Region Fatigue</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_MULTIPLIER_FOUND_BORDER_PREVIEW</zType>
+    <Translation>Found Border</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_LINK</zType>
+    <Translation>Link</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_LINK_HIGHLIGHTED</zType>
+    <Translation>Link Highlighted</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_SECONDARY_TEXT</zType>
+    <Translation>Secondary Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_SLEEP</zType>
+    <Translation>Сон</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_COOLDOWN</zType>
+    <Translation>Cooldown</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_HEIGHT_HILL</zType>
+    <Translation>Hill</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_OPINION_FURIOUS</zType>
+    <Translation>Ярость</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_OPINION_ANGRY</zType>
+    <Translation>Гнев</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_OPINION_UPSET</zType>
+    <Translation>Возмущение</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_OPINION_CAUTIOUS</zType>
+    <Translation>Осторожность</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_OPINION_PLEASED</zType>
+    <Translation>Симпатия</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_OPINION_FRIENDLY</zType>
+    <Translation>Дружелюбие</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_BANNER_COOLDOWN</zType>
+    <Translation>Banner Cooldown</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_CAN_ATTACK</zType>
+    <Translation>Can Attack</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NEXT_TILE</zType>
+    <Translation>Next Tile</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_HEALTH_MAX</zType>
+    <Translation>Max Health</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_HEALTH_HIGH</zType>
+    <Translation>High Health</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_HEALTH_LOW</zType>
+    <Translation>Low Health</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_HEALTH_NONE</zType>
+    <Translation>No Health</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_DAMAGE</zType>
+    <Translation>Damage</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_UNIT_MOVE</zType>
+    <Translation>Move</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_UNIT_FATIGUE_MOVE</zType>
+    <Translation>Fatigue Move</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_FORTIFY</zType>
+    <Translation>Укрепиться</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TESTUDO</zType>
+    <Translation>Построиться "черепахой"</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_FORTIFY_NONE</zType>
+    <Translation>No Fortify</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_DANGER</zType>
+    <Translation>Опасность</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_CAPITAL_CONNECTION</zType>
+    <Translation>Capital Connection</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_VALID_CAPITAL_CONNECTION</zType>
+    <Translation>Valid Capital Connection</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_CITY_CONNECTION</zType>
+    <Translation>City Connection</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_VALID_CITY_CONNECTION</zType>
+    <Translation>Valid City Connection</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NEUTRAL_ZOC</zType>
+    <Translation>Neutral Zone of Control</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_HOSTILE_ZOC</zType>
+    <Translation>Hostile Zone of Control</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_ATTACK_OVERLAY</zType>
+    <Translation>Атака</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_WATER_CONTROL_ENEMY</zType>
+    <Translation>Water Control</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_IDLE</zType>
+    <Translation>Свободный~Свободного~Свободному~Свободный~Свободным~Свободном~Свободные~Свободных~Свободным~Свободные~Свободными~Свободных</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_IDLE_MELEE</zType>
+    <Translation>Idle Melee</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_IDLE_RANGED</zType>
+    <Translation>Idle Ranged</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_RESOURCE</zType>
+    <Translation>Ресурс</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ASSYRIA</zType>
+    <Translation>Ассирия</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ASSYRIA_TEXT</zType>
+    <Translation>Assyria Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_01</zType>
+    <Translation>Assyria Family 1</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_01_TEXT</zType>
+    <Translation>Assyria Family 1 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_02</zType>
+    <Translation>Assyria Family 2</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_02_TEXT</zType>
+    <Translation>Assyria Family 2 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_03</zType>
+    <Translation>Assyria Family 3</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_03_TEXT</zType>
+    <Translation>Assyria Family 3 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_04</zType>
+    <Translation>Assyria Family 4</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_04_TEXT</zType>
+    <Translation>Assyria Family 4 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_NONE</zType>
+    <Translation>Assyria Family None</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_NONE_TEXT</zType>
+    <Translation>Assyria Family None Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_BABYLONIA</zType>
+    <Translation>Вавилон~Вавилона~Вавилону~Вавилон~Вавилоном~Вавилоне</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_BABYLONIA_TEXT</zType>
+    <Translation>Babylon Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_BABYLONIA_FAMILY_01</zType>
+    <Translation>Babylon Family 1</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_BABYLONIA_FAMILY_01_TEXT</zType>
+    <Translation>Babylon Family 1 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_BABYLONIA_FAMILY_02</zType>
+    <Translation>Babylon Family 2</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_BABYLONIA_FAMILY_02_TEXT</zType>
+    <Translation>Babylon Family 2 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_BABYLONIA_FAMILY_03</zType>
+    <Translation>Babylon Family 3</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_BABYLONIA_FAMILY_03_TEXT</zType>
+    <Translation>Babylon Family 3 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_BABYLONIA_FAMILY_04</zType>
+    <Translation>Babylon Family 4</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_BABYLONIA_FAMILY_04_TEXT</zType>
+    <Translation>Babylon Family 4 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_BABYLONIA_FAMILY_NONE</zType>
+    <Translation>Babylon Family None</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_BABYLONIA_FAMILY_NONE_TEXT</zType>
+    <Translation>Babylon Family None Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_CARTHAGE</zType>
+    <Translation>Карфаген</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_CARTHAGE_TEXT</zType>
+    <Translation>Carthage Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_CARTHAGE_FAMILY_01</zType>
+    <Translation>Carthage Family 1</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_CARTHAGE_FAMILY_01_TEXT</zType>
+    <Translation>Carthage Family 1 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_CARTHAGE_FAMILY_02</zType>
+    <Translation>Carthage Family 2</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_CARTHAGE_FAMILY_02_TEXT</zType>
+    <Translation>Carthage Family 2 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_CARTHAGE_FAMILY_03</zType>
+    <Translation>Carthage Family 3</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_CARTHAGE_FAMILY_03_TEXT</zType>
+    <Translation>Carthage Family 3 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_CARTHAGE_FAMILY_04</zType>
+    <Translation>Carthage Family 4</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_CARTHAGE_FAMILY_04_TEXT</zType>
+    <Translation>Carthage Family 4 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_CARTHAGE_FAMILY_NONE</zType>
+    <Translation>Carthage Family None</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_CARTHAGE_FAMILY_NONE_TEXT</zType>
+    <Translation>Carthage Family None Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_EGYPT</zType>
+    <Translation>Египет</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_EGYPT_TEXT</zType>
+    <Translation>Egypt Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_EGYPT_FAMILY_01</zType>
+    <Translation>Egypt Family 1</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_EGYPT_FAMILY_01_TEXT</zType>
+    <Translation>Egypt Family 1 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_EGYPT_FAMILY_02</zType>
+    <Translation>Egypt Family 2</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_EGYPT_FAMILY_02_TEXT</zType>
+    <Translation>Egypt Family 2 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_EGYPT_FAMILY_03</zType>
+    <Translation>Egypt Family 3</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_EGYPT_FAMILY_03_TEXT</zType>
+    <Translation>Egypt Family 3 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_EGYPT_FAMILY_04</zType>
+    <Translation>Egypt Family 4</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_EGYPT_FAMILY_04_TEXT</zType>
+    <Translation>Egypt Family 4 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_EGYPT_FAMILY_NONE</zType>
+    <Translation>Egypt Family None</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_EGYPT_FAMILY_NONE_TEXT</zType>
+    <Translation>Egypt Family None Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_GREECE</zType>
+    <Translation>Греция</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_GREECE_TEXT</zType>
+    <Translation>Greece Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_GREECE_FAMILY_01</zType>
+    <Translation>Greece Family 1</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_GREECE_FAMILY_01_TEXT</zType>
+    <Translation>Greece Family 1 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_GREECE_FAMILY_02</zType>
+    <Translation>Greece Family 2</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_GREECE_FAMILY_02_TEXT</zType>
+    <Translation>Greece Family 2 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_GREECE_FAMILY_03</zType>
+    <Translation>Greece Family 3</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_GREECE_FAMILY_03_TEXT</zType>
+    <Translation>Greece Family 3 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_GREECE_FAMILY_04</zType>
+    <Translation>Greece Family 4</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_GREECE_FAMILY_04_TEXT</zType>
+    <Translation>Greece Family 4 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_GREECE_FAMILY_NONE</zType>
+    <Translation>Greece Family None</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_GREECE_FAMILY_NONE_TEXT</zType>
+    <Translation>Greece Family None Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ROME</zType>
+    <Translation>Рим</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ROME_TEXT</zType>
+    <Translation>Rome Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ROME_FAMILY_01</zType>
+    <Translation>Rome Family 1</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ROME_FAMILY_01_TEXT</zType>
+    <Translation>Rome Family 1 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ROME_FAMILY_02</zType>
+    <Translation>Rome Family 2</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ROME_FAMILY_02_TEXT</zType>
+    <Translation>Rome Family 2 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ROME_FAMILY_03</zType>
+    <Translation>Rome Family 3</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ROME_FAMILY_03_TEXT</zType>
+    <Translation>Rome Family 3 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ROME_FAMILY_04</zType>
+    <Translation>Rome Family 4</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ROME_FAMILY_04_TEXT</zType>
+    <Translation>Rome Family 4 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ROME_FAMILY_NONE</zType>
+    <Translation>Rome Family None</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_ROME_FAMILY_NONE_TEXT</zType>
+    <Translation>Rome Family None Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_PERSIA</zType>
+    <Translation>Персия</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_PERSIA_TEXT</zType>
+    <Translation>Persia Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_PERSIA_FAMILY_01</zType>
+    <Translation>Persia Family 1</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_PERSIA_FAMILY_01_TEXT</zType>
+    <Translation>Persia Family 1 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_PERSIA_FAMILY_02</zType>
+    <Translation>Persia Family 2</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_PERSIA_FAMILY_02_TEXT</zType>
+    <Translation>Persia Family 2 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_PERSIA_FAMILY_03</zType>
+    <Translation>Persia Family 3</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_PERSIA_FAMILY_03_TEXT</zType>
+    <Translation>Persia Family 3 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_PERSIA_FAMILY_04</zType>
+    <Translation>Persia Family 4</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_PERSIA_FAMILY_04_TEXT</zType>
+    <Translation>Persia Family 4 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_PERSIA_FAMILY_NONE</zType>
+    <Translation>Persia Family None</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_NATION_PERSIA_FAMILY_NONE_TEXT</zType>
+    <Translation>Persia Family None Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_BARBARIANS</zType>
+    <Translation>Племена</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_BARBARIANS_SECONDARY</zType>
+    <Translation>Tribes Secondary</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_BARBARIANS_TEXT</zType>
+    <Translation>Tribes Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_BARBARIAN_TRIBE_01</zType>
+    <Translation>Tribe 1</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_BARBARIAN_TRIBE_01_TEXT</zType>
+    <Translation>Tribe 1 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_BARBARIAN_TRIBE_02</zType>
+    <Translation>Tribe 2</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_BARBARIAN_TRIBE_02_TEXT</zType>
+    <Translation>Tribe 2 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_BARBARIAN_TRIBE_03</zType>
+    <Translation>Tribe 3</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_BARBARIAN_TRIBE_03_TEXT</zType>
+    <Translation>Tribe 3 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_BARBARIAN_TRIBE_04</zType>
+    <Translation>Tribe 4</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_BARBARIAN_TRIBE_04_TEXT</zType>
+    <Translation>Tribe 4 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_BARBARIAN_TRIBE_05</zType>
+    <Translation>Tribe 5</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_BARBARIAN_TRIBE_05_TEXT</zType>
+    <Translation>Tribe 5 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_BARBARIAN_TRIBE_06</zType>
+    <Translation>Tribe 6</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_BARBARIAN_TRIBE_06_TEXT</zType>
+    <Translation>Tribe 6 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_BARBARIAN_TRIBE_07</zType>
+    <Translation>Tribe 7</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_BARBARIAN_TRIBE_07_TEXT</zType>
+    <Translation>Tribe 7 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_01</zType>
+    <Translation>Team 1</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_01_TEXT</zType>
+    <Translation>Team 1 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_01_SECONDARY</zType>
+    <Translation>Team 1 Secondary</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_01_FIRST</zType>
+    <Translation>Team 1 First</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_01_FIRST_TEXT</zType>
+    <Translation>Team 1 First Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_01_OTHERS</zType>
+    <Translation>Team 1 Others</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_01_OTHERS_TEXT</zType>
+    <Translation>Team 1 Others Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_02</zType>
+    <Translation>Team 2</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_02_TEXT</zType>
+    <Translation>Team 2 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_02_SECONDARY</zType>
+    <Translation>Team 2 Secondary</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_02_PLAYER_01</zType>
+    <Translation>Team 2 Player 1</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_02_FIRST</zType>
+    <Translation>Team 2 First</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_02_FIRST_TEXT</zType>
+    <Translation>Team 2 First Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_02_OTHERS</zType>
+    <Translation>Team 2 Others</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_02_OTHERS_TEXT</zType>
+    <Translation>Team 2 Others Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_03</zType>
+    <Translation>Team 3</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_03_TEXT</zType>
+    <Translation>Team 3 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_03_SECONDARY</zType>
+    <Translation>Team 3 Secondary</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_03_FIRST</zType>
+    <Translation>Team 3 First</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_03_FIRST_TEXT</zType>
+    <Translation>Team 3 First Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_03_OTHERS</zType>
+    <Translation>Team 3 Others</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_03_OTHERS_TEXT</zType>
+    <Translation>Team 3 Others Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_04</zType>
+    <Translation>Team 4</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_04_TEXT</zType>
+    <Translation>Team 4 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_04_SECONDARY</zType>
+    <Translation>Team 4 Secondary</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_04_FIRST</zType>
+    <Translation>Team 4 First</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_04_FIRST_TEXT</zType>
+    <Translation>Team 4 First Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_04_OTHERS</zType>
+    <Translation>Team 4 Others</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_04_OTHERS_TEXT</zType>
+    <Translation>Team 4 Others Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_05</zType>
+    <Translation>Team 5</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_05_TEXT</zType>
+    <Translation>Team 5 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_05_SECONDARY</zType>
+    <Translation>Team 5 Secondary</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_05_FIRST</zType>
+    <Translation>Team 5 First</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_05_FIRST_TEXT</zType>
+    <Translation>Team 5 First Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_05_OTHERS</zType>
+    <Translation>Team 5 Others</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_05_OTHERS_TEXT</zType>
+    <Translation>Team 5 Others Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_06</zType>
+    <Translation>Team 6</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_06_SECONDARY</zType>
+    <Translation>Team 6 Secondary</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_06_TEXT</zType>
+    <Translation>Team 6 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_06_FIRST</zType>
+    <Translation>Team 6 First</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_06_FIRST_TEXT</zType>
+    <Translation>Team 6 First Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_06_OTHERS</zType>
+    <Translation>Team 6 Others</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_06_OTHERS_TEXT</zType>
+    <Translation>Team 6 Others Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_07</zType>
+    <Translation>Team 7</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_07_SECONDARY</zType>
+    <Translation>Team 7 Secondary</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_07_TEXT</zType>
+    <Translation>Team 7 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_07_FIRST</zType>
+    <Translation>Team 7 First</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_07_FIRST_TEXT</zType>
+    <Translation>Team 7 First Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_07_OTHERS</zType>
+    <Translation>Team 7 Others</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_07_OTHERS_TEXT</zType>
+    <Translation>Team 7 Others Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_08</zType>
+    <Translation>Team 8</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_08_SECONDARY</zType>
+    <Translation>Team 8 Secondary</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_08_TEXT</zType>
+    <Translation>Team 8 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_08_FIRST</zType>
+    <Translation>Team 8 First</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_08_FIRST_TEXT</zType>
+    <Translation>Team 8 First Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_08_OTHERS</zType>
+    <Translation>Team 8 Others</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_08_OTHERS_TEXT</zType>
+    <Translation>Team 8 Others Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_09</zType>
+    <Translation>Team 9</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_09_SECONDARY</zType>
+    <Translation>Team 9 Secondary</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_09_TEXT</zType>
+    <Translation>Team 9 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_09_FIRST</zType>
+    <Translation>Team 9 First</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_09_FIRST_TEXT</zType>
+    <Translation>Team 9 First Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_09_OTHERS</zType>
+    <Translation>Team 9 Others</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_09_OTHERS_TEXT</zType>
+    <Translation>Team 9 Others Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_10</zType>
+    <Translation>Team 10</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_10_SECONDARY</zType>
+    <Translation>Team 10 Secondary</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_10_TEXT</zType>
+    <Translation>Team 10 Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_10_FIRST</zType>
+    <Translation>Team 10 First</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_10_FIRST_TEXT</zType>
+    <Translation>Team 10 First Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_10_OTHERS</zType>
+    <Translation>Team 10 Others</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TEAM_10_OTHERS_TEXT</zType>
+    <Translation>Team 10 Others Text</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_YIELD_GROWTH</zType>
+    <Translation>Рост~Роста~Росту~Рост~Ростом~Росте</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_YIELD_CIVICS</zType>
+    <Translation>Право~Права~Праву~Право~Правом~Праве</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_YIELD_TRAINING</zType>
+    <Translation>Муштра~Муштры~Муштре~Муштру~Муштрой~Муштре</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_YIELD_CULTURE</zType>
+    <Translation>Культура~Культуры~Культуре~Культуру~Культурой~Культуре~Культурные</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_YIELD_DISCONTENT</zType>
+    <Translation>Недовольство~Недовольства~Недовольству~Недовольство~Недовольством~Недовольстве</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_YIELD_SCIENCE</zType>
+    <Translation>Наука~Науки~Науке~Науку~Наукой~Науке</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_YIELD_MONEY</zType>
+    <Translation>Деньги~Денег~Деньгам~Деньги~Деньгами~Деньгах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_YIELD_MAINTENANCE</zType>
+    <Translation>Содержание~Содержания~Содержанию~Содержание~Содержанием~Содержании</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_YIELD_ORDERS</zType>
+    <Translation>Приказы~приказов~приказам~приказы~приказами~приказах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_YIELD_FOOD</zType>
+    <Translation>Еда~Еды~Еде~Еду~Едой~Еде</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_YIELD_IRON</zType>
+    <Translation>Железо~Железа~Железу~Железо~Железом~Железе</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_YIELD_WOOD</zType>
+    <Translation>Дерево~Дерева~Дереву~Дерево~Деревом~Дереве</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_YIELD_STONE</zType>
+    <Translation>Камень~Камня~Камню~Камень~Камнем~Камне</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_LAW_NORMAL</zType>
+    <Translation>Normal</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_LAW_ACTIVE</zType>
+    <Translation>Active</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_LAW_PREVIEW</zType>
+    <Translation>Preview</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_LAW_HIGHLIGHT</zType>
+    <Translation>Highlight</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_LAW_BEST</zType>
+    <Translation>Best</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TECH_RESEARCHING</zType>
+    <Translation>Исследование</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TECH_RESEARCHED</zType>
+    <Translation>Researched</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TECH_AVAILABLE</zType>
+    <Translation>Доступно</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TECH_LOCKED</zType>
+    <Translation>Недоступно</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_TECH_TARGETED</zType>
+    <Translation>Targeted</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_RATING_WISDOM</zType>
+    <Translation>Wisdom</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_RATING_CHARISMA</zType>
+    <Translation>Charisma</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_RATING_COURAGE</zType>
+    <Translation>Courage</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_RATING_DISCIPLINE</zType>
+    <Translation>Discipline</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_DIPLOMACY_TEAM</zType>
+    <Translation>Команда</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_DIPLOMACY_PEACE</zType>
+    <Translation>Мир~мира~миру~мир~миром~мире</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_DIPLOMACY_TRUCE</zType>
+    <Translation>Перемирие~перемирия~перемирию~перемирие~перемирием~перемирии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_DIPLOMACY_WAR</zType>
+    <Translation>Война~войны~войне~войну~войной~войне</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_DIPLOMACY_INACTIVE</zType>
+    <Translation>Inactive</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_SETTLER_MAIN</zType>
+    <Translation>Settler Main</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COLOR_SETTLER_FLAG_TRIM</zType>
+    <Translation>Settler Flag and Trim</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_AUTOMATED</zType>
+    <Translation>Automated</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_PASS</zType>
+    <Translation>Пропустить</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_SLEEP</zType>
+    <Translation>Сон</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_SENTRY</zType>
+    <Translation>Дозор</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_UNLIMBERED</zType>
+    <Translation>Подготовлено</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_ANCHORED</zType>
+    <Translation>Брошен якорь</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_ROUT</zType>
+    <Translation>Разгром</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_ATTACK</zType>
+    <Translation>Атака</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_ATTACKED</zType>
+    <Translation>Attacked</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_STUNNED</zType>
+    <Translation>Оглушены</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_BUILDING</zType>
+    <Translation>Building</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_ADDED_ROAD</zType>
+    <Translation>Added Road</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_ADDED_URBAN</zType>
+    <Translation>Added Urban</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_UPGRADED_IMPROVEMENT</zType>
+    <Translation>Upgraded Improvement</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_BUY_TILE</zType>
+    <Translation>Buy Tile</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_FORTIFY</zType>
+    <Translation>Укрепиться</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_RECRUITED</zType>
+    <Translation>Recruited</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_HIRED</zType>
+    <Translation>Hired</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_GIFTED</zType>
+    <Translation>Gifted</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_PURGED</zType>
+    <Translation>Purged</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_HEALED</zType>
+    <Translation>Healed</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_PILLAGED</zType>
+    <Translation>Разграблено</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_PROMOTED</zType>
+    <Translation>Promoted</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_TESTUDO</zType>
+    <Translation>Построиться "черепахой"</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_REPAIRED</zType>
+    <Translation>Repaired</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_UPGRADED</zType>
+    <Translation>Upgraded</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_GENERAL</zType>
+    <Translation>Общие</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_LOCKED</zType>
+    <Translation>Недоступно</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_DISEMBARKED</zType>
+    <Translation>Disembarked</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COOLDOWN_TRADE</zType>
+    <Translation>Торговля</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COURTIER_SOLDIER</zType>
+    <Translation>Придворный воин</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COURTIER_SOLDIER_NICKNAME</zType>
+    <Translation>the Soldier</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COURTIER_MINISTER</zType>
+    <Translation>Придворный министр</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COURTIER_MINISTER_NICKNAME</zType>
+    <Translation>the Minister</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COURTIER_MERCHANT</zType>
+    <Translation>Придворный купец</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COURTIER_MERCHANT_NICKNAME</zType>
+    <Translation>the Merchant</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COURTIER_SCIENTIST</zType>
+    <Translation>Придворный ученый</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COURTIER_SCIENTIST_NICKNAME</zType>
+    <Translation>the Scientist</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DEVELOPMENT_NONE</zType>
+    <Translation>отсутствует</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DEVELOPMENT_NONE_HELP</zType>
+    <Translation>Existing nations don't start with any extra territory</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DEVELOPMENT_FLEDGLING</zType>
+    <Translation>Fledgling</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DEVELOPMENT_FLEDGLING_HELP</zType>
+    <Translation>Existing nations start with an average of two cities</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DEVELOPMENT_ESTABLISHED</zType>
+    <Translation>Established</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DEVELOPMENT_ESTABLISHED_HELP</zType>
+    <Translation>Existing nations start with an average of three cities</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DEVELOPMENT_ADVANCED</zType>
+    <Translation>Дополнительно</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DEVELOPMENT_ADVANCED_HELP</zType>
+    <Translation>Existing nations start with an average of four cities</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DEVELOPMENT_MASSIVE</zType>
+    <Translation>Massive</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DEVELOPMENT_MASSIVE_HELP</zType>
+    <Translation>Existing nations start with an average of five cities</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIFFICULTY_ABLE</zType>
+    <Translation>Способный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIFFICULTY_JUST</zType>
+    <Translation>Достойный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIFFICULTY_GOOD</zType>
+    <Translation>Искусный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIFFICULTY_STRONG</zType>
+    <Translation>Могучий</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIFFICULTY_NOBLE</zType>
+    <Translation>Выдающийся</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIFFICULTY_GLORIOUS</zType>
+    <Translation>Прославленный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIFFICULTY_MAGNIFICENT</zType>
+    <Translation>Великолепный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIFFICULTY_GREAT</zType>
+    <Translation>Великий</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIFFICULTYMODE_ABLE</zType>
+    <Translation>Способный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIFFICULTYMODE_JUST</zType>
+    <Translation>Достойный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIFFICULTYMODE_GOOD</zType>
+    <Translation>Искусный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIFFICULTYMODE_STRONG</zType>
+    <Translation>Могучий</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIFFICULTYMODE_NOBLE</zType>
+    <Translation>Выдающийся</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIFFICULTYMODE_GLORIOUS</zType>
+    <Translation>Прославленный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIFFICULTYMODE_MAGNIFICENT</zType>
+    <Translation>Великолепный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIFFICULTYMODE_GREAT</zType>
+    <Translation>Великий</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIFFICULTYMODE_CUSTOM</zType>
+    <Translation>Custom</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIRECTION_NW</zType>
+    <Translation>NW</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIRECTION_NE</zType>
+    <Translation>NE</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIRECTION_E</zType>
+    <Translation>E</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIRECTION_SE</zType>
+    <Translation>SE</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIRECTION_SW</zType>
+    <Translation>SW</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIRECTION_W</zType>
+    <Translation>W</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_AI_ONLY</zType>
+    <Translation>AI Only</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_AI_ONLY_HELP</zType>
+    <Translation>Human players follow the same rules as the AI.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_NO_CHARACTERS</zType>
+    <Translation>No Characters</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_NO_CHARACTERS_HELP</zType>
+    <Translation>Characters and Families are removed from the game.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_BARBARIANS_ONLY</zType>
+    <Translation>Barbarians Only</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_BARBARIANS_ONLY_HELP</zType>
+    <Translation>All Tribes are link(TRIBE_BARBARIANS).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_NO_FOG_OF_WAR</zType>
+    <Translation>No Fog of War</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_NO_FOG_OF_WAR_HELP</zType>
+    <Translation>Map starts fully revealed and stays visible.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_NO_TEAM_MOVEMENT</zType>
+    <Translation>No Team Movement</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_NO_TEAM_MOVEMENT_HELP</zType>
+    <Translation>Players cannot move their Teammates' Units.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_LOCKED_SAVE</zType>
+    <Translation>Lock Save</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_LOCKED_SAVE_HELP</zType>
+    <Translation>The save file is checked against a hash to prevent modification using an outside editor.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_NO_UNDO</zType>
+    <Translation>No Undo</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_NO_UNDO_HELP</zType>
+    <Translation>Player is not allowed to undo a move after it has been made.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_LOCK_PLAYER_OPTIONS</zType>
+    <Translation>Lock Player Options</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_LOCK_PLAYER_OPTIONS_HELP</zType>
+    <Translation>Cannot change gameplay player options after the game has started</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_RANDOMIZE_LEADERS</zType>
+    <Translation>Randomize Leaders</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_RANDOMIZE_LEADERS_HELP</zType>
+    <Translation>Randomize starting Leader of each Nation.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_RANDOMIZE_FAMILIES</zType>
+    <Translation>Randomize Families</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_RANDOMIZE_FAMILIES_HELP</zType>
+    <Translation>Randomize the class of each Family (Sage, Artisan, Champion, etc).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_ROLE_PLAYING</zType>
+    <Translation>Role Playing</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_ROLE_PLAYING_HELP</zType>
+    <Translation>No popup help when making narrative choices for events</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_PLAY_TO_WIN</zType>
+    <Translation>Play to Win</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_PLAY_TO_WIN_HELP</zType>
+    <Translation>AI nations will try to keep each other (including you) from winning</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_ONE_CITY_CHALLENGE</zType>
+    <Translation>One City Challenge</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_ONE_CITY_CHALLENGE_HELP</zType>
+    <Translation>Players are not allowed to control more than one city.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_MP_JOIN_AS_ANY_PLAYER</zType>
+    <Translation>Join as Any Player</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_MP_JOIN_AS_ANY_PLAYER_HELP</zType>
+    <Translation>Allow players to join a multiplayer game even if a slot has already been claimed.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_ALLOW_OBSERVE</zType>
+    <Translation>Allow observe mode</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_ALLOW_OBSERVE_HELP</zType>
+    <Translation>Players can join the game as observers</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GENDER_FEMALE</zType>
+    <Translation>Female</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GENDER_FEMALE_TITLE</zType>
+    <Translation>Queen</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GENDER_MALE</zType>
+    <Translation>Male</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GENDER_MALE_TITLE</zType>
+    <Translation>King</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HEIGHT_OCEAN</zType>
+    <Translation>Ocean</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HEIGHT_COAST</zType>
+    <Translation>Coast</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HEIGHT_LAKE</zType>
+    <Translation>Lake</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HEIGHT_FLAT</zType>
+    <Translation>Flat</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HEIGHT_HILL</zType>
+    <Translation>Hill</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HEIGHT_MOUNTAIN</zType>
+    <Translation>Mountain</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HEIGHT_VOLCANO</zType>
+    <Translation>Volcano</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MOVE_CAMERA_NORTH</zType>
+    <Translation>Move North</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MOVE_CAMERA_WEST</zType>
+    <Translation>Move West</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MOVE_CAMERA_SOUTH</zType>
+    <Translation>Move South</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MOVE_CAMERA_EAST</zType>
+    <Translation>Move East</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CAMERA_ZOOM_IN</zType>
+    <Translation>Zoom In</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CAMERA_ZOOM_OUT</zType>
+    <Translation>Zoom Out</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_HIDE_VEGETATION</zType>
+    <Translation>Hide Vegetation</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_HIDE_IMPROVEMENTS</zType>
+    <Translation>Hide Improvements</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_HIDE_UNITS</zType>
+    <Translation>Hide Units</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_HIDE_ALL</zType>
+    <Translation>Hide All</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_SHOW_ZOC</zType>
+    <Translation>Show Zone of Control</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_SHOW_DANGER_TILES</zType>
+    <Translation>Show Danger Tiles</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_SHOW_TRADE_NETWORK</zType>
+    <Translation>Show Trade Network</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_SHOW_IDLE_UNITS</zType>
+    <Translation>Show Idle Units</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_SHOW_TILE_YIELDS</zType>
+    <Translation>Show Tile Yields</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_TOGGLE_HEX_GRID</zType>
+    <Translation>Toggle Hex Grid</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_HIDE_UI</zType>
+    <Translation>Hide UI</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_ROAD_TO</zType>
+    <Translation>Toggle City Connection Mode</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_SPEND_TRAINING_FOR_ORDERS</zType>
+    <Translation>Spend Training for Orders</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_PAUSE</zType>
+    <Translation>Pause</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_INCREASE_TURN_STYLE</zType>
+    <Translation>Increase Turn Style</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_DECREASE_TURN_STYLE</zType>
+    <Translation>Decrease Turn Style</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_INCREASE_TURN_TIMER</zType>
+    <Translation>Increase Turn Timer</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_DECREASE_TURN_TIMER</zType>
+    <Translation>Decrease Turn Timer</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MUTE</zType>
+    <Translation>Mute</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CLEAR_SELECTION</zType>
+    <Translation>Clear Selection</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_IDLE_1</zType>
+    <Translation>Cycle Idle 1</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_PASS_IDLE_1</zType>
+    <Translation>Cycle/Pass Idle 1</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_IDLE_2</zType>
+    <Translation>Cycle Idle 2</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_PASS_IDLE_2</zType>
+    <Translation>Cycle/Pass Idle 2</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_IDLE_3</zType>
+    <Translation>Cycle Idle 3</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_PASS_IDLE_3</zType>
+    <Translation>Cycle/Pass Idle 3</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_IDLE_4</zType>
+    <Translation>Cycle Idle 4</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_PASS_IDLE_4</zType>
+    <Translation>Cycle/Pass Idle 4</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_IDLE_5</zType>
+    <Translation>Cycle Idle 5</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_PASS_IDLE_5</zType>
+    <Translation>Cycle/Pass Idle 5</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_END_TURN</zType>
+    <Translation>End Turn</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_END_TURN_FORCE</zType>
+    <Translation>End Turn (Force)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_PASS</zType>
+    <Translation>Cycle and Pass Selected Unit</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_SLEEP</zType>
+    <Translation>Cycle and Sleep Selected Unit</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_SENTRY</zType>
+    <Translation>Cycle and Sentry Selected Unit</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_ALL</zType>
+    <Translation>Cycle Selection</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_ALL_REVERSE</zType>
+    <Translation>Cycle Selection (Reverse)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_UNDO</zType>
+    <Translation>Отменить</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_REDO</zType>
+    <Translation>Redo</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_PING</zType>
+    <Translation>Ping</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CHAT</zType>
+    <Translation>Chat</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_VICTORY_SCREEN</zType>
+    <Translation>Show Victory Screen</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_INHERITANCE_SCREEN</zType>
+    <Translation>Show Inheritance Screen</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_LAWS_SCREEN</zType>
+    <Translation>Show Laws Screen</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_LOG_SCREEN</zType>
+    <Translation>Show Timeline Screen</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_TECH_SCREEN</zType>
+    <Translation>Show Tech Screen</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CITY_LIST</zType>
+    <Translation>Show City List</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MAP_SCREEN</zType>
+    <Translation>Show Map Screen</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_HELP_SCREEN</zType>
+    <Translation>Show Help Screen</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_AI_LOG</zType>
+    <Translation>Show AI Log</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_PREVIOUS_TAB</zType>
+    <Translation>Previous Tab/City</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_NEXT_TAB</zType>
+    <Translation>Next Tab/City</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_GAME_EDITOR</zType>
+    <Translation>Редактор игры</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CONSOLE</zType>
+    <Translation>Console</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CLOSE_POPUP</zType>
+    <Translation>Close Popup</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_EXPAND_TOOLTIP</zType>
+    <Translation>Expand Tooltip</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_LOCK_TOOLTIP</zType>
+    <Translation>Lock Tooltip</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_FREEZE_TOOLTIP</zType>
+    <Translation>Lock Tooltip</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_SAVE</zType>
+    <Translation>Сохранить</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_QUICK_LOAD</zType>
+    <Translation>Load</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_AUTO_LOAD</zType>
+    <Translation>Load Autosave</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_DEBUG_MENU</zType>
+    <Translation>Toggle Debug Menu</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_REVEAL_MAP</zType>
+    <Translation>Reveal Map</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_FULLY_REVEAL_MAP</zType>
+    <Translation>Fully Reveal Map</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_UNLOCK_NEXT_TECH</zType>
+    <Translation>Unlock Next Tech</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_UNLOCK_ALL_TECHS</zType>
+    <Translation>Unlock All Techs</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_RELOAD_INFOS</zType>
+    <Translation>Reload Infos</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_GRANT_RESOURCES</zType>
+    <Translation>Grant Resources</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_TOGGLE_FLYING_CAMERA</zType>
+    <Translation>Toggle Flying Camera</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_TOGGLE_TOP_DOWN_CAMERA</zType>
+    <Translation>Toggle Top Down Camera</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_TEST_LOAD_SAVE_CONSISTENCY</zType>
+    <Translation>Test Load/Save Consistency</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_TOGGLE_AUTOPLAY</zType>
+    <Translation>Toggle Autoplay</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MENU_DEBUG_OPTIONS</zType>
+    <Translation>Options Debug</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MAP_EDITOR_PAINT</zType>
+    <Translation>Paint</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MAP_EDITOR_FILL</zType>
+    <Translation>Fill</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MAP_EDITOR_ERASE</zType>
+    <Translation>Erase</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MAP_EDITOR_TERRAIN</zType>
+    <Translation>Brush</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MAP_EDITOR_HEIGHT</zType>
+    <Translation>Height</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MAP_EDITOR_RESOURCES</zType>
+    <Translation>Ресурсы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MAP_EDITOR_VEGETATION</zType>
+    <Translation>Растения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MAP_EDITOR_UNDO</zType>
+    <Translation>Отменить</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MAP_EDITOR_REDO</zType>
+    <Translation>Redo</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MAP_EDITOR_SAVE</zType>
+    <Translation>Сохранить</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MAP_EDITOR_INCREASE_SIZE</zType>
+    <Translation>Increase Brush Size</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MAP_EDITOR_DECREASE_SIZE</zType>
+    <Translation>Decrease Brush Size</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MAP_EDITOR_UTILITIES_PANEL</zType>
+    <Translation>Toggle Utilities Panel</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MAP_EDITOR_INFO_PANEL</zType>
+    <Translation>Toggle Info Panel</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MAP_EDITOR_PROJECTOR</zType>
+    <Translation>Toggle Image Projector</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_MAP_EDITOR_FLYING_CAMERA</zType>
+    <Translation>Toggle Flying Camera</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_EVENT_BROWSER_NEXT_INPUT</zType>
+    <Translation>Go to next input</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_EVENT_BROWSER_PREVIOUS_INPUT</zType>
+    <Translation>Go to previous input</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_PLAYER_1</zType>
+    <Translation>Cycle Player 1</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_PLAYER_2</zType>
+    <Translation>Cycle Player 2</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_PLAYER_3</zType>
+    <Translation>Cycle Player 3</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_PLAYER_4</zType>
+    <Translation>Cycle Player 4</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_PLAYER_5</zType>
+    <Translation>Cycle Player 5</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_PLAYER_6</zType>
+    <Translation>Cycle Player 6</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_PLAYER_7</zType>
+    <Translation>Cycle Player 7</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_PLAYER_8</zType>
+    <Translation>Cycle Player 8</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CYCLE_PLAYER_9</zType>
+    <Translation>Cycle Player 9</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEYCLASS_GAMEPLAY</zType>
+    <Translation>Gameplay</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEYCLASS_CAMERA</zType>
+    <Translation>Camera</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEYCLASS_NAVIGATION</zType>
+    <Translation>Навигация~Навигации~Навигации~Навигацию~Навигацией~Навигации</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEYCLASS_OVERLAYS</zType>
+    <Translation>Overlays</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEYCLASS_SCREENS</zType>
+    <Translation>Screens</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEYCLASS_POPUPS</zType>
+    <Translation>Popups</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEYCLASS_TOOLTIPS</zType>
+    <Translation>Tooltips</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEYCLASS_SAVES</zType>
+    <Translation>Saves</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEYCLASS_COMMUNICATION</zType>
+    <Translation>Communication</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEYCLASS_MAP_EDITOR</zType>
+    <Translation>Редактор карт</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEYCLASS_EVENT_BROWSER</zType>
+    <Translation>Обзор событий</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEYCLASS_DEBUG</zType>
+    <Translation>Debug</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MORTALITY_LONG</zType>
+    <Translation>Lengthy</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MORTALITY_LONG_HELP</zType>
+    <Translation>Characters live longer lives</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MORTALITY_STANDARD</zType>
+    <Translation>Standard</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MORTALITY_STANDARD_HELP</zType>
+    <Translation>Characters do not frequently die young</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MORTALITY_REALISTIC</zType>
+    <Translation>Realistic</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MORTALITY_REALISTIC_HELP</zType>
+    <Translation>Nasty, Brutish, and Short</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PING_GENERIC</zType>
+    <Translation>Attention</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PING_GENERIC_LOG</zType>
+    <Translation>Look Here.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PING_ATTACK</zType>
+    <Translation>Атака</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PING_ATTACK_LOG</zType>
+    <Translation>Attack Here.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PING_RETREAT</zType>
+    <Translation>Retreat</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PING_RETREAT_LOG</zType>
+    <Translation>Retreat from here.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PING_USE</zType>
+    <Translation>Use</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PING_USE_LOG</zType>
+    <Translation>Use this.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PING_FOUND</zType>
+    <Translation>Found</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PING_FOUND_LOG</zType>
+    <Translation>I want to found here.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PING_NOTE</zType>
+    <Translation>Note</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PING_NOTE_LOG</zType>
+    <Translation>I dropped a note.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPPONENTLEVEL_PASSIVE</zType>
+    <Translation>Passive</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPPONENTLEVEL_PEACEFUL</zType>
+    <Translation>Peaceful</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPPONENTLEVEL_NORMAL</zType>
+    <Translation>Normal</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPPONENTLEVEL_AGGRESSIVE</zType>
+    <Translation>Aggressive</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPPONENTLEVEL_COMPETITIVE</zType>
+    <Translation>Competitive</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_WISDOM</zType>
+    <Translation>Wisdom</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_WISDOM_HELP</zType>
+    <Translation>For Leaders and Governors, Wisdom increases {YIELD_SCIENCE}.
+For Generals, Wisdom increases the Unit's Critical Hit Chance.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_CHARISMA</zType>
+    <Translation>Charisma</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_CHARISMA_HELP</zType>
+    <Translation>For Leaders and Governors, Charisma increases {YIELD_CIVICS}.
+For Generals, Charisma increases the Unit's Defense Strength.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_COURAGE</zType>
+    <Translation>Courage</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_COURAGE_HELP</zType>
+    <Translation>For Leaders and Governors, Courage increases {YIELD_TRAINING}.
+For Generals, Courage increases the Unit's Strength.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_DISCIPLINE</zType>
+    <Translation>Discipline</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_DISCIPLINE_HELP</zType>
+    <Translation>For Leaders and Governors, Discipline increases {YIELD_MONEY}.
+For Generals, Discipline increases the Unit's XP each Year.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_MARBLE</zType>
+    <Translation>Мрамор</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_ORE</zType>
+    <Translation>Руда~Руды~Руде~Руду</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_SALT</zType>
+    <Translation>Соль</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_GEM</zType>
+    <Translation>Gems</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_GOLD</zType>
+    <Translation>Золото</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_SILVER</zType>
+    <Translation>Серебро</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_HORSE</zType>
+    <Translation>Horses</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_CATTLE</zType>
+    <Translation>Скот</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_SHEEP</zType>
+    <Translation>Овцы~Овец~Овцам~Овец</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_PIG</zType>
+    <Translation>Pigs</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_GOAT</zType>
+    <Translation>Goats</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_WHEAT</zType>
+    <Translation>Пшеница~Пшеницы~Пшенице~Пшеницу</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_BARLEY</zType>
+    <Translation>Ячмень</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_SORGHUM</zType>
+    <Translation>Сорго</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_CAMEL</zType>
+    <Translation>Camels</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_ELEPHANT</zType>
+    <Translation>Elephants</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_GAME</zType>
+    <Translation>Дичь</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_FUR</zType>
+    <Translation>Меха</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_CITRUS</zType>
+    <Translation>Цитрусовые</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_HONEY</zType>
+    <Translation>Мед</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_INCENSE</zType>
+    <Translation>Пряности</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_LAVENDER</zType>
+    <Translation>Лаванда~Лаванды~Лаванде~Лаванду</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_OLIVE</zType>
+    <Translation>Olives</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_WINE</zType>
+    <Translation>Вино</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_DYE</zType>
+    <Translation>Dyes</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_PEARL</zType>
+    <Translation>Pearls</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_FISH</zType>
+    <Translation>Рыба</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RESOURCE_CRAB</zType>
+    <Translation>Crabs</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TEAMNATION_ALLOW_DUPLICATES</zType>
+    <Translation>Allow Duplicates</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TEAMNATION_ALLOW_DUPLICATES_HELP</zType>
+    <Translation>Multiple players can claim each nation</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TEAMNATION_GAME_UNIQUE</zType>
+    <Translation>Уникальные отряды и сооружения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TEAMNATION_GAME_UNIQUE_HELP</zType>
+    <Translation>Each available nation can be claimed by one player</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TEAMNATION_TEAM_UNIQUE</zType>
+    <Translation>Unique within each Team</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TEAMNATION_TEAM_UNIQUE_HELP</zType>
+    <Translation>Each nation can be claimed by one player per team</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TERRAIN_STAMP_VOLCANO_7</zType>
+    <Translation>Volcano 7</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WARSTATE_ROUTED</zType>
+    <Translation>Routed</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WARSTATE_LOSING</zType>
+    <Translation>Losing</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WARSTATE_NEUTRAL</zType>
+    <Translation>Neutral</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WARSTATE_WINNING</zType>
+    <Translation>Winning</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WARSTATE_TRIUMPHANT</zType>
+    <Translation>Triumphant</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONORDER_PRIMOGENITURE</zType>
+    <Translation>Первородство</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONORDER_PRIMOGENITURE_HELP</zType>
+    <Translation>Oldest child inherits</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONORDER_ULTIMOGENITURE</zType>
+    <Translation>Минорат</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONORDER_ULTIMOGENITURE_HELP</zType>
+    <Translation>Youngest child inherits</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONORDER_LATERAL</zType>
+    <Translation>Лествичное</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONORDER_LATERAL_HELP</zType>
+    <Translation>Oldest direct line from Founder</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONORDER_DYNASTIC</zType>
+    <Translation>Династическое</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONORDER_DYNASTIC_HELP</zType>
+    <Translation>Siblings inherit before children</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONORDER_SENIORITY</zType>
+    <Translation>Сеньорат</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONORDER_SENIORITY_HELP</zType>
+    <Translation>Oldest dynasty member inherits</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONORDER_RANDOM</zType>
+    <Translation>Случайно</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONORDER_RANDOM_HELP</zType>
+    <Translation>Each player follows a random, potentially different, succession order</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONGENDER_AGNATIC</zType>
+    <Translation>Agnatic</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONGENDER_AGNATIC_HELP</zType>
+    <Translation>Only Males descendants can inherit</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONGENDER_AGNATIC_COGNATIC</zType>
+    <Translation>Agnatic Cognatic</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONGENDER_AGNATIC_COGNATIC_HELP</zType>
+    <Translation>Males inherit before Females</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONGENDER_ABSOLUTE_COGNATIC</zType>
+    <Translation>Absolute Cognatic</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONGENDER_ABSOLUTE_COGNATIC_HELP</zType>
+    <Translation>Genders inherit equally</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONGENDER_ENATIC_COGNATIC</zType>
+    <Translation>Enatic Cognatic</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONGENDER_ENATIC_COGNATIC_HELP</zType>
+    <Translation>Females inherit before Males</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONGENDER_ENATIC</zType>
+    <Translation>Enatic</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONGENDER_ENATIC_HELP</zType>
+    <Translation>Only Females descendants can inherit</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONGENDER_RANDOM</zType>
+    <Translation>Случайно</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCCESSIONGENDER_RANDOM_HELP</zType>
+    <Translation>Each player follows a random, potentially different, succession gender</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECTCLASS_PLAYER</zType>
+    <Translation>Player</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECTCLASS_TRIBE</zType>
+    <Translation>Barbarian</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECTCLASS_RELIGION</zType>
+    <Translation>Религия</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECTCLASS_FAMILY</zType>
+    <Translation>Семьи~семей~семьям</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECTCLASS_TECH</zType>
+    <Translation>Tech</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECTCLASS_LAW</zType>
+    <Translation>Law</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECTCLASS_THEOLOGY</zType>
+    <Translation>Теология</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECTCLASS_RESOURCE</zType>
+    <Translation>Ресурс</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECTCLASS_CHARACTER</zType>
+    <Translation>Character</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECTCLASS_CITY</zType>
+    <Translation>City</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECTCLASS_UNIT</zType>
+    <Translation>Отряд~Отряда~Отряду~Отряд~Отрядом~Отряде</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECTCLASS_TILE</zType>
+    <Translation>Tile</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STRENGTH_MUCH_WEAKER</zType>
+    <Translation>Much Weaker</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STRENGTH_WEAKER</zType>
+    <Translation>Weaker</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STRENGTH_SIMILAR</zType>
+    <Translation>Similar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STRENGTH_STRONGER</zType>
+    <Translation>Stronger</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STRENGTH_MUCH_STRONGER</zType>
+    <Translation>Much Stronger</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAPCLASS_RANDOM</zType>
+    <Translation>Случайно</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAPCLASS_RANDOM_HELP</zType>
+    <Translation>Random map script</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_BARBARIAN</zType>
+    <Translation>The Barbarian Horde</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_BARBARIAN_SUB</zType>
+    <Translation></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_CARTHAGE_1</zType>
+    <Translation>Rise of Carthage - Game One</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_CARTHAGE_1_SUB</zType>
+    <Translation>Ox Hide</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_CARTHAGE_2</zType>
+    <Translation>Rise of Carthage - Game Two</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_CARTHAGE_2_SUB</zType>
+    <Translation>Riches and Influence</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_CARTHAGE_3</zType>
+    <Translation>Rise of Carthage - Game Three</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_CARTHAGE_3_SUB</zType>
+    <Translation>Rise of Rome</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_CARTHAGE_4</zType>
+    <Translation>Rise of Carthage - Game Four - NOT PLAYABLE</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_CARTHAGE_4_SUB</zType>
+    <Translation>Seizing Destiny</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNITCYCLE_FOUND</zType>
+    <Translation>Found</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNITCYCLE_WORKER</zType>
+    <Translation>Worker</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNITCYCLE_DISCIPLE</zType>
+    <Translation>Disciple</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNITCYCLE_SCOUT</zType>
+    <Translation>Scout</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNITCYCLE_CARAVAN</zType>
+    <Translation>Caravan</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNITCYCLE_MILITARY_WATER</zType>
+    <Translation>Вода~Воды~Воде~Воду~Водой~Воде</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNITCYCLE_MILITARY_SIEGE</zType>
+    <Translation>Осадное орудие~Осадные орудия~Осадных орудий~Осадным орудиям~Осадные орудия~Осадными орудиями~Осадных орудиях</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNITCYCLE_MILITARY_RANGED</zType>
+    <Translation>Дальний бой~Отряды дальнего боя~Отрядов дальнего боя~Отрядам дальнего боя~Отряды дальнего боя~Отрядами дальнего боя~Отрядах дальнего боя~Дальнего боя</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNITCYCLE_MILITARY_MOUNTED</zType>
+    <Translation>Кавалерия~Кавалерийские отряды~Кавалерийских отрядов~Кавалерийским отрядам~Кавалерийские отряды~Кавалерийскими отрядами~Кавалерийских отрядах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNITCYCLE_MILITARY_INFANTRY</zType>
+    <Translation>Пехота~Пехотные отряды~Пехотных отрядов~Пехотным отрядам~Пехотные отряды~Пехотными отрядами~Пехотных отрядах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNTIMER_NONE</zType>
+    <Translation>отсутствует</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNTIMER_24_HOUR</zType>
+    <Translation>24 Hour</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNTIMER_12_HOUR</zType>
+    <Translation>12 Hour</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNTIMER_8_HOUR</zType>
+    <Translation>8 Hour</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNTIMER_4_HOUR</zType>
+    <Translation>4 Hour</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNTIMER_2_HOUR</zType>
+    <Translation>2 Hour</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNTIMER_1_HOUR</zType>
+    <Translation>1 Hour</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNTIMER_SLOW</zType>
+    <Translation>Slow</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNTIMER_MEDIUM</zType>
+    <Translation>Medium</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNTIMER_FAST</zType>
+    <Translation>Fast</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSTYLE_SIMULTANEOUS</zType>
+    <Translation>Simultaneous</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSTYLE_SIMULTANEOUS_HELP</zType>
+    <Translation>Одновременные ходы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSTYLE_LOOSE</zType>
+    <Translation>Loose</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSTYLE_LOOSE_HELP</zType>
+    <Translation>No Movement Restrictions</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSTYLE_NORMAL</zType>
+    <Translation>Normal</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSTYLE_NORMAL_HELP</zType>
+    <Translation>Attacking during another Team's Turn gives a Double Cooldown</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSTYLE_TIGHT</zType>
+    <Translation>Tight</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSTYLE_TIGHT_HELP</zType>
+    <Translation>Can only move Non-Military Units during another Team's Turn</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSTYLE_TEAMS</zType>
+    <Translation>Команды</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSTYLE_TEAMS_HELP</zType>
+    <Translation>Cannot move any Units during another Team's Turn</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSTYLE_STRICT</zType>
+    <Translation>Строгий</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSTYLE_STRICT_HELP</zType>
+    <Translation>Cannot move any Units during another Player's Turn</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBELEVEL_NONE</zType>
+    <Translation>отсутствует</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBELEVEL_PASSIVE</zType>
+    <Translation>Passive</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBELEVEL_WEAK</zType>
+    <Translation>Weak</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBELEVEL_NORMAL</zType>
+    <Translation>Normal</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBELEVEL_STRONG</zType>
+    <Translation>Strong</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBELEVEL_RAGING</zType>
+    <Translation>Raging</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSCALE_YEAR_SINGULAR</zType>
+    <Translation>Year</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSCALE_YEAR_PLURAL</zType>
+    <Translation>Years</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSCALE_YEAR_SHORT</zType>
+    <Translation>y</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSCALE_SEMESTER_SINGULAR</zType>
+    <Translation>Semester</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSCALE_SEMESTER_PLURAL</zType>
+    <Translation>Semesters</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSCALE_SEMESTER_SHORT</zType>
+    <Translation>s</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSCALE_SEASON_SINGULAR</zType>
+    <Translation>Season</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSCALE_SEASON_PLURAL</zType>
+    <Translation>Seasons</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSCALE_SEASON_SHORT</zType>
+    <Translation>s</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSCALE_MONTH_SINGULAR</zType>
+    <Translation>Month</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSCALE_MONTH_PLURAL</zType>
+    <Translation>Months</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSCALE_MONTH_SHORT</zType>
+    <Translation>m</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EARLY</zType>
+    <Translation>Early</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LATE</zType>
+    <Translation>Late</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SPRING</zType>
+    <Translation>Spring</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUMMER</zType>
+    <Translation>Summer</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_FALL</zType>
+    <Translation>Fall</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WINTER</zType>
+    <Translation>Winter</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_JANUARY</zType>
+    <Translation>January</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_FEBRUARY</zType>
+    <Translation>February</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MARCH</zType>
+    <Translation>March</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_APRIL</zType>
+    <Translation>April</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAY</zType>
+    <Translation>May</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_JUNE</zType>
+    <Translation>June</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_JULY</zType>
+    <Translation>July</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUGUST</zType>
+    <Translation>August</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SEPTEMBER</zType>
+    <Translation>September</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OCTOBER</zType>
+    <Translation>October</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NOVEMBER</zType>
+    <Translation>November</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DECEMBER</zType>
+    <Translation>December</Translation>
+  </Entry>
+</Root>

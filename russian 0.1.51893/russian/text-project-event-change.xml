@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Leyla Johnson (Private) -->
+<Root>
+  <!--Assets/GameAssets/Resources/Infos/improvement.xml-->
+  <!--NOTE: improvement names that are mass nouns or plural do not need multiple types in English-->
+  <Entry>
+    <zType />
+    <English />
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_SWORD_CULT</zType>
+    <Translation>Культ Меча</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_SWORD_CULT_TITHE</zType>
+    <Translation>Десятина культа Меча</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_HOSTILE_GARRISON</zType>
+    <Translation>Вражеский гарнизон</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PUBLIC_MURAL</zType>
+    <Translation>Народная фреска</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_TRIUMPH</zType>
+    <Translation>Триумф</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_CULTURAL_PAGEANT</zType>
+    <Translation>Культурное шествие</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_CRUMBLING_ZIGGURAT</zType>
+    <Translation>Разрушение Великого Зиккурата</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PURPLE_DYE</zType>
+    <Translation>Пурпурная краска</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PROPAGANDA</zType>
+    <Translation>Пропаганда</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_CHILD_LABOR</zType>
+    <Translation>Детский труд</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_CORRUPTION_REFORM</zType>
+    <Translation>Коррупционная реформа</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_ROYAL_INSCRIPTIONS</zType>
+    <Translation>Царские писания</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_IMPERIAL_NECROPOLIS</zType>
+    <Translation>Императорский некрополь</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_FORCED_DEPORTATIONS</zType>
+    <Translation>Принудительное выселение</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_GLADIATORS</zType>
+    <Translation>Гладиаторы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PLAYS</zType>
+    <Translation>Драматические пьесы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_MERCHANT_TOWN</zType>
+    <Translation>Торговый городок</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_DEN_OF_VICE</zType>
+    <Translation>Вертеп греха</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_OUTBREAK</zType>
+    <Translation>Мятеж</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_MIDWIFERY</zType>
+    <Translation>Акушерство</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_LUXURIOUS_DELIGHTS</zType>
+    <Translation>Роскошные удовольствия</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_NEIGHBORS_FEAST_PERSIA</zType>
+    <Translation>Ежегодный праздник персидских гостей</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_MISTHOPHORIA</zType>
+    <Translation>Мистофория</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_GRAIN_DOLE</zType>
+    <Translation>Раздача зерна</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_FOREIGN_FIGHTERS</zType>
+    <Translation>Чужеземные воины</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_WAR_COUNCIL</zType>
+    <Translation>Военный совет</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_SEWER_SYSTEM</zType>
+    <Translation>Канализация</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_CASE_HARDENING</zType>
+    <Translation>Цементирование</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_TURPAN_WELLS</zType>
+    <Translation>Турфанские скважины</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_NATIONAL_HOLIDAY</zType>
+    <Translation>Народный праздник</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_SCIENTIFIC_METHOD</zType>
+    <Translation>Научный метод</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PROTECTION_EDICTS</zType>
+    <Translation>Эдикты о защите</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_HORREUM</zType>
+    <Translation>Склад Хорреум</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_AVESTA_TREASURY</zType>
+    <Translation>Сокровищница Авесты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_DISEASED_SETTLERS</zType>
+    <Translation>Больные граждане</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_TERRACE_LOVE_SHRINE</zType>
+    <Translation>Зиккурат Любви</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_TERRACE_WISDOM_SHRINE</zType>
+    <Translation>Зиккурат Мудрости</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_TERRACE_WAR_SHRINE</zType>
+    <Translation>Зиккурат Войны</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_CONSULAR_TRIBUNES</zType>
+    <Translation>Консульские трибуны</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_CONFUCIANISM</zType>
+    <Translation>Конфуцианство</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_SALT_PRODUCTION</zType>
+    <Translation>Производство соли</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_MANUAL_OF_RHETORIC</zType>
+    <Translation>Учебник риторики</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_LOCAL_ASCETIC</zType>
+    <Translation>Городской аскетизм</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_AUTONOMOUS_RULE</zType>
+    <Translation>Автономия</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_MONUMENTAL_GATE</zType>
+    <Translation>Монументальные ворота</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_LEVIATHAN</zType>
+    <Translation>Череп Левиафана</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_GODS_CONSORT_CULT</zType>
+    <Translation>Культ избранницы Бога</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_LABYRINTH</zType>
+    <Translation>Лабиринт</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_WORK_OF_ART</zType>
+    <Translation>Произведение искусства</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PIRACY_SUPPRESSION</zType>
+    <Translation>Борьба с пиратами</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_COHORTES</zType>
+    <Translation>Городская когорта</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_HUNT_KILLER</zType>
+    <Translation>Охота на убийцу</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_STATUE_OF_DIONYSUS</zType>
+    <Translation>Статуя Диониса</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_COLLEGES</zType>
+    <Translation>Языческая коллегия</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_WAR</zType>
+    <Translation>Языческий культ войны</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_FIRE</zType>
+    <Translation>Языческий культ огня</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_WISDOM</zType>
+    <Translation>Языческий культ мудрости</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_SUN</zType>
+    <Translation>Языческий культ солнца</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_WATER</zType>
+    <Translation>Языческий культ моря</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_LOVE</zType>
+    <Translation>Языческий культ любви</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_UNDERWORLD</zType>
+    <Translation>Языческий культ смерти</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_HEALING</zType>
+    <Translation>Языческий культ исцеления</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_KINGSHIP</zType>
+    <Translation>Языческий культ царской крови</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_HEARTH</zType>
+    <Translation>Языческий культ очага</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_HUNTING</zType>
+    <Translation>Языческий культ охоты</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_FERTILE_SOIL</zType>
+    <Translation>Обогащение почвы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_IMPROVED_LUDUS</zType>
+    <Translation>Развитие образования</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_ATHLETICS_ARCHERY</zType>
+    <Translation>Атлетика: стрельба</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_ATHLETICS_WRESTLING</zType>
+    <Translation>Атлетика: борьба</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_ATHLETICS_EQUESTRIAN</zType>
+    <Translation>Атлетика: верховая езда</Translation>
+  </Entry>
+</Root>

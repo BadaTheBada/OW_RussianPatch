@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+  <!--Assets/GameAssets/Resources/Infos/effectPlayer.xml-->
+  <Entry>
+    <zType />
+    <English />
+  </Entry>
+  <!--Source-->
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_CAPITAL_SOURCE</zType>
+    <Translation>в link(CONCEPT_CAPITAL,5)</Translation>
+  </Entry>
+  <!--Name-->
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_BASE</zType>
+    <Translation>Базовые хар-ки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_AMBITION</zType>
+    <Translation>Амбиция</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_LEGACY</zType>
+    <Translation>Наследие</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_COUNCIL_SPYMASTER</zType>
+    <Translation>Мастер разведки~Мастера разведки~Мастеру разведки~Мастера разведки~Мастером разведки~Мастере разведки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_DIFFICULTY_ABLE</zType>
+    <Translation>Способный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_DIFFICULTY_JUST</zType>
+    <Translation>Достойный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_DIFFICULTY_GOOD</zType>
+    <Translation>Искусный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_DIFFICULTY_STRONG</zType>
+    <Translation>Могучий</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_DIFFICULTY_NOBLE</zType>
+    <Translation>Выдающийся</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_DIFFICULTY_GLORIOUS</zType>
+    <Translation>Прославленный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_DIFFICULTY_MAGNIFICENT</zType>
+    <Translation>Великолепный</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_DIFFICULTY_GREAT</zType>
+    <Translation>Великий</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_LAW_CONSTITUTION_DECREE</zType>
+    <Translation>Указы в link(CONCEPT_CAPITAL,5)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TECH_LABOR_FORCE</zType>
+    <Translation>Дороги</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TECH_DRAMA</zType>
+    <Translation>Музыка</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TECH_COINAGE</zType>
+    <Translation>Автоматические link(UNIT_WORKER)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TECH_NAVIGATION</zType>
+    <Translation>Автоматические link(UNIT_SCOUT)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_VICTORY_POINT</zType>
+    <Translation>Очки победы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_HERO_ARCHETYPE</zType>
+    <Translation>Правитель-link(TRAIT_HERO_ARCHETYPE)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_TACTICIAN_ARCHETYPE</zType>
+    <Translation>Правитель-link(TRAIT_TACTICIAN_ARCHETYPE)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_COMMANDER_ARCHETYPE</zType>
+    <Translation>Правитель-link(TRAIT_COMMANDER_ARCHETYPE)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_ZEALOT_ARCHETYPE</zType>
+    <Translation>Правитель-link(TRAIT_ZEALOT_ARCHETYPE)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_JUDGE_ARCHETYPE</zType>
+    <Translation>Правитель-link(TRAIT_JUDGE_ARCHETYPE)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_ORATOR_ARCHETYPE</zType>
+    <Translation>Правитель-link(TRAIT_ORATOR_ARCHETYPE)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE</zType>
+    <Translation>Правитель-link(TRAIT_SCHOLAR_ARCHETYPE)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE_INQUIRY</zType>
+    <Translation>Научное изыскание в link(CONCEPT_CAPITAL,5)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_BUILDER_ARCHETYPE</zType>
+    <Translation>Правитель-link(TRAIT_BUILDER_ARCHETYPE)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_SCHEMER_ARCHETYPE</zType>
+    <Translation>Правитель-link(TRAIT_SCHEMER_ARCHETYPE)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_DIPLOMAT_ARCHETYPE</zType>
+    <Translation>Правитель-link(TRAIT_DIPLOMAT_ARCHETYPE)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_SCIENCE</zType>
+    <Translation>Высокие затраты Науки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_SCIENCE</zType>
+    <Translation>Очень высокие затраты Науки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_CIVICS</zType>
+    <Translation>Низкие затраты Права</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_CIVICS</zType>
+    <Translation>Средние затраты Права</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_CIVICS</zType>
+    <Translation>Высокие затраты Права</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_CIVICS</zType>
+    <Translation>Очень высокие затраты Права</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_TRAINING</zType>
+    <Translation>Низкие затраты Муштры</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_TRAINING</zType>
+    <Translation>Средние затраты Муштры</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_TRAINING</zType>
+    <Translation>Высокие затраты Муштры</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_TRAINING</zType>
+    <Translation>Очень высокие затраты Муштры</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_MONEY</zType>
+    <Translation>Низкие затраты Денег</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_MONEY</zType>
+    <Translation>Средние затраты Денег</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_MONEY</zType>
+    <Translation>Высокие затраты Денег</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_MONEY</zType>
+    <Translation>Очень высокие затраты Денег</Translation>
+  </Entry>
+</Root>

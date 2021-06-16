@@ -1,0 +1,287 @@
+<Root>
+  <!--Name-->
+  <Entry>
+    <zType />
+    <English />
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_SETTLER</zType>
+    <Translation>Поселенцы~Поселенцев~Поселенцам~Поселенцев~Поселенцами~Поселенцах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_WORKER</zType>
+    <Translation>Рабочие~Рабочих~Рабочим~Рабочих~Рабочими~Рабочих</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_SCOUT</zType>
+    <Translation>Разведчики~Разведчиков~Разведчикам~Разведчиков~Разведчиками~Разведчиках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_CARAVAN</zType>
+    <Translation>Караван~Каравана~Каравану~Караван~Караваном~Караване~Караваны~Караванов~Караванам~Караванов~Караванами~Караванах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_RELIGION_DISCIPLE</zType>
+    <Translation>{UNIT-RELIGION,12} апостол~{UNIT-RELIGION,12} апостола~{UNIT-RELIGION,12} апостолу~{UNIT-RELIGION,12} апостола~{UNIT-RELIGION,12} апостолом~{UNIT-RELIGION,12} апостоле~{UNIT-RELIGION,12} апостолы~{UNIT-RELIGION,12} апостолов~{UNIT-RELIGION,12} апостолам~{UNIT-RELIGION,12} апостолов~{UNIT-RELIGION,12} апостолами~{UNIT-RELIGION,12} апостолах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_MILITIA</zType>
+    <Translation>Ополченцы~Ополченцев~Ополченцам~Ополченцев~Ополченцами~Ополченцах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_CONSCRIPT</zType>
+    <Translation>Новобранцы~Новобранцев~Новобранцам~Новобранцев~Новобранцами~Новобранцах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_WARRIOR</zType>
+    <Translation>Воины~Воинов~Воинам~Воинов~Воинами~Воинах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_AXEMAN</zType>
+    <Translation>Топорщики~Топорщиков~Топорщикам~Топорщиков~Топорщиками~Топорщиках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_SPEARMAN</zType>
+    <Translation>Копейщики~Копейщиков~Копейщикам~Копейщиков~Копейщиками~Копейщиках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_MACEMAN</zType>
+    <Translation>Булавоносцы~Булавоносцев~Булавоносцам~Булавоносцев~Булавоносцами~Булавоносцах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_SWORDSMAN</zType>
+    <Translation>Мечники~Мечников~Мечникам~Мечников~Мечниками~Мечниках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_PIKEMAN</zType>
+    <Translation>Пикинеры~Пикинеров~Пикинерам~Пикинеров~Пикинерами~Пикинерах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_SLINGER</zType>
+    <Translation>Пращники~Пращников~Пращникам~Пращников~Пращниками~Пращниках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_ARCHER</zType>
+    <Translation>Лучники~Лучников~Лучникам~Лучников~Лучниками~Лучниках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_LONGBOWMAN</zType>
+    <Translation>Меткие лучники~Метких лучников~Метким лучникам~Метких лучников~Меткими лучниками~Метких лучниках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_CROSSBOWMAN</zType>
+    <Translation>Арбалетчики~Арбалетчиков~Арбалетчикам~Арбалетчиков~Арбалетчиками~Арбалетчиках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_CHARIOT</zType>
+    <Translation>Колесницы~Колесниц~Колесницам~Колесницы~Колесницами~Колесницах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_HORSEMAN</zType>
+    <Translation>Всадники~Всадников~Всадникам~Всадников~Всадниками~Всадниках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_CATAPHRACT</zType>
+    <Translation>Катафракты~Катафрактов~Катафрактам~Катафрактов~Катафрактами~Катафрактах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_HORSE_ARCHER</zType>
+    <Translation>Конные лучники~Конных лучников~Конным лучникам~Конных лучников~Конными лучниками~Конных лучниках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_CAMEL_ARCHER</zType>
+    <Translation>Лучники на верблюдах~Лучников на верблюдах~Лучникам на верблюдах~Лучников на верблюдах~Лучниками на верблюдах~Лучниках на верблюдах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_WAR_ELEPHANT</zType>
+    <Translation>Слоны~Слонов~Слонам~Слонов~Слонами~Слонах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_BALLISTA</zType>
+    <Translation>Баллисты~Баллист~Баллистам~Баллисты~Баллистами~Баллистах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_POLYBOLOS</zType>
+    <Translation>Полиболы~Полиболов~Полиболам~Полиболы~Полиболами~Полиболах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_ONAGER</zType>
+    <Translation>Онагры~Онагров~Онаграм~Онагры~Онаграми~Онаграх</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_MANGONEL</zType>
+    <Translation>Петрарии~Петрарий~Петрариям~Петрарии~Петрариями~Петрариях</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_BIREME</zType>
+    <Translation>Биремы~Бирем~Биремам~Биремы~Биремами~Биремах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_TRIREME</zType>
+    <Translation>Триремы~Трирем~Триремам~Триремы~Триремами~Триремах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_DROMON</zType>
+    <Translation>Дромоны~Дромонов~Дромонам~Дромоны~Дромонами~Дромонах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_BATTERING_RAM</zType>
+    <Translation>Тараны~Таранов~Таранам~Тараны~Таранами~Таранах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_SIEGE_TOWER</zType>
+    <Translation>Осадные башни~Осадных башен~Осадным башням~Осадные башни~Осадными башнями~Осадных башнях</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_AKKADIAN_ARCHER</zType>
+    <Translation>Аккадские лучники~Аккадских лучников~Аккадским лучникам~Аккадских лучников~Аккадскими лучниками~Аккадских лучниках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_CIMMERIAN_ARCHER</zType>
+    <Translation>Киммерийские лучники~Киммерийских лучников~Киммерийским лучникам~Киммерийских лучников~Киммерийскими лучниками~Киммерийских лучниках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_AFRICAN_ELEPHANT</zType>
+    <Translation>Африканские слоны~Африканских слонов~Африканским слонам~Африканских слонов~Африканскими слонами~Африканских слонах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_TURRETED_ELEPHANT</zType>
+    <Translation>Боевые слоны~Боевых слонов~Боевым слонам~Боевых слонов~Боевыми слонами~Боевых слонах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_LIGHT_CHARIOT</zType>
+    <Translation>Легкие колесницы~Легких колесниц~Легким колесницам~Легкие колесницы~Легкими колесницами~Легких колесницах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_KUSHITE_CAVALRY</zType>
+    <Translation>Кушитская конница~Кушитской конницы~Кушитской коннице~Кушитскую конницу~Кушитской конницей~Кушитской коннице</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_HOPLITE</zType>
+    <Translation>Гоплиты~Гоплитов~Гоплитам~Гоплитов~Гоплитами~Гоплитах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_PHALANGITE</zType>
+    <Translation>Фалангиты~Фалангитов~Фалангитам~Фалангитов~Фалангитами~Фалангитах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_PALTON_CAVALRY</zType>
+    <Translation>Парфянская конница~Парфянской конницы~Парфянской коннице~Парфянскую конницу~Парфянской конницей~Парфянской коннице</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_CATAPHRACT_ARCHER</zType>
+    <Translation>Катафракты-лучники~Катафрактов-лучников~Катафрактам-лучникам~Катафрактов-лучников~Катафрактами-лучниками~Катафрактах-лучниках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_HASTATUS</zType>
+    <Translation>Гастаты~Гастатов~Гастатам~Гастатов~Гастатами~Гастатах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_LEGIONARY</zType>
+    <Translation>Легионеры~Легионеров~Легионерам~Легионеров~Легионерами~Легионерах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_MARAUDER_1</zType>
+    <Translation>Налетчики~Налетчиков~Налетчикам~Налетчиков~Налетчиками~Налетчиках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_SKIRMISHER_1</zType>
+    <Translation>Застрельщики~Застрельщиков~Застрельщикам~Застрельщиков~Застрельщиками~Застрельщиках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_NOMAD_MARAUDER_1</zType>
+    <Translation>Кочевые налетчики~Кочевых налетчиков~Кочевым налетчикам~Кочевых налетчиков~Кочевыми налетчиками~Кочевых налетчиках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_NOMAD_SKIRMISHER_1</zType>
+    <Translation>Кочевые застрельщики~Кочевых застрельщиков~Кочевым застрельщикам~Кочевых застрельщиков~Кочевыми застрельщиками~Кочевых застрельщиках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_MARAUDER_2</zType>
+    <Translation>Элитные налетчики~Элитных налетчиков~Элитным налетчикам~Элитных налетчиков~Элитными налетчиками~Элитных налетчиках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_SKIRMISHER_2</zType>
+    <Translation>Элитные застрельщики~Элитных застрельщиков~Элитным застрельщикам~Элитных застрельщиков~Элитными застрельщиками~Элитных застрельщиках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_NOMAD_MARAUDER_2</zType>
+    <Translation>Элитные кочевые налетчики~Элитных кочевых налетчиков~Элитным кочевым налетчикам~Элитных кочевых налетчиков~Элитными кочевыми налетчиками~Элитных кочевых налетчиках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_NOMAD_SKIRMISHER_2</zType>
+    <Translation>Элитные кочевые застрельщики~Элитных кочевых застрельщиков~Элитным кочевым застрельщикам~Элитных кочевых застрельщиков~Элитными кочевыми застрельщиками~Элитных кочевых застрельщиках</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_WARLORD_1</zType>
+    <Translation>Вождь~Вождя~Вождю~Вождя~Вождем~Вожде</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_JAVELINEER_1</zType>
+    <Translation>Метатели копья~Метателей копья~Метателям копья~Метателей копья~Метателями копья~Метателях копья</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_NOMAD_WARLORD_1</zType>
+    <Translation>Вождь кочевников~Вождя кочевников~Вождю кочевников~Вождя кочевников~Вождем кочевников~Вожде кочевников</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_GAESATA_1</zType>
+    <Translation>Гесаты~Гесатов~Гесатам~Гесатов~Гесатами~Гесатах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_HUSCARL_1</zType>
+    <Translation>Хускарлы~Хускарлов~Хускарлам~Хускарлов~Хускарлами~Хускарлах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_CLUBTHROWER_1</zType>
+    <Translation>Метатели булавы~Метателей булавы~Метателям булавы~Метателей булавы~Метателями булавы~Метателях булавы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_PELTAST_1</zType>
+    <Translation>Пельтасты~Пельтастов~Пельтастам~Пельтастов~Пельтастами~Пельтастах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_AMAZON_CAVALRY_1</zType>
+    <Translation>Конница амазонок~Конницы амазонок~Коннице амазонок~Конницу амазонок~Конницей амазонок~Коннице амазонок</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_LIBYAN_CAVALRY_1</zType>
+    <Translation>Ливийская конница~Ливийской конницы~Ливийской коннице~Ливийскую конницу~Ливийской конницей~Ливийской коннице</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_WARLORD_2</zType>
+    <Translation>Элитный вождь~Элитного вождя~Элитному вождю~Элитного вождя~Элитным вождем~Элитном вожде</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_JAVELINEER_2</zType>
+    <Translation>Элитные метатели копья~Элитных метателей копья~Элитным метателям копья~Элитных метателей копья~Элитными метателями копья~Элитных метателях копья</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_NOMAD_WARLORD_2</zType>
+    <Translation>Элитный вождь кочевников~Элитного вождя кочевников~Элитному вождю кочевников~Элитного вождя кочевников~Элитным вождем кочевников~Элитном вожде кочевников</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_GAESATA_2</zType>
+    <Translation>Элитные гесаты~Элитных гесатов~Элитным гесатам~Элитных гесатов~Элитными гесатами~Элитных гесатах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_HUSCARL_2</zType>
+    <Translation>Элитные хускарлы~Элитных хускарлов~Элитным хускарлам~Элитных хускарлов~Элитными хускарлами~Элитных хускарлах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_CLUBTHROWER_2</zType>
+    <Translation>Элитные метатели булавы~Элитных метателей булавы~Элитным метателям булавы~Элитных метателей булавы~Элитными метателями булавы~Элитных метателях булавы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_PELTAST_2</zType>
+    <Translation>Элитные пельтасты~Элитных пельтастов~Элитным пельтастам~Элитных пельтастов~Элитными пельтастами~Элитных пельтастах</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_AMAZON_CAVALRY_2</zType>
+    <Translation>Элитная конница амазонок~Элитной конницы амазонок~Элитной коннице амазонок~Элитную конницу амазонок~Элитной конницей амазонок~Элитной коннице амазонок</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_LIBYAN_CAVALRY_2</zType>
+    <Translation>Элитная ливийская конница~Элитной ливийской конницы~Элитной ливийской коннице~Элитную ливийскую конницу~Элитной ливийской конницей~Элитной ливийской коннице</Translation>
+  </Entry>
+</Root>

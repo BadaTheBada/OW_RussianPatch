@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<Root>
+  <Entry>
+    <zType />
+    <English />
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_MAIN_MENU_START</zType>
+    <Translation>Главное меню</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_3_PIECES_IN_OLD_STYLE___NO1</zType>
+    <Translation>3 Pieces in Old Style #1</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_3_PIECES_IN_OLD_STYLE___NO3</zType>
+    <Translation>3 Pieces in Old Style #3</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_AJAM_ON_BUZUK</zType>
+    <Translation>Ajam on Buzuk</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_ANOUSH_GARUN__SWEET_SPRING_</zType>
+    <Translation>Anoush Garun (Sweet Spring)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_APARANI_PAR</zType>
+    <Translation>Aparani Par</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_ARAVOT_LOUSABER__ASCENDING_LIGHT___ARR__KOMITAS____ARAVOT_LOUSABER__ASCENDING_LIGHT__</zType>
+    <Translation>Aravot lousaber (Ascending light)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_ARMENIAN_DANCE__ARR__K__NERCESIAN____ARMENIAN_DANCE</zType>
+    <Translation>Armenian Dance (K. Nercesian)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_ARTSAKHI_PAR__DANCE_FROM_ARTSAKH_</zType>
+    <Translation>Artsakhi par (Dance from Artsakh)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_ASHKHARUMES_AKH_CHIM_KASHIL__I_WILL_NOT_BE_SAD_IN_THIS_WORLD__AS_LONG_AS_I_HAVE_YOU_</zType>
+    <Translation>Ashkharumes akh chim kashil (I will not be sad in this world, as long as I have you)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_AVE_MARIA_GRATIA_PLENA</zType>
+    <Translation>Ave Maria</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_BOUDALI__SPIRIT_NAME</zType>
+    <Translation>Boudali (Spirit Name)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_EL_HAWZI__EL_HAWZI__EGYPT_</zType>
+    <Translation>El-hawzi (Egypt)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_ERVA_YES__I_AM_BURNED_BY_LOVE_</zType>
+    <Translation>Erva Yes - I Am Burned By Love</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_EUNTES_IBANT_ET_FLEBANT___OP32</zType>
+    <Translation>Euntes Ibant et Flebant, Op. 32</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_OPENING_GLASSWORKS</zType>
+    <Translation>Glassworks - Opening</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_HIJAZ___SEGMENT_1_MSTR</zType>
+    <Translation>Hijaz Segment 1</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_HIJAZ___SEGMENT_2_MSTR</zType>
+    <Translation>Hijaz Segment 2</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_HIJAZ___SEGMENT_3_MSTR</zType>
+    <Translation>Hijaz Segment 3</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_HIJAZ___SEGMENT_4_MSTR</zType>
+    <Translation>Hijaz Segment 4</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_HIJAZ___SEGMENT_5_MSTR</zType>
+    <Translation>Hijaz Segment 5</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_HIJAZ___SEGMENT_6_MSTR</zType>
+    <Translation>Hijaz Segment 6</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_HIJAZ___SEGMENT_7_MSTR</zType>
+    <Translation>Hijaz Segment 7</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_KATOT__LONGING_</zType>
+    <Translation>Katot (Longing)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_LA_ILLAH_ILLA_ALLAH</zType>
+    <Translation>La Ilaha Illa Allah</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_LOBGESANG___OP72</zType>
+    <Translation>Lobgesang, Op. 72</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_LUX_AURUMQUE__LIGHT_OF_GOLD_</zType>
+    <Translation>Lux Aurumque ("Light of Gold")</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_MAWAL_GNAWI</zType>
+    <Translation>Mawal Gnawi</Translation>
+  </Entry>
+  <!--<Entry>
+		<zType>TEXT_AUDIO_MUSIC_BG_MISERERE___SWEEDISH_RADIO_CHOIR</zType>
+		<Translation>Miserere - Sweedish Radio Choir</Translation>
+	</Entry>-->
+  <!-- Miserere Movements *************************************************** -->
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_MISERERE_MOVEMENT_1_MSTR</zType>
+    <Translation>Miserere - Movement 1</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_MISERERE_MOVEMENT_3_MSTR</zType>
+    <Translation>Miserere - Movement 3</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_MISERERE_MOVEMENT_4_MSTR</zType>
+    <Translation>Miserere - Movement 4</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_MISERERE_MOVEMENT_5_MSTR</zType>
+    <Translation>Miserere - Movement 5</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_MISERERE_MOVEMENT_6_MSTR</zType>
+    <Translation>Miserere - Movement 6</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_MISERERE_MOVEMENT_7_MSTR</zType>
+    <Translation>Miserere - Movement 7</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_MISERERE_MOVEMENT_9_MSTR</zType>
+    <Translation>Miserere - Movement 9</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_MISERERE_MOVEMENT_11_MSTR</zType>
+    <Translation>Miserere - Movement 11</Translation>
+  </Entry>
+  <!-- /Miserere Movements ************************************************** -->
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_MISSA_A_CAPPELLA___BENEDICTUS</zType>
+    <Translation>Missa a cappella - Benedictus</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_MISSA_A_CAPPELLA___CREDO</zType>
+    <Translation>Missa a cappella - Credo</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_MISSA_A_CAPPELLA___GLORIA</zType>
+    <Translation>Missa a cappella - Gloria</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_MISSA_A_CAPPELLA___SANCTUS</zType>
+    <Translation>Missa a cappella - Sanctus</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_MOME_MALENKO</zType>
+    <Translation>Mome Malenko</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_OROVELA</zType>
+    <Translation>Orovela</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_01_OUR_FATHER</zType>
+    <Translation>Our Father</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_OV_ZARMANALI__WHAT_A_MIRACLE___ARR__KOMITAS____OV_ZARMANALI__WHAT_A_MIRACLE_</zType>
+    <Translation>Ov zarmanali (What a miracle) (arr. Komitas)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_03_TRI_PERSONAL_NATURE_OF_GOD</zType>
+    <Translation>Tri Personal Nature Of God</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_05_PSALM_16</zType>
+    <Translation>Psalm 16</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_02_PSALM_50</zType>
+    <Translation>Psalm 50</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_06_PSALM_53</zType>
+    <Translation>Psalm 53</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_IRAQ_RAQSAT_ALBEDOI__RAQSAT_ALBEDOI__IRAQ_</zType>
+    <Translation>Raqsat Albedoi - Iraq</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_RASD</zType>
+    <Translation>Rasd (Syria)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_SANDIA</zType>
+    <Translation>Sandia</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_SEV_ORER__DARK_DAYS_</zType>
+    <Translation>Sev Orer (Dark Days)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_SIRT_IM_SASANI__MY_HEART_IS_TREMBLING___ARR__V__KOMITAS____SIRT_IM_SASANI__MY_HEART_IS_TREMBLING_</zType>
+    <Translation>Sirt im sasani - My heart is trembling</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_SLUNTSE</zType>
+    <Translation>Sluntse</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_SPARMASETTA</zType>
+    <Translation>Sparmasetta</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_TABAT___YA_HABIBI__TABAT__A_SONG_OF_PRAISE____YA_HABIBI__MY_BELOVED_</zType>
+    <Translation>Tabat - Ya Habibi: Tabat (A Song of Praise)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_TAQSIM_ON_NEY</zType>
+    <Translation>Taqsim on Ney</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_TAQSIM_ON_VIOLIN</zType>
+    <Translation>Taqsim on Violin</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_STANKA</zType>
+    <Translation>Stanka</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_TOURA_TOURA</zType>
+    <Translation>Toura toura</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_UD_IMPROVISATION_IN_MAKAM_HICAZ</zType>
+    <Translation>Ud improvisation in Makam Hicaz</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_UNABI___MARALI___SHUSHIKI__MELODY_OF_DANCES___ARR__KOMITAS____UNABI___MARALI___SHUSHIKI__MELODY_OF_DANCES_</zType>
+    <Translation>Unabi - Marali - Shushiki (Melody of dances)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_VERKLARTE_NACHT__TRANSFIGURED_NIGHT_</zType>
+    <Translation>Verklärte Nacht (Transfigured Night)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_VIOLIN_CONCERTO___I</zType>
+    <Translation>Violin Concerto I</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_VIOLIN_CONCERTO___III</zType>
+    <Translation>Violin Concerto III</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_VOCH_ME_DZALEEG__THERE_IS_NO_FLOWER_</zType>
+    <Translation>Voch Me Dzaleeg (There is No Flower)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_YA_KHALIL__YA_KHALIL__NAME_OF_THE_BELOVED_</zType>
+    <Translation>Ya khalil (Name of the Beloved)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_YEKYALKS__WE_ARE_GATHERED_</zType>
+    <Translation>Yekyalks (We are gathered)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_YERAZ</zType>
+    <Translation>Yeraz</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_ZABLEYALO_AGNE</zType>
+    <Translation>Zableyalo Agne</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_ALAN_SHAVARSH_BARDEZBANIAN</zType>
+    <Translation>Alan Shavarsh Bardezbanian</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_SERAPHIM_BIT_KHARIBI</zType>
+    <Translation>Seraphim Bit-Kharibi</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_NOUR_EDDINE</zType>
+    <Translation>Nour Eddine</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_HENRYK_GORECKI</zType>
+    <Translation>Henryk Gorecki</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_PHILIP_GLASS</zType>
+    <Translation>Philip Glass</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_LE_MYSTERE_DES_VOIX_BULGARES</zType>
+    <Translation>Le Mystere Des Voix Bulgares</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_EINOJUHANI_RAUTAVAARA</zType>
+    <Translation>Einojuhani Rautavaara</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARNOLD_SCHOENBERG</zType>
+    <Translation>Arnold Schoenberg</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_ERIC_WHITACRE</zType>
+    <Translation>Eric Whitacre</Translation>
+  </Entry>
+  <!-- MUSICBED ************************************************************* -->
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_ASCENT___CATHEDRAL</zType>
+    <Translation>Ascent</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_BEAUTY_MARK___CHAD_LAWSON</zType>
+    <Translation>Beauty Mark</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_BELLY_OF_THE_WHALE___SONGS_OF_WATER</zType>
+    <Translation>Belly of the Whale</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_CLOUDS__NOT_CLOCKS___SLOW_MEADOW</zType>
+    <Translation>Clouds, Not Clocks</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_CREATING_LIFE___DEXTER_BRITAIN</zType>
+    <Translation>Creating Life</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_D_S___ALISTAIR_SUNG</zType>
+    <Translation>D.S</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_DAYDREAM_IN_D_FOR_CELLO___ERIC_KINNY</zType>
+    <Translation>Daydream in D for Cello</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_DEEPER___CHRIS_COLEMAN</zType>
+    <Translation>Deeper</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_DEEPER__EXTENDED_VERSION____CHRIS_COLEMAN</zType>
+    <Translation>Deeper (Extended Version)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_DIRECTIONS___STEVEN_GUTHEINZ</zType>
+    <Translation>Directions</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_DON_T_GO___CHRIS_COLEMAN</zType>
+    <Translation>Don't Go</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_ELEGY___DEXTER_BRITAIN</zType>
+    <Translation>Elegy</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_FALLING_OCEAN___CHAD_LAWSON</zType>
+    <Translation>Falling Ocean</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_FOR_HER_FEAT__PHILIP_DANIEL__SOLO_STRINGS____SHAWN_WILLIAMS</zType>
+    <Translation>For Her feat. Philip Daniel (Solo Strings)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_FOR_KATHERINE__WITH_PETER_CAVALLO____KYLE_MCEVOY</zType>
+    <Translation>For Katherine (with Peter Cavallo)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_GOLESTAN___MAX_LL</zType>
+    <Translation>Golestan</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_IN_THE_END___FUTURE_OF_FORESTRY</zType>
+    <Translation>In the End</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_IRIS___TOPU</zType>
+    <Translation>Iris</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_LET_IT_OUT___GRACIE_AND_RACHEL</zType>
+    <Translation>Let it Out</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_LITTLE___KINGPINGUIN</zType>
+    <Translation>Little</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_MY_HARP___FUTURE_OF_FORESTRY</zType>
+    <Translation>My Harp</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_NEW_BEGINNINGS___ALISTAIR_SUNG</zType>
+    <Translation>New Beginnings</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_O_HAPPY_FAULT___AUDREY_ASSAD</zType>
+    <Translation>O Happy Fault</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_POOL___STEVEN_GUTHEINZ</zType>
+    <Translation>Pool</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_SANDSTONE___BLAKE_EWING</zType>
+    <Translation>Sandstone</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_SEARCHING_THE_UNKNOWN___ALISTAIR_SUNG</zType>
+    <Translation>Searching The Unknown</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_SECRETS_OF_SILK___MAX_LL</zType>
+    <Translation>Secrets of Silk</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_SOMETIMES___STEVEN_GUTHEINZ</zType>
+    <Translation>Sometimes</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_SUMMER___CATHEDRAL</zType>
+    <Translation>Summer</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_THE_FRAGILE_PART___AJ_HOCHHALTER</zType>
+    <Translation>The Fragile Part</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_TORRID__PIANO___PADS_ONLY____BRADFORD_NYGHT</zType>
+    <Translation>Torrid (Piano and Pads Only)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_TOUCH___CHAD_LAWSON</zType>
+    <Translation>Touch</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_UNEARTHED_FEAT__PHILIP_DANIEL__SOLO_STRINGS____SHAWN_WILLIAMS</zType>
+    <Translation>Unearthed feat. Philip Daniel (Solo Strings)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_UNION___TOLO</zType>
+    <Translation>Union</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_VOWS_ON_THE_HILLSIDE___TIMBRE</zType>
+    <Translation>Vows on the Hillside</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_WADING___ALISTAIR_SUNG</zType>
+    <Translation>Wading</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_MUSIC_BG_YULE___KINO</zType>
+    <Translation>Yule</Translation>
+  </Entry>
+  <!-- /MUSICBED ************************************************************ -->
+  <!-- MUSICBED ARTISTS ***************************************************** -->
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_CATHEDRAL</zType>
+    <Translation>Cathedral</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_CHAD_LAWSON</zType>
+    <Translation>Chad Lawson</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_SONGS_OF_WATER</zType>
+    <Translation>Songs Of Water</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_SLOW_MEADOW</zType>
+    <Translation>Slow Meadow</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_DEXTER_BRITAIN</zType>
+    <Translation>Dexter Britain</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_ALISTAIR_SUNG</zType>
+    <Translation>Alistair Sung</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_ERIC_KINNY</zType>
+    <Translation>Eric Kinny</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_CHRIS_COLEMAN</zType>
+    <Translation>Chris Coleman</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_STEVEN_GUTHEINZ</zType>
+    <Translation>Steven Gutheinz</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_SHAWN_WILLIAMS</zType>
+    <Translation>Shawn Williams</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_KYLE_MCEVOY</zType>
+    <Translation>Kyle Mcevoy</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_MAX_LL</zType>
+    <Translation>Max LL</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_FUTURE_OF_FORESTRY</zType>
+    <Translation>Future Of Forestry</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_TOPU</zType>
+    <Translation>Topu</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_GRACIE_AND_RACHEL</zType>
+    <Translation>Gracie And Rachel</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_KINGPINGUIN</zType>
+    <Translation>Kingpinguin</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_AUDREY_ASSAD</zType>
+    <Translation>Audrey Assad</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_BLAKE_EWING</zType>
+    <Translation>Blake Ewing</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_AJ_HOCHHALTER</zType>
+    <Translation>Aj Hochhalter</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_BRADFORD_NYGHT</zType>
+    <Translation>Bradford Nyght</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_TOLO</zType>
+    <Translation>Tolo</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_TIMBRE</zType>
+    <Translation>Timbre</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUDIO_ARTIST_KINO</zType>
+    <Translation>Kino</Translation>
+  </Entry>
+  <!-- /MUSICBED ARTISTS***************************************************** -->
+</Root>

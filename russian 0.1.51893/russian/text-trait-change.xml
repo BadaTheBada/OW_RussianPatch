@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Leyla Johnson (Private) -->
+<Root>
+  <!--Assets/GameAssets/Resources/Infos/trait.xml-->
+  <Entry>
+    <zType />
+    <English />
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HERO_ARCHETYPE</zType>
+    <Translation>Герой~Героя~Герою~Героя~Героем~Герое</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_COMMANDER_ARCHETYPE</zType>
+    <Translation>Военачальник~Военачальника~Военачальнику~Военачальника~Военачальником~Военачальнике</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_TACTICIAN_ARCHETYPE</zType>
+    <Translation>Тактик~Тактика~Тактику~Тактика~Тактиком~Тактике</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ZEALOT_ARCHETYPE</zType>
+    <Translation>Фанатик~Фанатика~Фанатику~Фанатика~Фанатиком~Фанатике</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SCHEMER_ARCHETYPE</zType>
+    <Translation>Интриган~Интригана~Интригану~Интригана~Интриганом~Интригане</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ORATOR_ARCHETYPE</zType>
+    <Translation>Оратор~Оратора~Оратору~Оратора~Оратором~Ораторе</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_JUDGE_ARCHETYPE</zType>
+    <Translation>Судья~Судьи~Судье~Судью~Судьей~Судье</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BUILDER_ARCHETYPE</zType>
+    <Translation>Строитель~Строителя~Строителю~Строителя~Строителем~Строителе</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SCHOLAR_ARCHETYPE</zType>
+    <Translation>Ученый~Ученого~Ученому~Ученого~Ученым~Ученом</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DIPLOMAT_ARCHETYPE</zType>
+    <Translation>Дипломат~Дипломата~Дипломату~Дипломата~Дипломатом~Дипломате</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_AFFABLE</zType>
+    <Translation>Учтивый~Учтивого~Учтивому~Учтивого~Учтивым~Учтивом~Учтивая~Учтивой~Учтивой~Учтивую~Учтивой~Учтивой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_AFFABLE_GAIN_1</zType>
+    <Translation>Friendly and social to all, {0_character} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_AFFABLE_GAIN_2</zType>
+    <Translation>{0_character} is always an agreeable companion and is now known to be {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ELOQUENT</zType>
+    <Translation>Красноречивый~Красноречивого~Красноречивому~Красноречивого~Красноречивым~Красноречивом~Красноречивая~Красноречивой~Красноречивой~Красноречивую~Красноречивой~Красноречивой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ELOQUENT_GAIN_1</zType>
+    <Translation>Never at a loss for words, {0_character} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ELOQUENT_GAIN_2</zType>
+    <Translation>{0_character} is quick-witted and silver-tongued, a most {1_trait} person!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WARLIKE</zType>
+    <Translation>Воинственный~Воинственного~Воинственному~Воинственного~Воинственным~Воинственном~Воинственная~Воинственной~Воинственной~Воинственную~Воинственной~Воинственной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WARLIKE_GAIN_1</zType>
+    <Translation>Always ready to fight, {0_character} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WARLIKE_GAIN_2</zType>
+    <Translation>{0_character} is skilled with the sword, spear, and shield. A most {1_trait} person!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INSPIRING</zType>
+    <Translation>Вдохновляющий~Вдохновляющего~Вдохновляющему~Вдохновляющего~Вдохновляющим~Вдохновляющем~Вдохновляющая~Вдохновляющей~Вдохновляющей~Вдохновляющую~Вдохновляющей~Вдохновляющей</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INSPIRING_GAIN_1</zType>
+    <Translation>Able to give a rousing speech on demand, {0_character} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INSPIRING_GAIN_2</zType>
+    <Translation>{0_character} is able to uplift anyone with {masculine_0:his:her} words. {masculine_0:He:She} is {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INTELLIGENT</zType>
+    <Translation>Умный~Умного~Умному~Умного~Умным~Умном~Умная~Умной~Умной~Умную~Умной~Умной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INTELLIGENT_GAIN_1</zType>
+    <Translation>Easily able to learn and understand new things, {0_character} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INTELLIGENT_GAIN_2</zType>
+    <Translation>{0_character} is swift to understand new situations. {masculine_0:He:She} is {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PROSPEROUS</zType>
+    <Translation>Процветающий~Процветающего~Процветающему~Процветающего~Процветающим~Процветающем~Процветающая~Процветающей~Процветающей~Процветающую~Процветающей~Процветающей</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PROSPEROUS_GAIN_1</zType>
+    <Translation>A master of making money, {0_character} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PROSPEROUS_GAIN_2</zType>
+    <Translation>{0_character} can spin straw into gold. {masculine_0:He:She} is {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FRUGAL</zType>
+    <Translation>Рачительный~Рачительного~Рачительному~Рачительного~Рачительным~Рачительном~Рачительная~Рачительной~Рачительной~Рачительную~Рачительной~Рачительной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FRUGAL_GAIN_1</zType>
+    <Translation>Never keen on spending money, {0_character} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FRUGAL_GAIN_2</zType>
+    <Translation>{0_character} can spin straw into gold. {masculine_0:He:She} is {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RIGHTEOUS</zType>
+    <Translation>Праведный~Праведного~Праведному~Праведного~Праведным~Праведном~Праведная~Праведной~Праведной~Праведную~Праведной~Праведной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RIGHTEOUS_GAIN_1</zType>
+    <Translation>Always taking the moral position, {0_character} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RIGHTEOUS_GAIN_2</zType>
+    <Translation>{0_character} always tries to do what is best. {masculine_0:He:She} is {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CRUEL</zType>
+    <Translation>Жестокий~Жестокого~Жестокому~Жестокого~Жестоким~Жестоком~Жестокая~Жестокой~Жестокой~Жестокую~Жестокой~Жестокой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CRUEL_GAIN_1</zType>
+    <Translation>Keen to inflict pain and suffering, {0_character} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CRUEL_GAIN_2</zType>
+    <Translation>{0_character} finds enjoyment in hurting others. {masculine_0:He:She} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INTOLERANT</zType>
+    <Translation>Нетерпимый~Нетерпимого~Нетерпимому~Нетерпимого~Нетерпимым~Нетерпимом~Нетерпимая~Нетерпимой~Нетерпимой~Нетерпимую~Нетерпимой~Нетерпимой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INTOLERANT_GAIN_1</zType>
+    <Translation>Disgusted by differing beliefs, {0_character} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INTOLERANT_GAIN_2</zType>
+    <Translation>{0_character} has no patience for different ways of life. {masculine_0:He:She} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SLOTHFUL</zType>
+    <Translation>Ленивый~Ленивого~Ленивому~Ленивого~Ленивым~Ленивом~Ленивая~Ленивой~Ленивой~Ленивую~Ленивой~Ленивой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SLOTHFUL_GAIN_1</zType>
+    <Translation>Unwilling to put effort into anything, {0_character} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SLOTHFUL_GAIN_2</zType>
+    <Translation>{0_character} never gets around to doing anything. {masculine_0:He:She} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CORRUPT</zType>
+    <Translation>Корыстный~Корыстного~Корыстному~Корыстного~Корыстным~Корыстном~Корыстная~Корыстной~Корыстной~Корыстную~Корыстной~Корыстной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CORRUPT_GAIN_1</zType>
+    <Translation>Dishonest and greedy, {0_character} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CORRUPT_GAIN_2</zType>
+    <Translation>{0_character} will do anything for personal gain. {masculine_0:He:She} is {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_UNCOUTH</zType>
+    <Translation>Невежественный~Невежественного~Невежественному~Невежественного~Невежественным~Невежественном~Невежественная~Невежественной~Невежественной~Невежественную~Невежественной~Невежественной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_UNCOUTH_GAIN_1</zType>
+    <Translation>Lacking grace and manners, {0_character} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_UNCOUTH_GAIN_2</zType>
+    <Translation>{0_character} is strange and foul. {masculine_0:He:She} is {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FOOLISH</zType>
+    <Translation>Глупый~Глупого~Глупому~Глупого~Глупым~Глупом~Глупая~Глупой~Глупой~Глупую~Глупой~Глупой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FOOLISH_GAIN_1</zType>
+    <Translation>Unwise and often absurd, {0_character} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FOOLISH_GAIN_2</zType>
+    <Translation>{0_character} has poor judgement and rarely makes sense. {masculine_0:He:She} is {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EXTRAVAGANT</zType>
+    <Translation>Расточительный~Расточительного~Расточительному~Расточительного~Расточительным~Расточительном~Расточительная~Расточительной~Расточительной~Расточительную~Расточительной~Расточительной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EXTRAVAGANT_GAIN_1</zType>
+    <Translation>A prolific spender, {0_character} is known to be {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EXTRAVAGANT_GAIN_2</zType>
+    <Translation>{0_character} buys anything which strikes {masculine_0:his:her} fancy. {masculine_0:He:She} is {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DEBAUCHED</zType>
+    <Translation>Распутный~Распутного~Распутному~Распутного~Распутным~Распутном~Распутная~Распутной~Распутной~Распутную~Распутной~Распутной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DEBAUCHED_GAIN_1</zType>
+    <Translation>Ready to indulge in any vice, {0_character} is known to be {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DEBAUCHED_GAIN_2</zType>
+    <Translation>{0_character} lives deliciously. {masculine_0:He:She} is {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ROBUST</zType>
+    <Translation>Сильный~Сильного~Сильному~Сильного~Сильным~Сильном~Сильная~Сильной~Сильной~Сильную~Сильной~Сильной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ROBUST_GAIN_1</zType>
+    <Translation>Healthy and tough, {0_character} is known to be {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ROBUST_GAIN_2</zType>
+    <Translation>{0_character} is strong as an ox and never ill. {masculine_0:He:She} is {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_VIGILANT</zType>
+    <Translation>Бдительный~Бдительного~Бдительному~Бдительного~Бдительным~Бдительном~Бдительная~Бдительной~Бдительной~Бдительную~Бдительной~Бдительной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_VIGILANT_GAIN_1</zType>
+    <Translation>Ever watchful, many call {0_character} {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_VIGILANT_GAIN_2</zType>
+    <Translation>{0_character} is always on the lookout for danger. {masculine_0:He:She} is {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STRICT</zType>
+    <Translation>Строгий~Строгого~Строгому~Строгого~Строгим~Строгом~Строгая~Строгой~Строгой~Строгую~Строгой~Строгой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STRICT_GAIN_1</zType>
+    <Translation>A servant of duty, many call {0_character} {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STRICT_GAIN_2</zType>
+    <Translation>{0_character} is disciplined and attentive. {masculine_0:He:She} is {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EQUESTRIAN</zType>
+    <Translation>Всадник~Всадника~Всаднику~Всадника~Всадником~Всаднике~Всадница~Всадницы~Всаднице~Всадницу~Всадницей~Всаднице</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EQUESTRIAN_GAIN_1</zType>
+    <Translation>An expert rider and trainer of horses, {0_character} is known as an {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EQUESTRIAN_GAIN_2</zType>
+    <Translation>{0_character} is never far from {masculine_0:his:her} horse. {masculine_0:He:She} is an {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CARPENTER</zType>
+    <Translation>Плотник~Плотника~Плотнику~Плотника~Плотником~Плотнике~Плотник~Плотника~Плотнику~Плотника~Плотником~Плотнике</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CARPENTER_GAIN_1</zType>
+    <Translation>A master woodworker, {0_character} is famed as a {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PATHFINDER</zType>
+    <Translation>Следопыт~Следопыта~Следопыту~Следопыта~Следопытом~Следопыте~Следопыт~Следопыта~Следопыту~Следопыта~Следопытом~Следопыте</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PATHFINDER_GAIN_1</zType>
+    <Translation>A confident hunter, scout, and gamekeeper, {0_character} is a renowned {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CULTIVATOR</zType>
+    <Translation>Земледелец~Земледельца~Земледельцу~Земледельца~Земледельцем~Земледельце~Земледелец~Земледельца~Земледельцу~Земледельца~Земледельцем~Земледельце</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CULTIVATOR_GAIN_1</zType>
+    <Translation>Green of thumb, {0_character} is a {1_trait} who can grow anything!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_NATURALIST</zType>
+    <Translation>Естествоиспытатель~Естествоиспытателя~Естествоиспытателю~Естествоиспытателя~Естествоиспытателем~Естествоиспытателе~Естествоиспытатель~Естествоиспытателя~Естествоиспытателю~Естествоиспытателя~Естествоиспытателем~Естествоиспытателе</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_NATURALIST_GAIN_1</zType>
+    <Translation>A keen student of plants and animals, {0_character} is a {1_trait} of some fame!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DELVER</zType>
+    <Translation>Добытчик~Добытчика~Добытчику~Добытчика~Добытчиком~Добытчике~Добытчик~Добытчика~Добытчику~Добытчика~Добытчиком~Добытчике</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DELVER_GAIN_1</zType>
+    <Translation>Able to excavate anything, {0_character} is a {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DEALMAKER</zType>
+    <Translation>Переговорщик~Переговорщика~Переговорщику~Переговорщика~Переговорщиком~Переговорщике~Переговорщик~Переговорщика~Переговорщику~Переговорщика~Переговорщиком~Переговорщике</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DEALMAKER_GAIN_1</zType>
+    <Translation>With a gift for negotiation, {0_character} is known as a {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DEALMAKER_GAIN_2</zType>
+    <Translation>{0_character} can get anything they want while keeping the other party pleased. {masculine_0:He:She} is an excellent {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_TRACKER</zType>
+    <Translation>Охотник~Охотника~Охотнику~Охотника~Охотником~Охотнике~Охотник~Охотника~Охотнику~Охотника~Охотником~Охотнике</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_TRACKER_GAIN_1</zType>
+    <Translation>Able to track any trail, {0_character} is an expert {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SWIFT</zType>
+    <Translation>Стремительный~Стремительного~Стремительному~Стремительного~Стремительным~Стремительном~Стремительная~Стремительной~Стремительной~Стремительную~Стремительной~Стремительной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SWIFT_GAIN_1</zType>
+    <Translation>Fast as a stooping hawk, everyone knows {0_character} to be {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BESIEGER</zType>
+    <Translation>Мастер осады~Мастера осады~Мастеру осады~Мастера осады~Мастером осады~Мастере осады~Мастер осады~Мастера осады~Мастеру осады~Мастера осады~Мастером осады~Мастере осады</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BESIEGER_GAIN_1</zType>
+    <Translation>An expert in siege warfare, {0_character} is known as a {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_TOUGH</zType>
+    <Translation>Закаленный~Закаленного~Закаленному~Закаленного~Закаленным~Закаленном~Закаленная~Закаленной~Закаленной~Закаленную~Закаленной~Закаленной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_TOUGH_GAIN_1</zType>
+    <Translation>Strong and determined, {0_character} is regarded as {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BLOODTHIRSTY</zType>
+    <Translation>Кровожадный~Кровожадного~Кровожадному~Кровожадного~Кровожадным~Кровожадном~Кровожадная~Кровожадной~Кровожадной~Кровожадную~Кровожадной~Кровожадной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BLOODTHIRSTY_GAIN_1</zType>
+    <Translation>{0_character} is a {1_trait} monster!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BLOODTHIRSTY_GAIN_2</zType>
+    <Translation>Happiest when engaging in extreme violence, {0_character} is {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HECKLER</zType>
+    <Translation>Смутьян~Смутьяна~Смутьяну~Смутьяна~Смутьяном~Смутьяне~Смутьян~Смутьяна~Смутьяну~Смутьяна~Смутьяном~Смутьяне</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HECKLER_GAIN_1</zType>
+    <Translation>{0_character} never gives {masculine_0:his:her} enemies peace. {masculine_0:He:She} is an unrelenting {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STEADFAST</zType>
+    <Translation>Непоколебимый~Непоколебимого~Непоколебимому~Непоколебимого~Непоколебимым~Непоколебимом~Непоколебимая~Непоколебимой~Непоколебимой~Непоколебимую~Непоколебимой~Непоколебимой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STEADFAST_GAIN_1</zType>
+    <Translation>{0_character} will always hold firm to {masculine_0:his:her} chosen position. {masculine_0:He:She} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HERBALIST</zType>
+    <Translation>Травник~Травника~Травнику~Травника~Травником~Травнике~Травница~Травницы~Травнице~Травницу~Травницей~Травнице</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HERBALIST_GAIN_1</zType>
+    <Translation>An expert {1_trait}, {0_character} knows more about the uses of plants than most!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HIGHLANDER</zType>
+    <Translation>Горец~Горца~Горцу~Горца~Горцем~Горце~Горец~Горца~Горцу~Горца~Горцем~Горце</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HIGHLANDER_GAIN_1</zType>
+    <Translation>{0_character} is at home in the hills and mountains. {masculine_0:He:She} is a {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RANGER</zType>
+    <Translation>Разведчик~Разведчика~Разведчику~Разведчика~Разведчиком~Разведчике~Разведчик~Разведчика~Разведчику~Разведчика~Разведчиком~Разведчике</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RANGER_GAIN_1</zType>
+    <Translation>{0_character} is able to move silently through the forests, an expert {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BRAVE</zType>
+    <Translation>Храбрый~Храброго~Храброму~Храброго~Храбрым~Храбром~Храбрая~Храброй~Храброй~Храбрую~Храброй~Храброй</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BRAVE_GAIN_1</zType>
+    <Translation>If {0_character} feels fear, none can tell. {masculine_0:He:She} is exceptionally {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SHIELDBEARER</zType>
+    <Translation>Щитоносец~Щитоносца~Щитоносцу~Щитоносца~Щитоносцем~Щитоносце~Щитоносец~Щитоносца~Щитоносцу~Щитоносца~Щитоносцем~Щитоносце</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SHIELDBEARER_GAIN_1</zType>
+    <Translation>{0_character} believes that the best offence is an impenetrable defence. {masculine_0:He:She} is a {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FIERCE</zType>
+    <Translation>Свирепый~Свирепого~Свирепому~Свирепого~Свирепым~Свирепом~Свирепая~Свирепой~Свирепой~Свирепую~Свирепой~Свирепой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FIERCE_GAIN_1</zType>
+    <Translation>Aggressive to a fault, many would call {0_character} {1_trait} if not for the fear {masculine_0:he:she} may take offense!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HORSEBANE</zType>
+    <Translation>Гроза всадников~Грозы всадников~Грозе всадников~Грозу всадников~Грозой всадников~Грозе всадников~Гроза всадников~Грозы всадников~Грозе всадников~Грозу всадников~Грозой всадников~Грозе всадников</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HORSEBANE_GAIN_1</zType>
+    <Translation>{0_character} is so skilled at fighting against mounted opponents that {masculine_0:he:she} is known as {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ENGINEER</zType>
+    <Translation>Инженер~Инженера~Инженеру~Инженера~Инженером~Инженере~Инженер~Инженера~Инженеру~Инженера~Инженером~Инженере</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ENGINEER_GAIN_1</zType>
+    <Translation>Always tinkering with something, {0_character} is an {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BOLD</zType>
+    <Translation>Смелый~Смелого~Смелому~Смелого~Смелым~Смелом~Смелая~Смелой~Смелой~Смелую~Смелой~Смелой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BOLD_GAIN_1</zType>
+    <Translation>Never afraid to take risks, {0_character} is {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_COWARDLY</zType>
+    <Translation>Трусливый~Трусливого~Трусливому~Трусливого~Трусливым~Трусливом~Трусливая~Трусливой~Трусливой~Трусливую~Трусливой~Трусливой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_COWARDLY_GAIN_1</zType>
+    <Translation>Scared of {masculine_0:his:her} own shadow, and everything else, {0_character} is {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_GRACIOUS</zType>
+    <Translation>Милостивый~Милостивого~Милостивому~Милостивого~Милостивым~Милостивом~Милостивая~Милостивой~Милостивой~Милостивую~Милостивой~Милостивой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_GRACIOUS_GAIN_1</zType>
+    <Translation>Kind and pleasant, {0_character} is {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_GREEDY</zType>
+    <Translation>Алчный~Алчного~Алчному~Алчного~Алчным~Алчном~Алчная~Алчной~Алчной~Алчную~Алчной~Алчной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_GREEDY_GAIN_1</zType>
+    <Translation>{0_character} would sell {masculine_0:his:her} own grandmother for two coins. Everyone knows {masculine_0:him:her} to be {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ROMANTIC</zType>
+    <Translation>Романтик~Романтика~Романтику~Романтика~Романтиком~Романтике~Романтичная~Романтичной~Романтичной~Романтичную~Романтичной~Романтичной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ROMANTIC_GAIN_1</zType>
+    <Translation>Deeply affectionate and prone to passionate gestures, {0_character} is a hopeless {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BITTER</zType>
+    <Translation>Уязвленный~Уязвленного~Уязвленному~Уязвленного~Уязвленным~Уязвленном~Уязвленная~Уязвленной~Уязвленной~Уязвленную~Уязвленной~Уязвленной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BITTER_GAIN_1</zType>
+    <Translation>{0_character} cannot let go of grievances and is often angry. A most {1_trait} person!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EDUCATED</zType>
+    <Translation>Образованный~Образованного~Образованному~Образованного~Образованным~Образованном~Образованная~Образованной~Образованной~Образованную~Образованной~Образованной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EDUCATED_GAIN_1</zType>
+    <Translation>{0_character} has studied long and hard, and is now known as an {1_trait} person.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SUPERSTITIOUS</zType>
+    <Translation>Суеверный~Суеверного~Суеверному~Суеверного~Суеверным~Суеверном~Суеверная~Суеверной~Суеверной~Суеверную~Суеверной~Суеверной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SUPERSTITIOUS_GAIN_1</zType>
+    <Translation>{0_character}, being {1_trait}, believes in many strange and mysterious things.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_COMPASSIONATE</zType>
+    <Translation>Сострадательный~Сострадательного~Сострадательному~Сострадательного~Сострадательным~Сострадательном~Сострадательная~Сострадательной~Сострадательной~Сострадательную~Сострадательной~Сострадательной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_COMPASSIONATE_GAIN_1</zType>
+    <Translation>{0_character} has a great deal of sympathy and concern for others. {masculine_0:He:She} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RUTHLESS</zType>
+    <Translation>Беспощадный~Беспощадного~Беспощадному~Беспощадного~Беспощадным~Беспощадном~Беспощадная~Беспощадной~Беспощадной~Беспощадную~Беспощадной~Беспощадной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RUTHLESS_GAIN_1</zType>
+    <Translation>{0_character} will do whatever it takes to get what {masculine_0:he:she} wants. {masculine_0:He:She} is {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PIOUS</zType>
+    <Translation>Благочестивый~Благочестивого~Благочестивому~Благочестивого~Благочестивым~Благочестивом~Благочестивая~Благочестивой~Благочестивой~Благочестивую~Благочестивой~Благочестивой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PIOUS_GAIN_1</zType>
+    <Translation>Devoted to {masculine_0:his:her} faith, {0_character} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WANTON</zType>
+    <Translation>Порочный~Порочного~Порочному~Порочного~Порочным~Порочном~Порочная~Порочной~Порочной~Порочную~Порочной~Порочной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WANTON_GAIN_1</zType>
+    <Translation>Keen to indulge in the pleasures of the flesh, {0_character} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_LOYAL</zType>
+    <Translation>Преданный~Преданного~Преданному~Преданного~Преданным~Преданном~Преданная~Преданной~Преданной~Преданную~Преданной~Преданной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_LOYAL_GAIN_1</zType>
+    <Translation>Devoted to any cause {masculine_0:he:she} swears to, everyone knows that {0_character} is {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CUNNING</zType>
+    <Translation>Коварный~Коварного~Коварному~Коварного~Коварным~Коварном~Коварная~Коварной~Коварной~Коварную~Коварной~Коварной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CUNNING_GAIN_1</zType>
+    <Translation>Deceitful and evasive, {0_character} is known to be {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HUMBLE</zType>
+    <Translation>Кроткий~Кроткого~Кроткому~Кроткого~Кротким~Кротком~Кроткая~Кроткой~Кроткой~Кроткую~Кроткой~Кроткой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HUMBLE_GAIN_1</zType>
+    <Translation>Modest and never one to put {masculine_0:him:her}self first, {0_character} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PROUD</zType>
+    <Translation>Гордый~Гордого~Гордому~Гордого~Гордым~Гордом~Гордая~Гордой~Гордой~Гордую~Гордой~Гордой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PROUD_GAIN_1</zType>
+    <Translation>{0_character} takes a deep pleasure in {masculine_0:his:her} own achievements. It is no lie to call {masculine_0:him:her} {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WITTY</zType>
+    <Translation>Остроумный~Остроумного~Остроумному~Остроумного~Остроумным~Остроумном~Остроумная~Остроумной~Остроумной~Остроумную~Остроумной~Остроумной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WITTY_GAIN_1</zType>
+    <Translation>{0_character} is {1_trait}, able to make anyone laugh with {masculine_0:his:her} quick tongue and inventive jokes!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SPOILED</zType>
+    <Translation>Избалованный~Избалованного~Избалованному~Избалованного~Избалованным~Избалованном~Избалованная~Избалованной~Избалованной~Избалованную~Избалованной~Избалованной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SPOILED_GAIN_1</zType>
+    <Translation>{0_character} likely to fly into a rage if {masculine_0:he:she} does not get {masculine_0:his:her} own way, a most {1_trait} person!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STUDY_PHILOSOPHY</zType>
+    <Translation>Ученик философа~Ученика философа~Ученику философа~Ученика философа~Учеником философа~Ученике философа~Ученица философа~Ученицы философа~Ученице философа~Ученицу философа~Ученицей философа~Ученице философа</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STUDY_RHETORIC</zType>
+    <Translation>Ученик риторика~Ученика риторика~Ученику риторика~Ученика риторика~Учеником риторика~Ученике риторика~Ученица риторика~Ученицы риторика~Ученице риторика~Ученицу риторика~Ученицей риторика~Ученице риторика</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STUDY_TACTICS</zType>
+    <Translation>Ученик тактика~Ученика тактика~Ученику тактика~Ученика тактика~Учеником тактика~Ученике тактика~Ученица тактика~Ученицы тактика~Ученице тактика~Ученицу тактика~Ученицей тактика~Ученице тактика</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STUDY_COMMERCE</zType>
+    <Translation>Ученик торговца~Ученика торговца~Ученику торговца~Ученика торговца~Учеником торговца~Ученике торговца~Ученица торговца~Ученицы торговца~Ученице торговца~Ученицу торговца~Ученицей торговца~Ученице торговца</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EXPLORING</zType>
+    <Translation>Исследователь~Исследователя~Исследователю~Исследователя~Исследователем~Исследователе~Исследователь~Исследователя~Исследователю~Исследователя~Исследователем~Исследователе</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EXOTIC</zType>
+    <Translation>Иноземец~Иноземца~Иноземцу~Иноземца~Иноземцем~Иноземце~Иноземка~Иноземку~Иноземке~Иноземку~Иноземкой~Иноземке</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BLESSED</zType>
+    <Translation>Благословенный~Благословенного~Благословенному~Благословенного~Благословенным~Благословенном~Благословенная~Благословенной~Благословенной~Благословенную~Благословенной~Благословенной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CURSED</zType>
+    <Translation>Проклят~Проклятого~Проклятому~Проклятого~Проклятым~Проклятом~Проклята~Проклятой~Проклятой~Проклятую~Проклятой~Проклятой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ILL</zType>
+    <Translation>Болен~Больного~Больному~Больного~Больным~Больном~Больна~Больной~Больной~Больную~Больной~Больной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ILL_GAIN_1</zType>
+    <Translation>{0_character} has fallen {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ILL_GAIN_2</zType>
+    <Translation>With a mild fever and a runny nose, {0_character} is rather {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ILL_GAIN_3</zType>
+    <Translation>{0_character} is feeling {1_trait}, light-headed and weak.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ILL_GAIN_4</zType>
+    <Translation>{0_character} has been feeling quite poor lately, and is now {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ILL_GAIN_5</zType>
+    <Translation>The health of {0_character} has begun to decline, and {masculine_0:he:she} is now {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ILL_LOSS_1</zType>
+    <Translation>{0_character} is no longer {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ILL_LOSS_2</zType>
+    <Translation>{0_character} has recovered from {masculine_0:his:her} malaise, and is no longer {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ILL_LOSS_3</zType>
+    <Translation>{0_character} is thankfully feeling much better now, and is no longer {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_ILL</zType>
+    <Translation>Тяжело болен~Тяжелобольного~Тяжелобольному~Тяжелобольного~Тяжелобольным~Тяжелобольном~Тяжело больна~Тяжелобольной~Тяжелобольной~Тяжелобольную~Тяжелобольной~Тяжелобольной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_1</zType>
+    <Translation>Afflicted by nigh-constant vomiting and diarrhea, {0_character} is {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_2</zType>
+    <Translation>{0_character} is {1_trait}, suffering from a high fever and constant shaking, leaving {masculine_0:him:her} barely able to walk.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_3</zType>
+    <Translation>{1_trait}, coughing up bloody mucus and suffering from sharp pains in {masculine_0:his:her} chest, {0_character} fears {masculine_0:he:she} does not have much time left.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_4</zType>
+    <Translation>Always having been a bit sickly, {0_character} has now become {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_5</zType>
+    <Translation>The health of {0_character} has taken a serious turn for the worse, and {masculine_0:he:she} is now {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_1</zType>
+    <Translation>{0_character} is no longer {1_trait}, {masculine_0:he:she} has made an amazing recovery!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_2</zType>
+    <Translation>Although {masculine_0:he:she} was at death's door, {0_character} has miraculously recovered from being {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_3</zType>
+    <Translation>{0_character} is now on the road to recovery, and no longer {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INCUBATED</zType>
+    <Translation>В трансе</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INCUBATED_LOSS_1</zType>
+    <Translation>{0_character} has returned from the sacred areas and is no longer {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_POISONED</zType>
+    <Translation>Отравлен~Отравленного~Отравленному~Отравленного~Отравленным~Отравленном~Отравлена~Отравленной~Отравленной~Отравленную~Отравленной~Отравленной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_POISONED_LOSS_1</zType>
+    <Translation>{0_character} has recovered and is no longer {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MISERABLE</zType>
+    <Translation>Несчастный~Несчастного~Несчастному~Несчастного~Несчастным~Несчастном~Несчастная~Несчастной~Несчастной~Несчастную~Несчастной~Несчастной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SCARRED</zType>
+    <Translation>Покрыт шрамами~Покрытого шрамами~Покрытому шрамами~Покрытого шрамами~Покрытым шрамами~Покрытом шрамами~Покрыта шрамами~Покрытой шрамами~Покрытой шрамами~Покрытую шрамами~Покрытой шрамами~Покрытой шрамами</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SCARRED_GAIN_1</zType>
+    <Translation>{0_character} has recovered from {masculine_0:his:her} recent injury, but it has left {masculine_0:him:her} {1_trait} forever.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SCARRED_GAIN_2</zType>
+    <Translation>After a recent wound, {0_character} is now most impressively {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SCARRED_GAIN_3</zType>
+    <Translation>While {masculine_0:his:her} injury has healed, {0_character} is now hideously {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CRIPPLED</zType>
+    <Translation>Изувеченный~Изувеченного~Изувеченному~Изувеченного~Изувеченным~Изувеченном~Изувеченная~Изувеченной~Изувеченной~Изувеченную~Изувеченной~Изувеченной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CRIPPLED_GAIN_1</zType>
+    <Translation>{0_character} will never be the same again. A recent injury has {1_trait} {masculine_0:him:her}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BLINDED</zType>
+    <Translation>Слепой~Слепого~Слепому~Слепого~Слепым~Слепом~Слепая~Слепой~Слепой~Слепую~Слепой~Слепой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BLINDED_GAIN_1</zType>
+    <Translation>{0_character} will never see again and must try to adapt to a life in darkness, {masculine_0:he:she} has been {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_IMPRISONED</zType>
+    <Translation>В заточении</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FUGITIVE</zType>
+    <Translation>Беглец~Беглеца~Беглецу~Беглеца~Беглецом~Беглеце~Беглянка~Беглянки~Беглянке~Беглянку~Беглянкой~Беглянке</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MISSING</zType>
+    <Translation>Пропавший~Пропавшего~Пропавшему~Пропавшего~Пропавшим~Пропавшем~Пропавшая~Пропавшей~Пропавшей~Пропавшую~Пропавшей~Пропавшей</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_UNDER_ASYLUM</zType>
+    <Translation>Под защитой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ELOPED</zType>
+    <Translation>Скрывающийся~Скрывающегося~Скрывающемуся~Скрывающегося~Скрывающимся~Скрывающемся~Скрывающаяся~Скрывающейся~Скрывающейся~Скрывающуюся~Скрывающейся~Скрывающейся</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CAPTURED</zType>
+    <Translation>Заложник~Заложника~Заложнику~Заложника~Заложником~Заложнике~Заложница~Заложницы~Заложнице~Заложницу~Заложницей~Заложнице</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EXILED</zType>
+    <Translation>Изгнанник~Изгнанника~Изгнаннику~Изгнанника~Изгнанником~Изгнаннике~Изгнанница~Изгнанницы~Изгнаннице~Изгнанницу~Изгнанницей~Изгнаннице</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DESERTER</zType>
+    <Translation>Дезертир~Дезертира~Дезертиру~Дезертира~Дезертиром~Дезертире~Дезертир~Дезертира~Дезертиру~Дезертира~Дезертиром~Дезертире</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DOOMED</zType>
+    <Translation>Обреченный~Обреченного~Обреченному~Обреченного~Обреченным~Обреченном~Обреченная~Обреченной~Обреченной~Обреченную~Обреченной~Обреченной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_GAY</zType>
+    <Translation>Мужеложец~Мужеложца~Мужеложцу~Мужеложца~Мужеложцем~Мужеложце~Лесбиянка~Лесбиянки~Лесбиянке~Лесбиянку~Лесбиянкой~Лесбиянке</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BASTARD</zType>
+    <Translation>Незаконнорожденный~Незаконнорожденного~Незаконнорожденному~Незаконнорожденного~Незаконнорожденным~Незаконнорожденном~Незаконнорожденная~Незаконнорожденной~Незаконнорожденной~Незаконнорожденную~Незаконнорожденной~Незаконнорожденной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_LEGITIMIZED</zType>
+    <Translation>Узаконенный~Узаконенного~Узаконенному~Узаконенного~Узаконенным~Узаконенном~Узаконенная~Узаконенной~Узаконенной~Узаконенную~Узаконенной~Узаконенной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SLIGHTED</zType>
+    <Translation>Ущемленный~Ущемленного~Ущемленному~Ущемленного~Ущемленным~Ущемленном~Ущемленная~Ущемленной~Ущемленной~Ущемленную~Ущемленной~Ущемленной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CLAIMED</zType>
+    <Translation>Востребованный~Востребованного~Востребованному~Востребованного~Востребованным~Востребованном~Востребованная~Востребованной~Востребованной~Востребованную~Востребованной~Востребованной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CLERGY</zType>
+    <Translation>Священнослужитель~Священнослужителя~Священнослужителю~Священнослужителя~Священнослужителем~Священнослужителе~Священнослужитель~Священнослужителя~Священнослужителю~Священнослужителя~Священнослужителем~Священнослужителе</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ASCETIC</zType>
+    <Translation>Аскет~Аскета~Аскету~Аскета~Аскетом~Аскете~Аскетичная~Аскетичной~Аскетичной~Аскетичную~Аскетичной~Аскетичной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ARTIST</zType>
+    <Translation>Творец~Творца~Творцу~Творца~Творцом~Творце~Творец~Творца~Творцу~Творца~Творцом~Творце</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FAMOUS</zType>
+    <Translation>Известный~Известного~Известному~Известного~Известным~Известном~Известная~Известной~Известной~Известную~Известной~Известной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INFAMOUS</zType>
+    <Translation>Бесславный~Бесславного~Бесславному~Бесславного~Бесславным~Бесславном~Бесславная~Бесславной~Бесславной~Бесславную~Бесславной~Бесславной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ADOPTED</zType>
+    <Translation>Усыновленный~Усыновленного~Усыновленному~Усыновленного~Усыновленным~Усыновленном~Удочеренная~Удочеренной~Удочеренной~Удочеренную~Удочеренной~Удочеренной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PREGNANT</zType>
+    <Translation>Беременная~Беременной~Беременной~Беременную~Беременной~Беременной~Беременная~Беременной~Беременной~Беременную~Беременной~Беременной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ABDICATED</zType>
+    <Translation>Отрекшийся~Отрекшегося~Отрекшемуся~Отрекшегося~Отрекшимся~Отрекшемся~Отрекшаяся~Отрекшуюся~Отрекшейся~Отрекшуюся~Отрекшейся~Отрекшейся</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_REGENT</zType>
+    <Translation>Регент~Регента~Регенту~Регента~Регентом~Регенте~Регент~Регента~Регенту~Регента~Регентом~Регенте</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RIGHTFUL_HEIR</zType>
+    <Translation>Законный наследник~Законного наследника~Законному наследнику~Законного наследника~Законным наследником~Законном наследнике~Законная наследница~Законной наследницы~Законной наследнице~Законную наследницу~Законной наследницей~Законной наследнице</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EXCLUDED</zType>
+    <Translation>Лишенный права наследования~Лишенного права наследования~Лишенному права наследования~Лишенного права наследования~Лишенным права наследования~Лишенном права наследования~Лишенная права наследования~Лишенной права наследования~Лишенной права наследования~Лишенную права наследования~Лишенной права наследования~Лишенной права наследования</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DIVINE</zType>
+    <Translation>Божественный~Божественного~Божественному~Божественного~Божественным~Божественном~Божественная~Божественной~Божественной~Божественную~Божественной~Божественной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SOLDIER</zType>
+    <Translation>Воин~Воина~Воину~Воина~Воином~Воине~Воин~Воина~Воину~Воина~Воином~Воине</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DRUNK</zType>
+    <Translation>Пьяница~Пьяницы~Пьянице~Пьяницу~Пьяницей~Пьянице~Пьяница~Пьяницы~Пьянице~Пьяницу~Пьяницей~Пьянице</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DRUNK_GAIN_1</zType>
+    <Translation>After one too many nights of revels, {0_character} is now a {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DRUNK_GAIN_2</zType>
+    <Translation>{0_character} has lately spent too many evenings with just a pitcher of wine for company and is now a {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INSANE</zType>
+    <Translation>Безумный~Безумного~Безумному~Безумного~Безумным~Безумном~Безумная~Безумной~Безумной~Безумную~Безумной~Безумной</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INSANE_GAIN_1</zType>
+    <Translation>{0_character} has gone completely mad! {masculine_0:He:She} is now {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MOURNING</zType>
+    <Translation>Скорбящий~Скорбящего~Скорбящему~Скорбящего~Скорбящим~Скорбящем~Скорбящая~Скорбящей~Скорбящей~Скорбящую~Скорбящей~Скорбящей</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MOURNING_LOSS_1</zType>
+    <Translation>The grieving of {0_character} is at an end. {masculine_0:He:She} is no longer {1_trait}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PROPHET</zType>
+    <Translation>Пророк~Пророка~Пророку~Пророка~Пророком~Пророке~Пророк~Пророка~Пророку~Пророка~Пророком~Пророке</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ARCHON</zType>
+    <Translation>Властитель~Властителя~Властителю~Властителя~Властителем~Властителе~Властительница~Властительницы~Властительнице~Властительницу~Властительницей~Властительнице</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MYSTERIOUS_SWORD</zType>
+    <Translation>Обладатель таинственного меча~Обладателя таинственного меча~Обладателю таинственного меча~Обладателя таинственного меча~Обладателем таинственного меча~Обладателе таинственного меча~Обладательница таинственного меча~Обладательницы таинственного меча~Обладательнице таинственного меча~Обладательницу таинственного меча~Обладательницей таинственного меча~Обладательнице таинственного меча</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SWORD_OF_THE_GODS</zType>
+    <Translation>Обладатель Меча богов~Обладателя Меча богов~Обладателю Меча богов~Обладателя Меча богов~Обладателем Меча богов~Обладателе Меча богов~Обладательница Меча богов~Обладательницы Меча богов~Обладательнице Меча богов~Обладательницу Меча богов~Обладательницей Меча богов~Обладательнице Меча богов</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PET_FISH</zType>
+    <Translation>Владелец рыбки~Владельца рыбки~Владельцу рыбки~Владельца рыбки~Владельцем рыбки~Владельце рыбки~Владелица рыбки~Владелицы рыбки~Владелице рыбки~Владелицу рыбки~Владелицей рыбки~Владелице рыбки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PET_MONKEY</zType>
+    <Translation>Владелец обезьяны~Владельца обезьяны~Владельцу обезьяны~Владельца обезьяны~Владельцем обезьяны~Владельце обезьяны~Владелица обезьяны~Владелицы обезьяны~Владелице обезьяны~Владелицу обезьяны~Владелицей обезьяны~Владелице обезьяны</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MONKEY_ASSASSIN</zType>
+    <Translation>Убийца обезьян~Убийцы обезьян~Убийце обезьян~Убийцу обезьян~Убийцей обезьян~Убийце обезьян~Убийца обезьян~Убийцы обезьян~Убийце обезьян~Убийцу обезьян~Убийцей обезьян~Убийце обезьян</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MONKEY_PAW</zType>
+    <Translation>Обладатель обезьяней лапы~Обладателя обезьяней лапы~Обладателю обезьяней лапы~Обладателя обезьяней лапы~Обладателем обезьяней лапы~Обладателе обезьяней лапы~Обладательница обезьяней лапы~Обладательницы обезьяней лапы~Обладательнице обезьяней лапы~Обладательницу обезьяней лапы~Обладательницей обезьяней лапы~Обладательнице обезьяней лапы</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DOG_OWNER</zType>
+    <Translation>Владелец собаки~Владельца собаки~Владельцу собаки~Владельца собаки~Владельцем собаки~Владельце собаки~Владелица собаки~Владелицы собаки~Владелице собаки~Владелицу собаки~Владелицей собаки~Владелице собаки</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_OVERSEER_OF_THE_FIELDS</zType>
+    <Translation>Надзиратель полей~Надзирателя полей~Надзирателю полей~Надзирателя полей~Надзирателем полей~Надзирателе полей~Надзиратель полей~Надзирателя полей~Надзирателю полей~Надзирателя полей~Надзирателем полей~Надзирателе полей</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_POSSESSOR_OF_VENERATION</zType>
+    <Translation>Глава link(THEOLOGY_VENERATION,1)~Главы link(THEOLOGY_VENERATION,1)~Главе link(THEOLOGY_VENERATION,1)~Главу link(THEOLOGY_VENERATION,1)~Главой link(THEOLOGY_VENERATION,1)~Главе link(THEOLOGY_VENERATION,1)~Глава link(THEOLOGY_VENERATION,1)~Главы link(THEOLOGY_VENERATION,1)~Главе link(THEOLOGY_VENERATION,1)~Главу link(THEOLOGY_VENERATION,1)~Главой link(THEOLOGY_VENERATION,1)~Главе link(THEOLOGY_VENERATION,1)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STEWARD_OF_THE_CHAMBER</zType>
+    <Translation>Надзиратель покоев~Надзирателя покоев~Надзирателю покоев~Надзирателя покоев~Надзирателем покоев~Надзирателе покоев~Надзиратель покоев~Надзирателя покоев~Надзирателю покоев~Надзирателя покоев~Надзирателем покоев~Надзирателе покоев</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ENEMY_OF_THE_STATE</zType>
+    <Translation>Враг государства~Врага государства~Врагу государства~Врага государства~Врагом государства~Враге государства~Враг государства~Врага государства~Врагу государства~Врага государства~Врагом государства~Враге государства</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_AMULET_OWNER_POSITIVE</zType>
+    <Translation>Open Fertility Amulet Owner</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_AMULET_OWNER_NEGATIVE</zType>
+    <Translation>Locked Fertility Amulet Owner</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_GODS_CONSORT</zType>
+    <Translation>Избранник Бога~Избранника Бога~Избраннику Бога~Избранника Бога~Избранником Бога~Избраннике Бога~Избранница Бога~Избранницы Бога~Избраннице Бога~Избранницу Бога~Избранницей Бога~Избраннице Бога</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DROUGHT_STRICKEN</zType>
+    <Translation>Пораженный засухой~Пораженного засухой~Пораженному засухой~Пораженного засухой~Пораженным засухой~Пораженном засухой~Пораженная засухой~Пораженной засухой~Пораженной засухой~Пораженную засухой~Пораженной засухой~Пораженной засухой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DROUGHT_STRICKEN_LOSS_1</zType>
+    <Translation>The rains have returned. {0_character} is no longer {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HORSE</zType>
+    <Translation>Конь~Коня~Коню~Коня~Конем~Коне~Лошадь~Лошади~Лошади~Лошадь~Лошадью~Лошади</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_AMARNA_REFORMER</zType>
+    <Translation>Реформатор Амарны~Реформатора Амарны~Реформатору Амарны~Реформатора Амарны~Реформатором Амарны~Реформаторе Амарны~Реформатор Амарны~Реформатора Амарны~Реформатору Амарны~Реформатора Амарны~Реформатором Амарны~Реформаторе Амарны</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BARRACKS_INSTRUCTOR</zType>
+    <Translation>Руководитель казарм~Руководителя казарм~Руководителю казарм~Руководителя казарм~Руководителем казарм~Руководителе казарм~Руководитель казарм~Руководителя казарм~Руководителю казарм~Руководителя казарм~Руководителем казарм~Руководителе казарм</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SAVIOR_OF_THE_THRONE</zType>
+    <Translation>Спаситель трона~Спасителя трона~Спасителю трона~Спасителя трона~Спасителем трона~Спасителе трона~Спаситель трона~Спасителя трона~Спасителю трона~Спасителя трона~Спасителем трона~Спасителе трона</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SAOSHYANT</zType>
+    <Translation>Саошиант~Саошианта~Саошианту~Саошианта~Саошиантом~Саошианте~Саошиант~Саошианта~Саошианту~Саошианта~Саошиантом~Саошианте</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WOUNDED</zType>
+    <Translation>Раненый~Раненого~Раненому~Раненого~Раненым~Раненом~Раненая~Раненой~Раненой~Раненую~Раненой~Раненой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WOUNDED_GAIN_1</zType>
+    <Translation>{0_character} has been {1_trait}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WOUNDED_LOSS_1</zType>
+    <Translation>{0_character} is no longer {1_trait}, {masculine_0:he:she} doesn't even have a scar!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_WOUNDED</zType>
+    <Translation>Тяжелораненый~Тяжелораненого~Тяжелораненому~Тяжелораненого~Тяжелораненым~Тяжелораненом~Тяжелораненая~Тяжелораненой~Тяжелораненой~Тяжелораненую~Тяжелораненой~Тяжелораненой</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_WOUNDED_GAIN_1</zType>
+    <Translation>{0_character} has been {1_trait}, it remains to be seen if {masculine_0:he:she} will recover.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_WOUNDED_LOSS_1</zType>
+    <Translation>{0_character} has made a miraculous recovery after being {1_trait}, the grievous injury has healed entirely!</Translation>
+  </Entry>
+</Root>
